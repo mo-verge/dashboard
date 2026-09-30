@@ -11,6 +11,10 @@ http://127.0.0.1:8080/?demo   # render cards with sample data
 
 The server binds to loopback only. From a Mac: `ssh -L 8080:127.0.0.1:8080 monet-wifi-2`, then browse `http://127.0.0.1:8080/`.
 
+## BTC / CAD card
+
+Kraken public API (no key): last trade from `Ticker`, 24h of 15-minute candles from `OHLC` (`markets.py`, cached 60s, served at `/api/btc`).
+
 ## Google Health (steps card)
 
 Data comes from the [Google Health API](https://developers.google.com/health) (the Fitbit Web API is being shut down).

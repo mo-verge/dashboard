@@ -119,52 +119,47 @@ html, body {
 
 /* ---------- steps ---------- */
 
-.steps { position: relative; gap: 1.5rem; }
-.steps__top { display: flex; align-items: flex-end; justify-content: space-between; gap: 2rem; margin-top: auto; }
-.steps__big {
-  font-size: 10rem; font-weight: 200; line-height: 0.85;
-  letter-spacing: -0.06em; font-variant-numeric: tabular-nums;
-}
-.steps__goal { margin-top: 1rem; font-size: 1.5rem; color: var(--ink-2); }
-.steps__goal span { color: var(--ink); }
-
-.ring { width: 13rem; height: 13rem; flex: none; }
-.ring__track { fill: none; stroke: rgba(255,255,255,0.07); stroke-width: 12; }
+.card--steps { padding: 1.5rem; }
+.steps { position: relative; align-items: center; justify-content: center; }
+.ring { height: 100%; max-width: 100%; aspect-ratio: 1; }
+.ring__track { fill: none; stroke: rgba(255,255,255,0.07); stroke-width: 11; }
 .ring__arc {
-  fill: none; stroke: url(#ring-g); stroke-width: 12; stroke-linecap: round;
+  fill: none; stroke: url(#ring-g); stroke-width: 11; stroke-linecap: round;
   transition: stroke-dashoffset 1.6s cubic-bezier(0.2, 0.7, 0.1, 1);
   filter: drop-shadow(0 0 6px rgba(124, 92, 255, 0.45));
 }
-.ring__num { fill: var(--ink); font: 300 30px var(--sans); text-anchor: middle; letter-spacing: -0.03em; }
-.ring__sub { fill: var(--ink-3); font: 400 11px var(--mono); text-anchor: middle; letter-spacing: 0.16em; }
-
-.hours { display: grid; grid-template-columns: repeat(24, 1fr); align-items: end; gap: 0.35rem; height: 9rem; }
-.hours i {
-  display: block; height: calc(var(--h) * 100%); min-height: 0.25rem; border-radius: 0.4rem;
-  background: linear-gradient(180deg, var(--teal), rgba(46, 230, 214, 0.25));
-  transition: height 1.2s cubic-bezier(0.2, 0.7, 0.1, 1);
+.is-done .ring__arc { filter: drop-shadow(0 0 10px rgba(46, 230, 214, 0.7)); }
+.ring__icon { fill: url(#ring-g); opacity: 0.95; }
+.ring__num {
+  fill: var(--ink); font: 200 50px var(--sans); text-anchor: middle;
+  letter-spacing: -0.04em; font-variant-numeric: tabular-nums;
 }
-.hours i.is-now { background: linear-gradient(180deg, var(--pink), rgba(255, 92, 147, 0.3)); box-shadow: 0 0 1rem rgba(255, 92, 147, 0.4); }
-.hours i.is-future { background: rgba(255,255,255,0.05); height: 0.25rem; }
-.hours__axis { display: flex; justify-content: space-between; margin-top: -0.75rem; font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.12em; color: var(--ink-3); }
+.ring__goal { fill: var(--ink-3); font: 400 14px var(--mono); text-anchor: middle; letter-spacing: 0.08em; }
 
-.week { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1rem; padding-top: 1.5rem; border-top: 1px solid var(--card-edge); }
-.week > div { display: flex; flex-direction: column; align-items: center; gap: 0.5rem; }
-.week__bar { position: relative; width: 0.6rem; height: 4.5rem; border-radius: 1rem; background: rgba(255,255,255,0.06); overflow: hidden; }
-.week__bar i { position: absolute; left: 0; right: 0; bottom: 0; height: calc(var(--h) * 100%); border-radius: inherit; background: rgba(244, 243, 248, 0.45); }
-.week__bar em { position: absolute; left: 0; right: 0; bottom: calc(var(--g) * 100%); height: 1px; background: rgba(255,255,255,0.35); }
-.week .is-hit .week__bar i { background: var(--teal); }
-.week .is-today .week__bar i { background: linear-gradient(180deg, var(--pink), var(--violet)); }
-.week b { font-weight: 400; font-size: 1.25rem; font-variant-numeric: tabular-nums; }
-.week span:last-child { font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.14em; color: var(--ink-3); }
-.week .is-today span:last-child { color: var(--ink); }
-
-.card.is-empty .steps > :not(.steps__empty) { opacity: 0.12; filter: blur(2px); }
+.card.is-empty .ring { opacity: 0.12; filter: blur(2px); }
 .steps__empty {
-  position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; gap: 1rem;
-  padding: 0 3rem;
+  position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center;
+  align-items: center; gap: 0.5rem; text-align: center;
 }
-.steps__empty b { font-size: 3rem; font-weight: 400; letter-spacing: -0.03em; }
-.steps__empty p { font-size: 1.375rem; color: var(--ink-2); line-height: 1.5; }
-.steps__empty code { font-family: var(--mono); font-size: 1.1rem; color: var(--ink); background: rgba(255,255,255,0.07); padding: 0.15rem 0.5rem; border-radius: 0.4rem; }
-.steps__empty small { font-family: var(--mono); font-size: 0.875rem; color: var(--ink-3); }
+.steps__empty b { font-size: 1.5rem; font-weight: 400; letter-spacing: -0.02em; }
+.steps__empty small { font-family: var(--mono); font-size: 0.75rem; color: var(--ink-3); }
+
+/* ---------- btc ---------- */
+
+.card--btc { padding: 1.5rem; --dir: var(--teal); }
+.btc { gap: 0.75rem; min-height: 0; }
+.btc__head { display: flex; align-items: center; gap: 0.75rem; margin-top: 0.75rem; }
+.btc__price { font-size: 3rem; font-weight: 250; letter-spacing: -0.04em; line-height: 1; font-variant-numeric: tabular-nums; }
+.btc-icon { flex: none; width: 2rem; height: 2rem; }
+.btc-icon svg { width: 100%; height: 100%; display: block; }
+.btc-icon circle { fill: #f7931a; }
+.btc-icon path { fill: none; stroke: #fff; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.pill {
+  margin-left: auto; padding: 0.3rem 0.65rem; border-radius: 99rem;
+  font-family: var(--mono); font-size: 0.875rem; letter-spacing: 0.02em;
+  color: var(--dir); background: color-mix(in srgb, var(--dir) 14%, transparent);
+}
+.btc__chart { flex: 1; min-height: 0; width: 100%; color: var(--dir); overflow: visible; }
+.btc__line { fill: none; stroke: var(--dir); stroke-width: 2; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
+.btc__ref { stroke: rgba(255,255,255,0.18); stroke-width: 1; stroke-dasharray: 3 4; vector-effect: non-scaling-stroke; }
+.btc__foot { display: flex; justify-content: space-between; font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.1em; color: var(--ink-3); }

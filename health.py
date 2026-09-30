@@ -159,27 +159,9 @@ def _count(value):
     return int(float(nums[0])) if nums else 0
 
 
-def _civil(d):
-    # dailyRollUp ranges take CivilDateTime objects, not bare dates
-    return {"date": {"year": d.year, "month": d.month, "day": d.day}}
-
-
-def fetch_steps(days=7):
+def fetch_steps():
     now = dt.datetime.now().astimezone()
     today = now.date()
-    first = today - dt.timedelta(days=days - 1)
-
-    daily = _call("steps/dataPoints:dailyRollUp", {
-        "range": {"start": _civil(first), "end": _civil(today + dt.timedelta(days=1))},
-        "windowSizeDays": 1,
-    })
-    by_day = {}
-    for p in daily.get("rollupDataPoints", []):
-        s = p.get("civilStartTime", {})
-        s = s.get("date", s)
-        by_day[dt.date(s["year"], s["month"], s["day"])] = _count(p.get("steps"))
-    week = [{"date": (first + dt.timedelta(days=i)).isoformat(),
-             "steps": by_day.get(first + dt.timedelta(days=i), 0)} for i in range(days)]
 
     # Today at minute resolution: reconcile merges the tracker and phone streams
     # the same way the daily rollup does, and tells us how fresh the data is.
@@ -198,12 +180,9 @@ def fetch_steps(days=7):
             break
         query["pageToken"] = page["nextPageToken"]
 
-    total = sum(hours)
-    week[-1]["steps"] = total
     return {
-        "today": total,
+        "today": sum(hours),
         "hours": hours,
-        "week": week,
         "data_through": latest,
         "fetched_at": time.time(),
     }
@@ -229,10 +208,5 @@ def steps_status():
 
 
 if __name__ == "__main__":
-    # Debug: print raw API responses and the parsed payload.
-    today = dt.date.today()
-    print(json.dumps(_call("steps/dataPoints:dailyRollUp", {
-        "range": {"start": _civil(today - dt.timedelta(days=2)), "end": _civil(today + dt.timedelta(days=1))},
-        "windowSizeDays": 1,
-    }), indent=2)[:3000])
+    # Debug: print the parsed payload straight from the API.
     print(json.dumps(fetch_steps(), indent=2))

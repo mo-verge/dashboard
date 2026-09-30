@@ -9,6 +9,7 @@ from functools import partial
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 
 import health
+import markets
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "web")
 PORT = int(os.environ.get("DASHBOARD_PORT", "8080"))
@@ -78,6 +79,8 @@ class Handler(SimpleHTTPRequestHandler):
             return self._json(system())
         if url.path == "/api/steps":
             return self._json(health.steps_status())
+        if url.path == "/api/btc":
+            return self._json(markets.btc_status())
 
         if url.path == "/auth":
             # Redirect back to whatever loopback host:port the browser used,

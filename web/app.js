@@ -1,12 +1,43 @@
 // Board layout: each card is { type, at: [col, row, width, height], ...props }
 // on a 12 x 8 grid. Renderers below turn a card definition into DOM.
 const CARDS = [
-  { type: "steps", at: [1, 1, 6, 5], device: "Charge 6", goal: 10000, refreshMs: 30_000 },
+  { type: "steps", at: [1, 1, 2, 2], goal: 10000, refreshMs: 30_000 },
+  { type: "btc", at: [3, 1, 3, 2] },
 ];
 
 const $ = (root, sel) => root.querySelector(sel);
 const pad = (n) => String(n).padStart(2, "0");
 const fmtInt = (n) => Math.round(n).toLocaleString("en-US");
+const fmtCad = (n) => "$" + fmtInt(n);
+const fmtK = (n) => (n / 1000).toFixed(1) + "k";
+const fmtPct = (p) => (p >= 0 ? "▲ " : "▼ ") + Math.abs(p).toFixed(2) + "%";
+const UP = "#2ee6d6", DOWN = "#ff5c93";
+
+// One poll per URL, shared by every card that subscribes to it.
+const feeds = {};
+function feed(url, ms, cb) {
+  if (!feeds[url]) {
+    const f = (feeds[url] = { subs: [] });
+    const run = async () => {
+      try { const d = await (await fetch(url)).json(); f.subs.forEach((s) => s(d)); } catch { /* keep last */ }
+    };
+    setTimeout(run, 0); setInterval(run, ms);
+  }
+  feeds[url].subs.push(cb);
+}
+
+// Line + area paths for a [[t, v], ...] series in a w x h box.
+function sparkPaths(series, w, h, padY = 4) {
+  const vs = series.map((p) => p[1]);
+  const lo = Math.min(...vs), hi = Math.max(...vs), span = hi - lo || 1;
+  const x = (i) => (i / (series.length - 1)) * w;
+  const y = (v) => padY + (1 - (v - lo) / span) * (h - 2 * padY);
+  const line = vs.map((v, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join("");
+  return { line, area: `${line}L${w},${h}L0,${h}Z`, y, lastY: y(vs.at(-1)) };
+}
+
+const BTC_ICON = `<span class="btc-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12"/>
+  <path d="M9.5 6.5v11M11.5 5.5v2M11.5 16.5v2M9 7h4.2a2.3 2.3 0 0 1 0 4.6H9m0 0h4.8a2.45 2.45 0 0 1 0 4.9H9"/></svg></span>`;
 
 function shell(card, i, { label, accent }) {
   const el = document.createElement("section");
@@ -19,30 +50,30 @@ function shell(card, i, { label, accent }) {
   return el;
 }
 
+const FOOTPRINTS = `
+  <g class="ring__icon" transform="translate(80 33) scale(1.7)">
+    <ellipse cx="7.2" cy="7.6" rx="3.1" ry="4.7" transform="rotate(-8 7.2 7.6)"/>
+    <ellipse cx="7.9" cy="15.4" rx="2.3" ry="1.9"/>
+    <ellipse cx="16.8" cy="11.1" rx="3.1" ry="4.7" transform="rotate(8 16.8 11.1)"/>
+    <ellipse cx="16.1" cy="18.9" rx="2.3" ry="1.9"/>
+  </g>`;
+
 const RENDER = {
   steps(card, el) {
-    const R = 88, C = 2 * Math.PI * R;
+    const R = 86, C = 2 * Math.PI * R;
     el.insertAdjacentHTML("beforeend", `
       <div class="fill steps">
-        <div class="steps__top">
-          <div>
-            <div class="steps__big" data-today>—</div>
-            <div class="steps__goal"><span data-pct>—</span> of ${fmtInt(card.goal)} goal</div>
-          </div>
-          <svg class="ring" viewBox="0 0 200 200">
-            <defs><linearGradient id="ring-g" x1="0" y1="0" x2="1" y2="1">
-              <stop offset="0" stop-color="#7c5cff"/><stop offset=".55" stop-color="#ff5c93"/><stop offset="1" stop-color="#2ee6d6"/>
-            </linearGradient></defs>
-            <circle cx="100" cy="100" r="${R}" class="ring__track"/>
-            <circle cx="100" cy="100" r="${R}" class="ring__arc" data-arc
-              stroke-dasharray="${C}" stroke-dashoffset="${C}" transform="rotate(-90 100 100)"/>
-            <text x="100" y="96" class="ring__num" data-left>—</text>
-            <text x="100" y="124" class="ring__sub">TO GO</text>
-          </svg>
-        </div>
-        <div class="hours" data-hours></div>
-        <div class="hours__axis"><span>00</span><span>06</span><span>12</span><span>18</span><span>24</span></div>
-        <div class="week" data-week></div>
+        <svg class="ring" viewBox="0 0 200 200">
+          <defs><linearGradient id="ring-g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#7c5cff"/><stop offset=".55" stop-color="#ff5c93"/><stop offset="1" stop-color="#2ee6d6"/>
+          </linearGradient></defs>
+          <circle cx="100" cy="100" r="${R}" class="ring__track"/>
+          <circle cx="100" cy="100" r="${R}" class="ring__arc" data-arc
+            stroke-dasharray="${C}" stroke-dashoffset="${C}" transform="rotate(-90 100 100)"/>
+          ${FOOTPRINTS}
+          <text x="100" y="118" class="ring__num" data-today>—</text>
+          <text x="100" y="146" class="ring__goal">/ ${fmtInt(card.goal)}</text>
+        </svg>
         <div class="steps__empty" data-empty hidden></div>
       </div>`);
 
@@ -53,65 +84,66 @@ const RENDER = {
         el.classList.add("is-empty");
         empty.hidden = false;
         empty.innerHTML = d.state === "disconnected"
-          ? `<b>Connect Google Health</b>
-             <p>From your Mac run <code>ssh -L 8080:127.0.0.1:8080 monet-wifi-2</code>, then open <code>http://127.0.0.1:8080/auth</code>.</p>
-             <small>${d.reason || ""}</small>`
-          : `<b>Couldn’t reach Google Health</b><small>${d.reason || ""}</small>`;
-        status.textContent = d.state === "disconnected" ? "NOT CONNECTED" : "ERROR";
+          ? `<b>Not connected</b><small>Sign in at /auth — see README</small>`
+          : `<b>Can’t reach Google Health</b><small>${d.reason || ""}</small>`;
+        status.textContent = "";
         return;
       }
       el.classList.remove("is-empty");
       empty.hidden = true;
-      const through = d.data_through
-        ? new Date(d.data_through * 1000).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })
-        : "—";
-      status.textContent = `${card.device.toUpperCase()} · AS OF ${through}${d.state === "stale" ? " · RETRYING" : ""}`;
-
-      const pct = Math.min(1, d.today / card.goal);
+      status.textContent = d.data_through
+        ? "AS OF " + new Date(d.data_through * 1000).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })
+        : "";
       $(el, "[data-today]").textContent = fmtInt(d.today);
-      $(el, "[data-pct]").textContent = Math.round((d.today / card.goal) * 100) + "%";
-      $(el, "[data-arc]").style.strokeDashoffset = C * (1 - pct);
-      $(el, "[data-left]").textContent = d.today >= card.goal ? "✓" : fmtInt(card.goal - d.today);
-
-      const nowH = new Date().getHours();
-      const peak = Math.max(500, ...d.hours);
-      $(el, "[data-hours]").innerHTML = d.hours.map((v, h) =>
-        `<i class="${h > nowH ? "is-future" : h === nowH ? "is-now" : ""}" style="--h:${Math.max(0.02, v / peak)}"></i>`).join("");
-
-      const top = Math.max(card.goal, ...d.week.map((w) => w.steps));
-      $(el, "[data-week]").innerHTML = d.week.map((w, k) => {
-        const day = new Date(w.date + "T12:00");
-        const isToday = k === d.week.length - 1;
-        return `<div class="${isToday ? "is-today" : ""}${w.steps >= card.goal ? " is-hit" : ""}">
-          <span class="week__bar"><i style="--h:${Math.max(0.03, w.steps / top)}"></i><em style="--g:${card.goal / top}"></em></span>
-          <b>${w.steps >= 1000 ? (w.steps / 1000).toFixed(1) + "k" : w.steps}</b>
-          <span>${isToday ? "TODAY" : day.toLocaleDateString("en-US", { weekday: "short" }).toUpperCase()}</span>
-        </div>`;
-      }).join("");
-    };
-
-    // ?demo renders sample data, for layout work without a Google sign-in.
-    const demo = () => {
-      const nowH = new Date().getHours();
-      const hours = Array.from({ length: 24 }, (_, h) =>
-        h > nowH || h < 7 ? 0 : Math.round(300 + 900 * Math.abs(Math.sin(h * 1.7))));
-      const week = Array.from({ length: 7 }, (_, k) => ({
-        date: new Date(Date.now() - (6 - k) * 864e5).toISOString().slice(0, 10),
-        steps: k === 6 ? hours.reduce((a, b) => a + b, 0) : [8420, 11230, 6120, 12890, 9540, 10310][k],
-      }));
-      return { state: "ok", today: week[6].steps, hours, week, data_through: Date.now() / 1000 - 180 };
+      $(el, "[data-arc]").style.strokeDashoffset = C * (1 - Math.min(1, d.today / card.goal));
+      el.classList.toggle("is-done", d.today >= card.goal);
     };
 
     const poll = async () => {
-      if (location.search.includes("demo")) return draw(demo());
+      // ?demo renders sample data, for layout work without a Google sign-in.
+      if (location.search.includes("demo")) {
+        return draw({ state: "ok", today: 6482, data_through: Date.now() / 1000 - 180 });
+      }
       try { draw(await (await fetch("/api/steps")).json()); }
       catch (e) { $(el, "[data-status]").textContent = "OFFLINE"; }
     };
     poll(); setInterval(poll, card.refreshMs);
   },
+
+  // BTC/CAD: price, 24h change pill and a 24h area sparkline.
+  btc(card, el) {
+    el.insertAdjacentHTML("beforeend", `
+      <div class="fill btc">
+        <div class="btc__head">${BTC_ICON}<div class="btc__price" data-price>—</div><span class="pill" data-chg></span></div>
+        <svg class="btc__chart" viewBox="0 0 300 100" preserveAspectRatio="none">
+          <defs><linearGradient id="spark-fill" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="currentColor" stop-opacity=".35"/><stop offset="1" stop-color="currentColor" stop-opacity="0"/>
+          </linearGradient></defs>
+          <line data-ref x1="0" x2="300" class="btc__ref"/>
+          <path data-area fill="url(#spark-fill)"/><path data-line class="btc__line"/>
+        </svg>
+        <div class="btc__foot"><span>24H</span><span data-range></span></div>
+      </div>`);
+    feed("/api/btc", 60_000, (d) => {
+      if (d.state === "error") return;
+      el.style.setProperty("--dir", d.change_pct >= 0 ? UP : DOWN);
+      $(el, "[data-price]").textContent = fmtCad(d.price);
+      $(el, "[data-chg]").textContent = fmtPct(d.change_pct);
+      const p = sparkPaths(d.series, 300, 100, 6);
+      $(el, "[data-line]").setAttribute("d", p.line);
+      $(el, "[data-area]").setAttribute("d", p.area);
+      const ry = Math.max(0, Math.min(100, p.y(d.ref_24h)));
+      $(el, "[data-ref]").setAttribute("y1", ry); $(el, "[data-ref]").setAttribute("y2", ry);
+      $(el, "[data-range]").textContent = `L ${fmtK(d.low_24h)} · H ${fmtK(d.high_24h)}`;
+    });
+  },
+
 };
 
-const LABELS = { steps: ["Steps", "var(--teal)"] };
+const LABELS = {
+  steps: ["Steps", "var(--teal)"],
+  btc: ["BTC / CAD", "var(--amber)"],
+};
 
 const board = document.getElementById("board");
 CARDS.forEach((card, i) => {
