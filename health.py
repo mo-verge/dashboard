@@ -24,7 +24,7 @@ TOKEN_URL = "https://oauth2.googleapis.com/token"
 API = "https://health.googleapis.com/v4/users/me/dataTypes"
 SCOPES = ["https://www.googleapis.com/auth/googlehealth.activity_and_fitness.readonly"]
 
-CACHE_SECONDS = 300
+CACHE_SECONDS = 60
 _pending = {}  # state -> (code_verifier, redirect_uri)
 _cache = {"at": 0.0, "data": None}
 
@@ -130,11 +130,13 @@ def _access_token():
     return tok["access_token"]
 
 
-def _call(path, body):
+def _call(path, body=None, query=None):
+    """POST `body` as JSON, or GET with `query` params when there is no body."""
+    url = f"{API}/{path}" + ("?" + urllib.parse.urlencode(query) if query else "")
     req = urllib.request.Request(
-        f"{API}/{path}",
-        data=json.dumps(body).encode(),
-        method="POST",
+        url,
+        data=json.dumps(body).encode() if body is not None else None,
+        method="POST" if body is not None else "GET",
         headers={"Authorization": f"Bearer {_access_token()}", "Content-Type": "application/json"},
     )
     try:
@@ -179,23 +181,36 @@ def fetch_steps(days=7):
     week = [{"date": (first + dt.timedelta(days=i)).isoformat(),
              "steps": by_day.get(first + dt.timedelta(days=i), 0)} for i in range(days)]
 
-    midnight = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    hourly = _call("steps/dataPoints:rollUp", {
-        "range": {"startTime": midnight.isoformat(), "endTime": now.isoformat()},
-        "windowSize": "3600s",
-    })
-    hours = [0] * 24
-    for p in hourly.get("rollupDataPoints", []):
-        start = dt.datetime.fromisoformat(p["startTime"].replace("Z", "+00:00")).astimezone()
-        if start.date() == today:
-            hours[start.hour] += _count(p.get("steps"))
+    # Today at minute resolution: reconcile merges the tracker and phone streams
+    # the same way the daily rollup does, and tells us how fresh the data is.
+    midnight = now.replace(hour=0, minute=0, second=0, microsecond=0).astimezone(dt.timezone.utc)
+    query = {"filter": f'steps.interval.start_time >= "{midnight:%Y-%m-%dT%H:%M:%SZ}"', "pageSize": 10000}
+    hours, latest = [0] * 24, None
+    while True:
+        page = _call("steps/dataPoints:reconcile", query=query)
+        for p in page.get("dataPoints", []):
+            iv = p["steps"]["interval"]
+            start = _utc(iv["startTime"]).astimezone()
+            if start.date() == today:
+                hours[start.hour] += _count(p["steps"])
+                latest = max(latest or 0, _utc(iv["endTime"]).timestamp())
+        if not page.get("nextPageToken"):
+            break
+        query["pageToken"] = page["nextPageToken"]
 
+    total = sum(hours)
+    week[-1]["steps"] = total
     return {
-        "today": by_day.get(today, sum(hours)),
+        "today": total,
         "hours": hours,
         "week": week,
+        "data_through": latest,
         "fetched_at": time.time(),
     }
+
+
+def _utc(stamp):
+    return dt.datetime.fromisoformat(stamp.replace("Z", "+00:00"))
 
 
 def steps_status():

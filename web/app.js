@@ -1,16 +1,12 @@
 // Board layout: each card is { type, at: [col, row, width, height], ...props }
 // on a 12 x 8 grid. Renderers below turn a card definition into DOM.
 const CARDS = [
-  { type: "steps", at: [1, 1, 6, 5], goal: 10000, refreshMs: 60_000 },
+  { type: "steps", at: [1, 1, 6, 5], device: "Charge 6", goal: 10000, refreshMs: 30_000 },
 ];
 
 const $ = (root, sel) => root.querySelector(sel);
 const pad = (n) => String(n).padStart(2, "0");
 const fmtInt = (n) => Math.round(n).toLocaleString("en-US");
-const ago = (ts) => {
-  const m = Math.round((Date.now() / 1000 - ts) / 60);
-  return m < 1 ? "JUST NOW" : m < 60 ? `${m} MIN AGO` : `${Math.round(m / 60)} H AGO`;
-};
 
 function shell(card, i, { label, accent }) {
   const el = document.createElement("section");
@@ -66,7 +62,10 @@ const RENDER = {
       }
       el.classList.remove("is-empty");
       empty.hidden = true;
-      status.textContent = `GOOGLE HEALTH · ${d.state === "stale" ? "RETRYING · " : ""}${ago(d.fetched_at)}`;
+      const through = d.data_through
+        ? new Date(d.data_through * 1000).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })
+        : "—";
+      status.textContent = `${card.device.toUpperCase()} · AS OF ${through}${d.state === "stale" ? " · RETRYING" : ""}`;
 
       const pct = Math.min(1, d.today / card.goal);
       $(el, "[data-today]").textContent = fmtInt(d.today);
@@ -100,7 +99,7 @@ const RENDER = {
         date: new Date(Date.now() - (6 - k) * 864e5).toISOString().slice(0, 10),
         steps: k === 6 ? hours.reduce((a, b) => a + b, 0) : [8420, 11230, 6120, 12890, 9540, 10310][k],
       }));
-      return { state: "ok", today: week[6].steps, hours, week, fetched_at: Date.now() / 1000 - 180 };
+      return { state: "ok", today: week[6].steps, hours, week, data_through: Date.now() / 1000 - 180 };
     };
 
     const poll = async () => {
