@@ -1,4 +1,9 @@
-"""BTC/CAD from Kraken's public API (no key): last price plus 24h of candles."""
+"""Crypto prices in CAD from public APIs (no keys).
+
+BTC: Kraken last price plus 30 days of hourly candles for the chart.
+Small coin tiles: CoinGecko markets, with 30-day change to match the BTC card
+(Kraken has no ADA/CAD pair).
+"""
 import json
 import time
 import urllib.error
@@ -6,8 +11,11 @@ import urllib.request
 
 KRAKEN = "https://api.kraken.com/0/public"
 PAIR = "XBTCAD"
+COINGECKO = "https://api.coingecko.com/api/v3/coins/markets"
+COINS = {"eth": "ethereum", "ada": "cardano"}
 CACHE_SECONDS = 60
 _cache = {"at": 0.0, "data": None}
+_coins_cache = {"at": 0.0, "data": None}
 
 
 def _get(path):
@@ -20,36 +28,25 @@ def _get(path):
     return next(v for k, v in result.items() if k != "last")
 
 
-def fetch_btc():
+def fetch_btc(days=30):
     ticker = _get(f"Ticker?pair={PAIR}")
     price = float(ticker["c"][0])
 
-    # 15-minute candles: [time, open, high, low, close, vwap, volume, count]
-    candles = _get(f"OHLC?pair={PAIR}&interval=15")
-    since = time.time() - 24 * 3600
-    day = [c for c in candles if c[0] >= since]
-    ref = next((float(c[4]) for c in reversed(candles) if c[0] < since), float(day[0][1]))
-
-    # Hourly candles for the candlestick view (4 x 15 min each).
-    hourly = []
-    for i in range(0, len(day), 4):
-        chunk = day[i:i + 4]
-        hourly.append({
-            "t": chunk[0][0],
-            "o": float(chunk[0][1]),
-            "h": max(float(c[2]) for c in chunk),
-            "l": min(float(c[3]) for c in chunk),
-            "c": float(chunk[-1][4]),
-        })
+    # Hourly candles: [time, open, high, low, close, vwap, volume, count].
+    # Kraken returns at most 720 of them, which is exactly 30 days.
+    candles = _get(f"OHLC?pair={PAIR}&interval=60")
+    since = time.time() - days * 86400
+    period = [c for c in candles if c[0] >= since]
+    ref = float(period[0][1])
 
     return {
         "price": price,
-        "ref_24h": ref,
+        "days": days,
+        "ref": ref,
         "change_pct": (price - ref) / ref * 100,
-        "high_24h": max([price] + [float(c[2]) for c in day]),
-        "low_24h": min([price] + [float(c[3]) for c in day]),
-        "series": [[c[0], float(c[4])] for c in day] + [[int(time.time()), price]],
-        "hourly": hourly,
+        "high": max([price] + [float(c[2]) for c in period]),
+        "low": min([price] + [float(c[3]) for c in period]),
+        "series": [[c[0], float(c[4])] for c in period] + [[int(time.time()), price]],
         "fetched_at": time.time(),
     }
 
@@ -67,6 +64,30 @@ def btc_status():
     return data
 
 
+def fetch_coins():
+    q = f"{COINGECKO}?vs_currency=cad&ids={','.join(COINS.values())}&price_change_percentage=30d"
+    req = urllib.request.Request(q, headers={"User-Agent": "monet-dashboard"})
+    with urllib.request.urlopen(req, timeout=15) as r:
+        body = json.load(r)
+    by_id = {c["id"]: c for c in body}
+    return {sym: {"price": by_id[cg]["current_price"],
+                  "change_pct": by_id[cg].get("price_change_percentage_30d_in_currency") or 0.0,
+                  "days": 30}
+            for sym, cg in COINS.items()}
+
+
+def coins_status():
+    """Cached {symbol: {price, change_pct}} for the small coin tiles, never raising."""
+    if _coins_cache["data"] and time.time() - _coins_cache["at"] < CACHE_SECONDS:
+        return _coins_cache["data"]
+    try:
+        data = {"state": "ok", "coins": fetch_coins(), "fetched_at": time.time()}
+    except (OSError, ValueError, KeyError, urllib.error.URLError) as e:
+        stale = _coins_cache["data"] if _coins_cache["data"] and _coins_cache["data"].get("state") == "ok" else {}
+        data = {**stale, "state": "stale" if stale else "error", "reason": str(e)}
+    _coins_cache.update(at=time.time(), data=data)
+    return data
+
+
 if __name__ == "__main__":
-    d = fetch_btc()
-    print({k: v for k, v in d.items() if k not in ("series", "hourly")}, len(d["series"]), len(d["hourly"]))
+    print(fetch_coins())

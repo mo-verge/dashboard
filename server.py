@@ -81,6 +81,8 @@ class Handler(SimpleHTTPRequestHandler):
             return self._json(health.steps_status())
         if url.path == "/api/btc":
             return self._json(markets.btc_status())
+        if url.path == "/api/coins":
+            return self._json(markets.coins_status())
 
         if url.path == "/auth":
             # Redirect back to whatever loopback host:port the browser used,

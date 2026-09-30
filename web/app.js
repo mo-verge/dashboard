@@ -3,12 +3,19 @@
 const CARDS = [
   { type: "steps", at: [1, 1, 2, 2], goal: 10000, refreshMs: 30_000 },
   { type: "btc", at: [3, 1, 3, 2] },
+  { type: "coin", at: [6, 1, 1, 1], symbol: "eth", label: "ETH" },
+  { type: "coin", at: [6, 2, 1, 1], symbol: "ada", label: "ADA" },
 ];
 
 const $ = (root, sel) => root.querySelector(sel);
 const pad = (n) => String(n).padStart(2, "0");
 const fmtInt = (n) => Math.round(n).toLocaleString("en-US");
 const fmtCad = (n) => "$" + fmtInt(n);
+// Whole dollars above $1,000, cents above $1, four decimals below.
+const fmtPrice = (n) => "$" + n.toLocaleString("en-US", {
+  minimumFractionDigits: n >= 1000 ? 0 : n >= 1 ? 2 : 4,
+  maximumFractionDigits: n >= 1000 ? 0 : n >= 1 ? 2 : 4,
+});
 const fmtK = (n) => (n / 1000).toFixed(1) + "k";
 const fmtPct = (p) => (p >= 0 ? "▲ " : "▼ ") + Math.abs(p).toFixed(2) + "%";
 const UP = "#2ee6d6", DOWN = "#ff5c93";
@@ -36,10 +43,21 @@ function sparkPaths(series, w, h, padY = 4) {
   return { line, area: `${line}L${w},${h}L0,${h}Z`, y, lastY: y(vs.at(-1)) };
 }
 
+const COIN_ICONS = {
+  eth: `<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#627eea"/>
+    <path d="M12 3.5 6.8 12.2 12 15.3l5.2-3.1z" fill="#fff" opacity=".95"/>
+    <path d="M12 16.3 6.8 13.2 12 20.5l5.2-7.3z" fill="#fff" opacity=".7"/></svg>`,
+  ada: `<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#0033ad"/>
+    ${[0, 60, 120, 180, 240, 300].map((a) => `<circle cx="${12 + 6.2 * Math.cos((a * Math.PI) / 180)}" cy="${12 + 6.2 * Math.sin((a * Math.PI) / 180)}" r="1.5" fill="#fff"/>`).join("")}
+    ${[30, 90, 150, 210, 270, 330].map((a) => `<circle cx="${12 + 3.4 * Math.cos((a * Math.PI) / 180)}" cy="${12 + 3.4 * Math.sin((a * Math.PI) / 180)}" r="1" fill="#fff" opacity=".85"/>`).join("")}
+    <circle cx="12" cy="12" r="1.9" fill="none" stroke="#fff" stroke-width="1"/></svg>`,
+};
+
 const BTC_ICON = `<span class="btc-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12"/>
   <path d="M9.5 6.5v11M11.5 5.5v2M11.5 16.5v2M9 7h4.2a2.3 2.3 0 0 1 0 4.6H9m0 0h4.8a2.45 2.45 0 0 1 0 4.9H9"/></svg></span>`;
 
 function shell(card, i, { label, accent }) {
+  label = card.label || label;
   const el = document.createElement("section");
   const [c, r, w, h] = card.at;
   el.className = `card card--${card.type}`;
@@ -110,7 +128,7 @@ const RENDER = {
     poll(); setInterval(poll, card.refreshMs);
   },
 
-  // BTC/CAD: price, 24h change pill and a 24h area sparkline.
+  // BTC/CAD: price, change pill and an area sparkline over the last month.
   btc(card, el) {
     el.insertAdjacentHTML("beforeend", `
       <div class="fill btc">
@@ -122,7 +140,7 @@ const RENDER = {
           <line data-ref x1="0" x2="300" class="btc__ref"/>
           <path data-area fill="url(#spark-fill)"/><path data-line class="btc__line"/>
         </svg>
-        <div class="btc__foot"><span>24H</span><span data-range></span></div>
+        <div class="btc__foot"><span data-period></span><span data-range></span></div>
       </div>`);
     feed("/api/btc", 60_000, (d) => {
       if (d.state === "error") return;
@@ -132,17 +150,36 @@ const RENDER = {
       const p = sparkPaths(d.series, 300, 100, 6);
       $(el, "[data-line]").setAttribute("d", p.line);
       $(el, "[data-area]").setAttribute("d", p.area);
-      const ry = Math.max(0, Math.min(100, p.y(d.ref_24h)));
+      const ry = Math.max(0, Math.min(100, p.y(d.ref)));
       $(el, "[data-ref]").setAttribute("y1", ry); $(el, "[data-ref]").setAttribute("y2", ry);
-      $(el, "[data-range]").textContent = `L ${fmtK(d.low_24h)} · H ${fmtK(d.high_24h)}`;
+      $(el, "[data-period]").textContent = `${d.days}D`;
+      $(el, "[data-range]").textContent = `L ${fmtK(d.low)} · H ${fmtK(d.high)}`;
     });
   },
 
 };
 
+RENDER.coin = (card, el) => {
+  el.insertAdjacentHTML("beforeend", `
+    <div class="fill coin">
+      <div class="coin__price" data-price>—</div>
+      <div class="coin__chg" data-chg></div>
+    </div>
+    <span class="coin__icon">${COIN_ICONS[card.symbol]}</span>`);
+  feed("/api/coins", 60_000, (d) => {
+    const c = d.coins && d.coins[card.symbol];
+    if (!c) return;
+    $(el, "[data-price]").textContent = fmtPrice(c.price);
+    const chg = $(el, "[data-chg]");
+    chg.textContent = `${fmtPct(c.change_pct)} · ${c.days}D`;
+    chg.style.color = c.change_pct >= 0 ? UP : DOWN;
+  });
+};
+
 const LABELS = {
   steps: ["Steps", "var(--teal)"],
   btc: ["BTC / CAD", "var(--amber)"],
+  coin: ["Coin", "var(--violet)"],
 };
 
 const board = document.getElementById("board");
