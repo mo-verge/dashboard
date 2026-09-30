@@ -8,6 +8,9 @@ export XDG_RUNTIME_DIR="${XDG_RUNTIME_DIR:-/run/user/$(id -u)}"
 export WAYLAND_DISPLAY="${WAYLAND_DISPLAY:-wayland-0}"
 PORT="${DASHBOARD_PORT:-8080}"
 
+# The server normally runs as dashboard.service; wait for it (boot), and only
+# start one by hand if it never shows up.
+for _ in $(seq 60); do curl -fs "http://127.0.0.1:$PORT/api/system" >/dev/null && break; sleep 0.5; done
 if ! curl -fs "http://127.0.0.1:$PORT/api/system" >/dev/null; then
   nohup python3 server.py >/tmp/dashboard-server.log 2>&1 &
   for _ in $(seq 20); do curl -fs "http://127.0.0.1:$PORT/api/system" >/dev/null && break; sleep 0.25; done

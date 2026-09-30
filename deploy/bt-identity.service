@@ -1,0 +1,16 @@
+[Unit]
+Description=Set Bluetooth identity for the fake TVIP remote
+# Run once bluetoothd has the controller fully set up: changing the address
+# makes the kernel re-register hci0, and bluetoothd then loads the bond stored
+# under the new address. Racing the firmware load earlier in boot wedged mgmt.
+Requires=bluetooth.service
+After=bluetooth.service
+Before=bt-remote.service
+
+[Service]
+Type=oneshot
+ExecStart=/home/verge/dashboard/deploy/bt-identity.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

@@ -30,3 +30,19 @@ Credentials live on the Pi in `~/.config/dashboard/`, never in this repo.
 
 Your Google account must be linked in the Google Health phone app, otherwise the API returns `FAILED_PRECONDITION`.
 Debug the raw API responses on the Pi with `python3 ~/dashboard/health.py`.
+
+## HDMI capture, captions and the TVIP box
+
+The TVIP IPTV box's HDMI goes into the Pi through a USB capture adapter (MS2109, `/dev/video0`).
+
+```
+scripts/capture-preview.sh [1080p|720p] [audio-delay]   # live full-screen preview with audio
+scripts/capture-captions.sh                             # delayed preview + local Whisper Spanish captions
+capture/box.py press <key> | shot <file>                 # drive the box / grab a frame
+```
+
+Captions use whisper.cpp (`~/whisper` on the Pi, small model, 8-bit, VAD) on 20–28 s chunks;
+the picture is held back 50 s so each caption lands on its line.
+
+The Pi controls the box as a fake Bluetooth remote — see [docs/tvip-remote.md](docs/tvip-remote.md).
+Boot setup (dashboard server, kiosk, fake remote, Bluetooth identity): `deploy/install.sh`.

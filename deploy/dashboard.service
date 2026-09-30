@@ -1,0 +1,14 @@
+[Unit]
+Description=Dashboard server (loopback :8080)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=verge
+WorkingDirectory=/home/verge/dashboard
+ExecStart=/usr/bin/python3 /home/verge/dashboard/server.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

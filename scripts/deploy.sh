@@ -8,6 +8,6 @@ rsync -az --delete --exclude .git --exclude web/media ./ "$HOST:dashboard/"
 ssh -T "$HOST" '
   cd ~/dashboard
   [ -f web/media/flow.mp4 ] || scripts/make-media.sh
-  pkill -f "[p]ython3 server.py" || true  # [p] keeps pkill from matching this shell
+  sudo -n systemctl restart dashboard.service
   scripts/kiosk.sh
 '
