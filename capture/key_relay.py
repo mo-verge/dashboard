@@ -8,6 +8,8 @@ forwards to it:
     POST /key/<name>        one remote key (up, down, left, right, ok, back, guide, ...)
     POST /tune/<number>     type a channel number (digits) on the box
     GET  /channels          shortlists from the inventory for the app's channel picker
+    GET  /captions?since=ms live Whisper subtitles (capture/live_captions.py), wall-clock ms
+    POST /caption-lang/<es|en|auto|off>   subtitle language (off = no delayed subtitle mode)
     GET  /health            no token needed
 
 Token: ~/.config/dashboard/relay-token (created on first run); send it as the
@@ -26,6 +28,8 @@ REMOTE = "http://127.0.0.1:8179"
 TOKEN_FILE = os.path.expanduser("~/.config/dashboard/relay-token")
 DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "tvip")
 DIGIT_GAP = 0.45            # box needs a short pause between digits
+CAPTIONS = "/dev/shm/captions.json"
+CAPTION_LANG = "/dev/shm/caption-lang"
 
 KEYS = {"up", "down", "left", "right", "ok", "enter", "back", "guide", "menu", "home", "play_pause",
         "ch_up", "ch_down", "vol_up", "vol_down", "mute", "next", "prev", "ff", "rew", "stop",
@@ -61,7 +65,7 @@ def shortlists(limit=80):
             if c.get("video_ok") is False:
                 continue
             now = next((e["title"] for e in c.get("epg") or [] if "No information" not in e["title"]), "")
-            rows.append({"number": c["number"], "name": c["name"], "now": now,
+            rows.append({"number": c["number"], "name": c["name"], "now": now, "lang": c.get("language"),
                          "type": c.get("content_type"), "score": (c.get("language_learning") or {}).get("score")
                          if name != "soccer" else c.get("soccer")})
             if len(rows) >= limit:
@@ -92,6 +96,16 @@ class Handler(BaseHTTPRequestHandler):
             return
         if self.path == "/channels":
             return self._reply(200, shortlists())
+        if self.path.startswith("/captions"):
+            from urllib.parse import parse_qs, urlparse
+            since = int((parse_qs(urlparse(self.path).query).get("since") or ["0"])[0])
+            try:
+                d = json.load(open(CAPTIONS))
+            except (FileNotFoundError, ValueError):
+                return self._reply(200, {"lang": "off", "ready_until": 0, "captions": []})
+            d["captions"] = [c for c in d["captions"] if c["end"] >= since]
+            d["now"] = int(time.time() * 1000)
+            return self._reply(200, d)
         self._reply(404, {"error": "not found"})
 
     def do_POST(self):
@@ -103,6 +117,10 @@ class Handler(BaseHTTPRequestHandler):
                 with _lock:
                     press(parts[1])
                 return self._reply(200, {"sent": parts[1]})
+            if len(parts) == 2 and parts[0] == "caption-lang" and parts[1] in ("es", "en", "auto", "off"):
+                with open(CAPTION_LANG, "w") as f:
+                    f.write(parts[1])
+                return self._reply(200, {"caption_lang": parts[1]})
             if len(parts) == 2 and parts[0] == "tune" and parts[1].isdigit() and len(parts[1]) <= 6:
                 with _lock:
                     for d in parts[1]:

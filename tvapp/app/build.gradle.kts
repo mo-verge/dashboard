@@ -6,9 +6,9 @@ plugins {
 }
 
 // Stream / relay settings live outside git: tvapp/monet.properties
-//   rtspUrl=rtsp://192.168.50.160:8554/tv            (low latency, used first)
-//   streamUrl=http://192.168.50.160:8888/tv/index.m3u8  (HLS fallback)
-//   relayUrl=http://192.168.50.160:8180
+//   rtspUrl=rtsp://192.168.50.158:8554/tv            (low latency, used first)
+//   streamUrl=http://192.168.50.158:8888/tv/index.m3u8  (HLS fallback)
+//   relayUrl=http://192.168.50.158:8180
 //   relayToken=<contents of ~/.config/dashboard/relay-token on the Pi>
 val monet = Properties().apply {
     val f = rootProject.file("monet.properties")
@@ -23,11 +23,11 @@ android {
         applicationId = "tv.monet.app"
         minSdk = 26
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.1"
-        buildConfigField("String", "RTSP_URL", cfg("rtspUrl", "rtsp://192.168.50.160:8554/tv"))
-        buildConfigField("String", "STREAM_URL", cfg("streamUrl", "http://192.168.50.160:8888/tv/index.m3u8"))
-        buildConfigField("String", "RELAY_URL", cfg("relayUrl", "http://192.168.50.160:8180"))
+        versionCode = 3
+        versionName = "1.2"
+        buildConfigField("String", "RTSP_URL", cfg("rtspUrl", "rtsp://192.168.50.158:8554/tv"))
+        buildConfigField("String", "STREAM_URL", cfg("streamUrl", "http://192.168.50.158:8888/tv/index.m3u8"))
+        buildConfigField("String", "RELAY_URL", cfg("relayUrl", "http://192.168.50.158:8180"))
         buildConfigField("String", "RELAY_TOKEN", cfg("relayToken", ""))
     }
     buildFeatures { buildConfig = true }

@@ -29,6 +29,9 @@ CAST_BITRATE="${CAST_BITRATE:-}"         # default by mode: 540p 2M, 720p 3M, 10
 AUDIO_BITRATE="${AUDIO_BITRATE:-128k}"
 PREVIEW="${PREVIEW:-mpv}"                # mpv | none
 AUDIO_DELAY="${AUDIO_DELAY:-0}"          # preview only: mpv --audio-delay (s, + = audio later)
+# The audio reaches ffmpeg through PipeWire's buffer, so with wall-clock
+# timestamps it is stamped (and plays) later than the video. Shift it earlier.
+AUDIO_ADVANCE="${AUDIO_ADVANCE:-0.12}"   # s, tuned by eye on the TV (0 = video ahead, 0.25 = video behind)
 SCREEN_W="${SCREEN_W:-2560}" SCREEN_H="${SCREEN_H:-1440}"
 DEV="${CAPTURE_DEVICE:-/dev/video0}"
 SOURCE="${CAPTURE_AUDIO:-alsa_input.usb-MACROSILICON_2109-02.analog-stereo}"
@@ -91,7 +94,7 @@ if [ -n "$HUB_AUDIO_IN" ]; then
   # shellcheck disable=SC2206
   IN_A=( $HUB_AUDIO_IN )
 else
-  IN_A=( -thread_queue_size 1024 -use_wallclock_as_timestamps 1
+  IN_A=( -thread_queue_size 1024 -use_wallclock_as_timestamps 1 -itsoffset "-$AUDIO_ADVANCE"
          -f pulse -sample_rate 48000 -channels 2 -i "$SOURCE" )
 fi
 
@@ -141,7 +144,7 @@ while true; do
   FF=( ffmpeg -hide_banner -nostdin -y -loglevel "$FFMPEG_LOGLEVEL" "${IN_V[@]}" "${IN_A[@]}" "${OUTS[@]}" )
 
   echo $$ > "$PIDFILE"   # box.py: hub owns the device; frames older than this (+1 s) are stale
-  log "start: cast=$CAST_MODE(on=$cast) x264 threads=$X264_THREADS preset=$X264_PRESET bitrate=${BR:-none} preview=$PREVIEW"
+  log "start: cast=$CAST_MODE(on=$cast) x264 threads=$X264_THREADS preset=$X264_PRESET bitrate=${BR:-none} preview=$PREVIEW audio_advance=${AUDIO_ADVANCE}s"
   if [ "$PREVIEW" = mpv ]; then
     if [ -n "$PREVIEW_CMD" ]; then
       ( "${FF[@]}" | bash -c "$PREVIEW_CMD"; s=("${PIPESTATUS[@]}"); log "ffmpeg=${s[0]} preview=${s[1]}"; exit "${s[1]}" ) &

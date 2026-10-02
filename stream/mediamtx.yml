@@ -46,7 +46,7 @@ hlsAddress: :8888                  # all interfaces: Chromecasts must reach the 
 hlsAllowOrigins: ["*"]             # CORS; required by the Cast receiver
 hlsVariant: mpegts                 # TS segments: the receiver's default HLS player handles these
 hlsSegmentDuration: 1s             # with GOP = 1 s, segments are ~1 s
-hlsSegmentCount: 7
+hlsSegmentCount: 45                 # 45 s window: Monet TV plays ~18 s behind live with subtitles
 hlsAlwaysRemux: true               # keep segments ready, so a cast starts without a warm-up
                                    # (remux only, almost no CPU; the encode happens in the hub)
 

@@ -1,0 +1,13 @@
+# systemd USER unit: ~/.config/systemd/user/captions.service
+#   systemctl --user daemon-reload && systemctl --user enable --now captions
+[Unit]
+Description=Live Whisper subtitles for Monet TV (writes /dev/shm/captions.json)
+After=pipewire.service
+
+[Service]
+ExecStart=%h/stream/captions.sh
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=default.target

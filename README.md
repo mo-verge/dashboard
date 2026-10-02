@@ -64,6 +64,17 @@ stream (~1 s lag, HLS fallback), forwards the Chromecast remote's D-pad / OK / B
 via `capture/key_relay.py` (LAN :8180, token in `~/.config/dashboard/relay-token`), long-press OK =
 channel picker from the inventory shortlists, long-press Back = exit.
 
+**Subtitles.** `stream/captions.sh` (systemd user unit `captions`) runs whisper.cpp tuned for short
+chunks (`-ac 512`: ~3 s per 10 s of audio) and `capture/live_captions.py`, which reads the box's audio
+from PipeWire and writes wall-clock-timestamped Spanish/English subtitles to `/dev/shm/captions.json`
+(served by the relay at `/captions`). Monet TV plays **live** (RTSP, ~1 s) while remote keys are being
+pressed, and after 18 s idle switches to **subtitle mode**: HLS played 18 s behind live, each subtitle
+matched to the frame via `EXT-X-PROGRAM-DATE-TIME`. Any key goes straight back to live. The subtitle
+language follows the channel picked in the app (`POST /caption-lang/<es|en|auto|off>`).
+
+Run the hub at 720p with `PREVIEW=none` while subtitles run (Whisper needs ~2 cores);
+`AUDIO_ADVANCE` (default 0.12 s) fixes lip-sync on the TV.
+
 ```
 cd tvapp && ./gradlew assembleRelease                         # needs JDK 17 + Android SDK 35; monet.properties holds the relay token
 adb -s 192.168.50.79:<port> install -r app/build/outputs/apk/release/app-release.apk   # wireless debugging (run adb on the Pi)

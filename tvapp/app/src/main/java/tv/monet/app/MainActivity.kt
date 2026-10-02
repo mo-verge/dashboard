@@ -15,7 +15,9 @@ import android.widget.FrameLayout
 import android.widget.LinearLayout
 import android.widget.ScrollView
 import android.widget.TextView
+import androidx.media3.common.C
 import androidx.media3.common.MediaItem
+import androidx.media3.common.Timeline
 import androidx.media3.common.PlaybackException
 import androidx.media3.common.Player
 import androidx.media3.exoplayer.DefaultLoadControl
@@ -37,6 +39,13 @@ import java.util.concurrent.Executors
  *   D-pad / OK / Back  -> box keys (short press)
  *   long-press Back    -> exit the app
  *   long-press OK      -> channel picker (Soccer / Spanish / English shortlists)
+ *
+ * Two modes:
+ *   LIVE     RTSP, ~1 s behind the box, no subtitles. Any remote key switches here
+ *            at once so the box's response is visible.
+ *   SUBTITLE after IDLE_MS without keys (and when the Pi has subtitles in a
+ *            language), HLS played DELAY_MS behind live; Whisper subtitles from
+ *            the Pi are matched to each frame by its EXT-X-PROGRAM-DATE-TIME.
  */
 class MainActivity : Activity() {
 
@@ -46,6 +55,23 @@ class MainActivity : Activity() {
     private lateinit var pickerTitle: TextView
     private lateinit var pickerList: LinearLayout
     private lateinit var pickerScroll: ScrollView
+    private lateinit var caption: TextView
+    private lateinit var modeChip: TextView
+
+    private enum class Mode { LIVE, SUBTITLE }
+    private var mode = Mode.LIVE
+    private var lastKeyAt = 0L
+    private var captionsOn = false            // Pi has a language set and is keeping up
+    private var subs: List<Sub> = emptyList()
+    private val poller = Executors.newSingleThreadExecutor()
+    private val tlWindow = Timeline.Window()
+
+    data class Sub(val start: Long, val end: Long, val text: String)
+
+    companion object {
+        const val DELAY_MS = 18_000L          // subtitles are ready ~13 s after speech
+        const val IDLE_MS = DELAY_MS          // so the replay starts where the keys stopped
+    }
 
     private val ui = Handler(Looper.getMainLooper())
     private val net = Executors.newSingleThreadExecutor()   // keys go out in order
@@ -57,7 +83,7 @@ class MainActivity : Activity() {
     private var row = 0
     private var longPressed = false
 
-    data class Channel(val number: Int, val name: String, val now: String)
+    data class Channel(val number: Int, val name: String, val now: String, val lang: String)
 
     private val LABELS = mapOf(
         "up" to "↑", "down" to "↓", "left" to "←", "right" to "→",
@@ -104,32 +130,127 @@ class MainActivity : Activity() {
         root.addView(picker, FrameLayout.LayoutParams(760, -1, Gravity.START).apply {
             setMargins(48, 48, 0, 48)
         })
+        caption = TextView(this).apply {
+            setTextColor(Color.WHITE)
+            textSize = 30f
+            typeface = Typeface.create("sans-serif-medium", Typeface.NORMAL)
+            gravity = Gravity.CENTER
+            setLineSpacing(0f, 1.1f)
+            setPadding(30, 12, 30, 14)
+            background = pill(0xB3000000.toInt(), 16f)
+            visibility = View.GONE
+        }
+        root.addView(caption, FrameLayout.LayoutParams(-2, -2, Gravity.BOTTOM or Gravity.CENTER_HORIZONTAL).apply {
+            setMargins(80, 0, 80, 70)
+        })
+        modeChip = TextView(this).apply {
+            setTextColor(Color.WHITE); textSize = 15f; typeface = Typeface.DEFAULT_BOLD
+            setPadding(20, 8, 20, 8)
+            alpha = 0.8f
+        }
+        root.addView(modeChip, FrameLayout.LayoutParams(-2, -2, Gravity.TOP or Gravity.START).apply {
+            setMargins(48, 40, 0, 0)
+        })
         setContentView(root)
 
-        // Tiny buffers: play as close to live as possible (RTSP is ~0.5-1.5 s behind the box).
+        // Small buffers (~0.8 s): close to live, with enough slack for Wi-Fi jitter.
         player = ExoPlayer.Builder(this)
-            .setLoadControl(DefaultLoadControl.Builder().setBufferDurationsMs(300, 1500, 150, 300).build())
+            .setLoadControl(DefaultLoadControl.Builder().setBufferDurationsMs(1000, 3000, 800, 1000).build())
             .build()
         view.player = player
         player.addListener(object : Player.Listener {
             override fun onPlayerError(error: PlaybackException) {
-                rtspFailures++
-                flash(if (useRtsp()) "Reconnecting…" else "Reconnecting (HLS)…")
+                if (mode == Mode.LIVE) rtspFailures++
+                flash("Reconnecting…")
                 ui.postDelayed({ play() }, retryMs)
                 retryMs = (retryMs * 2).coerceAtMost(15000)
             }
             override fun onPlaybackStateChanged(state: Int) {
-                if (state == Player.STATE_READY) { retryMs = 2000; if (useRtsp()) rtspFailures = 0 }
+                if (state == Player.STATE_READY) { retryMs = 2000; if (mode == Mode.LIVE && useRtsp()) rtspFailures = 0 }
                 if (state == Player.STATE_ENDED) ui.postDelayed({ play() }, 1000)   // live stream "ended" = stall
             }
         })
+        lastKeyAt = System.currentTimeMillis()
         play()
+        ui.post(tick)
+        ui.post(poll)
     }
 
     private fun useRtsp() = rtspFailures < 3
 
+    // ------------------------------------------------------------------ modes + subtitles
+
+    private val tick = object : Runnable {
+        override fun run() {
+            val idle = System.currentTimeMillis() - lastKeyAt
+            if (mode == Mode.LIVE && captionsOn && idle >= IDLE_MS && picker.visibility != View.VISIBLE) {
+                mode = Mode.SUBTITLE
+                play()
+            }
+            if (mode == Mode.SUBTITLE && !captionsOn) { mode = Mode.LIVE; play() }
+            showSubtitle()
+            modeChip.text = if (mode == Mode.LIVE) "● LIVE" else "CC  −${DELAY_MS / 1000}s"
+            modeChip.background = pill(if (mode == Mode.LIVE) 0x99E0245A.toInt() else 0x992E7DE6.toInt(), 30f)
+            ui.postDelayed(this, 200)
+        }
+    }
+
+    private val poll = object : Runnable {
+        override fun run() {
+            poller.execute {
+                try {
+                    val since = System.currentTimeMillis() - 90_000
+                    val o = JSONObject(http("GET", "captions?since=$since") ?: "{}")
+                    val arr = o.optJSONArray("captions")
+                    val list = (0 until (arr?.length() ?: 0)).map {
+                        val c = arr!!.getJSONObject(it)
+                        Sub(c.getLong("start"), c.getLong("end"), c.getString("text"))
+                    }
+                    // subtitles only make sense if the Pi is transcribing and keeping up
+                    val on = o.optString("lang") != "off" && o.optLong("now") - o.optLong("ready_until") < 30_000
+                    ui.post { subs = list; captionsOn = on }
+                } catch (e: Exception) {
+                    ui.post { captionsOn = false }
+                }
+            }
+            ui.postDelayed(this, 2000)
+        }
+    }
+
+    /** Wall-clock time of the frame on screen (HLS: from EXT-X-PROGRAM-DATE-TIME). */
+    private fun frameWallMs(): Long? {
+        val tl = player.currentTimeline
+        if (tl.isEmpty) return null
+        tl.getWindow(player.currentMediaItemIndex, tlWindow)
+        if (tlWindow.windowStartTimeMs == C.TIME_UNSET) return null
+        return tlWindow.windowStartTimeMs + player.currentPosition
+    }
+
+    private fun showSubtitle() {
+        val t = if (mode == Mode.SUBTITLE) frameWallMs() else null
+        val s = t?.let { now -> subs.lastOrNull { it.start <= now && now <= it.end } }
+        if (s == null) { caption.visibility = View.GONE; return }
+        if (caption.text != s.text) caption.text = s.text
+        caption.visibility = View.VISIBLE
+    }
+
+    /** Remote activity: make the box's response visible right away. */
+    private fun keyActivity(toBox: Boolean) {
+        lastKeyAt = System.currentTimeMillis()
+        if (toBox && mode == Mode.SUBTITLE) { mode = Mode.LIVE; play() }
+    }
+
     private fun play() {
-        if (useRtsp()) {
+        if (mode == Mode.SUBTITLE) {
+            // ~DELAY_MS behind live: room for Whisper, and the replay starts at the last key press
+            val item = MediaItem.Builder()
+                .setUri(BuildConfig.STREAM_URL)
+                .setLiveConfiguration(MediaItem.LiveConfiguration.Builder()
+                    .setTargetOffsetMs(DELAY_MS).setMinOffsetMs(DELAY_MS - 3000).setMaxOffsetMs(DELAY_MS + 6000)
+                    .build())
+                .build()
+            player.setMediaSource(HlsMediaSource.Factory(DefaultHttpDataSource.Factory()).createMediaSource(item))
+        } else if (useRtsp()) {
             // RTSP over TCP straight from MediaMTX: no segmenting, so ~0.5-1.5 s of lag.
             val src = RtspMediaSource.Factory().setForceUseRtpTcp(true).setTimeoutMs(4000)
                 .createMediaSource(MediaItem.fromUri(BuildConfig.RTSP_URL))
@@ -156,8 +277,10 @@ class MainActivity : Activity() {
     }
 
     override fun onDestroy() {
+        ui.removeCallbacksAndMessages(null)
         player.release()
         net.shutdownNow()
+        poller.shutdownNow()
         super.onDestroy()
     }
 
@@ -169,7 +292,7 @@ class MainActivity : Activity() {
             if (event.repeatCount == 0) { event.startTracking(); longPressed = false }
             return true
         }
-        if (picker.visibility == View.VISIBLE) return pickerKey(keyCode)
+        if (picker.visibility == View.VISIBLE) { keyActivity(false); return pickerKey(keyCode) }
         val box = when (keyCode) {
             KeyEvent.KEYCODE_DPAD_UP -> "up"
             KeyEvent.KEYCODE_DPAD_DOWN -> "down"
@@ -211,6 +334,7 @@ class MainActivity : Activity() {
     }
 
     private fun send(path: String, label: String) {
+        keyActivity(true)
         flash(label)
         net.execute {
             val ok = try { http("POST", path) != null } catch (e: Exception) { false }
@@ -221,6 +345,7 @@ class MainActivity : Activity() {
     // ------------------------------------------------------------------ channel picker
 
     private fun showPicker() {
+        keyActivity(false)
         picker.visibility = View.VISIBLE
         pickerTitle.text = "Loading channels…"
         net.execute {
@@ -231,7 +356,7 @@ class MainActivity : Activity() {
                     val arr = l.getJSONArray("channels")
                     l.getString("title") to (0 until arr.length()).map {
                         val c = arr.getJSONObject(it)
-                        Channel(c.getInt("number"), c.getString("name"), c.optString("now"))
+                        Channel(c.getInt("number"), c.getString("name"), c.optString("now"), c.optString("lang"))
                     }
                 }
             } catch (e: Exception) { emptyList() }
@@ -284,6 +409,9 @@ class MainActivity : Activity() {
         val c = lists[tab].second[row]
         hidePicker()
         send("tune/${c.number}", "Tuning ${c.number}  ${c.name}")
+        // subtitle language follows the channel (inventory): es / en, anything else off
+        val lang = if (c.lang == "es" || c.lang == "en") c.lang else "off"
+        net.execute { try { http("POST", "caption-lang/$lang") } catch (e: Exception) { } }
     }
 
     // ------------------------------------------------------------------ helpers
