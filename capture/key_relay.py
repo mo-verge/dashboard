@@ -98,6 +98,8 @@ class Handler(BaseHTTPRequestHandler):
             return self._reply(200, shortlists())
         if self.path.startswith("/captions"):
             from urllib.parse import parse_qs, urlparse
+            with open("/dev/shm/captions-viewer", "w"):   # live_captions.py glosses only while watched
+                pass
             since = int((parse_qs(urlparse(self.path).query).get("since") or ["0"])[0])
             try:
                 d = json.load(open(CAPTIONS))

@@ -55,7 +55,8 @@ class MainActivity : Activity() {
     private lateinit var pickerTitle: TextView
     private lateinit var pickerList: LinearLayout
     private lateinit var pickerScroll: ScrollView
-    private lateinit var caption: TextView
+    private lateinit var caption: LinearLayout
+    private var shownSub: Sub? = null
     private lateinit var modeChip: TextView
 
     private enum class Mode { LIVE, SUBTITLE }
@@ -66,10 +67,11 @@ class MainActivity : Activity() {
     private val poller = Executors.newSingleThreadExecutor()
     private val tlWindow = Timeline.Window()
 
-    data class Sub(val start: Long, val end: Long, val text: String)
+    /** gloss: lowercase word -> English meaning in this line (Gemini, via the Pi) */
+    data class Sub(val start: Long, val end: Long, val text: String, val gloss: Map<String, String>)
 
     companion object {
-        const val DELAY_MS = 18_000L          // subtitles are ready ~13 s after speech
+        const val DELAY_MS = 10_000L          // subtitles + glosses are ready ~6 s after speech
         const val IDLE_MS = DELAY_MS          // so the replay starts where the keys stopped
     }
 
@@ -130,13 +132,10 @@ class MainActivity : Activity() {
         root.addView(picker, FrameLayout.LayoutParams(760, -1, Gravity.START).apply {
             setMargins(48, 48, 0, 48)
         })
-        caption = TextView(this).apply {
-            setTextColor(Color.WHITE)
-            textSize = 30f
-            typeface = Typeface.create("sans-serif-medium", Typeface.NORMAL)
-            gravity = Gravity.CENTER
-            setLineSpacing(0f, 1.1f)
-            setPadding(30, 12, 30, 14)
+        caption = LinearLayout(this).apply {
+            orientation = LinearLayout.VERTICAL
+            gravity = Gravity.CENTER_HORIZONTAL
+            setPadding(30, 8, 30, 14)
             background = pill(0xB3000000.toInt(), 16f)
             visibility = View.GONE
         }
@@ -204,7 +203,12 @@ class MainActivity : Activity() {
                     val arr = o.optJSONArray("captions")
                     val list = (0 until (arr?.length() ?: 0)).map {
                         val c = arr!!.getJSONObject(it)
-                        Sub(c.getLong("start"), c.getLong("end"), c.getString("text"))
+                        val g = c.optJSONArray("gloss")
+                        val gloss = (0 until (g?.length() ?: 0)).associate { k ->
+                            val o2 = g!!.getJSONObject(k)
+                            o2.getString("w").lowercase() to o2.getString("en")
+                        }
+                        Sub(c.getLong("start"), c.getLong("end"), c.getString("text"), gloss)
                     }
                     // subtitles only make sense if the Pi is transcribing and keeping up
                     val on = o.optString("lang") != "off" && o.optLong("now") - o.optLong("ready_until") < 30_000
@@ -229,9 +233,43 @@ class MainActivity : Activity() {
     private fun showSubtitle() {
         val t = if (mode == Mode.SUBTITLE) frameWallMs() else null
         val s = t?.let { now -> subs.lastOrNull { it.start <= now && now <= it.end } }
-        if (s == null) { caption.visibility = View.GONE; return }
-        if (caption.text != s.text) caption.text = s.text
+        if (s == null) { caption.visibility = View.GONE; shownSub = null; return }
+        if (s != shownSub) { renderSubtitle(s); shownSub = s }   // data class: re-render when glosses arrive
         caption.visibility = View.VISIBLE
+    }
+
+    /** Subtitle line(s) as word columns; key words get their English in small teal above. */
+    private fun renderSubtitle(s: Sub) {
+        caption.removeAllViews()
+        val strip = Regex("^[¿¡\"«(]+|[.,;:!?\"»)…]+$")
+        for (line in s.text.split("\n")) {
+            val row = LinearLayout(this).apply { orientation = LinearLayout.HORIZONTAL; gravity = Gravity.BOTTOM }
+            for (word in line.split(" ").filter { it.isNotBlank() }) {
+                val gloss = s.gloss[word.replace(strip, "").lowercase()]
+                val col = LinearLayout(this).apply {
+                    orientation = LinearLayout.VERTICAL
+                    gravity = Gravity.CENTER_HORIZONTAL
+                    setPadding(9, 0, 9, 0)
+                }
+                col.addView(TextView(this).apply {
+                    text = gloss ?: ""
+                    textSize = 16f
+                    setTextColor(0xFF2EE6D6.toInt())
+                    typeface = Typeface.create("sans-serif-medium", Typeface.NORMAL)
+                    gravity = Gravity.CENTER
+                    maxLines = 1
+                })
+                col.addView(TextView(this).apply {
+                    text = word
+                    textSize = 30f
+                    setTextColor(if (gloss != null) 0xFFFFE9A8.toInt() else Color.WHITE)
+                    typeface = Typeface.create("sans-serif-medium", Typeface.NORMAL)
+                    gravity = Gravity.CENTER
+                })
+                row.addView(col)
+            }
+            caption.addView(row)
+        }
     }
 
     /** Remote activity: make the box's response visible right away. */

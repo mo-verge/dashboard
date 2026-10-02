@@ -68,9 +68,18 @@ channel picker from the inventory shortlists, long-press Back = exit.
 chunks (`-ac 512`: ~3 s per 10 s of audio) and `capture/live_captions.py`, which reads the box's audio
 from PipeWire and writes wall-clock-timestamped Spanish/English subtitles to `/dev/shm/captions.json`
 (served by the relay at `/captions`). Monet TV plays **live** (RTSP, ~1 s) while remote keys are being
-pressed, and after 18 s idle switches to **subtitle mode**: HLS played 18 s behind live, each subtitle
+pressed, and after 10 s idle switches to **subtitle mode**: HLS played 10 s behind live, each subtitle
 matched to the frame via `EXT-X-PROGRAM-DATE-TIME`. Any key goes straight back to live. The subtitle
 language follows the channel picked in the app (`POST /caption-lang/<es|en|auto|off>`).
+
+**Key-word glosses.** Each subtitle line's text goes to Gemini (`gemini-flash-lite-latest`, ~1 s;
+key in `~/.config/dashboard/gemini-key`, paid tier with prepaid AI Studio credit, the free tier
+allows only 20 requests/day). It picks up to 6 words a beginner wouldn't know, skipping common
+words, names and cognates, with their meaning in that sentence. The app shows them in yellow
+with the English in small teal above. Only runs while the app is polling subtitles; backs off on 429.
+
+`deploy/tv-install.sh <apk>` (run on the Pi) installs app updates, finding the Chromecast's
+wireless-debugging port again when it changes.
 
 Run the hub at 720p with `PREVIEW=none` while subtitles run (Whisper needs ~2 cores);
 `AUDIO_ADVANCE` (default 0.12 s) fixes lip-sync on the TV.

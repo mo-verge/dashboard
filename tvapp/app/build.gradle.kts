@@ -23,8 +23,8 @@ android {
         applicationId = "tv.monet.app"
         minSdk = 26
         targetSdk = 34
-        versionCode = 3
-        versionName = "1.2"
+        versionCode = 5
+        versionName = "1.4"
         buildConfigField("String", "RTSP_URL", cfg("rtspUrl", "rtsp://192.168.50.158:8554/tv"))
         buildConfigField("String", "STREAM_URL", cfg("streamUrl", "http://192.168.50.158:8888/tv/index.m3u8"))
         buildConfigField("String", "RELAY_URL", cfg("relayUrl", "http://192.168.50.158:8180"))
