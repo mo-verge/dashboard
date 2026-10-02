@@ -1,0 +1,25 @@
+{
+  "category": "ARABIC | NETFLIX ULTRA 4K SF",
+  "captured": "2026-10-02T10:31:07-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41688,
+      "name": "AR: NETFLIX MOVIES 1 ULTRA"
+    },
+    {
+      "number": 41689,
+      "name": "NETFLIX ULTRA 4K #####"
+    },
+    {
+      "number": 41688,
+      "name": "AR: NETFLIX MOVIES 1 ULTRA",
+      "number_uncertain": true
+    },
+    {
+      "number": 41689,
+      "name": "NETFLIX ULTRA 4K #####"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ARABIC | STARZ PLAY 4K",
+  "captured": "2026-10-02T10:18:55-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41760,
+      "name": "STARZ PLAY SERIES 4K"
+    },
+    {
+      "number": 41763,
+      "name": "STARZ PLAY CRIME 4K"
+    },
+    {
+      "number": 41764,
+      "name": "STARZ PLAY COMEDY 4K"
+    },
+    {
+      "number": 41766,
+      "name": "STARZ PLAY ACTION 4K"
+    }
+  ]
+}

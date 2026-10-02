@@ -1,0 +1,385 @@
+{
+  "category": "ARABIC | BOX OFFICE 4KTV",
+  "captured": "2026-10-02T10:43:08-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41430,
+      "name": "H## BOX OFFICE 4K IV ###"
+    },
+    {
+      "number": 41431,
+      "name": "AR: BOX OFFICE 6 4K"
+    },
+    {
+      "number": 41432,
+      "name": "AR: BOX OFFICE 7 4K"
+    },
+    {
+      "number": 41433,
+      "name": "AR: BOX OFFICE 8 4K"
+    },
+    {
+      "number": 41434,
+      "name": "AR: BOX OFFICE 9 4K"
+    },
+    {
+      "number": 41435,
+      "name": "AR: BOX OFFICE 10 4K"
+    },
+    {
+      "number": 41436,
+      "name": "AR: BOX OFFICE 11 4K"
+    },
+    {
+      "number": 41437,
+      "name": "AR: BOX OFFICE 12 4K"
+    },
+    {
+      "number": 41438,
+      "name": "AR: BOX OFFICE 13 4K"
+    },
+    {
+      "number": 41439,
+      "name": "AR: BOX OFFICE 14 4K"
+    },
+    {
+      "number": 41440,
+      "name": "AR: BOX OFFICE 15 4K"
+    },
+    {
+      "number": 41441,
+      "name": "AR: BOX OFFICE 16 4K"
+    },
+    {
+      "number": 41442,
+      "name": "AR: BOX OFFICE 17 4K"
+    },
+    {
+      "number": 41443,
+      "name": "AR: BOX OFFICE 18 4K"
+    },
+    {
+      "number": 441,
+      "name": "AR: BOX OFFICE 19 4K",
+      "number_uncertain": true
+    },
+    {
+      "number": 41445,
+      "name": "AR: BOX OFFICE 20 4K"
+    },
+    {
+      "number": 41447,
+      "name": "AR: BOX OFFICE 22 4K"
+    },
+    {
+      "number": 41448,
+      "name": "AR: BOX OFFICE 23 4K"
+    },
+    {
+      "number": 41449,
+      "name": "AR: BOX OFFICE 24 4K"
+    },
+    {
+      "number": 41450,
+      "name": "AR: BOX OFFICE 25 4K"
+    },
+    {
+      "number": 41451,
+      "name": "AR: BOX OFFICE 26 4K"
+    },
+    {
+      "number": 41452,
+      "name": "AR: BOX OFFICE 27 4K"
+    },
+    {
+      "number": 41453,
+      "name": "AR: BOX OFFICE 28 4K"
+    },
+    {
+      "number": 41454,
+      "name": "AR: BOX OFFICE 29 4K"
+    },
+    {
+      "number": 41455,
+      "name": "AR: BOX OFFICE 30 4K"
+    },
+    {
+      "number": 41456,
+      "name": "AR: BOX OFFICE 31 4K"
+    },
+    {
+      "number": 41457,
+      "name": "AR: BOX OFFICE 32 4K"
+    },
+    {
+      "number": 41458,
+      "name": "AR: BOX OFFICE 33 4K"
+    },
+    {
+      "number": 41459,
+      "name": "AR: BOX OFFICE 34 4K"
+    },
+    {
+      "number": 41460,
+      "name": "AR: BOX OFFICE 35 4K"
+    },
+    {
+      "number": 41461,
+      "name": "AR: BOX OFFICE 36 4K"
+    },
+    {
+      "number": 41462,
+      "name": "AR: BOX OFFICE 37 4K"
+    },
+    {
+      "number": 41463,
+      "name": "AR: BOX OFFICE 38 4K"
+    },
+    {
+      "number": 41464,
+      "name": "AR: BOX OFFICE 39 4K"
+    },
+    {
+      "number": 41465,
+      "name": "AR: BOX OFFICE 40 4K"
+    },
+    {
+      "number": 41466,
+      "name": "AR: BOX OFFICE 41 4K"
+    },
+    {
+      "number": 41467,
+      "name": "AR: BOX OFFICE 42 4K"
+    },
+    {
+      "number": 41468,
+      "name": "AR: BOX OFFICE 43 4K"
+    },
+    {
+      "number": 41469,
+      "name": "AR: BOX OFFICE 44 4K"
+    },
+    {
+      "number": 41470,
+      "name": "AR: BOX OFFICE 45 4K"
+    },
+    {
+      "number": 41471,
+      "name": "AR: BOX OFFICE 46 4K"
+    },
+    {
+      "number": 41472,
+      "name": "AR: BOX OFFICE 47 4K"
+    },
+    {
+      "number": 41473,
+      "name": "AR: BOX OFFICE 48 4K"
+    },
+    {
+      "number": 41474,
+      "name": "AR: BOX OFFICE 49 4K"
+    },
+    {
+      "number": 41475,
+      "name": "AR: BOX OFFICE 50 4K"
+    },
+    {
+      "number": 41476,
+      "name": "AR: BOX OFFICE 51 4K"
+    },
+    {
+      "number": 41477,
+      "name": "AR: BOX OFFICE 52 4K"
+    },
+    {
+      "number": 41478,
+      "name": "AR: BOX OFFICE 53 4K"
+    },
+    {
+      "number": 41479,
+      "name": "AR: BOX OFFICE 54 4K"
+    },
+    {
+      "number": 41480,
+      "name": "AR: BOX OFFICE 55 4K"
+    },
+    {
+      "number": 41481,
+      "name": "AR: BOX OFFICE 56 4K"
+    },
+    {
+      "number": 41482,
+      "name": "AR: BOX OFFICE 57 4K"
+    },
+    {
+      "number": 41483,
+      "name": "AR: BOX OFFICE 58 4K"
+    },
+    {
+      "number": 41484,
+      "name": "AR: BOX OFFICE 59 4K"
+    },
+    {
+      "number": 41485,
+      "name": "AR: BOX OFFICE 60 4K"
+    },
+    {
+      "number": 41486,
+      "name": "AR: BOX OFFICE 61 4K"
+    },
+    {
+      "number": 41487,
+      "name": "AR: BOX OFFICE 62 4K"
+    },
+    {
+      "number": 41488,
+      "name": "AR: BOX OFFICE 63 4K"
+    },
+    {
+      "number": 41489,
+      "name": "AR: BOX OFFICE 64 4K"
+    },
+    {
+      "number": 41490,
+      "name": "AR: BOX OFFICE 65 4K"
+    },
+    {
+      "number": 41491,
+      "name": "AR: BOX OFFICE 66 4K"
+    },
+    {
+      "number": 41492,
+      "name": "AR: BOX OFFICE 67 4K"
+    },
+    {
+      "number": 41493,
+      "name": "AR: BOX OFFICE 68 4K"
+    },
+    {
+      "number": 41494,
+      "name": "AR: BOX OFFICE 69 4K"
+    },
+    {
+      "number": 41495,
+      "name": "AR: BOX OFFICE 70 4K"
+    },
+    {
+      "number": 41496,
+      "name": "AR: BOX OFFICE 71 4K"
+    },
+    {
+      "number": 41497,
+      "name": "AR: BOX OFFICE 72 4K"
+    },
+    {
+      "number": 41498,
+      "name": "AR: BOX OFFICE 73 4K"
+    },
+    {
+      "number": 41499,
+      "name": "AR: BOX OFFICE 74 4K"
+    },
+    {
+      "number": 41500,
+      "name": "AR: BOX OFFICE 75 4K"
+    },
+    {
+      "number": 41502,
+      "name": "AR: BOX OFFICE 77 4K"
+    },
+    {
+      "number": 41503,
+      "name": "AR: BOX OFFICE 78 4K"
+    },
+    {
+      "number": 41504,
+      "name": "AR: BOX OFFICE 79 4K"
+    },
+    {
+      "number": 41505,
+      "name": "AR: BOX OFFICE 80 4K"
+    },
+    {
+      "number": 41506,
+      "name": "AR: BOX OFFICE 81 4K"
+    },
+    {
+      "number": 41507,
+      "name": "AR: BOX OFFICE 82 4K"
+    },
+    {
+      "number": 41508,
+      "name": "AR: BOX OFFICE 83 4K"
+    },
+    {
+      "number": 41509,
+      "name": "AR: BOX OFFICE 84 4K"
+    },
+    {
+      "number": 41510,
+      "name": "AR: BOX OFFICE 85 4K"
+    },
+    {
+      "number": 41511,
+      "name": "AR: BOX OFFICE 86 4K"
+    },
+    {
+      "number": 41512,
+      "name": "AR: BOX OFFICE 87 4K"
+    },
+    {
+      "number": 41513,
+      "name": "AR: BOX OFFICE 88 4K"
+    },
+    {
+      "number": 41514,
+      "name": "AR: BOX OFFICE 89 4K"
+    },
+    {
+      "number": 41515,
+      "name": "AR: BOX OFFICE 90 4K"
+    },
+    {
+      "number": 41516,
+      "name": "AR: BOX OFFICE 91 4K"
+    },
+    {
+      "number": 41517,
+      "name": "AR: BOX OFFICE 92 4K"
+    },
+    {
+      "number": 41518,
+      "name": "AR: BOX OFFICE 93 4K"
+    },
+    {
+      "number": 41519,
+      "name": "AR: BOX OFFICE 94 4K"
+    },
+    {
+      "number": 41520,
+      "name": "AR: BOX OFFICE 95 4K"
+    },
+    {
+      "number": 41521,
+      "name": "AR: BOX OFFICE 96 4K"
+    },
+    {
+      "number": 41522,
+      "name": "AR: BOX OFFICE 97 4K"
+    },
+    {
+      "number": 41523,
+      "name": "AR: BOX OFFICE 98 4K"
+    },
+    {
+      "number": 41524,
+      "name": "AR: BOX OFFICE 99 4K"
+    },
+    {
+      "number": 41525,
+      "name": "AR: BOX OFFICE 100 4K"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "category": "ARABIC | MOROCCO",
+  "captured": "2026-10-02T10:17:17-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42401,
+      "name": "AR/ TV5 MONDE STYLE HEVC"
+    },
+    {
+      "number": 42406,
+      "name": "AR/ AFLAM 7 HEVC"
+    },
+    {
+      "number": 42407,
+      "name": "AR/ AL MAGHRIBIA HEVC"
+    },
+    {
+      "number": 42410,
+      "name": "AR/ CHADA TV"
+    },
+    {
+      "number": 42414,
+      "name": "AR/ MBC 5"
+    },
+    {
+      "number": 42416,
+      "name": "AR/ MBC 5 FHD"
+    },
+    {
+      "number": 42421,
+      "name": "AR/ LAAYOUNE HD"
+    },
+    {
+      "number": 42422,
+      "name": "AR/ MEDI 1 MAGHREB TV HD"
+    },
+    {
+      "number": 42424,
+      "name": "AR/ ARRYADIA LIVE FHD"
+    },
+    {
+      "number": 42425,
+      "name": "AR/ ARRYADIA LIVE HD"
+    },
+    {
+      "number": 42428,
+      "name": "AR/ ARRYADIA LIVE SD"
+    },
+    {
+      "number": 42429,
+      "name": "AR/ ARRIADIA TNT HD"
+    },
+    {
+      "number": 42431,
+      "name": "AR/ 2M NATIONAL"
+    },
+    {
+      "number": 42432,
+      "name": "AR/ 2M MONDE"
+    },
+    {
+      "number": 42440,
+      "name": "AR/ AL AOULA INTER FHD"
+    },
+    {
+      "number": 42441,
+      "name": "AR/ AL AOULA INTER HD"
+    },
+    {
+      "number": 42443,
+      "name": "AR/ AL AOULA INTER SD"
+    }
+  ]
+}

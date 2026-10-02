@@ -1,0 +1,52 @@
+{
+  "category": "ARABIC | SUDAN",
+  "captured": "2026-10-02T10:10:15-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41676,
+      "name": "SUDAN 24 HD"
+    },
+    {
+      "number": 42133,
+      "name": "SOUTH SUDAN SSBC"
+    },
+    {
+      "number": 42137,
+      "name": "AL SHAMALIA"
+    },
+    {
+      "number": 42138,
+      "name": "SUDAN BASIC EDU"
+    },
+    {
+      "number": 42140,
+      "name": "SUDAN TV"
+    },
+    {
+      "number": 42141,
+      "name": "TDM PROMOTIONAL"
+    },
+    {
+      "number": 42144,
+      "name": "SUDAN MEDINA TV"
+    },
+    {
+      "number": 42145,
+      "name": "SUDAN EL WATANIA TV"
+    },
+    {
+      "number": 42147,
+      "name": "SUDAN DAVA TV"
+    },
+    {
+      "number": 42148,
+      "name": "KHARTOUM TV"
+    },
+    {
+      "number": 42153,
+      "name": "DABANGO SUDAN"
+    }
+  ]
+}

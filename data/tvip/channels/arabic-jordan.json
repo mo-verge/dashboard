@@ -1,0 +1,46 @@
+{
+  "category": "ARABIC | JORDAN",
+  "captured": "2026-10-02T10:17:50-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42635,
+      "name": "SAMA JORDAN"
+    },
+    {
+      "number": 42636,
+      "name": "AL ITHAD"
+    },
+    {
+      "number": 42638,
+      "name": "JORDAN NOW"
+    },
+    {
+      "number": 42639,
+      "name": "JORDAN SPORT HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.9,
+      "audio_rms": 3575.2,
+      "audio_ok": true
+    },
+    {
+      "number": 42643,
+      "name": "ALMAMLAKA TV HD"
+    },
+    {
+      "number": 42,
+      "name": "ROYA TV FHD",
+      "number_uncertain": true
+    },
+    {
+      "number": 42646,
+      "name": "AMMAN TV"
+    },
+    {
+      "number": 42668,
+      "name": "AL ARABY 2"
+    }
+  ]
+}

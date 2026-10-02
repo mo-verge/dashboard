@@ -1,0 +1,134 @@
+{
+  "category": "ENGLISH | FITNESS 24X7",
+  "captured": "2026-10-02T09:58:21-0400",
+  "mode": "full",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 77501,
+      "name": "AART | FITNESS 01",
+      "epg": [],
+      "video_ok": true,
+      "luma": 189.8,
+      "audio_rms": 5226.7,
+      "audio_ok": true
+    },
+    {
+      "number": 77502,
+      "name": "AART | FITNESS 02",
+      "epg": [],
+      "video_ok": true,
+      "luma": 214.6,
+      "audio_rms": 37.4,
+      "audio_ok": true
+    },
+    {
+      "number": 77503,
+      "name": "AART | FITNESS 03",
+      "epg": [],
+      "video_ok": true,
+      "luma": 138.9,
+      "audio_rms": 4466.7,
+      "audio_ok": true
+    },
+    {
+      "number": 77504,
+      "name": "AART | FITNESS 04",
+      "epg": [],
+      "video_ok": true,
+      "luma": 151.3,
+      "audio_rms": 3454.5,
+      "audio_ok": true
+    },
+    {
+      "number": 77505,
+      "name": "AART | FITNESS 05",
+      "epg": [],
+      "video_ok": true,
+      "luma": 180.2,
+      "audio_rms": 3547.6,
+      "audio_ok": true
+    },
+    {
+      "number": 77506,
+      "name": "AART | FITNESS 06",
+      "epg": [],
+      "video_ok": true,
+      "luma": 147.7,
+      "audio_rms": 1086.1,
+      "audio_ok": true
+    },
+    {
+      "number": 77507,
+      "name": "AART | FITNESS 07",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.0,
+      "audio_rms": 3828.0,
+      "audio_ok": true
+    },
+    {
+      "number": 77508,
+      "name": "AART | FITNESS 08",
+      "epg": [],
+      "video_ok": true,
+      "luma": 164.1,
+      "audio_rms": 10076.3,
+      "audio_ok": true
+    },
+    {
+      "number": 77509,
+      "name": "AART | FITNESS 09",
+      "epg": [],
+      "video_ok": true,
+      "luma": 154.4,
+      "audio_rms": 1095.2,
+      "audio_ok": true
+    },
+    {
+      "number": 77510,
+      "name": "AART | FITNESS 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 145.0,
+      "audio_rms": 2988.6,
+      "audio_ok": true
+    },
+    {
+      "number": 77511,
+      "name": "AART | FITNESS 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 176.4,
+      "audio_rms": 3510.2,
+      "audio_ok": true
+    },
+    {
+      "number": 77512,
+      "name": "AART | FITNESS 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 189.3,
+      "audio_rms": 2632.1,
+      "audio_ok": true
+    },
+    {
+      "number": 77513,
+      "name": "AART | FITNESS 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.7,
+      "audio_rms": 2105.9,
+      "audio_ok": true
+    },
+    {
+      "number": 77514,
+      "name": "AART | FITNESS 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 189.9,
+      "audio_rms": 7592.9,
+      "audio_ok": true
+    }
+  ]
+}

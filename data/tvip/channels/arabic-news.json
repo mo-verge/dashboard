@@ -1,0 +1,80 @@
+{
+  "category": "ARABIC | NEWS",
+  "captured": "2026-10-02T10:14:37-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42346,
+      "name": "AR/ AL ALAM"
+    },
+    {
+      "number": 42347,
+      "name": "AR/ CGTN DOCUMENTARY"
+    },
+    {
+      "number": 42350,
+      "name": "AR/ DW ARABIA"
+    },
+    {
+      "number": 42351,
+      "name": "AR/ AL ARABIYA ALHADATH"
+    },
+    {
+      "number": 42354,
+      "name": "AR/ AL ARABIYA HD"
+    },
+    {
+      "number": 42358,
+      "name": "AR/ 124 NEWS"
+    },
+    {
+      "number": 42359,
+      "name": "AR/ SKY NEWS ARABIC"
+    },
+    {
+      "number": 42361,
+      "name": "AR/ FRANCE 24 ENG"
+    },
+    {
+      "number": 42362,
+      "name": "AR/ FRANCE 24"
+    },
+    {
+      "number": 42365,
+      "name": "AR/ CNBC ARABIC"
+    },
+    {
+      "number": 42366,
+      "name": "AR/ BBC ARABIC"
+    },
+    {
+      "number": 42368,
+      "name": "AR/ AL QAHERA NEWS"
+    },
+    {
+      "number": 42375,
+      "name": "AR/ AL JAZEERA DOCUMENTARIES"
+    },
+    {
+      "number": 42376,
+      "name": "AR/ AL JAZEERA MUBASHAR FHD"
+    },
+    {
+      "number": 42378,
+      "name": "AR/ AL JAZEERA HD"
+    },
+    {
+      "number": 42379,
+      "name": "AR/ AL JAZEERA FHD"
+    },
+    {
+      "number": 42382,
+      "name": "AR/ AL JAZEERA ENGLISH FHD"
+    },
+    {
+      "number": 42383,
+      "name": "AR/ SAUDIA AL EKHBARIYA FHD"
+    }
+  ]
+}

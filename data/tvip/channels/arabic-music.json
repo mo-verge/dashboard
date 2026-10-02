@@ -1,0 +1,36 @@
+{
+  "category": "ARABIC | MUSIC",
+  "captured": "2026-10-02T10:20:57-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42385,
+      "name": "MUSIC 2HD"
+    },
+    {
+      "number": 42390,
+      "name": "MAZZIKA"
+    },
+    {
+      "number": 42391,
+      "name": "AGHANI AGHANI HEVC"
+    },
+    {
+      "number": 42393,
+      "name": "AGHANI AGHANI TV HD"
+    },
+    {
+      "number": 42394,
+      "name": "AGHANI AGHANI TV FHD"
+    },
+    {
+      "number": 42398,
+      "name": "ARABICA HD"
+    },
+    {
+      "number": 42400,
+      "name": "ARABICA TV FHD"
+    }
+  ]
+}

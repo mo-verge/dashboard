@@ -89,14 +89,47 @@ def similar(a, b):
     return difflib.SequenceMatcher(None, norm(a), norm(b)).ratio()
 
 
+def wait_change(region, before, timeout=10.0):
+    """Wait until `region` of the screen differs from `before` (the box's UI can
+    lag seconds behind the keys); returns the new frame."""
+    from PIL import ImageChops, ImageStat
+    deadline = time.time() + timeout
+    img = frame(0.15)
+    while time.time() < deadline:
+        diff = ImageStat.Stat(ImageChops.difference(img.convert("L").crop(region), before)).mean[0]
+        if diff > 2:
+            return frame(0.35)          # let the animation settle
+        img = frame(0.15)
+    return img
+
+
+def highlighted_category(img):
+    return clean(ocr(img.crop(CAT_HIGHLIGHT)))
+
+
 def goto_category(target, limit=300):
     """From the portal home, press down until the highlighted category is `target`
-    (fuzzy: OCR of the highlighted row varies a little between passes)."""
+    (fuzzy: OCR of the highlighted row varies a little between passes). Waits for
+    the box to actually move after each key, and confirms the match twice."""
+    img = frame(0.5)
     for _ in range(limit):
-        if similar(clean(ocr(frame(0.5).crop(CAT_HIGHLIGHT))), target) >= 0.88:
-            return True
+        if similar(highlighted_category(img), target) >= 0.88:
+            again = frame(0.6)
+            if similar(highlighted_category(again), target) >= 0.88:
+                return True
+            img = again
+            continue
+        before = img.convert("L").crop(CAT_HIGHLIGHT)
         box.press("down")
+        img = wait_change(CAT_HIGHLIGHT, before)
+        # never queue a second key while the box hasn't shown the first one
+        if similar(highlighted_category(img), highlighted_category_from(before)) >= 0.99:
+            img = wait_change(CAT_HIGHLIGHT, before, timeout=20)
     return False
+
+
+def highlighted_category_from(gray_crop):
+    return clean(ocr(gray_crop.convert("RGB")))
 
 
 def list_title(img):
@@ -230,13 +263,20 @@ def channels(category, out, epg=True, settle=2.5, thumbs=None, tune_if=None):
     tune_if=regex tunes only channels whose name matches (quick-scan tiers)."""
     if not goto_category(category):
         sys.exit(f"category not found: {category}")
-    box.press("ok")
-    img = frame(4.0)
-    title = list_title(img)
-    if similar(title, category) < 0.8:
+    for attempt in (1, 2):
+        box.press("ok")
+        title, deadline = "", time.time() + 15     # the list can take many seconds to open
+        while time.time() < deadline:
+            img = frame(1.0)
+            title = list_title(img)
+            if similar(title, category) >= 0.8:
+                break
+        if similar(title, category) >= 0.8:
+            break
         box.press("back")
         ensure_home()
-        sys.exit(f"opened '{title}' instead of {category}")
+        if attempt == 2 or not goto_category(category):
+            sys.exit(f"opened '{title}' instead of {category}")
     total = read_total(img)
     print(f"{category}: {total} channels", flush=True)
     rows, seen = [], set()
@@ -248,19 +288,21 @@ def channels(category, out, epg=True, settle=2.5, thumbs=None, tune_if=None):
         prev = rows[-1]["number"] if rows else None
         num, name, fixed = read_row(img, highlighted_row(img), prev)
         if rows and num is not None and num == prev:
-            # highlight didn't move (slow redraw / end of a page): nudge, then give up
-            # (slow redraw, page flip, or an error popup on a broken channel)
+            # Highlight hasn't moved: the box is lagging (keep waiting, a queued
+            # key would overshoot) or the key was lost (then resend just one).
             stuck += 1
-            if stuck >= 6:
+            if stuck >= 4:
                 print(f"   stuck at {num}; leaving category", flush=True)
                 break
-            time.sleep(1.5)
-            if stuck == 3 and not in_list(frame(0.2)):
+            region = (ROW_X0, ROW_Y0, ROW_X1, int(ROW_Y0 + ROWS * ROW_PITCH))
+            before = img.convert("L").crop(region)
+            if not in_list(img):            # an error popup on a broken channel
                 box.press("back")
                 time.sleep(1.5)
-            box.press("down")
-            if stuck >= 4:
+            moved = wait_change(region, before, timeout=10)
+            if moved.convert("L").crop(region).tobytes() == before.tobytes():
                 box.press("down")
+                wait_change(region, before, timeout=10)
             continue
         stuck = 0
         tuned = epg
@@ -289,7 +331,9 @@ def channels(category, out, epg=True, settle=2.5, thumbs=None, tune_if=None):
             misses += 1
             if misses > 5:
                 break
+        before = img.convert("L").crop((ROW_X0, ROW_Y0, ROW_X1, int(ROW_Y0 + ROWS * ROW_PITCH)))
         box.press("down")
+        wait_change((ROW_X0, ROW_Y0, ROW_X1, int(ROW_Y0 + ROWS * ROW_PITCH)), before, timeout=10)
     box.press("back")
     ensure_home()
     json.dump({"category": category, "captured": time.strftime("%Y-%m-%dT%H:%M:%S%z"),

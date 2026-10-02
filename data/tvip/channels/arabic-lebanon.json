@@ -1,0 +1,88 @@
+{
+  "category": "ARABIC | LEBANON",
+  "captured": "2026-10-02T10:01:22-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42567,
+      "name": "ALAAN TV HD"
+    },
+    {
+      "number": 42569,
+      "name": "AL MAYADEEN"
+    },
+    {
+      "number": 42573,
+      "name": "OTV LEBANON FHD"
+    },
+    {
+      "number": 42574,
+      "name": "ONE TV LEBANON HEVC"
+    },
+    {
+      "number": 42576,
+      "name": "LBC USA"
+    },
+    {
+      "number": 42577,
+      "name": "LBC FHD USA"
+    },
+    {
+      "number": 42580,
+      "name": "LBC FHD"
+    },
+    {
+      "number": 42581,
+      "name": "LBC INTERNATIONAL HEVC"
+    },
+    {
+      "number": 42583,
+      "name": "LBC INTERNATIONAL FHD"
+    },
+    {
+      "number": 42584,
+      "name": "NBN FHD"
+    },
+    {
+      "number": 42587,
+      "name": "AL MASHHAD"
+    },
+    {
+      "number": 42588,
+      "name": "AL MANAR"
+    },
+    {
+      "number": 42590,
+      "name": "AL JADEED HEVC"
+    },
+    {
+      "number": 42591,
+      "name": "AL JADEED HD"
+    },
+    {
+      "number": 42596,
+      "name": "AL JADEED FHD"
+    },
+    {
+      "number": 42597,
+      "name": "MTV LEBANON HEVC"
+    },
+    {
+      "number": 42599,
+      "name": "MTV LEBANON FHD"
+    },
+    {
+      "number": 42600,
+      "name": "MTV LEBANON HD"
+    },
+    {
+      "number": 43057,
+      "name": "OTV LEBANON"
+    },
+    {
+      "number": 43058,
+      "name": "AL NOURSAT FHD"
+    }
+  ]
+}

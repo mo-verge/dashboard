@@ -1,5 +1,5 @@
 {
- "count": 633,
+ "count": 641,
  "channels": [
   {
    "number": 3623,
@@ -14921,6 +14921,36 @@
    "epg": []
   },
   {
+   "number": 42029,
+   "name": "YAS SPORT FHD",
+   "categories": [
+    "ARABIC | UAE"
+   ],
+   "country": "AE",
+   "language": "ar",
+   "content_type": "sports",
+   "soccer": 3,
+   "language_learning": null,
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 42041,
+   "name": "YAS SPORTS HD",
+   "categories": [
+    "ARABIC | UAE"
+   ],
+   "country": "AE",
+   "language": "ar",
+   "content_type": "sports",
+   "soccer": 3,
+   "language_learning": null,
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
    "number": 42055,
    "name": "AR| AL KASS 5 HD",
    "categories": [
@@ -15236,12 +15266,57 @@
    "epg": []
   },
   {
+   "number": 42200,
+   "name": "KAS SPORT 1 PLUS",
+   "categories": [
+    "ARABIC | SAUDI ARABIA"
+   ],
+   "country": "SA",
+   "language": "ar",
+   "content_type": "sports",
+   "soccer": 3,
+   "language_learning": null,
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
    "number": 42244,
    "name": "AR| AL KASS 2 HD",
    "categories": [
     "ARABIC | ALKASS"
    ],
    "country": "AR",
+   "language": "ar",
+   "content_type": "sports",
+   "soccer": 3,
+   "language_learning": null,
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 42256,
+   "name": "ALKASS SPORT 4 HD",
+   "categories": [
+    "ARABIC | QATAR"
+   ],
+   "country": "QA",
+   "language": "ar",
+   "content_type": "sports",
+   "soccer": 3,
+   "language_learning": null,
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 42259,
+   "name": "ALKASS SPORT 1 HD",
+   "categories": [
+    "ARABIC | QATAR"
+   ],
+   "country": "QA",
    "language": "ar",
    "content_type": "sports",
    "soccer": 3,
@@ -15264,6 +15339,42 @@
    "video_ok": true,
    "audio_ok": true,
    "epg": []
+  },
+  {
+   "number": 42424,
+   "name": "AR/ ARRYADIA LIVE FHD",
+   "categories": [
+    "ARABIC | MOROCCO"
+   ],
+   "country": "MA",
+   "language": "ar",
+   "content_type": "sports",
+   "soccer": 3,
+   "language_learning": null
+  },
+  {
+   "number": 42425,
+   "name": "AR/ ARRYADIA LIVE HD",
+   "categories": [
+    "ARABIC | MOROCCO"
+   ],
+   "country": "MA",
+   "language": "ar",
+   "content_type": "sports",
+   "soccer": 3,
+   "language_learning": null
+  },
+  {
+   "number": 42428,
+   "name": "AR/ ARRYADIA LIVE SD",
+   "categories": [
+    "ARABIC | MOROCCO"
+   ],
+   "country": "MA",
+   "language": "ar",
+   "content_type": "sports",
+   "soccer": 3,
+   "language_learning": null
   },
   {
    "number": 42547,

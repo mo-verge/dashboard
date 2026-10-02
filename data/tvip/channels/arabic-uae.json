@@ -1,0 +1,102 @@
+{
+  "category": "ARABIC | UAE",
+  "captured": "2026-10-02T10:28:58-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42029,
+      "name": "YAS SPORT FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.7,
+      "audio_rms": 5686.7,
+      "audio_ok": true
+    },
+    {
+      "number": 42034,
+      "name": "BAYNOUNAH"
+    },
+    {
+      "number": 42041,
+      "name": "YAS SPORTS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.8,
+      "audio_rms": 8453.2,
+      "audio_ok": true
+    },
+    {
+      "number": 42042,
+      "name": "ABU DHABI NATIONAL GEO HD"
+    },
+    {
+      "number": 42045,
+      "name": "ABU DHABI TV HD"
+    },
+    {
+      "number": 42048,
+      "name": "AL EMARAT TV HD"
+    },
+    {
+      "number": 42049,
+      "name": "JBAI RACING 3"
+    },
+    {
+      "number": 42051,
+      "name": "DUBAI RACING 1 TV FHD"
+    },
+    {
+      "number": 42052,
+      "name": "DUBAI RACING 2"
+    },
+    {
+      "number": 42059,
+      "name": "DUBAI RACING 1 TV HD"
+    },
+    {
+      "number": 42060,
+      "name": "JBAI SPORT 3 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42062,
+      "name": "JBAI SPORT 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8420,
+      "name": "JUBAI SPORT 2",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 139.6,
+      "audio_rms": 1012.4,
+      "audio_ok": true
+    },
+    {
+      "number": 42067,
+      "name": "NOOR DUBA"
+    },
+    {
+      "number": 42069,
+      "name": "SAMA DUBAI HD"
+    },
+    {
+      "number": 42070,
+      "name": "DUBAI ZAMAN"
+    },
+    {
+      "number": 43056,
+      "name": "SHARJAH HD"
+    }
+  ]
+}

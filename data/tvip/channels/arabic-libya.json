@@ -1,0 +1,100 @@
+{
+  "category": "ARABIC | LIBYA",
+  "captured": "2026-10-02T10:05:27-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41670,
+      "name": "LIBYA SPORT1",
+      "epg": [
+        {
+          "time": "10:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.6,
+      "audio_rms": 6224.7,
+      "audio_ok": true
+    },
+    {
+      "number": 41671,
+      "name": "LIBYA AL WASAT TV 4K"
+    },
+    {
+      "number": 41673,
+      "name": "LIBYA ALWATANIYA HD"
+    },
+    {
+      "number": 41926,
+      "name": "LIBYA SPORT 2 FHD",
+      "epg": [
+        {
+          "time": "10:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.3,
+      "audio_rms": 3225.3,
+      "audio_ok": true
+    },
+    {
+      "number": 41927,
+      "name": "LIBYA LEBDA TV FHD"
+    },
+    {
+      "number": 42053,
+      "name": "TANASUH TV"
+    },
+    {
+      "number": 42179,
+      "name": "LIBYA WIV"
+    },
+    {
+      "number": 42433,
+      "name": "LIBYA ALHRAR HD"
+    },
+    {
+      "number": 42434,
+      "name": "LIBYA ALRASMIA"
+    },
+    {
+      "number": 42560,
+      "name": "LIBYA AL HADATH"
+    }
+  ]
+}

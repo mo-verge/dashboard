@@ -1,5 +1,5 @@
 {
- "count": 4497,
+ "count": 4508,
  "channels": [
   {
    "number": 26,
@@ -9793,6 +9793,258 @@
    ]
   },
   {
+   "number": 77501,
+   "name": "AART | FITNESS 01",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77502,
+   "name": "AART | FITNESS 02",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77503,
+   "name": "AART | FITNESS 03",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77504,
+   "name": "AART | FITNESS 04",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77505,
+   "name": "AART | FITNESS 05",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77506,
+   "name": "AART | FITNESS 06",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77507,
+   "name": "AART | FITNESS 07",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77508,
+   "name": "AART | FITNESS 08",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77509,
+   "name": "AART | FITNESS 09",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77510,
+   "name": "AART | FITNESS 10",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77511,
+   "name": "AART | FITNESS 11",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77512,
+   "name": "AART | FITNESS 12",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77513,
+   "name": "AART | FITNESS 13",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
+   "number": 77514,
+   "name": "AART | FITNESS 14",
+   "categories": [
+    "ENGLISH | FITNESS 24X7"
+   ],
+   "country": null,
+   "language": "en",
+   "content_type": "series",
+   "soccer": 0,
+   "language_learning": {
+    "score": 5,
+    "notes": []
+   },
+   "video_ok": true,
+   "audio_ok": true,
+   "epg": []
+  },
+  {
    "number": 30,
    "name": "BABY RHYMES 1",
    "categories": [
@@ -10089,52 +10341,6 @@
      "site": "sky.co.nz",
      "site_id": "102",
      "lang": "en"
-    }
-   ]
-  },
-  {
-   "number": 42,
-   "name": "DISNEY CHANNEL. 4K",
-   "categories": [
-    "ENGLISH | KIDS"
-   ],
-   "country": "BE",
-   "language": "en",
-   "content_type": "kids",
-   "soccer": 0,
-   "language_learning": {
-    "score": 4,
-    "notes": []
-   },
-   "video_ok": true,
-   "audio_ok": true,
-   "epg": [
-    {
-     "time": "2:30 AM",
-     "title": "Big City Greens"
-    },
-    {
-     "time": "3:00 AM",
-     "title": "The Stanley Dynamic"
-    },
-    {
-     "time": "3:30 AM",
-     "title": "The Stanley Dynamic"
-    },
-    {
-     "time": "4:00 AM",
-     "title": "Big City Greens"
-    },
-    {
-     "time": "4:30 AM",
-     "title": "Big City Greens"
-    }
-   ],
-   "epg_sources": [
-    {
-     "site": "tv-programme.telecablesat.fr",
-     "site_id": "1967",
-     "lang": "fr"
     }
    ]
   },
@@ -13562,45 +13768,6 @@
      "site": "tvtv.us",
      "site_id": "31556",
      "lang": "en"
-    }
-   ]
-  },
-  {
-   "number": 441,
-   "name": "CARTOON NETWORK CANADA",
-   "categories": [
-    "ENGLISH | KIDS"
-   ],
-   "country": null,
-   "language": "en",
-   "content_type": "kids",
-   "soccer": 0,
-   "language_learning": {
-    "score": 4,
-    "notes": []
-   },
-   "video_ok": true,
-   "audio_ok": true,
-   "epg": [
-    {
-     "time": "2:30 AM",
-     "title": "Grossology"
-    },
-    {
-     "time": "3:00 AM",
-     "title": "Total Dramarama"
-    },
-    {
-     "time": "3:30 AM",
-     "title": "Total Dramarama"
-    },
-    {
-     "time": "4:00 AM",
-     "title": "Hotel Transylvania: The Series"
-    },
-    {
-     "time": "4:30 AM",
-     "title": "Mermicorno: Starfall"
     }
    ]
   },
@@ -43666,82 +43833,6 @@
     {
      "time": "6:00 AM",
      "title": "Prosecuting Evil With Kelly Siegler"
-    }
-   ]
-  },
-  {
-   "number": 421,
-   "name": "POP TV HD",
-   "categories": [
-    "ENGLISH | USA"
-   ],
-   "country": "US",
-   "language": "en",
-   "content_type": "entertainment",
-   "soccer": 0,
-   "language_learning": {
-    "score": 3,
-    "notes": []
-   },
-   "video_ok": true,
-   "audio_ok": true,
-   "epg": [
-    {
-     "time": "1:00 AM",
-     "title": "Channel No Longer Available"
-    },
-    {
-     "time": "5:00 AM",
-     "title": "Channel No Longer Available"
-    },
-    {
-     "time": "9:00 AM",
-     "title": "Channel No Longer Available"
-    },
-    {
-     "time": "1:00 PM",
-     "title": "Channel No Longer Available"
-    },
-    {
-     "time": "5:00 PM",
-     "title": "Channel No Longer Available"
-    }
-   ],
-   "epg_sources": [
-    {
-     "site": "tvguide.com",
-     "site_id": "9200020464",
-     "lang": "en"
-    },
-    {
-     "site": "tvpassport.com",
-     "site_id": "pop--east/10165",
-     "lang": "en"
-    },
-    {
-     "site": "tvpassport.com",
-     "site_id": "pop-hd--east/10370",
-     "lang": "en"
-    },
-    {
-     "site": "tvpassport.com",
-     "site_id": "pop--west/14684",
-     "lang": "en"
-    },
-    {
-     "site": "tvpassport.com",
-     "site_id": "pop-hd--west/19105",
-     "lang": "en"
-    },
-    {
-     "site": "tvtv.us",
-     "site_id": "16715",
-     "lang": "en"
-    },
-    {
-     "site": "tvtv.us",
-     "site_id": "43377",
-     "lang": "en"
     }
    ]
   },

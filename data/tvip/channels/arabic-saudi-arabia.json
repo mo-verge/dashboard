@@ -1,0 +1,134 @@
+{
+  "category": "ARABIC | SAUDI ARABIA",
+  "captured": "2026-10-02T10:27:19-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42195,
+      "name": "SAUDI QURAN HD"
+    },
+    {
+      "number": 42196,
+      "name": "SAUDI SUNNA"
+    },
+    {
+      "number": 42199,
+      "name": "ASHARQ NEWS"
+    },
+    {
+      "number": 42200,
+      "name": "KAS SPORT 1 PLUS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.9,
+      "audio_rms": 3304.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42201,
+      "name": "SAUDIA SPORT 4 FHD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42203,
+      "name": "SAUDIA SPORT 3 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.6,
+      "audio_rms": 9633.9,
+      "audio_ok": true
+    },
+    {
+      "number": 42204,
+      "name": "SAUDIA SPORT 2 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.9,
+      "audio_rms": 4397.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42207,
+      "name": "SAUDIA SPORT 1 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.9,
+      "audio_rms": 3391.6,
+      "audio_ok": true
+    },
+    {
+      "number": 42208,
+      "name": "UDIA THEKRAYAT TV"
+    },
+    {
+      "number": 42210,
+      "name": "SAUDIA SBC HD"
+    },
+    {
+      "number": 42212,
+      "name": "AL RESALAH"
+    },
+    {
+      "number": 42224,
+      "name": "SAUDIA SPORT 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.2,
+      "audio_rms": 3352.8,
+      "audio_ok": true
+    },
+    {
+      "number": 42226,
+      "name": "SAUDIA THEKRAYAT TV 4K"
+    },
+    {
+      "number": 42227,
+      "name": "SAUDIA TV 1 4K"
+    },
+    {
+      "number": 42231,
+      "name": "SAUDIA TV 1 FHD"
+    },
+    {
+      "number": 42232,
+      "name": "AL WESAM TV"
+    },
+    {
+      "number": 42234,
+      "name": "ALWAQIE TV"
+    },
+    {
+      "number": 42235,
+      "name": "ALMAJD EKHBARIE"
+    },
+    {
+      "number": 42238,
+      "name": "ALMAJD DOCUMENTARY"
+    },
+    {
+      "number": 42241,
+      "name": "ALMAJD BASMAH"
+    },
+    {
+      "number": 42242,
+      "name": "ALMAJD RAWAD"
+    },
+    {
+      "number": 42249,
+      "name": "ALMAJD RELIGIOUS SCIENCE"
+    },
+    {
+      "number": 42251,
+      "name": "ALMAJD SPACE TV"
+    },
+    {
+      "number": 42252,
+      "name": "ALMAJD GENERAL"
+    }
+  ]
+}

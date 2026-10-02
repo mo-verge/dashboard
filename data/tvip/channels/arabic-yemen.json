@@ -1,0 +1,72 @@
+{
+  "category": "ARABIC | YEMEN",
+  "captured": "2026-10-02T10:09:42-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41988,
+      "name": "AR/ YEMEN TODAY"
+    },
+    {
+      "number": 41989,
+      "name": "AR/ YEMEN AL HOTHIA TV"
+    },
+    {
+      "number": 41995,
+      "name": "AR/YEMEN TODAY AL HOTHIA"
+    },
+    {
+      "number": 41996,
+      "name": "AR/ SHEBA TV"
+    },
+    {
+      "number": 41998,
+      "name": "AR/ YEMEN AL SAEEDAH"
+    },
+    {
+      "number": 41999,
+      "name": "AR/ SUHAIL TV"
+    },
+    {
+      "number": 42002,
+      "name": "YEMEN SHABAB FHD"
+    },
+    {
+      "number": 42005,
+      "name": "AR/ BELQEES"
+    },
+    {
+      "number": 42006,
+      "name": "AR/ YEMEN EL EIMAN"
+    },
+    {
+      "number": 42010,
+      "name": "AR/ YEMEN AL MASIRAH TV"
+    },
+    {
+      "number": 42011,
+      "name": "AR/ YEMEN AL MAHRIAH FHD"
+    },
+    {
+      "number": 42013,
+      "name": "AR/ YEMEN AL HAWYAH TV"
+    },
+    {
+      "number": 42014,
+      "name": "AR/ YEMEN HADRAMOUNT TV"
+    },
+    {
+      "number": 42017,
+      "name": "AR/ YEMEN AL LAHDAH TV"
+    },
+    {
+      "number": 42018,
+      "name": "AR/ YEMEN EDUCATION TV"
+    },
+    {
+      "number": 42020,
+      "name": "HH YEMEN ######"
+    }
+  ]
+}

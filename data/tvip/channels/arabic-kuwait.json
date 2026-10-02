@@ -1,0 +1,45 @@
+{
+  "category": "ARABIC | KUWAIT",
+  "captured": "2026-10-02T10:08:59-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42604,
+      "name": "AR/ KUWAIT SPORTS FHD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42607,
+      "name": "AR/ ALRAI TV FHD"
+    },
+    {
+      "number": 42611,
+      "name": "AR/ AL FUJERA HD"
+    },
+    {
+      "number": 42612,
+      "name": "AR/ AL SHAHED TV 4K"
+    },
+    {
+      "number": 42614,
+      "name": "AR/ KUWAIT TV PLUS HD"
+    },
+    {
+      "number": 42615,
+      "name": "AR/"
+    },
+    {
+      "number": 42618,
+      "name": "AR/ KUWAIT TV 2"
+    },
+    {
+      "number": 42619,
+      "name": "AR/ KUWAIT PLUS"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "category": "ARABIC | NETFLIX 4K",
+  "captured": "2026-10-02T10:30:47-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41000,
+      "name": "AR: NETFLIX MOVIES 1 4K"
+    },
+    {
+      "number": 41001,
+      "name": "AR: NETFLIX MOVIES 2 4K"
+    },
+    {
+      "number": 41002,
+      "name": "AR: NETFLIX MOVIES 3 4K"
+    },
+    {
+      "number": 41003,
+      "name": "AR: NETFLIX MOVIES 4 4K"
+    },
+    {
+      "number": 41004,
+      "name": "AR: NETFLIX MOVIES 5 4K"
+    },
+    {
+      "number": 41005,
+      "name": "AR: NETFLIX MOVIES 6 4K"
+    },
+    {
+      "number": 41006,
+      "name": "AR: NETFLIX MOVIES 7 4K"
+    },
+    {
+      "number": 41007,
+      "name": "AR: NETFLIX MOVIES 8 4K"
+    },
+    {
+      "number": 41008,
+      "name": "AR: NETFLIX MOVIES 9 4K"
+    },
+    {
+      "number": 41009,
+      "name": "AR: NETFLIX MOVIES 10 4K"
+    },
+    {
+      "number": 41675,
+      "name": "NETFLIX 4K ######"
+    }
+  ]
+}

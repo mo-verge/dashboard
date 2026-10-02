@@ -1,0 +1,58 @@
+{
+  "category": "ARABIC | OMAN",
+  "captured": "2026-10-02T10:16:32-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42334,
+      "name": "OMAN SPORT TV",
+      "epg": [
+        {
+          "time": "10:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "N f"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42335,
+      "name": "AL ISTIQAMA HD"
+    },
+    {
+      "number": 42337,
+      "name": "OMAN ALISTIQAMA"
+    },
+    {
+      "number": 42338,
+      "name": "OMAN CULTURE HD"
+    },
+    {
+      "number": 42343,
+      "name": "OMAN CULTURE TV HD"
+    },
+    {
+      "number": 42344,
+      "name": "OMAN TV LIVE"
+    }
+  ]
+}

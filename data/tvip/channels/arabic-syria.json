@@ -1,0 +1,48 @@
+{
+  "category": "ARABIC | SYRIA",
+  "captured": "2026-10-02T10:06:30-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42109,
+      "name": "NOOR AL SHAM"
+    },
+    {
+      "number": 42113,
+      "name": "SOURYANA"
+    },
+    {
+      "number": 42115,
+      "name": "AL HAQEQA DAWALAH"
+    },
+    {
+      "number": 42116,
+      "name": "SYRIAN EDUCATION"
+    },
+    {
+      "number": 42122,
+      "name": "SYRIA NEWS"
+    },
+    {
+      "number": 42123,
+      "name": "SYRIA SATELLITE TV"
+    },
+    {
+      "number": 42125,
+      "name": "LANA TV"
+    },
+    {
+      "number": 42126,
+      "name": "LANA TV FHD"
+    },
+    {
+      "number": 42129,
+      "name": "SAMA TV"
+    },
+    {
+      "number": 42130,
+      "name": "SYRIA DRAMA"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "category": "ARABIC | IRAQ",
+  "captured": "2026-10-02T10:12:33-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41860,
+      "name": "AR/ AL MAWAKEB TV"
+    },
+    {
+      "number": 41870,
+      "name": "AR/ INEWS TV ARABIC HD"
+    },
+    {
+      "number": 41874,
+      "name": "AR/ AL FALLOJAH TV"
+    },
+    {
+      "number": 41877,
+      "name": "AR/ WIV WATAN TV FHD"
+    },
+    {
+      "number": 41885,
+      "name": "AR/ AL BAGHDADIA"
+    },
+    {
+      "number": 41889,
+      "name": "AR/ AL HURRA HD"
+    },
+    {
+      "number": 41892,
+      "name": "AR/ AL ESHRAQ TV"
+    },
+    {
+      "number": 41898,
+      "name": "AR/ SAWT ALITRA TV"
+    },
+    {
+      "number": 41901,
+      "name": "AR/ SHEHAB TV"
+    },
+    {
+      "number": 41905,
+      "name": "AR/ ASIL TV"
+    },
+    {
+      "number": 41913,
+      "name": "AR/ SAOUT ALAQILA"
+    },
+    {
+      "number": 41916,
+      "name": "AR/ OM AL BANEEN TV"
+    },
+    {
+      "number": 41920,
+      "name": "AR/ AL ANBAR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.7,
+      "audio_rms": 4813.3,
+      "audio_ok": true
+    },
+    {
+      "number": 41923,
+      "name": "AR/ IFILM ARABIC"
+    },
+    {
+      "number": 41932,
+      "name": "AR/ AHLULBAYT TV"
+    },
+    {
+      "number": 41935,
+      "name": "AR/ AL SIRAT"
+    },
+    {
+      "number": 41939,
+      "name": "AR/ AL MAAREF TV"
+    },
+    {
+      "number": 41942,
+      "name": "AR/ AL HURA HD"
+    },
+    {
+      "number": 41947,
+      "name": "AR/ AL AWHAD TV"
+    },
+    {
+      "number": 41950,
+      "name": "AR/ AL TALEAA TV"
+    },
+    {
+      "number": 41954,
+      "name": "AR/ AL ETEAH HD"
+    },
+    {
+      "number": 41957,
+      "name": "AR/ AL MAHD"
+    },
+    {
+      "number": 41963,
+      "name": "AR/ IRAQIA SYRIA"
+    },
+    {
+      "number": 41977,
+      "name": "AR/ AL SHAAER TV"
+    },
+    {
+      "number": 41979,
+      "name": "AR/ AL TAGHIR HD"
+    },
+    {
+      "number": 41980,
+      "name": "AR/ AFAQ"
+    },
+    {
+      "number": 41983,
+      "name": "AR/ AL FORAT"
+    },
+    {
+      "number": 41984,
+      "name": "AR/ AL AYAM TV"
+    },
+    {
+      "number": 41986,
+      "name": "AR/ IMAM ALI TV HD"
+    },
+    {
+      "number": 41987,
+      "name": "AR/ AL ANWAR 2"
+    },
+    {
+      "number": 41994,
+      "name": "AR/ AL QAMAR"
+    },
+    {
+      "number": 41997,
+      "name": "AR/ AL TAGHIER FHD"
+    },
+    {
+      "number": 42001,
+      "name": "AR/ IRAQ KIDS 4K"
+    },
+    {
+      "number": 42009,
+      "name": "AR/ AL MOHTADI TV"
+    },
+    {
+      "number": 42012,
+      "name": "AR/ AL BAGHDADIA NOW"
+    },
+    {
+      "number": 42016,
+      "name": "AR/ IMAM HUSSEIN 2"
+    },
+    {
+      "number": 42019,
+      "name": "AR/ KARBALA HD"
+    },
+    {
+      "number": 42025,
+      "name": "AR/ HAWA BAGHDAD"
+    },
+    {
+      "number": 42028,
+      "name": "AR/ HONA BAGHDAD"
+    },
+    {
+      "number": 42032,
+      "name": "AR/ AL NAEEM"
+    },
+    {
+      "number": 42035,
+      "name": "AR/ DAFRAH HD"
+    },
+    {
+      "number": 42040,
+      "name": "AR/ DIWAN TV 4K"
+    },
+    {
+      "number": 42043,
+      "name": "AR/ DULAH TV 4K"
+    },
+    {
+      "number": 42047,
+      "name": "AR/ AL JANOUBIA IRAQ 4K"
+    },
+    {
+      "number": 42050,
+      "name": "AR/ AL SUMARIA TV"
+    },
+    {
+      "number": 42058,
+      "name": "AR/ AL MAWSLEYA"
+    },
+    {
+      "number": 42061,
+      "name": "AR/ AL KAWTHAR"
+    },
+    {
+      "number": 42065,
+      "name": "AR/ AL IMAN"
+    },
+    {
+      "number": 42068,
+      "name": "AR/ AL HURRA IRAQ"
+    },
+    {
+      "number": 42073,
+      "name": "AR/ DULAH TV"
+    },
+    {
+      "number": 42076,
+      "name": "AR/ AL AQILA"
+    },
+    {
+      "number": 42080,
+      "name": "AR/ AL ANWAR"
+    },
+    {
+      "number": 42083,
+      "name": "AR/ AL RABIAA IRAQ FHD"
+    },
+    {
+      "number": 42089,
+      "name": "AR/ ALNAJAF ALASHRAF"
+    },
+    {
+      "number": 42096,
+      "name": "AR/ IRAQ TV NEWS FHD"
+    },
+    {
+      "number": 42099,
+      "name": "AR/ IRAQIA SPORTS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 143.2,
+      "audio_rms": 9553.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42111,
+      "name": "AR/ UTV IRAQ"
+    },
+    {
+      "number": 42114,
+      "name": "AR/ 12 ARABIA"
+    },
+    {
+      "number": 42121,
+      "name": "AR/ AL SHARQIYA TV FHD"
+    }
+  ]
+}

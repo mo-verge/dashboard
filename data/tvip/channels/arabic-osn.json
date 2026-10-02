@@ -1,0 +1,181 @@
+{
+  "category": "ARABIC | OSN",
+  "captured": "2026-10-02T10:08:11-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 43000,
+      "name": "OSN/ MOVIES PREMIERE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.4,
+      "audio_rms": 21.9,
+      "audio_ok": false
+    },
+    {
+      "number": 43002,
+      "name": "OSN/ MOVIES ACTION FHD"
+    },
+    {
+      "number": 43003,
+      "name": "OSN/ MOVIES HOLLYWOOD HD"
+    },
+    {
+      "number": 43005,
+      "name": "OSN/ STAR MOVIES HD"
+    },
+    {
+      "number": 43006,
+      "name": "OSN/ YAHALA AFLAM HD"
+    },
+    {
+      "number": 43007,
+      "name": "OSN/ ALFA CINEMA 1 FHD"
+    },
+    {
+      "number": 43008,
+      "name": "OSN/ ALFA CINEMA 2 HD"
+    },
+    {
+      "number": 43009,
+      "name": "OSN/ COMEDY FHD"
+    },
+    {
+      "number": 43010,
+      "name": "OSN/ SERIES CRIME FHD"
+    },
+    {
+      "number": 43011,
+      "name": "OSN/ ALFA MUSALSALAT HD"
+    },
+    {
+      "number": 43012,
+      "name": "OSN/ ALFA MUSALSALAT 2 HD"
+    },
+    {
+      "number": 43013,
+      "name": "OSN/ SERIES SHOWCASE FHD"
+    },
+    {
+      "number": 43014,
+      "name": "OSN/ SERIES COMEDY FHD"
+    },
+    {
+      "number": 43015,
+      "name": "OSN/ MOVIES FAMILY HD"
+    },
+    {
+      "number": 43016,
+      "name": "OSN/ KIDS ZONE FHD"
+    },
+    {
+      "number": 43017,
+      "name": "OSN/ KIDS HD"
+    },
+    {
+      "number": 43018,
+      "name": "OSN/ NICK JR. FHD"
+    },
+    {
+      "number": 43019,
+      "name": "OSN/ NICKTOONS FHD"
+    },
+    {
+      "number": 43020,
+      "name": "OSN/ NICKELODEON FHD"
+    },
+    {
+      "number": 43021,
+      "name": "OSN/ MOONBUG KIDS HD"
+    },
+    {
+      "number": 43023,
+      "name": "OSN/ DISNEY JUNIOR FHD"
+    },
+    {
+      "number": 43024,
+      "name": "OSN/ YAHALA FHD"
+    },
+    {
+      "number": 43025,
+      "name": "OSN/ YAHALA BIL ARABI HD"
+    },
+    {
+      "number": 43026,
+      "name": "OSN/ SHOWCASE HD"
+    },
+    {
+      "number": 43027,
+      "name": "OSN/ STAR WORLD FHD"
+    },
+    {
+      "number": 43028,
+      "name": "OSN/ ALFA ALYOUM HD"
+    },
+    {
+      "number": 43030,
+      "name": "OSN/ CRIME FHD"
+    },
+    {
+      "number": 43031,
+      "name": "OSN/ LIVING FHD"
+    },
+    {
+      "number": 43032,
+      "name": "OSN/ MEEZZE HD"
+    },
+    {
+      "number": 43036,
+      "name": "OSN/ HISTORY FHD"
+    },
+    {
+      "number": 43037,
+      "name": "OSN/ HISTORY 2 FHD"
+    },
+    {
+      "number": 43038,
+      "name": "OSN/ DISCOVERY FHD"
+    },
+    {
+      "number": 43039,
+      "name": "OSN/ DISCOVERY ID FHD"
+    },
+    {
+      "number": 43041,
+      "name": "OSN/ DISCOVERY SC FHD"
+    },
+    {
+      "number": 43043,
+      "name": "OSN/ ALYAWM FHD"
+    },
+    {
+      "number": 43044,
+      "name": "OSN/ ALFA SAFWAH FHD"
+    },
+    {
+      "number": 43045,
+      "name": "OSN/ ALFA ALFANN FHD"
+    },
+    {
+      "number": 43046,
+      "name": "OSN/ BLOOMBERG FHD"
+    },
+    {
+      "number": 43047,
+      "name": "OSN/ El FHD"
+    },
+    {
+      "number": 43051,
+      "name": "OSN/ NEWS FHD"
+    },
+    {
+      "number": 43053,
+      "name": "OSN/ TLC FHD"
+    },
+    {
+      "number": 43054,
+      "name": "OSN/ MTV FHD"
+    }
+  ]
+}

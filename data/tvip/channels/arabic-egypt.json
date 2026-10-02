@@ -1,0 +1,354 @@
+{
+  "category": "ARABIC | EGYPT",
+  "captured": "2026-10-02T10:04:37-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41531,
+      "name": "AR: WANASAT BABY 4K"
+    },
+    {
+      "number": 41532,
+      "name": "AR: WANASAT BABY"
+    },
+    {
+      "number": 41743,
+      "name": "AR/ AL RAHMA TV"
+    },
+    {
+      "number": 41771,
+      "name": "AR EXTRA LIVE"
+    },
+    {
+      "number": 41772,
+      "name": "AR MADRASINA 1"
+    },
+    {
+      "number": 41773,
+      "name": "AR MADRASINA 3"
+    },
+    {
+      "number": 41774,
+      "name": "AR/ AL QURAN AL KAREEM HD"
+    },
+    {
+      "number": 41775,
+      "name": "AR MISR EL BALD"
+    },
+    {
+      "number": 41776,
+      "name": "AR MIX BEL ARABY"
+    },
+    {
+      "number": 41778,
+      "name": "MIX ONE"
+    },
+    {
+      "number": 41779,
+      "name": "AR OSCAR TV"
+    },
+    {
+      "number": 41985,
+      "name": "AL SABAH TV +6H"
+    },
+    {
+      "number": 42007,
+      "name": "AL MAYADEEN +6H"
+    },
+    {
+      "number": 42124,
+      "name": "MDEEH TV"
+    },
+    {
+      "number": 42128,
+      "name": "AHLY TV"
+    },
+    {
+      "number": 42131,
+      "name": "ZAMALEK SPORTS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 155.5,
+      "audio_rms": 7777.8,
+      "audio_ok": true
+    },
+    {
+      "number": 42136,
+      "name": "NILE SPORT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.9,
+      "audio_rms": 5547.6,
+      "audio_ok": true
+    },
+    {
+      "number": 42139,
+      "name": "ON TIME SPORTS 2 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.1,
+      "audio_rms": 5056.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42143,
+      "name": "ON TIME SPORTS 2 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.0,
+      "audio_rms": 8913.9,
+      "audio_ok": true
+    },
+    {
+      "number": 42146,
+      "name": "ON TIME SPORT FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.7,
+      "audio_rms": 8507.8,
+      "audio_ok": true
+    },
+    {
+      "number": 42152,
+      "name": "NOGOUM FM TV"
+    },
+    {
+      "number": 42158,
+      "name": "EL MOLD"
+    },
+    {
+      "number": 42161,
+      "name": ""
+    },
+    {
+      "number": 42166,
+      "name": "MIX HOLLYWOOD"
+    },
+    {
+      "number": 42169,
+      "name": "WATAN TV EGYPT"
+    },
+    {
+      "number": 42173,
+      "name": "PANORAMA DRAMA 2"
+    },
+    {
+      "number": 42176,
+      "name": "AZHAR"
+    },
+    {
+      "number": 421,
+      "name": "MASPERO ZAMAN",
+      "number_uncertain": true
+    },
+    {
+      "number": 42187,
+      "name": "OA"
+    },
+    {
+      "number": 42191,
+      "name": "CBC SOFRA"
+    },
+    {
+      "number": 42194,
+      "name": "CBC DRAMA"
+    },
+    {
+      "number": 42202,
+      "name": "NAHAR DRAMA"
+    },
+    {
+      "number": 42206,
+      "name": "NAHAR ONE"
+    },
+    {
+      "number": 42209,
+      "name": "HAYAT 4K"
+    },
+    {
+      "number": 42215,
+      "name": "HAYAT"
+    },
+    {
+      "number": 42218,
+      "name": "HAYAT DRAMA"
+    },
+    {
+      "number": 42222,
+      "name": "PANORAMA FM 4K"
+    },
+    {
+      "number": 42225,
+      "name": "PANORAMA FOOD"
+    },
+    {
+      "number": 42230,
+      "name": "PANORAMA DRAMA"
+    },
+    {
+      "number": 42233,
+      "name": "PANORAMA FILM"
+    },
+    {
+      "number": 42237,
+      "name": "NILE FAMILY"
+    },
+    {
+      "number": 42240,
+      "name": "NILE CINEMA"
+    },
+    {
+      "number": 42247,
+      "name": "NILE CULTURE"
+    },
+    {
+      "number": 42250,
+      "name": "NILE COMEDY"
+    },
+    {
+      "number": 42254,
+      "name": "NILE DRAMA"
+    },
+    {
+      "number": 42257,
+      "name": "NILE NEWS 4K"
+    },
+    {
+      "number": 42262,
+      "name": "NILE NEWS"
+    },
+    {
+      "number": 42265,
+      "name": "NILE LIVE"
+    },
+    {
+      "number": 42269,
+      "name": "NILE TV"
+    },
+    {
+      "number": 42272,
+      "name": "TEN TV"
+    },
+    {
+      "number": 42278,
+      "name": "EL SHARQ"
+    },
+    {
+      "number": 42281,
+      "name": "KAHERA WA ALNAS"
+    },
+    {
+      "number": 42285,
+      "name": "SADA AL BALAD DRAMA"
+    },
+    {
+      "number": 42288,
+      "name": "SADA AL BALD PLUS"
+    },
+    {
+      "number": 42293,
+      "name": "AL BASIRA"
+    },
+    {
+      "number": 42296,
+      "name": "SADA AL BALAD"
+    },
+    {
+      "number": 42300,
+      "name": "ON E 4K"
+    },
+    {
+      "number": 42303,
+      "name": "ON DRAMA"
+    },
+    {
+      "number": 42311,
+      "name": "ETC TV"
+    },
+    {
+      "number": 42314,
+      "name": "DMC DRAMA TV"
+    },
+    {
+      "number": 42318,
+      "name": "AL QANAT 9"
+    },
+    {
+      "number": 42321,
+      "name": "DMC TV HD"
+    },
+    {
+      "number": 42326,
+      "name": "TEBE 8"
+    },
+    {
+      "number": 42329,
+      "name": "AL SHAOUB TV"
+    },
+    {
+      "number": 42333,
+      "name": "AL SAEED MASR 7"
+    },
+    {
+      "number": 42336,
+      "name": "AL SHAMS"
+    },
+    {
+      "number": 42342,
+      "name": "AL HADATH ALYOUM"
+    },
+    {
+      "number": 42345,
+      "name": "AL ASKANDARIA 5"
+    },
+    {
+      "number": 42349,
+      "name": "AL KANAL MASR 4"
+    },
+    {
+      "number": 42352,
+      "name": "AL KAHERA 3"
+    },
+    {
+      "number": 42357,
+      "name": "AL MASRYIA AIR TV"
+    },
+    {
+      "number": 42364,
+      "name": "EGYPTIAN TV 4K"
+    },
+    {
+      "number": 42367,
+      "name": "EXTRA NEWS"
+    },
+    {
+      "number": 42374,
+      "name": "AL MEHWER"
+    },
+    {
+      "number": 42377,
+      "name": "AL GHAD AL ARABY 4K"
+    },
+    {
+      "number": 42386,
+      "name": "WANASAH"
+    },
+    {
+      "number": 42389,
+      "name": "MALAKOOT SAT"
+    },
+    {
+      "number": 42419,
+      "name": "AR/ AL AHLY TV +6H"
+    },
+    {
+      "number": 42426,
+      "name": "AR/ MEKAMELEEN TV +6H"
+    },
+    {
+      "number": 42427,
+      "name": "AL KARMA DISCIPLESHIP"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "category": "ARABIC | PALASTINA",
+  "captured": "2026-10-02T10:13:47-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42294,
+      "name": "AR/ PALESTINE NEWS"
+    },
+    {
+      "number": 42295,
+      "name": "AR/ PALESTINE"
+    },
+    {
+      "number": 42297,
+      "name": "AR/ PALESTINE SAT"
+    },
+    {
+      "number": 42298,
+      "name": "AR/ PALESTINE LIVE"
+    },
+    {
+      "number": 42301,
+      "name": "AR/ PALESTINE TOAY"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "category": "ARABIC | STARZ PLAY TURKISH",
+  "captured": "2026-10-02T10:19:26-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41808,
+      "name": "STARZ PLAY TURKISH ####"
+    },
+    {
+      "number": 41809,
+      "name": "AR: STARZ PLAY TURKISH 1"
+    },
+    {
+      "number": 42690,
+      "name": "AR: STARZ PLAY TURKISH 2"
+    },
+    {
+      "number": 42691,
+      "name": "AR: STARZ PLAY TURKISH 3"
+    },
+    {
+      "number": 42692,
+      "name": "AR: STARZ PLAY TURKISH 4"
+    },
+    {
+      "number": 42693,
+      "name": "AR STARZ PLAY TURKISH 5"
+    },
+    {
+      "number": 42694,
+      "name": "AR: STARZ PLAY TURKISH 6"
+    },
+    {
+      "number": 42695,
+      "name": "AR: STARZ PLAY TURKISH 7"
+    }
+  ]
+}

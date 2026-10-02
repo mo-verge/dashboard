@@ -1,0 +1,44 @@
+{
+  "category": "ARABIC | 24/7 4K UHD",
+  "captured": "2026-10-02T10:29:27-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 41886,
+      "name": "AR: AB TALKS 4k"
+    },
+    {
+      "number": 41887,
+      "name": "AR: AB TALKS HD"
+    },
+    {
+      "number": 41893,
+      "name": "AR: THE GAME 4K"
+    },
+    {
+      "number": 41894,
+      "name": "AR: THE GAME HD"
+    },
+    {
+      "number": 41915,
+      "name": "AR: MOHAMED ABDOU 4K"
+    },
+    {
+      "number": 41917,
+      "name": "AR: RASHED ALMAJED 4K"
+    },
+    {
+      "number": 41918,
+      "name": "AR: ABDULMAJEED ABDULLAH 4K"
+    },
+    {
+      "number": 41933,
+      "name": "AR: BAB ALHARA 4K"
+    },
+    {
+      "number": 41934,
+      "name": "AR: BAB ALHARA HD"
+    }
+  ]
+}

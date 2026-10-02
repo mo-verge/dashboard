@@ -103,3 +103,16 @@ re-pair from the box's Bluetooth-remote screen.
 Planned fix: run the fake remote on Google's Bumble stack (HCI user channel) instead of
 BlueZ, notify the bonded connection directly, and import the existing LTK from
 `/var/lib/bluetooth/…/info` so no re-pair is needed.
+
+## When the box restarts
+
+Restarting the TVIP box (power cycle) dropped the fake remote's pairing on 2026-10-02:
+the box connected twice, disconnected, and stopped trying; re-advertising didn't help.
+Fix: `bluetoothctl remove 22:22:C9:E6:2B:51` on the Pi, then pair "TVIP Bluetooth RC"
+again from the box's Bluetooth-remote screen (it subscribes to the key reports on pairing).
+
+The box's UI also gets very slow after running for days (~6 s per key press); a restart
+makes it snappy again. `capture/inventory.py` waits for each key to show on screen before
+sending the next, so a slow box only slows the inventory down instead of making it
+overshoot categories or skip channels.
+

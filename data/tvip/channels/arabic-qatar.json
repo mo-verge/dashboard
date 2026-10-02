@@ -1,0 +1,34 @@
+{
+  "category": "ARABIC | QATAR",
+  "captured": "2026-10-02T10:05:59-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42256,
+      "name": "ALKASS SPORT 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 146.8,
+      "audio_rms": 2020.8,
+      "audio_ok": true
+    },
+    {
+      "number": 42259,
+      "name": "ALKASS SPORT 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 147.1,
+      "audio_rms": 1515.9,
+      "audio_ok": true
+    },
+    {
+      "number": 42263,
+      "name": "QATAR 2 HD"
+    },
+    {
+      "number": 42264,
+      "name": "QATAR TV"
+    }
+  ]
+}

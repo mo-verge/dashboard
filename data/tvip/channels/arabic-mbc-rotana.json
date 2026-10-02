@@ -1,0 +1,176 @@
+{
+  "category": "ARABIC | MBC/ROTANA",
+  "captured": "2026-10-02T10:22:31-0400",
+  "mode": "sports-only",
+  "reported_total": null,
+  "channels": [
+    {
+      "number": 42447,
+      "name": "GOBX/ MBC MAX HD"
+    },
+    {
+      "number": 42448,
+      "name": "GOBX/ MBC DRAMA+ FHD"
+    },
+    {
+      "number": 42450,
+      "name": "GOBX/ MBC IRAQ FHD"
+    },
+    {
+      "number": 42451,
+      "name": "GOBX/ MBC MASR 2 FHD"
+    },
+    {
+      "number": 42455,
+      "name": "GOBX/ MBC MASR 1 FHD"
+    },
+    {
+      "number": 42456,
+      "name": "GOBX/ MBC ACTION FHD"
+    },
+    {
+      "number": 42458,
+      "name": "GOBX/ MBC DRAMA FHD"
+    },
+    {
+      "number": 42459,
+      "name": "GOBX/ MBC 5 FHD"
+    },
+    {
+      "number": 42462,
+      "name": "GOBX/ MBC 4 FHD"
+    },
+    {
+      "number": 42463,
+      "name": "GOBX/ MBC 3 FHD"
+    },
+    {
+      "number": 42465,
+      "name": "GOBX/ MBC 2 FHD"
+    },
+    {
+      "number": 42466,
+      "name": "GOBX/ MBC 1 FHD"
+    },
+    {
+      "number": 42471,
+      "name": "MYHD/ MBC VARIETY FHD"
+    },
+    {
+      "number": 42472,
+      "name": "AR/ ROTANA CLIP FHD"
+    },
+    {
+      "number": 42474,
+      "name": "AR/ ROTANA CLIP HD"
+    },
+    {
+      "number": 42475,
+      "name": "AR/ ROTANA MUSIC FHD"
+    },
+    {
+      "number": 42478,
+      "name": "AR/ ROTANA COMEDY HEVC"
+    },
+    {
+      "number": 42479,
+      "name": "AR/ ROTANA COMEDY HD"
+    },
+    {
+      "number": 42482,
+      "name": "AR/ ROTANA CINEMA FHD"
+    },
+    {
+      "number": 42486,
+      "name": "AR/ ROTANA CLASSIC HD"
+    },
+    {
+      "number": 42487,
+      "name": "AR/ ROTANA CLASSIC FHD"
+    },
+    {
+      "number": 42489,
+      "name": "AR/ ROTANA DRAMA HD"
+    },
+    {
+      "number": 42490,
+      "name": "AR/ ROTANA DRAMA FHD"
+    },
+    {
+      "number": 42497,
+      "name": "AR/ ROTANA M+ HD"
+    },
+    {
+      "number": 42506,
+      "name": "AR/ MBC+ GEOGRAPHIC FHD"
+    },
+    {
+      "number": 42510,
+      "name": "AR/ ART AFLAM 2"
+    },
+    {
+      "number": 42511,
+      "name": "AR/ ART AFLAM 1"
+    },
+    {
+      "number": 42513,
+      "name": "AR/ ART HEKAYAT 2"
+    },
+    {
+      "number": 42514,
+      "name": "AR/ ART HEKAYAT 1"
+    },
+    {
+      "number": 42518,
+      "name": "AR/ ZEE ALWAN"
+    },
+    {
+      "number": 42519,
+      "name": "AR/ ZEE AFLAM"
+    },
+    {
+      "number": 42521,
+      "name": "AR/ MBC IRAQ FHD"
+    },
+    {
+      "number": 42522,
+      "name": "AR/ MBC MAX"
+    },
+    {
+      "number": 42525,
+      "name": "AR/ MBC MASR"
+    },
+    {
+      "number": 42526,
+      "name": "AR/ MBC DRAMA SD"
+    },
+    {
+      "number": 42528,
+      "name": "AR/ MBC DRAMA"
+    },
+    {
+      "number": 42529,
+      "name": "AR/ MBC DRAMA+ FHD"
+    },
+    {
+      "number": 42534,
+      "name": "AR/ MBC BOLLYWOOD"
+    },
+    {
+      "number": 42535,
+      "name": "AR/ MBC ACTION"
+    },
+    {
+      "number": 42538,
+      "name": "AR/ MBC 4"
+    },
+    {
+      "number": 42540,
+      "name": "AR/ MBC 3"
+    },
+    {
+      "number": 42541,
+      "name": "AR/ MBC 2"
+    }
+  ]
+}
