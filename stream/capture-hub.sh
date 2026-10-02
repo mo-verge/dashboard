@@ -31,7 +31,11 @@ PREVIEW="${PREVIEW:-mpv}"                # mpv | none
 AUDIO_DELAY="${AUDIO_DELAY:-0}"          # preview only: mpv --audio-delay (s, + = audio later)
 # The audio reaches ffmpeg through PipeWire's buffer, so with wall-clock
 # timestamps it is stamped (and plays) later than the video. Shift it earlier.
-AUDIO_ADVANCE="${AUDIO_ADVANCE:-0.12}"   # s, tuned by eye on the TV (0 = video ahead, 0.25 = video behind)
+# A/V offset left after the timestamp fix, measured with capture/avsync.py on a sync
+# test (2026-10-02): -21/-23 ms with 0 here, +18 ms with -0.023 (the meter resolves one
+# 30 fps frame, 33 ms), i.e. ~-10 ms real: imperceptible, so no correction needed.
+# Positive = move audio earlier, negative = later.
+AUDIO_ADVANCE="${AUDIO_ADVANCE:-0}"
 SCREEN_W="${SCREEN_W:-2560}" SCREEN_H="${SCREEN_H:-1440}"
 DEV="${CAPTURE_DEVICE:-/dev/video0}"
 SOURCE="${CAPTURE_AUDIO:-alsa_input.usb-MACROSILICON_2109-02.analog-stereo}"
@@ -82,7 +86,9 @@ if [ -n "$HUB_VIDEO_IN" ]; then
   # shellcheck disable=SC2206
   IN_V=( $HUB_VIDEO_IN )
 else
-  IN_V=( -thread_queue_size 512 -use_wallclock_as_timestamps 1 )
+  # Timestamps: the kernel's capture time of each frame (uvcvideo, CLOCK_MONOTONIC)
+  # converted to wall clock, not "when ffmpeg happened to read it".
+  IN_V=( -thread_queue_size 512 -ts mono2abs )
   # 540p: the MJPEG decoder for the cast branch decodes at half size (cheap).
   # Stream-copied outputs (preview, box.jpg) are not affected.
   [ "$CAST_MODE" = 540p ] && IN_V+=( -lowres:v 1 )
@@ -94,7 +100,11 @@ if [ -n "$HUB_AUDIO_IN" ]; then
   # shellcheck disable=SC2206
   IN_A=( $HUB_AUDIO_IN )
 else
-  IN_A=( -thread_queue_size 1024 -use_wallclock_as_timestamps 1 -itsoffset "-$AUDIO_ADVANCE"
+  # Pulse input stamps wall clock minus the stream's reported latency (its
+  # default); -use_wallclock_as_timestamps used to override that with the
+  # bursty arrival time. AUDIO_ADVANCE is the remaining constant offset,
+  # measured with capture/avsync.py.
+  IN_A=( -thread_queue_size 1024 -itsoffset "$(awk "BEGIN { print -($AUDIO_ADVANCE) }")"
          -f pulse -sample_rate 48000 -channels 2 -i "$SOURCE" )
 fi
 
