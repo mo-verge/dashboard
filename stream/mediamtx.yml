@@ -1,0 +1,55 @@
+# MediaMTX v1.21.1 config for the HDMI-capture -> Chromecast kit.
+# Unlisted keys keep MediaMTX defaults.
+#
+#   capture-hub.sh --RTSP publish (localhost only)--> path "tv" --HLS (MPEG-TS)--> Chromecast
+#   Cast URL: http://<pi-lan-ip>:8888/tv/index.m3u8
+
+logLevel: info
+logDestinations: [stdout]          # journald via the systemd unit
+
+# Nothing else is needed: no API, metrics or recordings.
+api: false
+metrics: false
+pprof: false
+playback: false
+rtmp: false
+srt: false
+moq: false                         # v1.21 enables Media-over-QUIC on :8892/:8893 by default
+webrtc: false                     # turn on later for the optional WebRTC/DashCast experiment
+
+# Only localhost may publish. Anyone on the LAN may read (Chromecasts, VLC).
+authMethod: internal
+authInternalUsers:
+  - user: any
+    pass:
+    ips: ["127.0.0.1", "::1"]
+    permissions:
+      - action: publish
+        path:
+      - action: read
+        path:
+  - user: any
+    pass:
+    ips: []
+    permissions:
+      - action: read
+        path:
+
+# RTSP: used only by the local publisher (capture-hub.sh) and local tests.
+rtsp: true
+rtspAddress: :8554                  # LAN: the Monet TV app reads RTSP (low latency); publish stays localhost-only (authInternalUsers)
+rtspTransports: [tcp]
+
+# HLS for the Chromecast Default Media Receiver.
+hls: true
+hlsAddress: :8888                  # all interfaces: Chromecasts must reach the Pi's LAN IP
+hlsAllowOrigins: ["*"]             # CORS; required by the Cast receiver
+hlsVariant: mpegts                 # TS segments: the receiver's default HLS player handles these
+hlsSegmentDuration: 1s             # with GOP = 1 s, segments are ~1 s
+hlsSegmentCount: 7
+hlsAlwaysRemux: true               # keep segments ready, so a cast starts without a warm-up
+                                   # (remux only, almost no CPU; the encode happens in the hub)
+
+paths:
+  tv:
+    source: publisher

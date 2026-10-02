@@ -1,0 +1,6453 @@
+{
+  "category": "ENGLISH | SPORTS",
+  "captured": "2026-10-01T20:25:51-0400",
+  "mode": "full",
+  "reported_total": 271,
+  "channels": [
+    {
+      "number": 10154,
+      "name": "PPV GAMES DETAILS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.6,
+      "audio_rms": 4305.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10230,
+      "name": "MSG 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 135.1,
+      "audio_rms": 1534.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10231,
+      "name": "MSG PLUS 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 148.4,
+      "audio_rms": 2388.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10232,
+      "name": "MSG 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "NHL Hockey"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "NY Rangers Postgame"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "MSG Shorts"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "NHL Hockey"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "NY Rangers Postgame"
+        }
+      ],
+      "video_ok": true,
+      "luma": 149.1,
+      "audio_rms": 2217.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10233,
+      "name": "MSG PLUS 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 165.9,
+      "audio_rms": 1539.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10234,
+      "name": "MSG SPORTS ZONE",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 183.3,
+      "audio_rms": 631.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10235,
+      "name": "SPORTSNET WORLD 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "FA Cup Classics"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "PREM Rugby"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Prem Rugby Matchweek Highlights"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "United Rugby Championship"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "FA Cup Classics"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.4,
+      "audio_rms": 581.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10237,
+      "name": "TSN + 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.3,
+      "audio_rms": 1677.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10238,
+      "name": "TSN1 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "SportsCentre"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "SC With Jay Onrait"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCentre"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "SportsCentre"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.2,
+      "audio_rms": 1410.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10239,
+      "name": "SN 1",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "SportsCentre"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "SC With Jay Onrait"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCentre"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "SportsCentre"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.8,
+      "audio_rms": 2238.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10240,
+      "name": "TSN2 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "SC"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "SC"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Breaking Down Barriers"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Golf Talk Canada"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "SC"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.7,
+      "audio_rms": 1208.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10241,
+      "name": "ISN2",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "SC"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "SC"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Breaking Down Barriers"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Golf Talk Canada"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "SC"
+        }
+      ],
+      "video_ok": true,
+      "luma": 209.3,
+      "audio_rms": 1528.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10242,
+      "name": "TSN3 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "TNF Tonight"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "SC With Jay Onrait"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCentre"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "SportsCentre"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.7,
+      "audio_rms": 1233.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10243,
+      "name": "TSN3",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "TNF Tonight"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "SC With Jay Onrait"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCentre"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "SportsCentre"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.9,
+      "audio_rms": 1180.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10244,
+      "name": "TSN4 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "TNF Tonight"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "SC With Jay Onrait"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCentre"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "SportsCentre"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.8,
+      "audio_rms": 1517.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10245,
+      "name": "SIN",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "TNF Tonight"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "SC With Jay Onrait"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCentre"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "SportsCentre"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.6,
+      "audio_rms": 1334.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10246,
+      "name": "TSNS 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "WNBA Basketball"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "WNBA Basketball"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "SC With Jay Onrait"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCentre"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.7,
+      "audio_rms": 1287.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10247,
+      "name": "AAA",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "WNBA Basketball"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "WNBA Basketball"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "SC With Jay Onrait"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCentre"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.3,
+      "audio_rms": 1782.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10248,
+      "name": "TSN WEST TRUE 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.8,
+      "audio_rms": 1444.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10250,
+      "name": "MLB NETWORK 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "MLB Tonight"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "MLB Tonight"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "MLB Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "MLB Tonight"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "MLB Tonight"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.6,
+      "audio_rms": 1491.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10251,
+      "name": "ONE SOCCER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 114.4,
+      "audio_rms": 370.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10252,
+      "name": "ASTRO SUPERSPORT TRUE 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 176.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10253,
+      "name": "TRUE4K SPORTSNET ONE",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Stay tuned for the next broadcast"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Stay tuned for the next broadcast"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Stay tuned for the next broadcast"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Stay tuned for the next broadcast"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Stay tuned for the next broadcast"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.8,
+      "audio_rms": 722.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10254,
+      "name": "TRUE4K SPORTSNET",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.3,
+      "audio_rms": 2977.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10255,
+      "name": "AFN SPORTS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10256,
+      "name": "SPORTSNET 360 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "NL Wildcard in 30"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "TNA iMPACT!"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Chicago Cubs vs. San Diego Padres"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Plays of the Month -- Highlights"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Misplays of the Month"
+        }
+      ],
+      "video_ok": true,
+      "luma": 165.5,
+      "audio_rms": 1361.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10257,
+      "name": "SPORTSNET EAST 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "MLB Central"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Boston Red Sox vs. New York Yankees"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "AL Wildcard in 30"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.3,
+      "audio_rms": 1517.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10258,
+      "name": "SPORTSNET LA DODGERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.4,
+      "audio_rms": 4124.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10259,
+      "name": "SPORTSNET ONE 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Chicago White Sox vs. Houston Astros"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "MLB Plays of the Week"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hockey Central Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Plays of the Month - Countdown"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "NL Wildcard in 30"
+        }
+      ],
+      "video_ok": true,
+      "luma": 179.2,
+      "audio_rms": 2080.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10260,
+      "name": "SPORTSNET ONTARIO 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "MLB Central"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Boston Red Sox vs. New York Yankees"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "AL Wildcard in 30"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.8,
+      "audio_rms": 1588.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10261,
+      "name": "SPORTSNET PACIFIC 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "NHL's Best Goals of the Season"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "NHL's Best Saves of the Season"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hockey Central Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Plays of the Month - Countdown"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "NL Wildcard in 30"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.1,
+      "audio_rms": 3250.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10262,
+      "name": "SPORTSNET WEST 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "NHL's Best Goals of the Season"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "NHL's Best Saves of the Season"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hockey Central Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Seattle Kraken vs. Calgary Flames"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Sportsnet Central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.7,
+      "audio_rms": 3132.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10263,
+      "name": "CHELSEA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10264,
+      "name": "ACC NETWORK 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "College Football"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "College Football"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Inside ACCess"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "College Football"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "ACC Network Football Podcast"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.6,
+      "audio_rms": 1491.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10265,
+      "name": "TNT SPORTS BOX OFFICE",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.9,
+      "audio_rms": 2110.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10266,
+      "name": "ALTITUDE SPORTS 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 173.0,
+      "audio_rms": 1691.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10267,
+      "name": "AT&T SPORTSNET PITTSBURGH",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.4,
+      "audio_rms": 2126.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10268,
+      "name": "AT&T SPORTSNET ROCKY MO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.4,
+      "audio_rms": 1492.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10269,
+      "name": "AT&T SPORTSNET SOUTHWEST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.8,
+      "audio_rms": 2340.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10270,
+      "name": "BIG TEN NETWORK 2",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Women's College Volleyball"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Women's College Volleyball"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "The B1G Show"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "The B1G Show"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "The B1G Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.4,
+      "audio_rms": 248.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10271,
+      "name": "BIG TEN NETWORK 3",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.8,
+      "audio_rms": 655.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10272,
+      "name": "BIG TEN NETWORK 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Women's College Volleyball"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Women's College Volleyball"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "The B1G Show"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "The B1G Show"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "The B1G Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.0,
+      "audio_rms": 534.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10274,
+      "name": "BI ESPN HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.7,
+      "audio_rms": 2819.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10275,
+      "name": "SPORTSNET ONTARIO",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "MLB Central"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Boston Red Sox vs. New York Yankees"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "AL Wildcard in 30"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.0,
+      "audio_rms": 3220.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10276,
+      "name": "TNT SPORT 1 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.4,
+      "audio_rms": 331.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10277,
+      "name": "TNT SPORT 2 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "The Breakdown"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "MotoGP"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "It's a Number's Game"
+        },
+        {
+          "time": "11:15 PM",
+          "title": "UFC Countdown"
+        },
+        {
+          "time": "11:45 PM",
+          "title": "The Breakdown"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.5,
+      "audio_rms": 1282.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10278,
+      "name": "TNT SPORT 3 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Major League Baseball"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "UFC Countdown"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Golden Trail World Series"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "TNT Sports Cricket Reload"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "TNT Sports Cricket Reload"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.0,
+      "audio_rms": 620.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10280,
+      "name": "TNT SPORTS 4 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "NWSL"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Premier League: The Big Interview"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "UFC Countdown"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Shenzhen Open"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "One-Day International Cricket"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.8,
+      "audio_rms": 794.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10281,
+      "name": "TNT SPORTS 5 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "1:45 AM",
+          "title": "FIA World Rally Championship"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "FIA World Rally Championship"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.3,
+      "audio_rms": 1179.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10282,
+      "name": "TNT SPORT ESPN 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.1,
+      "audio_rms": 1257.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10283,
+      "name": "CBS SPORTS NETWORK 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Inside College Football"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "College Football"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Inside College Football"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Inside College Football"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "UFC 332 Countdown"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.4,
+      "audio_rms": 1464.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10284,
+      "name": "CBS SPORTS GOLAZO NETWO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.9,
+      "audio_rms": 1375.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10285,
+      "name": "EIRSPORT 1 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 143.5,
+      "audio_rms": 3742.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10286,
+      "name": "SPORTSNET 360",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "NL Wildcard in 30"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "TNA iMPACT!"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Chicago Cubs vs. San Diego Padres"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Plays of the Month -- Highlights"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Misplays of the Month"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.2,
+      "audio_rms": 1960.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10288,
+      "name": "ELEVEN SPORTS SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.5,
+      "audio_rms": 423.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10289,
+      "name": "ESPN 2 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "SEC Storied"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "SEC Storied"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "30 for 30"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "E60"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Baseball Tonight"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.4,
+      "audio_rms": 1157.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10290,
+      "name": "ESPN 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "WNBA Basketball"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "College Football"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "SportsCenter"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "SportsCenter"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "SportsCenter"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.1,
+      "audio_rms": 1081.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10291,
+      "name": "ESPN DEPORTES SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Baloncesto WNBA"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ahora o nunca"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "SportsCenter"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "SportsCenter"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Futbol picante"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.9,
+      "audio_rms": 1564.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10292,
+      "name": "ESPN NEWS 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "The Mina Kimes Show Featuring Lenny"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Baseball Tonight with Buster Olney"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Pardon the Interruption"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Mina Kimes Show Featuring Lenny"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Baseball Tonight with Buster Olney"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.1,
+      "audio_rms": 2236.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10293,
+      "name": "ESPNU 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "ESPN Films"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "College Football Live"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "30 for 30"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "E60"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "College Football Live"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.4,
+      "audio_rms": 920.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10294,
+      "name": "EUROSPORT 1 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.0,
+      "audio_rms": 783.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10295,
+      "name": "HPITV WOODBINE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 1741.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10296,
+      "name": "EUROSPORT 2 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.1,
+      "audio_rms": 523.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10297,
+      "name": "FIGHT NETWORK",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "PFL Vault"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Immersed"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "BKFC KnuckleMania IV"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "BKFC Fight Night Mohegan Sun: Porter vs. Wilson -"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "BKFC Fight Night Mohegan Sun: Porter vs. Wilson"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.3,
+      "audio_rms": 2523.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10298,
+      "name": "FITE 24/7",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.1,
+      "audio_rms": 1445.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10299,
+      "name": "FOX SPORTS 1 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "SPEED With Harvick & Buxton"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Kevin Harvick's Happy Hour"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "UEFA Nations League Soccer"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "UEFA Nations League Soccer"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "NFL Films Presents"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.9,
+      "audio_rms": 1118.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10300,
+      "name": "FOX SPORTS 2 4K",
+      "epg": [
+        {
+          "time": "7:50 PM",
+          "title": "CONCACAF Nations League Soccer"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "CONCACAF Nations League Soccer"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "NHRA Sportsman Series"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "UEFA Nations League Soccer"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "UEFA Nations League Soccer"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.9,
+      "audio_rms": 1997.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10303,
+      "name": "FANDUEL SPORTS CAROLINA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10304,
+      "name": "FOX SPORTS CINCINNAT",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.5,
+      "audio_rms": 1216.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10305,
+      "name": "FOX SPORTS DETROIT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.0,
+      "audio_rms": 1677.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10306,
+      "name": "FOX SPORTS DETROIT PLUS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.4,
+      "audio_rms": 5284.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10307,
+      "name": "FOX SPORTS FLORIDA (NORTH)",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10308,
+      "name": "FOX SPORTS FLORIDA (SOUTH)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.5,
+      "audio_rms": 1153.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10309,
+      "name": "FOX SPORTS INDIANA",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10310,
+      "name": "FOX SPORTS INDIANA PLUS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10311,
+      "name": "FOX SPORTS KANSAS CITY",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.0,
+      "audio_rms": 2376.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10312,
+      "name": "FOX SPORTS KANSAS CITY PLUS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 163.2,
+      "audio_rms": 695.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10313,
+      "name": "FOX SPORTS MIDWEST",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10314,
+      "name": "FOX SPORTS MIDWEST PLUS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10315,
+      "name": "FOX SPORTS NEW ORLEANS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.2,
+      "audio_rms": 722.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10316,
+      "name": "FOX SPORTS NEW ORLEANS P",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.2,
+      "audio_rms": 347.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10317,
+      "name": "FOX SPORTS NORTH",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10318,
+      "name": "FOX SPORTS NORTH PLUS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10319,
+      "name": "FOX SPORTS OHIO",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10320,
+      "name": "FOX SPORTS OKLAHOMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.2,
+      "audio_rms": 1668.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10321,
+      "name": "FOX SPORTS OKLAHOMA PLUS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.9,
+      "audio_rms": 1422.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10323,
+      "name": "FOX SPORTS SAN DIEGO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 114.6,
+      "audio_rms": 448.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10324,
+      "name": "FOX SPORTS SAN DIEGO PLUS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.1,
+      "audio_rms": 1215.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10325,
+      "name": "FOX SPORTS SOUTH",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10326,
+      "name": "FOX SPORTS SOUTHEAST (GE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10328,
+      "name": "FOX SPORTS SOUTHEAST (TE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10329,
+      "name": "FOX SPORTS SOUTHWEST",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10330,
+      "name": "FOX SPORTS SUN (NORTH FL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10331,
+      "name": "FOX SPORTS SUN (SOUTH FL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10332,
+      "name": "FANDUEL SPORTS TENNESSEE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10333,
+      "name": "SPORTSNET PACIFIC 1",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "NHL's Best Saves of the Season"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hockey Central Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Plays of the Month - Countdown"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "NL Wildcard in 30"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Edmonton Oilers vs. Vancouver Canucks"
+        }
+      ],
+      "video_ok": true,
+      "luma": 203.7,
+      "audio_rms": 1506.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10334,
+      "name": "FOX SPORTS WEST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.6,
+      "audio_rms": 1224.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10335,
+      "name": "FOX SPORTS WISCONSIN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10336,
+      "name": "FOX SPORTS WISONSIN PLUS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10339,
+      "name": "GOLF CHANNEL 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "LPGA Tour Golf"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Golf Central"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "PGA Tour Golf"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "PGA Tour Golf"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Golf Central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.2,
+      "audio_rms": 2747.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10340,
+      "name": "FUBO SPORTS CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.2,
+      "audio_rms": 1595.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10341,
+      "name": "MAIN EVENT 1",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Kevin Harvick's Happy Hour"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Off-Road Racing"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Off-Road Racing"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "NHRA in 30"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Speed With Harvick and Buxton"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.2,
+      "audio_rms": 545.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10342,
+      "name": "MARQUEE SPORTS NETWORK",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Golf Life"
+        },
+        {
+          "time": "8:30PM",
+          "title": "The Lovable Reunion"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Lovable Reunion"
+        },
+        {
+          "time": "11:30PM",
+          "title": "The Lovable Reunion"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "The Lovable Reunion"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.5,
+      "audio_rms": 2267.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10343,
+      "name": "MASN 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.2,
+      "audio_rms": 2630.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10344,
+      "name": "MASN2 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.8,
+      "audio_rms": 1366.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10345,
+      "name": "MAV TV",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 1604.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10346,
+      "name": "MLB NETWORK 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "MLB Tonight"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "MLB Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "MLB Tonight"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "MLB Tonight"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "MLB Tonight"
+        }
+      ],
+      "video_ok": true,
+      "luma": 131.0,
+      "audio_rms": 908.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10347,
+      "name": "ESPN CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.2,
+      "audio_rms": 1468.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10348,
+      "name": "SPORTSNET WEST",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "NHL's Best Saves of the Season"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hockey Central Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Seattle Kraken vs. Calgary Flames"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Sportsnet Central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 163.6,
+      "audio_rms": 1194.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10351,
+      "name": "NBA ESPN GAME",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.5,
+      "audio_rms": 1528.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10353,
+      "name": "NBA TV 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Basketcast"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "WNBA Shot Clock: Games of the Night"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Association"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "NBA Playback"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "The Association"
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.2,
+      "audio_rms": 2118.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10354,
+      "name": "NBA TV CANADA",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Basketcast"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "WNBA Shot Clock: Games of the Night"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Association"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "NBA Playback"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "The Association"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.5,
+      "audio_rms": 355.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10355,
+      "name": "NBC SPORTS BAY AREA 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Inside Cal Football"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Inside Cal Football"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "18 Holes"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "The Swing Clinic"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Inside Cal Football"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.9,
+      "audio_rms": 2146.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10356,
+      "name": "NBC SPORTS BOSTON 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Early Edition"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Quick Slants"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Quick Snap Podcast"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Quick Slants"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Boston Sports Tonight With Felger and Holley"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.0,
+      "audio_rms": 2490.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10357,
+      "name": "NBC SPORTS CALIFORNIA 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "The Immortals"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Open Road With Doug McConnell and Friends"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "SJSU: The Charge"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Sharks Pregame"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Florida Panthers at San Jose Sharks"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.2,
+      "audio_rms": 1278.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10358,
+      "name": "NBC SPORTS CHICAGO 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.1,
+      "audio_rms": 925.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10359,
+      "name": "NBC SPORTS NETWORK 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.9,
+      "audio_rms": 1922.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10360,
+      "name": "NBC SPORTS PHILLY",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "MLS Soccer"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Birds Huddle"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Card Life"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Hobby House"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "The Seth Joyner Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.2,
+      "audio_rms": 1718.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10361,
+      "name": "NBC SPORTS WASHINGTON 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.8,
+      "audio_rms": 1406.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10362,
+      "name": "NBCSN SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.6,
+      "audio_rms": 2095.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10363,
+      "name": "NESN 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Diggin’ Deep"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Red Sox Report"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Fair Territory with Ken Rosenthal"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Black College Quiz Show"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Sports Stars of Tomorrow"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.7,
+      "audio_rms": 2333.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10364,
+      "name": "NESN PLUS 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Diggin' Deep"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Red Sox Report"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Fair Territory with Ken Rosenthal"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Black College Quiz Show"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Sports Stars of Tomorrow"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.3,
+      "audio_rms": 700.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10365,
+      "name": "NFL NETWORK CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "NFL Football"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "NFL Mic'd Up"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "NFL GameDay Final"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Pittsburgh Steelers vs. Cleveland Browns"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "NFL GameDay Final"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.4,
+      "audio_rms": 1117.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10366,
+      "name": "NFL REDZONE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 31.2,
+      "audio_rms": 1551.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10367,
+      "name": "NHL NETWORK 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "NHL Tonight"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "NHL Tonight"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "On the Fly"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "On the Fly"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "On the Fly"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.8,
+      "audio_rms": 741.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10371,
+      "name": "PREMIER SPORTS 1 4K UK",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Top 14 Rugby Union"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "World of FreeSports"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Live NHL Ice Hockey"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Indikart Championship"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Sporting Countdowns"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.4,
+      "audio_rms": 1002.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10373,
+      "name": "PREMIER SPORTS 2 4K UK",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Live NHL Ice Hockey"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "NHL: This is Hockey"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "NHL Specials"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "NHL Specials"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "NHL: This is Hockey"
+        }
+      ],
+      "video_ok": true,
+      "luma": 141.4,
+      "audio_rms": 2823.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10374,
+      "name": "RACING TV FHD",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Irish Racing Replay"
+        },
+        {
+          "time": "11:15 PM",
+          "title": "Irish Racing Replay"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Racing Replay"
+        },
+        {
+          "time": "12:45 AM",
+          "title": "Racing Replay"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Irish Racing Replay"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.5,
+      "audio_rms": 1906.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10375,
+      "name": "AT THE RACE",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.5,
+      "audio_rms": 1588.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10376,
+      "name": "ROOT SPORTS NORTHWEST",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10377,
+      "name": "SEC ESPN NETWORK NEWS 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.7,
+      "audio_rms": 1400.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10378,
+      "name": "SKY SPORTS MAIN EVENT TRU",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "NFL Football"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Lost Grounds"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.6,
+      "audio_rms": 2512.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10379,
+      "name": "SKY SPORTS F1 TRUE 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Formula 1 Drivers Press Conference"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "Formula 1"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.9,
+      "audio_rms": 3271.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10380,
+      "name": "SKY SPORTS 1 TRUE 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 1623.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10381,
+      "name": "SKY SPORTS 2 TRUE 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.5,
+      "audio_rms": 2241.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10384,
+      "name": "SKY SPORT PREMIER LEAGUE 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "PL Retro"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "PL Greatest Games"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "PL Greatest Games"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "PL Greatest Games"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "PL Greatest Games"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.7,
+      "audio_rms": 1412.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10385,
+      "name": "SKY SPORTS ACTION / NFL 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 2364.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10386,
+      "name": "SKY SPORTS ARENA 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.9,
+      "audio_rms": 3318.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10387,
+      "name": "SKY SPORTS F1 4K",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Formula 1 Drivers Press Conference"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "Formula 1"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.3,
+      "audio_rms": 5.3,
+      "audio_ok": false
+    },
+    {
+      "number": 10388,
+      "name": "SKY SPORTS FOOTBALL 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "FL Play-Offs"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "FL Play-Offs"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Scottish Premiership Football"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "EFL Greatest"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "EFL Greatest"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.6,
+      "audio_rms": 2186.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10390,
+      "name": "SKY SPORTS MAIN EVENT",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "NFL Football"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Lost Grounds"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.4,
+      "audio_rms": 593.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10391,
+      "name": "SKY SPORTS MAIN EVENT 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "NFL Football"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Lost Grounds"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.4,
+      "audio_rms": 1289.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10392,
+      "name": "SKY SPORTS TENNIS HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Tennis: Day Highlights"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Tennis: Day Highlights"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Live Tennis: ATP Japan Open 2026"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Live Tennis"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Live Tennis: ATP & WTA China Open 2026"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.5,
+      "audio_rms": 1735.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10393,
+      "name": "SKY SPORTS MIX 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Championship Retro"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "EFL"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "My Icon"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "My Icon"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.9,
+      "audio_rms": 1646.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10394,
+      "name": "SKY SPORTS PLUS HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Super League Rugby"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "My Icon"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Live Tennis: ATP Japan Open 2026"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Live Tennis"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Live Tennis"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.8,
+      "audio_rms": 2176.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10395,
+      "name": "SKY SPORTS NEWS 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Through the Night"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Through the Night"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Through the Night"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Through the Night"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Through the Night"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.8,
+      "audio_rms": 1520.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10396,
+      "name": "SKY SPORTS PREMIER LEAGUE",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "PL Retro"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "PL Greatest Games"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "PL Greatest Games"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "PL Greatest Games"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "PL Greatest Games"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.9,
+      "audio_rms": 2552.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10398,
+      "name": "SKY SPORTS RACING 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Through the Night"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Australian Racing"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Racing Specials"
+        },
+        {
+          "time": "4:45 AM",
+          "title": "International Raceday"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.0,
+      "audio_rms": 1831.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10399,
+      "name": "SNY USA SPORTS 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.9,
+      "audio_rms": 1575.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10400,
+      "name": "SPECTRUM SPORTSNET 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Access SportsNet: Lakers"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Lakers Media Day"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Lakeshow"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Access SportsNet: Lakers"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Lakeshow"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.5,
+      "audio_rms": 2102.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10401,
+      "name": "SPORTSMAN CHANNEL 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Ranch America"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Wardens"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Guns & Ammo TV"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Gun Stories"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Dirt Trax TV"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.9,
+      "audio_rms": 1254.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10402,
+      "name": "STADIUM",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Dog the Bounty Hunter"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Dog the Bounty Hunter"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Cajun Pawn Stars"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Cajun Pawn Stars"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Cajun Pawn Stars"
+        }
+      ],
+      "video_ok": true,
+      "luma": 21.8,
+      "audio_rms": 1357.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10403,
+      "name": "START SD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Major Crimes"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Rizzoli & Isles"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Veronica Mars"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Gilmore Girls"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Gilmore Girls"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.6,
+      "audio_rms": 1462.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10420,
+      "name": "TNT GAME ONLY",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Air Force One"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "The Martian"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "The Fugitive"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "FBI"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "FBI"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.7,
+      "audio_rms": 640.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10421,
+      "name": "BILLARDS CHANNEL",
+      "epg": [
+        {
+          "time": "9:00 PM",
+          "title": "26-27 TOP 7 []"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "PBA TOUR 2026-2027"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "PBA TOUR 2026-2027"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "PBA 2025"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.9,
+      "audio_rms": 128.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10423,
+      "name": "TVG TELEVISION GAMES NET",
+      "epg": [],
+      "video_ok": true,
+      "luma": 183.2,
+      "audio_rms": 1914.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10424,
+      "name": "AAA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.5,
+      "audio_rms": 1632.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10425,
+      "name": "WILLOW CRICKET",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Game On with Grace Hayden"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Cricket Highlights"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Cricket Highlights"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Cricket Highlights"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Cricket Highlights"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.5,
+      "audio_rms": 784.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10426,
+      "name": "WILLOW EXTRA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.4,
+      "audio_rms": 1483.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10427,
+      "name": "WWE NETWORK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.3,
+      "audio_rms": 1081.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10428,
+      "name": "YES NETWORK",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "MLS Soccer"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Brooklyn Nets Media Day 2026"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Yankees Classics"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Yankees Classics"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Yankeeography"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.1,
+      "audio_rms": 2015.7,
+      "audio_ok": true
+    },
+    {
+      "number": 11,
+      "name": "EUROSPORT HD",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.3,
+      "audio_rms": 116.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10443,
+      "name": "FOX SPORTS 2 HD",
+      "epg": [
+        {
+          "time": "7:50 PM",
+          "title": "CONCACAF Nations League Soccer"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "CONCACAF Nations League Soccer"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "NHRA Sportsman Series"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "UEFA Nations League Soccer"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "UEFA Nations League Soccer"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.3,
+      "audio_rms": 785.3,
+      "audio_ok": true
+    },
+    {
+      "number": 161,
+      "name": "FOX SPORTS 3 HD",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.2,
+      "audio_rms": 1367.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10445,
+      "name": "FOX SPORTS HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Kevin Harvick's Happy Hour"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "UEFA Nations League Soccer"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "UEFA Nations League Soccer"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "NFL Films Presents"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "The Gronk & Jules Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 236.7,
+      "audio_rms": 2794.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10447,
+      "name": "STAN SPORTS 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 163,
+      "name": "STAN SPORTS 2",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10449,
+      "name": "STAN SPORTS 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10450,
+      "name": "STAN SPORTS 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10451,
+      "name": "STAN SPORTS 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10452,
+      "name": "STAN SPORTS 6",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10453,
+      "name": "STAN SPORTS 7",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10458,
+      "name": "JIO SPORTS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.5,
+      "audio_rms": 2122.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10459,
+      "name": "CELTIC TV FOOTBALL",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10460,
+      "name": "PAC-12 INSIDER",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.2,
+      "audio_rms": 579.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10468,
+      "name": "LONGHORN NETWORK",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10470,
+      "name": "NFL NETWORK USA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.7,
+      "audio_rms": 2584.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10472,
+      "name": "COLLEGE BASKETBALL TOUR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.4,
+      "audio_rms": 2193.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10473,
+      "name": "US ESPN COLLEGE SPORTS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.2,
+      "audio_rms": 421.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10474,
+      "name": "US ESPN ACC NETWORK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.0,
+      "audio_rms": 1657.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10475,
+      "name": "US ESPN SEC NETWORK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.4,
+      "audio_rms": 2217.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10477,
+      "name": "US ESPN COLLEGE EXTRA 2",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "ESPN College Sports Extra 2"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "ESPN College Sports Extra 2"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ESPN College Sports Extra 2"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "ESPN College Sports Extra 2"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "ESPN College Sports Extra 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.4,
+      "audio_rms": 2683.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10478,
+      "name": "US ESPN COLLEGE EXTRA 3",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "ESPN College Sports Extra 3"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "ESPN College Sports Extra 3"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ESPN College Sports Extra 3"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "ESPN College Sports Extra 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "ESPN College Sports Extra 3"
+        }
+      ],
+      "video_ok": true,
+      "luma": 135.3,
+      "audio_rms": 2543.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10479,
+      "name": "US ESPN COLLEGE EXTRA 4",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "ESPN College Sports Extra 4"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "ESPN College Sports Extra 4"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ESPN College Sports Extra 4"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "ESPN College Sports Extra 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "ESPN College Sports Extra 4"
+        }
+      ],
+      "video_ok": true,
+      "luma": 158.5,
+      "audio_rms": 2870.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10480,
+      "name": "US ESPN COLLEGE EXTRA 5",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "ESPN College Sports Extra 5"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "ESPN College Sports Extra 5"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ESPN College Sports Extra 5"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "ESPN College Sports Extra 5"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "ESPN College Sports Extra 5"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.7,
+      "audio_rms": 945.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10481,
+      "name": "US ESPN COLLEGE EXTRA 6",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "ESPN College Sports Extra 6"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "ESPN College Sports Extra 6"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ESPN College Sports Extra 6"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "ESPN College Sports Extra 6"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "ESPN College Sports Extra 6"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10482,
+      "name": "US ESPN COLLEGE EXTRA 7",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "ESPN College Sports Extra 7"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "ESPN College Sports Extra 7"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "ESPN College Sports Extra 7"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "ESPN College Sports Extra 7"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "ESPN College Sports Extra 7"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10483,
+      "name": "WWE CANADA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.9,
+      "audio_rms": 1180.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10484,
+      "name": "VI ULV",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Premier League Highlights"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "The United Archives"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The United Archives"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "A Day in the Life: Celin Bizet Donnum"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Top 20 Goals"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.6,
+      "audio_rms": 1863.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10485,
+      "name": "SPFL: 01 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10486,
+      "name": "SPFL: 02 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10487,
+      "name": "SPFL: 03 (Live On Matchday) 2",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10488,
+      "name": "SPFL: 04 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10489,
+      "name": "SPFL: 05 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10490,
+      "name": "SPFL: 06 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10491,
+      "name": "SPFL: 07 Falkirk TV (Live On M",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10492,
+      "name": "SPFL: 08 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10493,
+      "name": "SPFL: 09 ( Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10494,
+      "name": "SPFL: 10 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10495,
+      "name": "SPFL: 11 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10496,
+      "name": "SPFL: 12 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10497,
+      "name": "SPFL: 13 (Live On Matchday)",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10502,
+      "name": "SPFL: St Mirren TV (Live On M",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10504,
+      "name": "FLO RACING 01",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.0,
+      "audio_rms": 311.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10505,
+      "name": "11 F ¡NA",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "HPltv Canada"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "HPltv Canada"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "HPltv Canada"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "HPitv Canada"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "HPltv Canada"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.3,
+      "audio_rms": 587.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10506,
+      "name": "TRILLER TV",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.2,
+      "audio_rms": 1859.9,
+      "audio_ok": true
+    },
+    {
+      "number": 11018,
+      "name": "SA: SUPERSPORT EVENTS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11019,
+      "name": "DSTV SuperSport Blitz HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Sports Bulletin Around The Clock"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Sports Bulletin Around The Clock"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Sports Bulletin Around The Clock"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Sports Bulletin Around The Clock"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Sky Sports News"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.8,
+      "audio_rms": 12.3,
+      "audio_ok": false
+    },
+    {
+      "number": 11020,
+      "name": "DSTV SuperSport Maximo HD",
+      "epg": [
+        {
+          "time": "8:10 PM",
+          "title": "Maximo Variedade"
+        },
+        {
+          "time": "8:25 PM",
+          "title": "Maximo Variedade"
+        },
+        {
+          "time": "8:40 PM",
+          "title": "Mundo da Bola"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "Maximo Variedade"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "F1 '26: Bahrein GP Treino Livre 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 32.5,
+      "audio_rms": 1241.8,
+      "audio_ok": true
+    },
+    {
+      "number": 11021,
+      "name": "SA: SUPERSPORT FOOTBALL",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.9,
+      "audio_rms": 1184.7,
+      "audio_ok": true
+    },
+    {
+      "number": 11022,
+      "name": "SA: SUPERSPORT GRANDSTAND",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "ATPS00 '26: Japan Open D3"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ATP500 '26: China Open D3"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "DP World 25/26: Alfred Dunhill D2"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "PGA Champions '26 Valley Classic D1"
+        },
+        {
+          "time": "8:40 AM",
+          "title": "URC 26/27: EDI v STO"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.5,
+      "audio_rms": 671.0,
+      "audio_ok": true
+    },
+    {
+      "number": 11023,
+      "name": "SA: SUPERSPORT LIGA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11024,
+      "name": "SA: SUPERSPORT MOTORSPORT",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 31.7,
+      "audio_rms": 1417.4,
+      "audio_ok": true
+    },
+    {
+      "number": 11025,
+      "name": "SA: SUPERSPORT OTT 2 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11026,
+      "name": "SA: SUPERSPORT OTT 3HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.7,
+      "audio_rms": 2259.9,
+      "audio_ok": true
+    },
+    {
+      "number": 11027,
+      "name": "SA: SUPERSPORT OTT 4 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.4,
+      "audio_rms": 2175.5,
+      "audio_ok": true
+    },
+    {
+      "number": 11028,
+      "name": "SA: SUPERSPORT PSL",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "AFCON Qualifier '27: GUI v KEN"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "AFCON Qualifier '27: ERI v RSA"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "AFCON Qualifier '27: CPV v RWA"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Up The Bucs"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Soccer Africa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11029,
+      "name": "SA: SUPERSPORT RUGBY",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11030,
+      "name": "SA: SUPERSPORT PLAY 1",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11031,
+      "name": "SA: SUPERSPORT RUGBY SD",
+      "epg": [
+        {
+          "time": "8:05 PM",
+          "title": "NPC '26: Southland v Northland"
+        },
+        {
+          "time": "10:10 PM",
+          "title": "The Verdict"
+        },
+        {
+          "time": "11:10 PM",
+          "title": "URC HL 26/27: BEN v DRA"
+        },
+        {
+          "time": "11:15 PM",
+          "title": "URC HL 26/27: ULS v EDI"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "URC HL 26/27: MUN v GLA"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11032,
+      "name": "SA: SUPERSPORT VARIETY 1",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "UNL 26/27: DEN v POR"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "UNL 26/27: GRE v NED"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "UNL 26/27: GER v SRB"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "UNL 26/27: WAL v NOR"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "UNL 26/27: IRL v AUT"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11033,
+      "name": "SA: SUPERSPORT VARIETY 2",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Serie A (W) '27: Juventus v Napoli"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "USLW 26/27: Ascent v Sporting Jax"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Up The Bucs"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Super Diski - Vault"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "PL: The Art Of..."
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.9,
+      "audio_rms": 1247.5,
+      "audio_ok": true
+    },
+    {
+      "number": 11034,
+      "name": "SA: SUPERSPORT VARIETY 3",
+      "epg": [
+        {
+          "time": "8:15 PM",
+          "title": "Berlin Marathon '26"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "Jambo WWE"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "UFC FN HL: Rosas Jr. v Barcelos"
+        },
+        {
+          "time": "11:45 PM",
+          "title": "EFC 138: Djikasa v Born"
+        },
+        {
+          "time": "11:50 PM",
+          "title": "Boxing HL '26: Baleni v Mdeliswa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.2,
+      "audio_rms": 94.3,
+      "audio_ok": true
+    },
+    {
+      "number": 11601,
+      "name": "PAC12 ARIZONA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11602,
+      "name": "PAC12 MOUNTAIN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 114.3,
+      "audio_rms": 2087.9,
+      "audio_ok": true
+    },
+    {
+      "number": 11603,
+      "name": "ASTRO SUPERSPORTS 2",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11604,
+      "name": "ASTRO SUPERSPORTS 3 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11605,
+      "name": "ASTRO SUPERSPORTS 4 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.2,
+      "audio_rms": 1154.2,
+      "audio_ok": true
+    },
+    {
+      "number": 11606,
+      "name": "SUPERSPORTS VARIETY 4",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "WTA1000 '26: China Open D1"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "EFC 138: Djikasa v Born"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "PFL MENA '26: Djiroun v Shalaan"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Boxing HL '26: Appah v Gyimah"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "UFC 331 HL: Van v Pantoja 2"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11607,
+      "name": "SUPERSPORTS PREMIER LEGUE",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 11608,
+      "name": "SUPERSPORT ACTION",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 1160,
+      "name": "PICKLEBALL TV",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 36.7,
+      "audio_rms": 1633.6,
+      "audio_ok": true
+    },
+    {
+      "number": 11610,
+      "name": "MONUMENTAL SPORTS NET",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Mystics Classic Games"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Front Row: DC"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Caps Red Line"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Beyond the Buzzer"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hometown With Rachel Nichols"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.3,
+      "audio_rms": 547.1,
+      "audio_ok": true
+    },
+    {
+      "number": 114511,
+      "name": "NITE8 SPORTS 1 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 128.9,
+      "audio_rms": 5515.6,
+      "audio_ok": true
+    },
+    {
+      "number": 11615,
+      "name": "DRAFT KINGS NETWORK",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.1,
+      "audio_rms": 1353.3,
+      "audio_ok": true
+    },
+    {
+      "number": 11616,
+      "name": "SPORTS BLUE MULTIVIEW",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.3,
+      "audio_rms": 1042.9,
+      "audio_ok": true
+    },
+    {
+      "number": 11617,
+      "name": "SPORTOWA TV",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.9,
+      "audio_rms": 775.0,
+      "audio_ok": true
+    },
+    {
+      "number": 11620,
+      "name": "GoPro TV",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 133.2,
+      "audio_rms": 1703.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50040,
+      "name": "SPORTSNET",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.8,
+      "audio_rms": 1402.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50042,
+      "name": "SPORTSNET PACIFIC",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "NHL's Best Saves of the Season"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hockey Central Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Plays of the Month - Countdown"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "NL Wildcard in 30"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Edmonton Oilers vs. Vancouver Canucks"
+        }
+      ],
+      "video_ok": true,
+      "luma": 156.5,
+      "audio_rms": 629.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50045,
+      "name": "SPORTSNET 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.7,
+      "audio_rms": 1174.2,
+      "audio_ok": true
+    },
+    {
+      "number": 50046,
+      "name": "DETROIT SPORTSNET",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.5,
+      "audio_rms": 2792.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50047,
+      "name": "SPORTSNET PACIFIC",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "NHL's Best Saves of the Season"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hockey Central Tonight"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Plays of the Month - Countdown"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "NL Wildcard in 30"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Edmonton Oilers vs. Vancouver Canucks"
+        }
+      ],
+      "video_ok": true,
+      "luma": 195.8,
+      "audio_rms": 2703.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50048,
+      "name": "SPORTSNET ONTARIO HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Boston Red Sox vs. New York Yankees"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "AL Wildcard in 30"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "Plays of the Month - Countdown"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.2,
+      "audio_rms": 2230.4,
+      "audio_ok": true
+    },
+    {
+      "number": 52583,
+      "name": "SKY SPORT F1 4K IT",
+      "epg": [
+        {
+          "time": "7:45 PM",
+          "title": "Inside The Team - Un Gp con Kimi"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "F1 Conf. Stampa Piloti"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "F 1 Paddock Live Pit Walk"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Fil Rouge"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Malesia 2017 - F1"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.2,
+      "audio_rms": 4409.7,
+      "audio_ok": true
+    },
+    {
+      "number": 53599,
+      "name": "REV I\\",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 169.3,
+      "audio_rms": 1544.3,
+      "audio_ok": true
+    },
+    {
+      "number": 53600,
+      "name": "FUBO SPORT 1",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.2,
+      "audio_rms": 1447.5,
+      "audio_ok": true
+    },
+    {
+      "number": 53601,
+      "name": "FUBO SPORT 2",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.0,
+      "audio_rms": 938.4,
+      "audio_ok": true
+    },
+    {
+      "number": 53604,
+      "name": "A SPORTS | PAK",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.5,
+      "audio_rms": 3947.5,
+      "audio_ok": true
+    },
+    {
+      "number": 53605,
+      "name": "SONY TEN 5 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.2,
+      "audio_rms": 901.8,
+      "audio_ok": true
+    },
+    {
+      "number": 53606,
+      "name": "HPITV INTERNATIONAL",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "HP itv"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "HPltv"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "HPltv"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "HPitv"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "HPitv"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.2,
+      "audio_rms": 1421.0,
+      "audio_ok": true
+    },
+    {
+      "number": 53607,
+      "name": "SPACE CITY HOME NETWORK",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "High School Football"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "H-Town High School Sports"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "High School Football"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Difference: LSU Football"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "TexAgs LIVE"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.0,
+      "audio_rms": 655.5,
+      "audio_ok": true
+    },
+    {
+      "number": 53608,
+      "name": "PROFESSIONAL DATRS CORP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.7,
+      "audio_rms": 1272.8,
+      "audio_ok": true
+    },
+    {
+      "number": 53609,
+      "name": "TNT SPORT 06",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "This is TNT Sports"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.1,
+      "audio_rms": 1469.0,
+      "audio_ok": true
+    },
+    {
+      "number": 53610,
+      "name": "TNT SPORT 07",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "This is TNT Sports"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 53611,
+      "name": "TNT SPORT 08",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "This is TNT Sports"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.2,
+      "audio_rms": 3267.0,
+      "audio_ok": true
+    },
+    {
+      "number": 53612,
+      "name": "SPECTRUM SPORTSNET LALA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Dodgers Squeeze Play"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Dodgers Squeeze Play"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Dodgers Squeeze Play"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Backstage: Dodgers"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Backstage: Dodgers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 1463.1,
+      "audio_ok": true
+    },
+    {
+      "number": 53613,
+      "name": "POKERGO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.5,
+      "audio_rms": 1184.5,
+      "audio_ok": true
+    },
+    {
+      "number": 53614,
+      "name": "US FUBO SPORTS NETWORK",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Boxing"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Boxing"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Boxing"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "The Professional Fighter's League Vault"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Professional Fighter's League Vault"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.9,
+      "audio_rms": 662.0,
+      "audio_ok": true
+    },
+    {
+      "number": 53615,
+      "name": "SCOTTISH PREM RANGERS TV",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 53617,
+      "name": "3C SPORTS NOW",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.9,
+      "audio_rms": 1502.9,
+      "audio_ok": true
+    },
+    {
+      "number": 53619,
+      "name": "BIG TEN NETWORK ALTERNAT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.2,
+      "audio_rms": 1419.0,
+      "audio_ok": true
+    },
+    {
+      "number": 53621,
+      "name": "2",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.7,
+      "audio_rms": 961.0,
+      "audio_ok": true
+    },
+    {
+      "number": 53625,
+      "name": "ACC DIGITAL NETWORK",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 53626,
+      "name": "PBR RIDEPASS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.9,
+      "audio_rms": 829.3,
+      "audio_ok": true
+    },
+    {
+      "number": 53627,
+      "name": "SPORTS ORANGE MULTIVIEW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.4,
+      "audio_rms": 624.0,
+      "audio_ok": true
+    },
+    {
+      "number": 53629,
+      "name": "BOWLING TV",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.2,
+      "audio_rms": 1735.8,
+      "audio_ok": true
+    },
+    {
+      "number": 53630,
+      "name": "WORLD SURF LEAGUE 24/7",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.7,
+      "audio_rms": 1247.9,
+      "audio_ok": true
+    }
+  ]
+}

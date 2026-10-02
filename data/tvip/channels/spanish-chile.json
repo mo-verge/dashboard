@@ -1,0 +1,1514 @@
+{
+  "category": "SPANISH | CHILE",
+  "captured": "2026-10-01T17:36:06-0400",
+  "mode": "full",
+  "reported_total": 53,
+  "channels": [
+    {
+      "number": 37702,
+      "name": "CL | CDO PREMIUM",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Hola deportes"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "COBS vs. PWCC - Rugby TOP 10 Arusa 2026 Semifinal"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Mun Pte Alto vs. CD Valdivia - BIG 8"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "UdeC vs. Pto Varas - BIG 8"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Hola deportes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.1,
+      "audio_rms": 966.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37703,
+      "name": "CL | CDO PREMIUM FHD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.9,
+      "audio_rms": 352.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37704,
+      "name": "CL | DIRECTV SPORTS 2",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.5,
+      "audio_rms": 1437.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37705,
+      "name": "CL | ESPN SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 139.4,
+      "audio_rms": 68.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37706,
+      "name": "CL | Estadio TNT Sports HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.0,
+      "audio_rms": 4219.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37707,
+      "name": "CL | FOX SPORTS 1 HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.4,
+      "audio_rms": 1148.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37708,
+      "name": "CL | FOX SPORTS 1 UHD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.1,
+      "audio_rms": 1634.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37709,
+      "name": "CL | FOX SPORTS 2 UHD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.7,
+      "audio_rms": 1499.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37710,
+      "name": "CL | FOX SPORTS 2 HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.3,
+      "audio_rms": 1034.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37711,
+      "name": "CL | FOX SPORTS HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.2,
+      "audio_rms": 2389.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37712,
+      "name": "CL | TELETRAK HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37715,
+      "name": "CL | TNT SPORTS 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.3,
+      "audio_rms": 1394.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37716,
+      "name": "CL | TNT SPORTS 3 HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.3,
+      "audio_rms": 1524.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37717,
+      "name": "CL | TNT SPORTS HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Flamengo vs. Independiente del Valle"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Linea de 3"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Siga, siga"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "La Vuelta"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Todo pelota"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.5,
+      "audio_rms": 3443.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37718,
+      "name": "CL | CINE CHILE 1 HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 131.0,
+      "audio_rms": 881.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37729,
+      "name": "CL | SENPAI TV FHD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37730,
+      "name": "CL|13iHD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.5,
+      "audio_rms": 3298.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37731,
+      "name": "CL | CANAL 13 (MOVIL)",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "¡Hay que decirlo!"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "¡Qué dice Chile!"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Teletrece"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "El tiempo"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "Vecinos al limite"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.7,
+      "audio_rms": 3081.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37732,
+      "name": "CL | CANAL 13 HD",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "¡Hay que decirlo!"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "¡Qué dice Chile!"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Teletrece"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "El tiempo"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "Vecinos al limite"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.8,
+      "audio_rms": 2834.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37733,
+      "name": "CL | CANAL 13 HD+",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "¡Hay que decirlo!"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "¡Qué dice Chile!"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Teletrece"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "El tiempo"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "Vecinos al limite"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.9,
+      "audio_rms": 3141.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37734,
+      "name": "CL | CHILEVISION (MOVIL)",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Contigo en la mañana"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Chilevisión noticias tarde"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Contigo en directo"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Plan perfecto"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Chilevisión noticias central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.0,
+      "audio_rms": 3406.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37735,
+      "name": "CL | CHILEVISION SD",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Contigo en la mañana"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Chilevisión noticias tarde"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Contigo en directo"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Plan perfecto"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Chilevisión noticias central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.3,
+      "audio_rms": 2835.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37736,
+      "name": "CL | CHILEVISION HD",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Contigo en la manana"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Chilevisión noticias tarde"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Contigo en directo"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Plan perfecto"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Chilevisión noticias central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.8,
+      "audio_rms": 3017.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37737,
+      "name": "CL | CHILEVISION HD+",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Contigo en la mañana"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Chilevisión noticias tarde"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Contigo en directo"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Plan perfecto"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Chilevisión noticias central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.8,
+      "audio_rms": 3201.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37738,
+      "name": "CL | MEGA (MOVIL)",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Mucho gusto"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Meganoticias Alerta"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "El tiempo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "La hora de jugar"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Carmen Gloria Fuerte y claro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.2,
+      "audio_rms": 3140.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37739,
+      "name": "CL | MEGA SD",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Mucho gusto"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Meganoticias Alerta"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "El tiempo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "La hora de jugar"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Carmen Gloria Fuerte y claro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.0,
+      "audio_rms": 3217.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37740,
+      "name": "CL | MEGA HD",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Mucho gusto"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Meganoticias Alerta"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "El tiempo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "La hora de jugar"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Carmen Gloria Fuerte y claro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.3,
+      "audio_rms": 1534.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37741,
+      "name": "CL | MEGA HD+",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Mucho gusto"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Meganoticias Alerta"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "El tiempo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "La hora de jugar"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Carmen Gloria Fuerte y claro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.4,
+      "audio_rms": 1645.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37742,
+      "name": "CL | TVN (MOVIL)",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Caso cerrado"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "¡Ahora caigo!"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "24 Horas Central"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "TV Tiempo"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Moisés y los 10 mandamientos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.3,
+      "audio_rms": 3096.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37743,
+      "name": "CL|TVN SD",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Caso cerrado"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "¡Ahora caigo!"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "24 Horas Central"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "TV Tiempo"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Moisés y los 10 mandamientos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.5,
+      "audio_rms": 3575.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37744,
+      "name": "CL|TVN HD",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Caso cerrado"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "¡Ahora caigo!"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "24 Horas Central"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "TV Tiempo"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Moisés y los 10 mandamientos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 148.8,
+      "audio_rms": 4175.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37745,
+      "name": "CL | TVN HD+",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Caso cerrado"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "¡Ahora caigo!"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "24 Horas Central"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "TV Tiempo"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Moisés y los 10 mandamientos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.0,
+      "audio_rms": 2219.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37746,
+      "name": "CL | TV Chile SD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "El Medio Día"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "24 Tarde"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Aires de Chile"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "El especialista responde"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "El Medio Dia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.3,
+      "audio_rms": 2013.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37747,
+      "name": "CL | TV Chile HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "El Medio Día"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "24 Tarde"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Aires de Chile"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "El especialista responde"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "El Medio Dia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.0,
+      "audio_rms": 1597.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37748,
+      "name": "CL | TV Chile HD+ (H265)",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "El Medio Dia"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "24 Tarde"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Aires de Chile"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "El especialista responde"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "El Medio Dia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.7,
+      "audio_rms": 632.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37750,
+      "name": "CL| La Red HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "El auto fantástico"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Miami Vice"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "A confirmar"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Pare de sufrir"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Fin de transmisión"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.0,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37753,
+      "name": "CL|TV+ SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.9,
+      "audio_rms": 3102.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37754,
+      "name": "CL | TV+ HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.1,
+      "audio_rms": 3034.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37755,
+      "name": "CL | Canal 24 Horas SD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.0,
+      "audio_rms": 2008.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37756,
+      "name": "CL | Canal 24 Horas HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.1,
+      "audio_rms": 1702.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37757,
+      "name": "CL | CNN Chile (MOVIL)",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "La Entrevista en CNN Chile"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Conexión Global"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Noticias tarde"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "CNN Tiempo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Deportes CNN"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.3,
+      "audio_rms": 1522.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37758,
+      "name": "CL | CNN Chile SD",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "La Entrevista en CNN Chile"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Conexión Global"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Noticias tarde"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "CNN Tiempo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Deportes CNN"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.6,
+      "audio_rms": 1502.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37759,
+      "name": "CL | CNN Chile HD",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "La Entrevista en CNN Chile"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Conexión Global"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Noticias tarde"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "CNN Tiempo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Deportes CNN"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.2,
+      "audio_rms": 4115.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37761,
+      "name": "CL | Rec TV",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Venga conmigo"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Yo estuve ahi"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Hippie"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Papi Ricky"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El cuarto de musica"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.5,
+      "audio_rms": 2498.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37762,
+      "name": "CL | Zona Latina HD",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Zona de Estrellas"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Videos musicales"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Que te lo digo"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Encantadas"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Bloque de Dos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.1,
+      "audio_rms": 2814.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37764,
+      "name": "CL | Etc TV (MOVIL)",
+      "epg": [
+        {
+          "time": "5:13 PM",
+          "title": "El fantástico Jaspion"
+        },
+        {
+          "time": "5:38 PM",
+          "title": "El fantastico Jaspion"
+        },
+        {
+          "time": "6:03 PM",
+          "title": "El fantastico Jaspion"
+        },
+        {
+          "time": "6:28 PM",
+          "title": "El fantastico Jaspion"
+        },
+        {
+          "time": "6:53 PM",
+          "title": "Top Rank"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.7,
+      "audio_rms": 91.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37765,
+      "name": "CL | Etc TV",
+      "epg": [
+        {
+          "time": "5:13 PM",
+          "title": "El fantástico Jaspion"
+        },
+        {
+          "time": "5:38 PM",
+          "title": "El fantastico Jaspion"
+        },
+        {
+          "time": "6:03 PM",
+          "title": "El fantastico Jaspion"
+        },
+        {
+          "time": "6:28 PM",
+          "title": "El fantástico Jaspion"
+        },
+        {
+          "time": "6:53 PM",
+          "title": "Top Rank"
+        }
+      ],
+      "video_ok": true,
+      "luma": 142.8,
+      "audio_rms": 1128.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37768,
+      "name": "CL | Pinguino TV HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 1218.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37770,
+      "name": "CL TNT SPORTS PREMIUM 1 HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37771,
+      "name": "CL ESPN",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.2,
+      "audio_rms": 633.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37772,
+      "name": "CL ESPN PREMIUM FHD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37773,
+      "name": "CL ESPN4",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.7,
+      "audio_rms": 4256.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37774,
+      "name": "CL VIA X ESPORTS HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.1,
+      "audio_rms": 2475.5,
+      "audio_ok": true
+    }
+  ]
+}

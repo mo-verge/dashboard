@@ -1,0 +1,28 @@
+{
+  "category": "ARABIC | BAHRAIN",
+  "captured": "2026-10-01T20:46:25-0400",
+  "mode": "sports-only",
+  "reported_total": 5,
+  "channels": [
+    {
+      "number": 41761,
+      "name": "AR/ BAHREIN LAWAL"
+    },
+    {
+      "number": 41770,
+      "name": "AR/ BAHRAIN QURAN"
+    },
+    {
+      "number": 41777,
+      "name": "AR/ BAHRAIN INTERNATIONAL"
+    },
+    {
+      "number": 41785,
+      "name": "AR/ BAHRAIN TV HD"
+    },
+    {
+      "number": 41792,
+      "name": "BAHRAIN #####"
+    }
+  ]
+}

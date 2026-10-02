@@ -1,0 +1,320 @@
+{
+  "category": "SPANISH | PANAMA",
+  "captured": "2026-09-30T19:16:16-0400",
+  "mode": "full",
+  "reported_total": 16,
+  "channels": [
+    {
+      "number": 37361,
+      "name": "PA | CABLEONDA SPORTS FC HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37362,
+      "name": "PA | CABLEONDA SPORTS HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Contragolpe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Fecha FIFA"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "LPF - Donde nace la marea roja"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Play"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Tiempo extra radio"
+        }
+      ],
+      "video_ok": true,
+      "luma": 154.6,
+      "audio_rms": 225.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37364,
+      "name": "PA | HOSANNA VISION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.4,
+      "audio_rms": 639.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37365,
+      "name": "PA|ECO TV FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.0,
+      "audio_rms": 1158.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37366,
+      "name": "PA | CANAL23",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.9,
+      "audio_rms": 7531.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37369,
+      "name": "PA | MAS TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.4,
+      "audio_rms": 1621.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37371,
+      "name": "PA | TV MAX HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 202.0,
+      "audio_rms": 1065.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37372,
+      "name": "PA | TV MAX",
+      "epg": [],
+      "video_ok": true,
+      "luma": 173.4,
+      "audio_rms": 3768.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37376,
+      "name": "PA | TVN HD",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "TVN 2"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "TVN 2"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "TVN 2"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "TVN 2"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "TVN 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.9,
+      "audio_rms": 851.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37377,
+      "name": "PA| TVN",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "TVN 2"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "TVN 2"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "TVN 2"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "TVN 2"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "TVN 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.6,
+      "audio_rms": 4478.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37378,
+      "name": "PA | TELEMETRO HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.6,
+      "audio_rms": 2374.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37379,
+      "name": "PA | TELEMETRO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Telemetro reporta estelar"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Amor profundo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Leyla"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hilos del pasado"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Serie"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.2,
+      "audio_rms": 706.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37382,
+      "name": "PA|RPC TV HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "El man es Germán"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "A confirmar"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Crossbones"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "Crossbones"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "A la Candela"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.2,
+      "audio_rms": 2638.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37383,
+      "name": "PA| RPC TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "El man es German"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "A confirmar"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Crossbones"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "Crossbones"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "A la Candela"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.2,
+      "audio_rms": 1731.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37384,
+      "name": "PA | Nex Canal 21 FHD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37385,
+      "name": "PA | Nex Canal 21",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

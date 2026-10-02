@@ -1,0 +1,640 @@
+{
+  "category": "SPORTS | GOLF",
+  "captured": "2026-10-01T00:23:20-0400",
+  "mode": "full",
+  "reported_total": 24,
+  "channels": [
+    {
+      "number": 10389,
+      "name": "SKY SPORTS GOLF 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "School of Golf"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "PURE Insurance Championship, Champions Tour Golf"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Presidents Cup, PGA Tour Golf"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Open de France, DP World Tour Golf"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "PGA TOUR: The CUT"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.6,
+      "audio_rms": 364.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10433,
+      "name": "SUPERSPORT GOLF",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.6,
+      "audio_rms": 1509.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40600,
+      "name": "GOLF 1",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.0,
+      "audio_rms": 896.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40601,
+      "name": "GOLF 2",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.0,
+      "audio_rms": 254.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40602,
+      "name": "0",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.3,
+      "audio_rms": 438.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40603,
+      "name": "GOLF 4",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.2,
+      "audio_rms": 602.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40604,
+      "name": "GOLF >",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.4,
+      "audio_rms": 1365.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40605,
+      "name": "GOLF 6",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 22.8,
+      "audio_rms": 1757.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40606,
+      "name": "GOLF ;",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.8,
+      "audio_rms": 3053.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40607,
+      "name": "GOLF 3",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.9,
+      "audio_rms": 5892.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40608,
+      "name": "GOLF 9",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.2,
+      "audio_rms": 3643.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40609,
+      "name": "GOLF 10",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.5,
+      "audio_rms": 2763.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40610,
+      "name": "Ad",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.9,
+      "audio_rms": 6563.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40611,
+      "name": "GOLF 12",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.5,
+      "audio_rms": 8303.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40612,
+      "name": "GOLF 13",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.0,
+      "audio_rms": 2137.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40613,
+      "name": "GOLF 14",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.3,
+      "audio_rms": 1217.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40614,
+      "name": "GOLF 15",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.0,
+      "audio_rms": 1234.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40615,
+      "name": "GOLF 16",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 11.7,
+      "audio_rms": 20.2,
+      "audio_ok": false
+    },
+    {
+      "number": 40616,
+      "name": "GOLF 17",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.3,
+      "audio_rms": 284.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40617,
+      "name": "GOLF 18",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.3,
+      "audio_rms": 570.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40618,
+      "name": "GOLF 19",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.4,
+      "audio_rms": 570.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40619,
+      "name": "GOLF 20",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.4,
+      "audio_rms": 755.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40620,
+      "name": "NBC GOLF",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.2,
+      "audio_rms": 1443.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40621,
+      "name": "GOLF PASS",
+      "epg": [
+        {
+          "time": "12:07 AM",
+          "title": "The Conor Moore Show"
+        },
+        {
+          "time": "12:36 AM",
+          "title": "Swing Expedition With Chris Como"
+        },
+        {
+          "time": "1:01 AM",
+          "title": "Swing Expedition With Chris Como"
+        },
+        {
+          "time": "1:26 AM",
+          "title": "Swing Expedition With Chris Como"
+        },
+        {
+          "time": "1:50 AM",
+          "title": "Swing Expedition With Chris Como"
+        }
+      ],
+      "video_ok": false,
+      "luma": 10.6,
+      "audio_rms": 2263.2,
+      "audio_ok": true
+    }
+  ]
+}

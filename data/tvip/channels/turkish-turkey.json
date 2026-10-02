@@ -1,0 +1,1708 @@
+{
+  "category": "TURKISH | TURKEY",
+  "captured": "2026-10-01T20:39:33-0400",
+  "mode": "sports-only",
+  "reported_total": 213,
+  "channels": [
+    {
+      "number": 5951,
+      "name": "ZAROK TV 4K TR"
+    },
+    {
+      "number": 5952,
+      "name": "YILDIZ TV 4K TR"
+    },
+    {
+      "number": 5953,
+      "name": "VIZYON 58 4K TR"
+    },
+    {
+      "number": 5955,
+      "name": "VATAN TV 4K TR"
+    },
+    {
+      "number": 5957,
+      "name": "24 KITCHEN TR"
+    },
+    {
+      "number": 5958,
+      "name": "24 TV 4K TR"
+    },
+    {
+      "number": 5959,
+      "name": "360 TV 4K TR"
+    },
+    {
+      "number": 5960,
+      "name": "A24K TR"
+    },
+    {
+      "number": 5961,
+      "name": "A2 TURKIYA4K TR"
+    },
+    {
+      "number": 5962,
+      "name": "BEIN IZ 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.3,
+      "audio_rms": 1672.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5964,
+      "name": "A HABER 4K TR"
+    },
+    {
+      "number": 5965,
+      "name": "ANIMAL PLANET TR"
+    },
+    {
+      "number": 5966,
+      "name": "A NEWS 4K TR"
+    },
+    {
+      "number": 5967,
+      "name": "A PARA 4K TR"
+    },
+    {
+      "number": 5965,
+      "name": "ANIMAL PLANET TR",
+      "number_uncertain": true
+    },
+    {
+      "number": 5969,
+      "name": "ATV 4K TR"
+    },
+    {
+      "number": 5970,
+      "name": "ATV AVRUPA TR"
+    },
+    {
+      "number": 5973,
+      "name": "AKIT TV 4K TR"
+    },
+    {
+      "number": 5974,
+      "name": "ALTAS TV TR"
+    },
+    {
+      "number": 5975,
+      "name": "ANADOLU DERNEK TR"
+    },
+    {
+      "number": 5980,
+      "name": "BBC EARTH IR"
+    },
+    {
+      "number": 5981,
+      "name": "BEIN BOX OFFICE 1 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.9,
+      "audio_rms": 1296.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5982,
+      "name": "BEIN BOX OFFICE 2 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.7,
+      "audio_rms": 122.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5983,
+      "name": "BEIN BOX OFFICE 3 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.8,
+      "audio_rms": 767.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5984,
+      "name": "BEIN MOVIES ACTION 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.4,
+      "audio_rms": 1133.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5985,
+      "name": "BEIN MOVIES FAMILY 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.4,
+      "audio_rms": 1874.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5986,
+      "name": "BEIN MOVIES STARS 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.5,
+      "audio_rms": 1612.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5987,
+      "name": "BEIN MOVIES TURK 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.8,
+      "audio_rms": 487.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5989,
+      "name": "BEIN SERIES DRAMA 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.9,
+      "audio_rms": 629.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5990,
+      "name": "BEIN SERIES VICE 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.9,
+      "audio_rms": 4434.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5998,
+      "name": "BENGUTURK TR"
+    },
+    {
+      "number": 5999,
+      "name": "BEYAZ TV 4K TR"
+    },
+    {
+      "number": 6000,
+      "name": "BMEDYA TV IR"
+    },
+    {
+      "number": 6001,
+      "name": "BOOMERANG HD TR"
+    },
+    {
+      "number": 6002,
+      "name": "BRI 1 KKTC 4K TR"
+    },
+    {
+      "number": 6003,
+      "name": "BRI 2 KKIC 4K TR"
+    },
+    {
+      "number": 6004,
+      "name": "BRI 3 HD TR"
+    },
+    {
+      "number": 6005,
+      "name": "BRTV KARABUK TR"
+    },
+    {
+      "number": 6007,
+      "name": "BLOMMBERG HT 4K TR"
+    },
+    {
+      "number": 6008,
+      "name": "SOZCU TV"
+    },
+    {
+      "number": 6010,
+      "name": "CNN TURK 4K"
+    },
+    {
+      "number": 5990,
+      "name": "a> BEIN SERIES VICE 4K TR",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 167.8,
+      "audio_rms": 600.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6013,
+      "name": "CAN TV HD TR"
+    },
+    {
+      "number": 6014,
+      "name": "CARTON NETWORK TR"
+    },
+    {
+      "number": 6015,
+      "name": "DISCOVERY CHANNEL HD TR"
+    },
+    {
+      "number": 6017,
+      "name": "DISCOVERY ID 4K TR"
+    },
+    {
+      "number": 6018,
+      "name": "DISCOVERY SCIENCE HD TR"
+    },
+    {
+      "number": 6020,
+      "name": "DISNEY JUNIOR HD TR"
+    },
+    {
+      "number": 6022,
+      "name": "DIZI PREMIUM TR"
+    },
+    {
+      "number": 6023,
+      "name": "DMAX TURK 4K TR"
+    },
+    {
+      "number": 6024,
+      "name": "DREAM TV TR"
+    },
+    {
+      "number": 6025,
+      "name": "DREAM TURK TR"
+    },
+    {
+      "number": 6026,
+      "name": "ER IV TR"
+    },
+    {
+      "number": 6027,
+      "name": "SS 2"
+    },
+    {
+      "number": 6028,
+      "name": "EUROSPORT 1 TR",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Shenzhen Acik"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Dunya Motocross Sampiyonasi"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Dunya Motocross Sampiyonasi"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hall of Fame , Rio 2016"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Shenzhen Acik"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.6,
+      "audio_rms": 150.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6030,
+      "name": "EKINTURK TV TR"
+    },
+    {
+      "number": 6031,
+      "name": "EURO D TR"
+    },
+    {
+      "number": 6032,
+      "name": "EURO STAR TR"
+    },
+    {
+      "number": 6034,
+      "name": "FILMBOX TR"
+    },
+    {
+      "number": 6035,
+      "name": "FOX 4K TR"
+    },
+    {
+      "number": 6036,
+      "name": "FOX CRIME 4K TR"
+    },
+    {
+      "number": 6037,
+      "name": "FOX HD TR"
+    },
+    {
+      "number": 6038,
+      "name": "FOX LIFE4K TR"
+    },
+    {
+      "number": 6039,
+      "name": "FX 4K TR"
+    },
+    {
+      "number": 6040,
+      "name": "GLOBAL HABER TV 4K TR"
+    },
+    {
+      "number": 6041,
+      "name": "GONCA TV TR"
+    },
+    {
+      "number": 6044,
+      "name": "HABER TURK 4K TR"
+    },
+    {
+      "number": 6045,
+      "name": "HALK TV TR"
+    },
+    {
+      "number": 6040,
+      "name": "GLOBAL HABER TV 4K TR",
+      "number_uncertain": true
+    },
+    {
+      "number": 6051,
+      "name": "KIBRIS ADA TV TR"
+    },
+    {
+      "number": 6052,
+      "name": "KRT TV 4K TR"
+    },
+    {
+      "number": 6054,
+      "name": "KANAL 3 AFYON TR"
+    },
+    {
+      "number": 6056,
+      "name": "KANAL 7 AVRUPA 4K TR"
+    },
+    {
+      "number": 6058,
+      "name": "KANAL 15 TR"
+    },
+    {
+      "number": 6059,
+      "name": "KANAL 33 TR"
+    },
+    {
+      "number": 6060,
+      "name": "KANAL 42 TR"
+    },
+    {
+      "number": 6061,
+      "name": "KANAL 68 TR"
+    },
+    {
+      "number": 6062,
+      "name": "KANAL BTR"
+    },
+    {
+      "number": 6065,
+      "name": "KANAL HAYAT TR"
+    },
+    {
+      "number": 6066,
+      "name": "KANAL T TR"
+    },
+    {
+      "number": 6067,
+      "name": "KANAL V TR"
+    },
+    {
+      "number": 6068,
+      "name": "KON TV 4K TR"
+    },
+    {
+      "number": 6056,
+      "name": "KANAL 7 AVRUPA 4K TR",
+      "number_uncertain": true
+    },
+    {
+      "number": 6071,
+      "name": "MOVIE SMART CLASSIC 4K TR"
+    },
+    {
+      "number": 6072,
+      "name": "MOVIE SMART FAMILY 4K TR"
+    },
+    {
+      "number": 6079,
+      "name": "MAVI KARAD TR"
+    },
+    {
+      "number": 6080,
+      "name": "MAVI KARADENIZ TR"
+    },
+    {
+      "number": 6081,
+      "name": "MEDYA HABER TR"
+    },
+    {
+      "number": 6083,
+      "name": "MINIKA COCUK TR"
+    },
+    {
+      "number": 6084,
+      "name": "MINIKA GO TR"
+    },
+    {
+      "number": 6085,
+      "name": "NAT GEO 4K TR"
+    },
+    {
+      "number": 6086,
+      "name": "NAT GEO PEOPLE TR"
+    },
+    {
+      "number": 6088,
+      "name": "NAT GEO WILD TR"
+    },
+    {
+      "number": 6089,
+      "name": "NBA 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.0,
+      "audio_rms": 605.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6090,
+      "name": "NICKELODEON HD TR"
+    },
+    {
+      "number": 6091,
+      "name": "NR1 HD TR"
+    },
+    {
+      "number": 6071,
+      "name": "MOVIE SMART CLASSIC 4K TR",
+      "number_uncertain": true
+    },
+    {
+      "number": 6093,
+      "name": "NIV 4K TR"
+    },
+    {
+      "number": 6096,
+      "name": "ON 4 TR"
+    },
+    {
+      "number": 6099,
+      "name": "POWER 4K TR"
+    },
+    {
+      "number": 6101,
+      "name": "POWER TURK 4K TR"
+    },
+    {
+      "number": 6103,
+      "name": "RTV KANAL 23 TR"
+    },
+    {
+      "number": 6105,
+      "name": "SHOW TV 4K TR"
+    },
+    {
+      "number": 6106,
+      "name": "SPOR SMART 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.0,
+      "audio_rms": 336.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6108,
+      "name": "SAT 7 TURK TR"
+    },
+    {
+      "number": 6109,
+      "name": "SHOW MAX TR"
+    },
+    {
+      "number": 6112,
+      "name": "SMART SPORT 4K TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 144.2,
+      "audio_rms": 2424.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6114,
+      "name": "STAR TV TR 4K"
+    },
+    {
+      "number": 6116,
+      "name": "TAY TV 4K TR"
+    },
+    {
+      "number": 6118,
+      "name": "TBM MUSIC TR"
+    },
+    {
+      "number": 6112,
+      "name": "a SMART SPORT 4K TR",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Kanit"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Cocuklar Duymasin"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Kavak Yelleri"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Kinali Kar"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Akasya Duragi"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.3,
+      "audio_rms": 1467.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6121,
+      "name": "TGRI BELGESEL TR"
+    },
+    {
+      "number": 6122,
+      "name": "TGRI EU TR"
+    },
+    {
+      "number": 6123,
+      "name": "TGRI HABER HD IR"
+    },
+    {
+      "number": 6125,
+      "name": "TIVIBU SPOR 1 4K TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.8,
+      "audio_rms": 146.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6126,
+      "name": "TIVIBU SPOR 2 HD TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6127,
+      "name": "TIVIBU SPOR 3 HD TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6128,
+      "name": "TLC 4K TR"
+    },
+    {
+      "number": 6131,
+      "name": "TRT 1 4KTR"
+    },
+    {
+      "number": 6132,
+      "name": "TRI4KTR"
+    },
+    {
+      "number": 6134,
+      "name": "TRI BELGESEL 4K TR"
+    },
+    {
+      "number": 6136,
+      "name": "TRI COCUK 4K TR"
+    },
+    {
+      "number": 6137,
+      "name": "TRT EBA TV ILKOKUL TR"
+    },
+    {
+      "number": 6138,
+      "name": "TRT EBA TV LISE TR"
+    },
+    {
+      "number": 6127,
+      "name": "a TIVIBU SPOR 3 HD TR",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 221.7,
+      "audio_rms": 2647.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6140,
+      "name": "TRI HABER 4K TR"
+    },
+    {
+      "number": 6141,
+      "name": "TRI HD TR"
+    },
+    {
+      "number": 6142,
+      "name": "BEIN SPORTS MAX 1 TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.0,
+      "audio_rms": 304.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6143,
+      "name": "BEIN SPORTS MAX 2 TR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.7,
+      "audio_rms": 2826.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6144,
+      "name": "BEIN SPORTS HABER TR",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "Spor Gecesi"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Bundesliga Mac Ozetleri"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Premier League Mac Ozetleri"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "Trendyol Súper Lig Mac Ozetleri"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "belN Sabah"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.2,
+      "audio_rms": 3255.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6145,
+      "name": "SPORTS TV TR",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Brand & Sport Summit"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Italya Kadinlar Voleybol Ligi"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "FEI Ride Series"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Dinamik Sabahlar"
+        },
+        {
+          "time": "2:20 AM",
+          "title": "Taha Erpulat ile Pilates"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.5,
+      "audio_rms": 122.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6146,
+      "name": "TRI SPORT 4K TR",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Manchester City - Real Madrid"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Taktik Analiz"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "Konyaspor - Filistin"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.4,
+      "audio_rms": 2474.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6147,
+      "name": "TRI TURK4K TR"
+    },
+    {
+      "number": 6148,
+      "name": "TRT WORLD 4K TR"
+    },
+    {
+      "number": 6150,
+      "name": "TV2 4K TR"
+    },
+    {
+      "number": 6151,
+      "name": "TV 4 4K TR"
+    },
+    {
+      "number": 6152,
+      "name": "TV4 4K TR"
+    },
+    {
+      "number": 6153,
+      "name": "TV 8 4K TR"
+    },
+    {
+      "number": 6146,
+      "name": "a> TRT SPORT 4K TR",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Doktor Aksoy"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Oynat Bakalim"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Tuzak"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Ebru ile 8'de Saglik"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Doktor Aksoy"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.2,
+      "audio_rms": 2157.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6155,
+      "name": "TV 8 INT TR"
+    },
+    {
+      "number": 6156,
+      "name": "TV 8 INTERNATIONAL TR"
+    },
+    {
+      "number": 6157,
+      "name": "TV 8.5 TR4K"
+    },
+    {
+      "number": 6158,
+      "name": "1V8.5 TR 4K"
+    },
+    {
+      "number": 6159,
+      "name": "TV 41 4K TR"
+    },
+    {
+      "number": 6160,
+      "name": "TV 100 TR 4K"
+    },
+    {
+      "number": 6162,
+      "name": "TV DEN TR HD"
+    },
+    {
+      "number": 6163,
+      "name": "TV KAYSERI TR 4K"
+    },
+    {
+      "number": 6164,
+      "name": "TV NET TR4K"
+    },
+    {
+      "number": 6165,
+      "name": "TELE 1 TR4K"
+    },
+    {
+      "number": 6170,
+      "name": "ULKE TV TR 4K"
+    },
+    {
+      "number": 6172,
+      "name": "ULUSAL KANAL 4K TR"
+    },
+    {
+      "number": 6174,
+      "name": "VIASAT HISTORY 4K TR"
+    },
+    {
+      "number": 6177,
+      "name": "BEIN SPORTS 1 4K TR",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Super Lig Haftanin Golleri"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "Super Lig Haftanin Golleri"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "€. Rizespor - C. Alanyaspor"
+        },
+        {
+          "time": "4:45 AM",
+          "title": "Super Lig Haftanin Golleri"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "TFF 1.Lig Mac Ozetleri"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.9,
+      "audio_rms": 1457.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6178,
+      "name": "BEIN SPORTS 2 4K TR",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "TFF 1.Lig Golleri"
+        },
+        {
+          "time": "12:45 AM",
+          "title": "TFF 1.Lig Haftanin Golleri"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "E. Erokspor - F. Karagúmruk"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "TFF 1.Lig Haftanin Golleri"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Batman P. - Bursaspor"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.0,
+      "audio_rms": 954.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6179,
+      "name": "BEIN SPORTS 3 4K TR",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Premier League Mac Ozetleri"
+        },
+        {
+          "time": "12:45 AM",
+          "title": "Premier League Golleri"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Tottenham - Newcastle"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "Premier League Golleri"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Leeds - Brentford"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.2,
+      "audio_rms": 694.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6180,
+      "name": "BEIN SPORTS 44K TR",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Ligue 1 Mac Ozetleri"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "Ligue 2 Haftanin Golleri"
+        },
+        {
+          "time": "12:10 AM",
+          "title": "Yaris Basliyor"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Formula 2 Azerbaycan"
+        },
+        {
+          "time": "12:25 AM",
+          "title": "Yaris Basliyor"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.1,
+      "audio_rms": 997.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6181,
+      "name": "BABY TV IR"
+    },
+    {
+      "number": 6182,
+      "name": "DISNEY CHANNEL TR"
+    },
+    {
+      "number": 6183,
+      "name": "DISNEY JR TR"
+    },
+    {
+      "number": 59550,
+      "name": "BEIN GURME TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.4,
+      "audio_rms": 1929.3,
+      "audio_ok": true
+    },
+    {
+      "number": 59551,
+      "name": "BEIN MOVIES PREMIERE TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 16.0,
+      "audio_rms": 4384.9,
+      "audio_ok": true
+    },
+    {
+      "number": 59552,
+      "name": "BEIN MOVIES PREMIERE 2 TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.1,
+      "audio_rms": 56.8,
+      "audio_ok": true
+    },
+    {
+      "number": 59553,
+      "name": "CBEEBIES TR"
+    },
+    {
+      "number": 59554,
+      "name": "BEIN SERIES SCI-F",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 16.4,
+      "audio_rms": 1302.7,
+      "audio_ok": true
+    },
+    {
+      "number": 59555,
+      "name": "CEM TV TR"
+    },
+    {
+      "number": 59552,
+      "name": "BEIN MOVIES PREMIERE 2 TR",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "8:30 PM",
+          "title": "Helal Kazancin Pesinde"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Mukabele"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Omre Bedel"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Rahmet Elcileri"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Sehir Ve..."
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.2,
+      "audio_rms": 46.8,
+      "audio_ok": true
+    },
+    {
+      "number": 59557,
+      "name": "DOST TV TR"
+    },
+    {
+      "number": 59560,
+      "name": "EXXEN 1 TV TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 59561,
+      "name": "EXXEN 2 TV TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 30.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 59562,
+      "name": "EXXEN 3 IV TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 133.4,
+      "audio_rms": 295.1,
+      "audio_ok": true
+    },
+    {
+      "number": 59563,
+      "name": "EXXEN 4 IV TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 612.4,
+      "audio_ok": true
+    },
+    {
+      "number": 59564,
+      "name": "EXXEN 5 IV TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 59565,
+      "name": "EXXEN 6 IV TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 59566,
+      "name": "EXXEN 7 TV TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 59567,
+      "name": "EXXEN 8 IV TR",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.1,
+      "audio_rms": 976.2,
+      "audio_ok": true
+    },
+    {
+      "number": 59568,
+      "name": "FB IV TR"
+    },
+    {
+      "number": 59569,
+      "name": "FLASH HABER TR"
+    },
+    {
+      "number": 59570,
+      "name": "FM TV TR"
+    },
+    {
+      "number": 59571,
+      "name": "GSTVTR —.....—"
+    },
+    {
+      "number": 59567,
+      "name": "a EXXEN 8 TVTR",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.4,
+      "audio_rms": 118.2,
+      "audio_ok": true
+    },
+    {
+      "number": 59573,
+      "name": "HISTORY TR"
+    },
+    {
+      "number": 59574,
+      "name": "KANAL 24 TR"
+    },
+    {
+      "number": 59575,
+      "name": "KANAL 26 TR"
+    },
+    {
+      "number": 59576,
+      "name": "KRAL POP TR"
+    },
+    {
+      "number": 59577,
+      "name": "KRAL TV TR"
+    },
+    {
+      "number": 59578,
+      "name": "LOVE NATURE TR"
+    },
+    {
+      "number": 59579,
+      "name": "MC EU TV TR"
+    },
+    {
+      "number": 59580,
+      "name": "MOVIE SMART TURK TR"
+    },
+    {
+      "number": 59582,
+      "name": "REHBER TV TR"
+    },
+    {
+      "number": 59583,
+      "name": "SEMERKAND TV TR"
+    },
+    {
+      "number": 59584,
+      "name": "SHOW TURK TR"
+    },
+    {
+      "number": 59585,
+      "name": "SINEMA TV 1001 TR"
+    },
+    {
+      "number": 59586,
+      "name": "SINEMA TV 1002 TR"
+    },
+    {
+      "number": 59572,
+      "name": "8 GUNEYDOGU TV TR",
+      "number_uncertain": true
+    },
+    {
+      "number": 59588,
+      "name": "SINEMA TV AILE 2 TR"
+    },
+    {
+      "number": 59589,
+      "name": "SINEMA TV AILE TR"
+    },
+    {
+      "number": 59590,
+      "name": "SINEMA TV AKSIYON TR"
+    },
+    {
+      "number": 59591,
+      "name": "SINEMA TV KOMEDI TR"
+    },
+    {
+      "number": 59592,
+      "name": "TARIH TV TR"
+    },
+    {
+      "number": 59593,
+      "name": "TIKTVIR"
+    },
+    {
+      "number": 59594,
+      "name": "TRI 2 TR"
+    },
+    {
+      "number": 59595,
+      "name": "TRI MUZIK TR"
+    },
+    {
+      "number": 59596,
+      "name": "TV5SDITIR"
+    },
+    {
+      "number": 59597,
+      "name": "UCANKUS TV TR"
+    },
+    {
+      "number": 59598,
+      "name": "VIASAT EXPLORE TR"
+    },
+    {
+      "number": 59599,
+      "name": "YABAN TV TR"
+    },
+    {
+      "number": 59600,
+      "name": "S SPORT HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "NBA"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Moto GP"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "Ozetler"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Probull Riders"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Ispanya Laliga"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.9,
+      "audio_rms": 1321.9,
+      "audio_ok": true
+    },
+    {
+      "number": 59602,
+      "name": "S SPORT 2 HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Euroleague"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Probull Riders"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Italya Serie A"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "NBA"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Italya Serie A"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.7,
+      "audio_rms": 939.6,
+      "audio_ok": true
+    },
+    {
+      "number": 59603,
+      "name": "S SPORT PLUS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.1,
+      "audio_rms": 676.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5952,
+      "name": "YILDIZ TV 4K TR",
+      "number_uncertain": true
+    },
+    {
+      "number": 5953,
+      "name": "VIZYON 58 4K TR"
+    },
+    {
+      "number": 5955,
+      "name": "VATAN TV 4K TR"
+    },
+    {
+      "number": 5957,
+      "name": "24 KITCHEN TR"
+    }
+  ]
+}

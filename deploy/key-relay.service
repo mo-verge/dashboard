@@ -1,0 +1,13 @@
+[Unit]
+Description=LAN key relay for the Monet TV app (forwards to the fake TVIP remote)
+After=bt-remote.service network-online.target
+Wants=bt-remote.service
+
+[Service]
+User=verge
+ExecStart=/usr/bin/python3 /home/verge/dashboard/capture/key_relay.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

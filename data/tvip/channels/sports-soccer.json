@@ -1,0 +1,379 @@
+{
+  "category": "SPORTS | SOCCER",
+  "captured": "2026-09-30T20:44:42-0400",
+  "mode": "full",
+  "reported_total": 41,
+  "channels": [
+    {
+      "number": 21139,
+      "name": "SOCCER 01",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21140,
+      "name": "SOCCER 02",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.1,
+      "audio_rms": 1607.7,
+      "audio_ok": true
+    },
+    {
+      "number": 21141,
+      "name": "SOCCER 03",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21142,
+      "name": "SOCCER 04",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21143,
+      "name": "SOCCER 05",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21144,
+      "name": "SOCCER 06",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21145,
+      "name": "SOCCER 07",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21146,
+      "name": "SOCCER 08",
+      "epg": [],
+      "video_ok": true,
+      "luma": 149.1,
+      "audio_rms": 2627.7,
+      "audio_ok": true
+    },
+    {
+      "number": 21147,
+      "name": "SOCCER 09",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21148,
+      "name": "SOCCER 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.7,
+      "audio_rms": 1307.3,
+      "audio_ok": true
+    },
+    {
+      "number": 21149,
+      "name": "SOCCER 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21150,
+      "name": "SOCCER 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 902,
+      "name": "SOCCER 13",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21150,
+      "name": "CCER 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21153,
+      "name": "SOCCER 15",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21154,
+      "name": "SOCCER 16",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21155,
+      "name": "SOCCER 17",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21156,
+      "name": "SOCCER 18",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21157,
+      "name": "SOCCER 19",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21158,
+      "name": "SOCCER 20",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21159,
+      "name": "SOCCER 21",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21160,
+      "name": "SOCCER 22",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21161,
+      "name": "SOCCER 23",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21162,
+      "name": "SOCCER 24",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21163,
+      "name": "SOCCER 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.1,
+      "audio_rms": 473.6,
+      "audio_ok": true
+    },
+    {
+      "number": 21164,
+      "name": "SOCCER 26",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 232,
+      "name": "SOCCER 27",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21164,
+      "name": "CCER 26",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21167,
+      "name": "SOCCER 29",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21168,
+      "name": "SOCCER 30",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21169,
+      "name": "SOCCER 31",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.5,
+      "audio_rms": 1329.2,
+      "audio_ok": true
+    },
+    {
+      "number": 21170,
+      "name": "SOCCER 32",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.1,
+      "audio_rms": 1074.0,
+      "audio_ok": true
+    },
+    {
+      "number": 21171,
+      "name": "SOCCER 33",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21172,
+      "name": "SOCCER 34",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.7,
+      "audio_rms": 3304.0,
+      "audio_ok": true
+    },
+    {
+      "number": 21173,
+      "name": "SOCCER 35",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.1,
+      "audio_rms": 1080.4,
+      "audio_ok": true
+    },
+    {
+      "number": 21174,
+      "name": "SOCCER 36",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21175,
+      "name": "SOCCER 37",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21176,
+      "name": "SOCCER 38",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21177,
+      "name": "SOCCER 39",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21178,
+      "name": "SOCCER 40",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21300,
+      "name": "UEFA 03",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.4,
+      "audio_rms": 2836.6,
+      "audio_ok": true
+    }
+  ]
+}

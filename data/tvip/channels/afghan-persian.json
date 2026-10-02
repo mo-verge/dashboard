@@ -1,0 +1,862 @@
+{
+  "category": "AFGHAN | PERSIAN",
+  "captured": "2026-10-01T20:44:55-0400",
+  "mode": "sports-only",
+  "reported_total": 176,
+  "channels": [
+    {
+      "number": 8371,
+      "name": "AFG: AMC TV"
+    },
+    {
+      "number": 8372,
+      "name": "AFG: ATN"
+    },
+    {
+      "number": 8374,
+      "name": "AFG: BAHAR TV"
+    },
+    {
+      "number": 8375,
+      "name": "AFG: BARYA TV 4K"
+    },
+    {
+      "number": 8376,
+      "name": "AFG: BBC PERSIAN"
+    },
+    {
+      "number": 8377,
+      "name": "AFG: ESLAH TV"
+    },
+    {
+      "number": 8378,
+      "name": "IR: SIMAYE AZAD"
+    },
+    {
+      "number": 8380,
+      "name": "AFG: HEWAD TV"
+    },
+    {
+      "number": 8382,
+      "name": "AFG: LEMAR"
+    },
+    {
+      "number": 8383,
+      "name": "AFG: MAARIF TV HD"
+    },
+    {
+      "number": 8384,
+      "name": "AFG: NOOR TV"
+    },
+    {
+      "number": 8385,
+      "name": "AFG: PAYAM E AFGHAN TV"
+    },
+    {
+      "number": 8386,
+      "name": "AFG: RTA AFGHANISTAN HD"
+    },
+    {
+      "number": 8387,
+      "name": "AFG: RTA SPORTS HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.7,
+      "audio_rms": 7900.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8386,
+      "name": "AFG: RTA AFGHANISTAN HD",
+      "number_uncertain": true
+    },
+    {
+      "number": 8389,
+      "name": "AFG: SHAMSHED TV"
+    },
+    {
+      "number": 8391,
+      "name": "AFG: TOLO HD"
+    },
+    {
+      "number": 8392,
+      "name": "AFG: TOLO NEWS"
+    },
+    {
+      "number": 8393,
+      "name": "AFG: TAMADON"
+    },
+    {
+      "number": 8395,
+      "name": "AFG: ZHWANDOONTV"
+    },
+    {
+      "number": 8419,
+      "name": "IR: GEM 24B HD"
+    },
+    {
+      "number": 8420,
+      "name": "IR: GEM AZ 1"
+    },
+    {
+      "number": 8421,
+      "name": "IR: GEM ARABIA"
+    },
+    {
+      "number": 8422,
+      "name": "IR: GEM BOLLYWOOD"
+    },
+    {
+      "number": 8423,
+      "name": "IR: GEM CLASSIC"
+    },
+    {
+      "number": 8424,
+      "name": "IR: GEM COMEDY"
+    },
+    {
+      "number": 8425,
+      "name": "IR: GEM DRAMA"
+    },
+    {
+      "number": 8426,
+      "name": "IR: GEM DRAMA PLUS 4K"
+    },
+    {
+      "number": 8428,
+      "name": "IR: GEM FIT"
+    },
+    {
+      "number": 8429,
+      "name": "IR: GEM FOOD"
+    },
+    {
+      "number": 8430,
+      "name": "IR: GEM JUNIOR"
+    },
+    {
+      "number": 8431,
+      "name": "IR: GEM KIDS"
+    },
+    {
+      "number": 8432,
+      "name": "IR: GEM LATINO"
+    },
+    {
+      "number": 8433,
+      "name": "IR: GEM LIFE"
+    },
+    {
+      "number": 8434,
+      "name": "IR: GEM MIFA + HD"
+    },
+    {
+      "number": 8435,
+      "name": "IR: GEM MIFA MUSIC HD"
+    },
+    {
+      "number": 8436,
+      "name": "IR: GEM NATURE"
+    },
+    {
+      "number": 8437,
+      "name": "IR: GEM ONYX HD"
+    },
+    {
+      "number": 8438,
+      "name": "IR: GEM PROPERTY"
+    },
+    {
+      "number": 8439,
+      "name": "IR: GEM RIVER"
+    },
+    {
+      "number": 8435,
+      "name": "IR: GEM MIFA MUSIC HD",
+      "number_uncertain": true
+    },
+    {
+      "number": 8442,
+      "name": "IR: GEM RUBIX PLUS 4K"
+    },
+    {
+      "number": 3,
+      "name": "IR: GEM SERIES",
+      "number_uncertain": true
+    },
+    {
+      "number": 8,
+      "name": "IR: GEM SERIES PLUS HD"
+    },
+    {
+      "number": 5,
+      "name": "IR: GEM TV",
+      "number_uncertain": true
+    },
+    {
+      "number": 6,
+      "name": "IR: GEM TV PLUS 4K"
+    },
+    {
+      "number": 7,
+      "name": "IR: GEM TRAVEL"
+    },
+    {
+      "number": 8448,
+      "name": "IR: GEM USA"
+    },
+    {
+      "number": 9,
+      "name": "IR PRESS TV",
+      "number_uncertain": true
+    },
+    {
+      "number": 8451,
+      "name": "IR: HADI TV 3"
+    },
+    {
+      "number": 8454,
+      "name": "IR: IRIB 4K"
+    },
+    {
+      "number": 8455,
+      "name": "IR: IRIB AFLAK TV LORESTAN"
+    },
+    {
+      "number": 8456,
+      "name": "IR: IRIB ALBORZ"
+    },
+    {
+      "number": 8457,
+      "name": "IR: IRIB AMOOZESH"
+    },
+    {
+      "number": 8455,
+      "name": "IR: RIB AFLAK TV LORESTAN",
+      "number_uncertain": true
+    },
+    {
+      "number": 8459,
+      "name": "IR: RIB AZARBAYJAN E GHARBI TV"
+    },
+    {
+      "number": 8460,
+      "name": "IR: IRIB BARAN TV GUILAN"
+    },
+    {
+      "number": 8461,
+      "name": "IR: IRIB DENA KOHGILUYEH AND"
+    },
+    {
+      "number": 8462,
+      "name": "IR: IRIB FARS SHIRAZ"
+    },
+    {
+      "number": 88,
+      "name": "IR: IRIB FILM 2",
+      "number_uncertain": true
+    },
+    {
+      "number": 8465,
+      "name": "IR: IRIB GOLESTAN SABZ TV"
+    },
+    {
+      "number": 8466,
+      "name": "IR: RIB HAMEDAN"
+    },
+    {
+      "number": 8467,
+      "name": "IR: IRIB HAMOON"
+    },
+    {
+      "number": 8468,
+      "name": "IR: IRIBI ILAM"
+    },
+    {
+      "number": 8469,
+      "name": "IR: IRIB IRINN"
+    },
+    {
+      "number": 8470,
+      "name": "IR: IRIB IRANKALA HEVC"
+    },
+    {
+      "number": 8471,
+      "name": "IR: IRIB JAHANBIN TV CHAHARM"
+    },
+    {
+      "number": 8472,
+      "name": "IR: IRIB JAME JAM 2 TV"
+    },
+    {
+      "number": 8471,
+      "name": "IR: RIB JAHANBIN TV CHAHARMA",
+      "number_uncertain": true
+    },
+    {
+      "number": 8474,
+      "name": "IR: IRIB KERMAN"
+    },
+    {
+      "number": 8475,
+      "name": "IR: RIB KERMANSHAH ZAGROS"
+    },
+    {
+      "number": 8476,
+      "name": "IR: RIB KHAVARAN TV KHORASA"
+    },
+    {
+      "number": 8477,
+      "name": "IR: RIB KHORASAN RAZAV"
+    },
+    {
+      "number": 8478,
+      "name": "IR: IRIB KURDISTAN"
+    },
+    {
+      "number": 8479,
+      "name": "IR: RIB MAHABAD"
+    },
+    {
+      "number": 8480,
+      "name": "IR: RIB MAZANDARAN TABAREST"
+    },
+    {
+      "number": 8481,
+      "name": "IR: IRIB MOSTANAD"
+    },
+    {
+      "number": 8482,
+      "name": "IR: IRIB MOSTANAD HEVC"
+    },
+    {
+      "number": 8483,
+      "name": "IR: IRIB NAMAYESH"
+    },
+    {
+      "number": 8484,
+      "name": "IR: IRIB NAMAYESH HEVC"
+    },
+    {
+      "number": 8485,
+      "name": "IR: IRIB NASIM TV"
+    },
+    {
+      "number": 8486,
+      "name": "IR: IRIB NASIM TV HEVC"
+    },
+    {
+      "number": 8480,
+      "name": "IR: RIB MAZANDARAN TABAREST",
+      "number_uncertain": true
+    },
+    {
+      "number": 8488,
+      "name": "IR: IRIB OMID"
+    },
+    {
+      "number": 8489,
+      "name": "IR: IRIB QURAN"
+    },
+    {
+      "number": 8490,
+      "name": "IR: IRIB SALAMAT"
+    },
+    {
+      "number": 8491,
+      "name": "IR: IRIB SEPEHR 4K"
+    },
+    {
+      "number": 8492,
+      "name": "IR: RIB SHOMA"
+    },
+    {
+      "number": 8493,
+      "name": "IR: IRIB SHOMA HEVC"
+    },
+    {
+      "number": 8494,
+      "name": "IR: IRIB TV1"
+    },
+    {
+      "number": 8495,
+      "name": "IR: IRIB TV 1 HEVC"
+    },
+    {
+      "number": 8496,
+      "name": "IR: IRIB TV2"
+    },
+    {
+      "number": 8497,
+      "name": "IR: IRIB TV 3 HD"
+    },
+    {
+      "number": 8498,
+      "name": "IR: IRIB TV 3 HEVC"
+    },
+    {
+      "number": 8499,
+      "name": "IR: IRIB TV 4"
+    },
+    {
+      "number": 8500,
+      "name": "IR: IRIB TV 5"
+    },
+    {
+      "number": 8493,
+      "name": "IR: RIB SHOMA HEVC",
+      "number_uncertain": true
+    },
+    {
+      "number": 8502,
+      "name": "IR: IRIB TAMASHA HEVC"
+    },
+    {
+      "number": 8505,
+      "name": "IR: IRIB ZANJAN ESHTAGH TV"
+    },
+    {
+      "number": 8506,
+      "name": "IR: AFTAB TV"
+    },
+    {
+      "number": 8507,
+      "name": "IR: IMAM HUSSEIN TV 1"
+    },
+    {
+      "number": 8508,
+      "name": "MANOTO"
+    },
+    {
+      "number": 8509,
+      "name": "IRIB ILAM"
+    },
+    {
+      "number": 8512,
+      "name": "IR: IRAN INTERNATIONAL HD* 4K"
+    },
+    {
+      "number": 8513,
+      "name": "IR: IRKALA TV"
+    },
+    {
+      "number": 8514,
+      "name": "BATUR TV"
+    },
+    {
+      "number": 8524,
+      "name": "IR: MBC PERSIA HD"
+    },
+    {
+      "number": 8525,
+      "name": "IR: SABALAN TV ARDEBIL"
+    },
+    {
+      "number": 8527,
+      "name": "IR: TAPESH TV"
+    },
+    {
+      "number": 8528,
+      "name": "IR: VOA PERSIAN 4K"
+    },
+    {
+      "number": 8512,
+      "name": "(MIR: RAN INTERNATIONAL HD* 4K",
+      "number_uncertain": true
+    },
+    {
+      "number": 8530,
+      "name": "IR: VARZESH 2 HD"
+    },
+    {
+      "number": 8531,
+      "name": "IR: VARZESH 3 4K"
+    },
+    {
+      "number": 8532,
+      "name": "IR: VARZISH SPORT HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 150.0,
+      "audio_rms": 1298.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8533,
+      "name": "KU: WAARTV"
+    },
+    {
+      "number": 8534,
+      "name": "KU: RUDAW TV"
+    },
+    {
+      "number": 8535,
+      "name": "KU: AMOZHGARY TV"
+    },
+    {
+      "number": 8536,
+      "name": "AFG: ATN NEWS"
+    },
+    {
+      "number": 8537,
+      "name": "AFG: AFGHAN INTERNATIONAL HD"
+    },
+    {
+      "number": 8538,
+      "name": "AFGH: KAYHAN TV"
+    },
+    {
+      "number": 8545,
+      "name": "IR: AYENEH TV"
+    },
+    {
+      "number": 34655,
+      "name": "DSTV HONEY"
+    },
+    {
+      "number": 34668,
+      "name": "DSTV REAL TIME"
+    },
+    {
+      "number": 45655,
+      "name": "AFGH: AFGHANISTAN TV"
+    },
+    {
+      "number": 8537,
+      "name": "AFG: AFGHAN INTERNATIONAL HD",
+      "number_uncertain": true
+    },
+    {
+      "number": 45657,
+      "name": "IR: POOYA €: NAHAL"
+    },
+    {
+      "number": 45658,
+      "name": "IR: QAZVIN TV"
+    },
+    {
+      "number": 45659,
+      "name": "IR: YOUR TIME TV HD"
+    },
+    {
+      "number": 45660,
+      "name": "IR: AVA FAMILY HD"
+    },
+    {
+      "number": 45661,
+      "name": "IR: VOX 1TV"
+    },
+    {
+      "number": 45662,
+      "name": "IR: VOX 2 TV"
+    },
+    {
+      "number": 45663,
+      "name": "IR: KHATEREH"
+    },
+    {
+      "number": 45664,
+      "name": "IR: MY TV"
+    },
+    {
+      "number": 45665,
+      "name": "IR: MI TV"
+    },
+    {
+      "number": 45666,
+      "name": "IR: RADIO JAVAN"
+    },
+    {
+      "number": 45667,
+      "name": "IR: PMC ROYAL HD"
+    },
+    {
+      "number": 45668,
+      "name": "IR: NAVAHANG 4K"
+    },
+    {
+      "number": 45669,
+      "name": "IR: PERSIAN MUSIC"
+    },
+    {
+      "number": 45656,
+      "name": "AFGH: AFGHAN NOBEL MOVIES",
+      "number_uncertain": true
+    },
+    {
+      "number": 45671,
+      "name": "IR: PERSIANA PLUS HD"
+    },
+    {
+      "number": 45672,
+      "name": "IR:PERSIAN CINEMA"
+    },
+    {
+      "number": 45673,
+      "name": "IR: PERSIANA FAMILY"
+    },
+    {
+      "number": 45674,
+      "name": "IR: PERSIANA IRANIAN"
+    },
+    {
+      "number": 45675,
+      "name": "IR: PERSIANA NOSTALGIA"
+    },
+    {
+      "number": 45676,
+      "name": "IR: PERSIANA KOREA"
+    },
+    {
+      "number": 45677,
+      "name": "IR: ITN HD"
+    },
+    {
+      "number": 45678,
+      "name": "IR: IRAN E FARDA"
+    },
+    {
+      "number": 45679,
+      "name": "IR: KHANE FILM"
+    },
+    {
+      "number": 45680,
+      "name": "IR: KHANE HONARMANDAN TV"
+    },
+    {
+      "number": 45681,
+      "name": "IR: GANJE HOZOUR"
+    },
+    {
+      "number": 45682,
+      "name": "IR: DIDGAH TV"
+    },
+    {
+      "number": 45683,
+      "name": "IR: KANAL JADID"
+    },
+    {
+      "number": 45680,
+      "name": "IR: KHANE HONARMANDAN TV",
+      "number_uncertain": true
+    },
+    {
+      "number": 45685,
+      "name": "IR: 4U TV"
+    },
+    {
+      "number": 45686,
+      "name": "IR: PAYAM JAVAN HD"
+    },
+    {
+      "number": 45687,
+      "name": "IR: IRAN TV NETWORKITN"
+    },
+    {
+      "number": 45688,
+      "name": "IR: SAHAR URDU"
+    },
+    {
+      "number": 45689,
+      "name": "IR: SAHAR AZAR"
+    },
+    {
+      "number": 45690,
+      "name": "IR: ISFAHAN TV"
+    },
+    {
+      "number": 45691,
+      "name": "IR: BOUSHEHR TV"
+    },
+    {
+      "number": 45692,
+      "name": "IR: SAHAND TV"
+    },
+    {
+      "number": 45693,
+      "name": "IR: YAZD TV TABAN"
+    },
+    {
+      "number": 45694,
+      "name": "IR: IFILM ENGLISH"
+    },
+    {
+      "number": 45695,
+      "name": "IR: PERSIANA JUNIOR"
+    },
+    {
+      "number": 45696,
+      "name": "IR: SHABAKEH 7"
+    },
+    {
+      "number": 45697,
+      "name": "IR: DAMAC PERSIAN TV HD"
+    },
+    {
+      "number": 45699,
+      "name": "IR: KHALU E FARS TV"
+    },
+    {
+      "number": 45700,
+      "name": "IR: KHOOZESTAN TV"
+    },
+    {
+      "number": 45701,
+      "name": "IR: PERSIANA 1"
+    },
+    {
+      "number": 45702,
+      "name": "IR: DAZN MUNDIAL 01",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 45703,
+      "name": "IR: DAZN MUNDIAL 02",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 45704,
+      "name": "IR: DAZN MUNDIAL 03",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 45705,
+      "name": "IR: DAZN MUNDIAL 04",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8372,
+      "name": "AFG: ATN",
+      "number_uncertain": true
+    },
+    {
+      "number": 8374,
+      "name": "AFG: BAHAR TV"
+    },
+    {
+      "number": 8375,
+      "name": "AFG: BARYA TV 4K"
+    }
+  ]
+}

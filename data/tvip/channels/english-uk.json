@@ -1,0 +1,4678 @@
+{
+  "category": "ENGLISH | UK",
+  "captured": "2026-10-01T02:55:28-0400",
+  "mode": "full",
+  "reported_total": 213,
+  "channels": [
+    {
+      "number": 9,
+      "name": "RT DOCUMENTARY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.1,
+      "audio_rms": 1260.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9445,
+      "name": "ALIBI 4K",
+      "epg": [
+        {
+          "time": "2:10 AM",
+          "title": "Murdoch Mysteries"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Murdoch Mysteries"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Father Brown"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Coroner"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Doctor Blake Mysteries"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.7,
+      "audio_rms": 1368.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9446,
+      "name": "BBC FOUR 4K",
+      "epg": [
+        {
+          "time": "10:55 PM",
+          "title": "This Is BBC Four"
+        },
+        {
+          "time": "2:55 AM",
+          "title": "This Is BBC Four"
+        },
+        {
+          "time": "6:55 AM",
+          "title": "This Is BBC Four"
+        },
+        {
+          "time": "10:55 AM",
+          "title": "This Ils BBC Four"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Natural World"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.6,
+      "audio_rms": 1849.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9447,
+      "name": "BBC NEWS 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "BBC News"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Business Today"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "BBC News"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "BBC News"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "BBC News"
+        }
+      ],
+      "video_ok": true,
+      "luma": 170.0,
+      "audio_rms": 356.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9448,
+      "name": "BBC ONE 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.4,
+      "audio_rms": 1779.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9449,
+      "name": "BBC TWO 4K",
+      "epg": [
+        {
+          "time": "2:15 AM",
+          "title": "Antiques Road Trip"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Gardeners' World"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "BBC News"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Politics Live"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Impossible"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.1,
+      "audio_rms": 1408.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9450,
+      "name": "BLOOMBERG 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.5,
+      "audio_rms": 1310.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9451,
+      "name": "TNT ESPN HD UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.0,
+      "audio_rms": 1618.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9452,
+      "name": "TNT SPORT 1 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Shenzhen Open"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Women's Australian Rules"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "The WRC Magazine"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Shenzhen Open"
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Ultimate Pool NxtGen"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.9,
+      "audio_rms": 506.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9453,
+      "name": "TNT SPORT 2 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Shenzhen Open"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "FIA World Endurance Championship Motor Racing"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The WRC Magazine"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "One-Day International Cricket"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Shenzhen Open"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.9,
+      "audio_rms": 1507.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9456,
+      "name": "TNT SPORTS 3 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Laver Cup"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "FIM Superbike World Championship Motorcycle Racing"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "FIM Speedway Grand Prix"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "PREM: The Wrap Up"
+        },
+        {
+          "time": "5:15 AM",
+          "title": "The Gruppetto"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.6,
+      "audio_rms": 115.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9457,
+      "name": "TNT SPORTS 4 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Serie A Football"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Serie A Football"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Serie A Football"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Serie A Football"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Serie A Football"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.3,
+      "audio_rms": 2224.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9458,
+      "name": "TNT SPORTS 5 4K UK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "FIA World Rally Championship"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "7:35 AM",
+          "title": "This is TNT Sports"
+        },
+        {
+          "time": "9:30 AM",
+          "title": "FIA World Rally Championship"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.2,
+      "audio_rms": 1279.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9460,
+      "name": "TNT SPORT ESPN 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.2,
+      "audio_rms": 2681.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9461,
+      "name": "CARTOON NETWORK 4K UK",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Adventure Time"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Teen Titans Go! Cyborg"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Amazing World of Gumball"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Mr Bean"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Teen Titans Go"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.0,
+      "audio_rms": 396.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9463,
+      "name": "CBEEBIES HD",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Bluey"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Go Jetters"
+        },
+        {
+          "time": "2:50 AM",
+          "title": "Peter Rabbit"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Octonauts"
+        },
+        {
+          "time": "3:15 AM",
+          "title": "Numberblocks"
+        }
+      ],
+      "video_ok": true,
+      "luma": 166.7,
+      "audio_rms": 688.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9464,
+      "name": "CHANNEL 4 4K",
+      "epg": [
+        {
+          "time": "2:20 AM",
+          "title": "The King of Queens"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "Everybody Loves Raymond"
+        },
+        {
+          "time": "3:10 AM",
+          "title": "Everybody Loves Raymond"
+        },
+        {
+          "time": "3:40 AM",
+          "title": "Everybody Loves Raymond"
+        },
+        {
+          "time": "4:10 AM",
+          "title": "Frasier"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.1,
+      "audio_rms": 1617.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9465,
+      "name": "CHANNEL 5 4K",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Peppa Pig"
+        },
+        {
+          "time": "2:40 AM",
+          "title": "Peppa Pig"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "Tim Rex In Space"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Stan €: Gran"
+        },
+        {
+          "time": "3:15 AM",
+          "title": "PAW Patrol"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.0,
+      "audio_rms": 671.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9466,
+      "name": "CNN HD UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "CNN Newsroom"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CNN Newsroom"
+        },
+        {
+          "time": "3:45 AM",
+          "title": "World Sport"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "CNN Newsroom"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CNN H EXD!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9467,
+      "name": "CREATE & CRAFT HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.1,
+      "audio_rms": 731.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9468,
+      "name": "CRIME INVESTIGATION 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Homicide Hunter"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Homicide Hunter"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Homicide Squad New Orleans"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "My Strange Arrest"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Court Cam"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.5,
+      "audio_rms": 1907.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9469,
+      "name": "DAVE 4K",
+      "epg": [
+        {
+          "time": "2:10 AM",
+          "title": "Top Gear"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Borderforce: America's Gatekeepers"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Borderforce: America's Gatekeepers"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Rick Stein's Cornwall"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Rick Stein's Cornwall"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.0,
+      "audio_rms": 1564.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9470,
+      "name": "DISCOVERY 4K UK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Deadliest Catch"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Treehouse Masters"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "America's Backyard Gold"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "America's Backyard Gold"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Building Off the Grid"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.2,
+      "audio_rms": 712.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9472,
+      "name": "CA AN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Couples Come Dine with Me"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Gordon Ramsay's 24 Hours to Hell and Back"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Gordon Ramsay's 24 Hours to Hell and Back"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Below Deck Down Under"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Modern Family"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.6,
+      "audio_rms": 1784.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9473,
+      "name": "EIRSPORT 1 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.4,
+      "audio_rms": 1363.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9475,
+      "name": "EUROSPORT 1 4K UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.4,
+      "audio_rms": 1988.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9476,
+      "name": "EUROSPORT 2 4K UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.4,
+      "audio_rms": 2006.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9477,
+      "name": "FILM4 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 172.9,
+      "audio_rms": 1337.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9478,
+      "name": "FOX 4K UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 161.0,
+      "audio_rms": 2648.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9479,
+      "name": "FRANCE 24 4K",
+      "epg": [
+        {
+          "time": "2:30AM",
+          "title": "Alaune"
+        },
+        {
+          "time": "2:46 AM",
+          "title": "Dans La Presse"
+        },
+        {
+          "time": "2:59 AM",
+          "title": "Le Journal"
+        },
+        {
+          "time": "3:22 AM",
+          "title": "L'info Eco"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Le Journal"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.8,
+      "audio_rms": 172.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9481,
+      "name": "GOLD 4K",
+      "epg": [
+        {
+          "time": "2:05 AM",
+          "title": "dinnerladies"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "The Good Life"
+        },
+        {
+          "time": "3:20 AM",
+          "title": "Still Open All Hours"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Green Green Grass"
+        },
+        {
+          "time": "4:40 AM",
+          "title": "Are You Being Served?"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.1,
+      "audio_rms": 694.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9482,
+      "name": "H2 HD UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Mystery Places"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "William Shatner's Weird or What"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "World's Most Unexplained"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "World's Most Unexplained"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Unsealed: Alien Files"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9483,
+      "name": "HISTORY 4K UK",
+      "epg": [
+        {
+          "time": "2:25 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "3:20 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "5:10 AM",
+          "title": "Storage Wars"
+        },
+        {
+          "time": "5:40 AM",
+          "title": "Storage Wars"
+        }
+      ],
+      "video_ok": true,
+      "luma": 33.0,
+      "audio_rms": 2068.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9485,
+      "name": "NA Y D iS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.4,
+      "audio_rms": 1188.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9486,
+      "name": "NA V “TIN",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Good Morning Britain"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Lorraine"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "This Morning"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Loose Women"
+        },
+        {
+          "time": "8:30 AM",
+          "title": "ITV Lunchtime News"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.1,
+      "audio_rms": 803.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9487,
+      "name": "ITV2 4K",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "The Real Housewives of Potomac"
+        },
+        {
+          "time": "3:20 AM",
+          "title": "The Real Housewives of Beverly Hills"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "The Only Way Is Essex"
+        },
+        {
+          "time": "5:15 AM",
+          "title": "Dawson's Creek"
+        },
+        {
+          "time": "6:10 AM",
+          "title": "Charmed"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.1,
+      "audio_rms": 1790.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9488,
+      "name": "11V3 4K",
+      "epg": [
+        {
+          "time": "2:05 AM",
+          "title": "Classic Emmerdale"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Classic Emmerdale"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Classic Coronation Street"
+        },
+        {
+          "time": "3:40 AM",
+          "title": "Classic Coronation Street"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Inspector Morse"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.5,
+      "audio_rms": 745.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9489,
+      "name": "1144 4K",
+      "epg": [
+        {
+          "time": "1:45 AM",
+          "title": "American Pickers"
+        },
+        {
+          "time": "2:40 AM",
+          "title": "Minder"
+        },
+        {
+          "time": "3:55 AM",
+          "title": "The Champions"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Grand Fishing Adventure"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Professionals"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.5,
+      "audio_rms": 1706.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9490,
+      "name": "ITV4 PLUS",
+      "epg": [
+        {
+          "time": "1:45 AM",
+          "title": "American Pickers"
+        },
+        {
+          "time": "2:40 AM",
+          "title": "Minder"
+        },
+        {
+          "time": "3:55 AM",
+          "title": "The Champions"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Grand Fishing Adventure"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Professionals"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.6,
+      "audio_rms": 2577.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9491,
+      "name": "LFC TV 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Retro Reds"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "Goal Rush"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Match"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Premier League Review Show"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Us and Them: Manchester United"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.1,
+      "audio_rms": 1691.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9492,
+      "name": "LOVE WORLD HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.1,
+      "audio_rms": 1836.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9493,
+      "name": "MORE 4 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 146.6,
+      "audio_rms": 883.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9494,
+      "name": "GB NEWS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast with Stephen and Ellie"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Britain's Newsroom"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Good Afternoon Britain"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Martin Daubney"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Dewbs €: Co"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.5,
+      "audio_rms": 1748.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9495,
+      "name": "MUTV 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Farewell Casemiro"
+        },
+        {
+          "time": "2:40 AM",
+          "title": "All the Goals"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The United Archives"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The United Archives"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "FA Women's League Cup"
+        }
+      ],
+      "video_ok": true,
+      "luma": 168.2,
+      "audio_rms": 481.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9496,
+      "name": "NAT GEO 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 213.6,
+      "audio_rms": 1951.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9497,
+      "name": "NAT GEO WILD 4K UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 186.0,
+      "audio_rms": 1458.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9498,
+      "name": "NHK WORLD HD",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Core Kyoto Mini"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Newsline Asia 24"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Japanology Plus"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "NHK Newsline"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Backstage Japan"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.1,
+      "audio_rms": 395.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9499,
+      "name": "NICK JR 4K UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.1,
+      "audio_rms": 1627.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9500,
+      "name": "NICKELODEON 4K UK",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "The Patrick Star Show"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Creature Cases"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Deer Squad"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.4,
+      "audio_rms": 1274.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9501,
+      "name": "QUEST 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Salvage Hunters"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Salvage Hunters"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Aussie Gold Hunters"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Aussie Gold Hunters"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Outback Opal Hunters"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.2,
+      "audio_rms": 859.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9502,
+      "name": "RACING TV 4K",
+      "epg": [
+        {
+          "time": "1:15 AM",
+          "title": "Racing Replay"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "Irish Racing Replay"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Racing Replay"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Irish Racing Replay"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Inside Kingsclere: A Season to Remember"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.7,
+      "audio_rms": 704.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9504,
+      "name": "RTE ONE 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.5,
+      "audio_rms": 1553.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9505,
+      "name": "RTE TWO 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.0,
+      "audio_rms": 1684.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9506,
+      "name": "RUSSIA TODAY 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.9,
+      "audio_rms": 1650.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9507,
+      "name": "A ener",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Ger a Gu"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "Amser Maith Maith Yn Ol"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Cymylaubychain"
+        },
+        {
+          "time": "3:10 AM",
+          "title": "Tomos a’i Ffrindiau"
+        },
+        {
+          "time": "3:20 AM",
+          "title": "Byd Tad-cu"
+        }
+      ],
+      "video_ok": true,
+      "luma": 183.2,
+      "audio_rms": 828.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9508,
+      "name": "SKY ANIMATION HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9509,
+      "name": "SKY ARTS 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Jean-Michel Jarre Live In Sevilla"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Joy of Painting with Bob Ross"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Joy of Painting with Bob Ross"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Tales of the Unexpected"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Tales of the Unexpected"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9510,
+      "name": "SKY CHALLENGE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "The Chase"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Chase"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Chase: Celebrity Special"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Bidding Room"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Celebrity Antiques Road Trip"
+        }
+      ],
+      "video_ok": true,
+      "luma": 31.1,
+      "audio_rms": 1620.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9511,
+      "name": "SKY CINEMA ACTION 4K UK",
+      "epg": [
+        {
+          "time": "2:25 AM",
+          "title": "Love Hurts (2025)"
+        },
+        {
+          "time": "3:55 AM",
+          "title": "Jackie Chan's First Strike (1996)"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Clash of the Titans (2010)"
+        },
+        {
+          "time": "7:20 AM",
+          "title": "Safe (2012)"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Olympus Has Fallen (2013)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.6,
+      "audio_rms": 791.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9512,
+      "name": "SKY CINEMA ANIMATION 4K UK",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9513,
+      "name": "SKY CINEMA COMEDY 4K UK",
+      "epg": [
+        {
+          "time": "1:25 AM",
+          "title": "Roofman (2025)"
+        },
+        {
+          "time": "3:40 AM",
+          "title": "Panda Plan (2024)"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Panda Plan 2: The Magical Tribe (2026)"
+        },
+        {
+          "time": "7:25 AM",
+          "title": "Zoolander (2001)"
+        },
+        {
+          "time": "9:10 AM",
+          "title": "Anchorman: The Legend of Ron Burgundy (2004)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.2,
+      "audio_rms": 213.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9514,
+      "name": "SKY CINEMA DRAMA 4K UK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Breakfast Club (1985)"
+        },
+        {
+          "time": "2:40 AM",
+          "title": "Moneyball (2011)"
+        },
+        {
+          "time": "4:55 AM",
+          "title": "Jerry Maguire (1996)"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Cool Hand Luke (1967)"
+        },
+        {
+          "time": "9:25 AM",
+          "title": "Valentine's Day (2010)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.7,
+      "audio_rms": 1792.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9515,
+      "name": "SKY CINEMA FAMILY 4K UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.1,
+      "audio_rms": 517.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9516,
+      "name": "SKY CINEMA GREATS 4K UK",
+      "epg": [
+        {
+          "time": "1:50 AM",
+          "title": "Dog Day Afternoon (1975)"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Jaws (1975)"
+        },
+        {
+          "time": "6:10 AM",
+          "title": "Jaws 2 (1978)"
+        },
+        {
+          "time": "8:10 AM",
+          "title": "Jaws III (1983)"
+        },
+        {
+          "time": "9:50 AM",
+          "title": "The Hunt for Red October (1990)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.0,
+      "audio_rms": 80.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9517,
+      "name": "SKY CINEMA HITS 4K UK",
+      "epg": [
+        {
+          "time": "2:05 AM",
+          "title": "Flavia (2025)"
+        },
+        {
+          "time": "3:45 AM",
+          "title": "Mile End Kicks (2025)"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "No Ordinary Heist (2026)"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Normal (2025)"
+        },
+        {
+          "time": "9:10 AM",
+          "title": "The Fix (2026)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 33.9,
+      "audio_rms": 614.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9518,
+      "name": "SKY CINEMA PREMIERE 4K UK",
+      "epg": [
+        {
+          "time": "1:45 AM",
+          "title": "Hungry (2026)"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Better Man (2024)"
+        },
+        {
+          "time": "5:55 AM",
+          "title": "The Moment (2026)"
+        },
+        {
+          "time": "7:40 AM",
+          "title": "Tow (2025)"
+        },
+        {
+          "time": "9:30 AM",
+          "title": "Hungry (2026)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.9,
+      "audio_rms": 1039.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9519,
+      "name": "SKY CINEMA SCIFI / HORROR",
+      "epg": [
+        {
+          "time": "1:15 AM",
+          "title": "The Chronicles of Riddick (2004)"
+        },
+        {
+          "time": "3:20 AM",
+          "title": "Men in Black 3 (2012)"
+        },
+        {
+          "time": "5:10 AM",
+          "title": "Flatliners (1990)"
+        },
+        {
+          "time": "7:10 AM",
+          "title": "Flatliners (2017)"
+        },
+        {
+          "time": "9:10 AM",
+          "title": "Evolution (2001)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 27.4,
+      "audio_rms": 4329.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9520,
+      "name": "SKY CINEMA SELECT 4K UK",
+      "epg": [
+        {
+          "time": "1:35 AM",
+          "title": "Beast of War (2025)"
+        },
+        {
+          "time": "3:10 AM",
+          "title": "Aisha (2022)"
+        },
+        {
+          "time": "4:50 AM",
+          "title": "Exhibiting Forgiveness (2024)"
+        },
+        {
+          "time": "6:55 AM",
+          "title": "Juror #2 (2024)"
+        },
+        {
+          "time": "8:55 AM",
+          "title": "Aisha (2022)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.9,
+      "audio_rms": 451.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9521,
+      "name": "SKY CINEMA THRILLER 4K UK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Murder by Numbers (2002)"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Mulholland Drive (2001)"
+        },
+        {
+          "time": "5:35 AM",
+          "title": "Caddo Lake (2024)"
+        },
+        {
+          "time": "7:20 AM",
+          "title": "Hotel Mumbai (2018)"
+        },
+        {
+          "time": "9:25 AM",
+          "title": "Extremely Wicked, Shockingly Evil and Vile (2019)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.4,
+      "audio_rms": 1385.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9522,
+      "name": "SKY COMEDY HD UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 157.8,
+      "audio_rms": 584.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9523,
+      "name": "SKY CRIME 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "The Force: Manchester"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Send in the Dogs UK"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Road Wars"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Brit Cops: Law and Disorder"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Caught on Dashcam"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9524,
+      "name": "SKY DOCUMENTARIES 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Discovering Film"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Directors"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Eighties"
+        },
+        {
+          "time": "4:55 AM",
+          "title": "The Comedy Store"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Spector"
+        }
+      ],
+      "video_ok": true,
+      "luma": 32.2,
+      "audio_rms": 1507.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9525,
+      "name": "SKY HISTORY 2 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Mystery Places"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "William Shatner's Weird or What"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "World's Most Unexplained"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "World's Most Unexplained"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Unsealed: Alien Files"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 2051.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9526,
+      "name": "SKY NATURE 4K",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Monkey Life"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Great Blue Wild"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hope for Wildlife"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Extreme Africa"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Mysteries of the Mekong"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.7,
+      "audio_rms": 1082.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9527,
+      "name": "SKY NEWS 4K UK",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Mornings with Ridge and Frost"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Mornings with Ridge and Frost"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Mornings with Ridge and Frost"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Mornings with Ridge and Frost"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Mornings with Ridge and Frost"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.9,
+      "audio_rms": 1399.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9528,
+      "name": "SKY ATLANTIC",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Urban Secrets"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Billions"
+        },
+        {
+          "time": "4:05 AM",
+          "title": "Billions"
+        },
+        {
+          "time": "5:20 AM",
+          "title": "Deadwood"
+        },
+        {
+          "time": "6:25 AM",
+          "title": "Deadwood"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.7,
+      "audio_rms": 2425.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9529,
+      "name": "SKY SPORT PREMIER LEAGUE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Premier League Best Goals"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Premier League Legends"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Premier League 100 Club"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Premier League Review"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Sky Sports FC"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.3,
+      "audio_rms": 2058.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9530,
+      "name": "SKY SPORTS ACTION / NFL 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "NFL Football"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "NFL Football"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "NFL Football"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Franchise"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "NFL Football"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.0,
+      "audio_rms": 1651.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9531,
+      "name": "SKY SPORTS ARENA 4K UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.7,
+      "audio_rms": 249.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9532,
+      "name": "SKY SPORTS F1 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Formula 1 Drivers Press Conference"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "At Home with Liam Lawson"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Formula 1"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Formula 1 Drivers Press Conference"
+        },
+        {
+          "time": "4:45 AM",
+          "title": "At Home with Liam Lawson"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.6,
+      "audio_rms": 1771.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9533,
+      "name": "SKY SPORTS FOOTBALL 4K UK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "EFL Cup Retro"
+        },
+        {
+          "time": "3:45 AM",
+          "title": "EFL Play-Off Classics"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Scottish Premiership Football"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "EFL Greatest"
+        },
+        {
+          "time": "4:45 AM",
+          "title": "EFL Greatest"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.2,
+      "audio_rms": 2865.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9534,
+      "name": "SKY SPORTS GOLF 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Presidents Cup, PGA Tour Golf"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Open de France, DP World Tour Golf"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "PGA TOUR: The CUT"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "European Challenge Tour Golf"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "PURE Insurance Championship, Champions Tour Golf"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.7,
+      "audio_rms": 1566.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9535,
+      "name": "SKY SPORTS MAIN EVENT 4K UK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Live Tennis"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Alfred Dunhill Links Championship, DP World Tour Golf"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Bank of Utah Championship, PGA Tour Golf"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "World Grand Prix Darts"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Through the Night"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.9,
+      "audio_rms": 631.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9536,
+      "name": "SKY SPORTS MIX 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Indian Premier League T20"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tennis: ATP Chile Open 2026"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Women's Australian Open, LET Golf"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Open Championship, PGA Tour Golf"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Tennis: WTA Upper Austria Ladies Linz 2026"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.5,
+      "audio_rms": 1253.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9537,
+      "name": "SKY SPORTS NEWS 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Lost Grounds"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Sky Sports Breakfast"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Sky Sports FC"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.1,
+      "audio_rms": 1230.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9538,
+      "name": "SKY SPORTS PREMIER LEAGU",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Premier League Best Goals"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Premier League Legends"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Premier League 100 Club"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Premier League Review"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Sky Sports FC"
+        }
+      ],
+      "video_ok": true,
+      "luma": 184.4,
+      "audio_rms": 1711.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9539,
+      "name": "SKY SPORTS RACING 4K UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.3,
+      "audio_rms": 1768.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9540,
+      "name": "SKY WITNESS 4K",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Border Patrol"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Border Security: Canada's Front Line"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Border Security: Canada's Front Line"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Brit Cops: Rapid Response"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Caught on Dashcam"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.3,
+      "audio_rms": 1187.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9541,
+      "name": "SMITHSONIAN 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.5,
+      "audio_rms": 1474.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9543,
+      "name": "STV HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Good Morning Britain"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Lorraine"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "This Morning"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Loose Women"
+        },
+        {
+          "time": "8:30 AM",
+          "title": "ITV Lunchtime News"
+        }
+      ],
+      "video_ok": true,
+      "luma": 171.5,
+      "audio_rms": 1152.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9544,
+      "name": "SYFY 4K UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Most Haunted"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Teleshopping"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Teleshopping"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Teleshopping"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Teleshopping"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.1,
+      "audio_rms": 1365.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9545,
+      "name": "1G4 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 167.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9546,
+      "name": "TLC 4K UK",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "The Middle"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Middle"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Young Sheldon"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Young Sheldon"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Young Sheldon"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.8,
+      "audio_rms": 954.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9547,
+      "name": "TRI WORLD HD",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Beyond The Game"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Business News"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Newsmakers"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Newshour"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Just 2 Degrees"
+        }
+      ],
+      "video_ok": true,
+      "luma": 154.3,
+      "audio_rms": 1297.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9548,
+      "name": "UTV 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Good Morning Britain"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Lorraine"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "This Morning"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Loose Women"
+        },
+        {
+          "time": "8:30 AM",
+          "title": "ITV Lunchtime News"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.1,
+      "audio_rms": 1532.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9549,
+      "name": "VIRGIN MEDIA ONE 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.5,
+      "audio_rms": 1857.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9550,
+      "name": "VIRGIN MEDIA THREE HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.8,
+      "audio_rms": 2793.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9551,
+      "name": "VIRGIN MEDIA TWO 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.3,
+      "audio_rms": 1680.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9552,
+      "name": "WATCH 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9553,
+      "name": "12 WIN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Tjc - trust, joy & community"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tjc - trust, joy & community"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Tjc - trust, joy & community"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tjc - trust, joy & community"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Tjc - trust, joy & community"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9554,
+      "name": "DISCOVERY SCIENCE",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Teleshopping"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "How the Universe Works"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "How the Universe Works"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "How the Universe Works"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Incredible Engineering Blunders: Fixed"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.1,
+      "audio_rms": 2512.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9555,
+      "name": "DISCOVERY TURBO UK",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "How Do They Do It"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Roadworthy Rescues"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Salvage Hunters: Classic Cars"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Ant Anstead Master Mechanic"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Ant Anstead Master Mechanic"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.7,
+      "audio_rms": 2011.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9556,
+      "name": "DISCOVERY HISTORY UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Expedition Unknown"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Combat Dealers"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Blowing Up History"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Blowing Up History"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Salvage Hunters"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.4,
+      "audio_rms": 2008.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9557,
+      "name": "FOOD NETWORK UK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "The Hairy Bikers' Comfort Food"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Girl Meets Farm"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Girl Meets Farm"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Jamie Oliver: Together"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Barefoot Contessa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 240.5,
+      "audio_rms": 1719.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9558,
+      "name": "AT THE RACE",
+      "epg": [
+        {
+          "time": "1:15 AM",
+          "title": "Racing Replay"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "Irish Racing Replay"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Racing Replay"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Irish Racing Replay"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Inside Kingsclere: A Season to Remember"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.0,
+      "audio_rms": 484.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9559,
+      "name": "BBC 1 SCOTLAND",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.8,
+      "audio_rms": 1240.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9560,
+      "name": "BBC 2 SCOTLAND",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.1,
+      "audio_rms": 2619.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9563,
+      "name": "MTV PLUS",
+      "epg": [
+        {
+          "time": "2:25 AM",
+          "title": "Teen Mom 2"
+        },
+        {
+          "time": "3:10 AM",
+          "title": "Teen Mom 2"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Dallas Cowboys Cheerleaders: Making the Team"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Catfish: The TV Show"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Judge Judy"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9565,
+      "name": "MTV OMG",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.3,
+      "audio_rms": 1984.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9566,
+      "name": "VH1 UK HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 142.8,
+      "audio_rms": 2320.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9567,
+      "name": "4 MUSIC HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.3,
+      "audio_rms": 2262.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9569,
+      "name": "HISTORY2",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Mystery Places"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "William Shatner's Weird or What"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "World's Most Unexplained"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "World's Most Unexplained"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Unsealed: Alien Files"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.5,
+      "audio_rms": 9835.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9570,
+      "name": "EDEN HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Teleshopping"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Wild Brazil"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Wild Brazil"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Wild China"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Wild China"
+        }
+      ],
+      "video_ok": true,
+      "luma": 161.9,
+      "audio_rms": 1316.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9571,
+      "name": "BBC YORKSHIRE HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.7,
+      "audio_rms": 1590.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9572,
+      "name": "BBC ONE EAST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.2,
+      "audio_rms": 1319.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9573,
+      "name": "BBC THREE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.0,
+      "audio_rms": 194.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9574,
+      "name": "BBC ONE ISLANDS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.8,
+      "audio_rms": 1337.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9575,
+      "name": "YESTERDAY",
+      "epg": [
+        {
+          "time": "2:10 AM",
+          "title": "Secrets of the London Underground"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Bangers and Cash"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Bangers and Cash"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Nazi Killing Fields"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Battle Honours"
+        }
+      ],
+      "video_ok": true,
+      "luma": 235.8,
+      "audio_rms": 2788.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9576,
+      "name": "DISCOVERY DMAX",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Gold Divers"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Aussie Gold Hunters"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Building Off the Grid"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Building Off the Grid"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Deadliest Catch"
+        }
+      ],
+      "video_ok": true,
+      "luma": 153.2,
+      "audio_rms": 1213.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9577,
+      "name": "ONE WEST MIDLANDS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.6,
+      "audio_rms": 1170.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9578,
+      "name": "BBC 1 NORTHERN IRELAND",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.8,
+      "audio_rms": 941.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9579,
+      "name": "LONDON LIVE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9580,
+      "name": "BBC NORTH WEST",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.9,
+      "audio_rms": 31.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9581,
+      "name": "BBC ONE EAST YORK HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.7,
+      "audio_rms": 1102.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9582,
+      "name": "BBC ONE EAST NORTH",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.1,
+      "audio_rms": 1270.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9583,
+      "name": "BBC ONE MIDLANDS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.3,
+      "audio_rms": 1037.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9584,
+      "name": "BBC ONE SOUTH",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.7,
+      "audio_rms": 972.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9585,
+      "name": "BBC ONE LONDON",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.6,
+      "audio_rms": 1680.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9586,
+      "name": "BBC ONE WALES HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.2,
+      "audio_rms": 925.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9587,
+      "name": "OLYMPIA HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9588,
+      "name": "KTO HD",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Au risque de I'Histoire"
+        },
+        {
+          "time": "3:25 AM",
+          "title": "Bonnes nouvelles d'écologie humaine"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Eglises du monde"
+        },
+        {
+          "time": "3:56 AM",
+          "title": "La chronique éco"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Messe a Lourdes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.9,
+      "audio_rms": 939.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9591,
+      "name": "COMEDY CENTRAL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Cruise TV with LoveitBookit"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Upper Hand"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "The Upper Hand"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Everybody Loves Raymond"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Everybody Loves Raymond"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.8,
+      "audio_rms": 1169.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9592,
+      "name": "PARIS PREMIERE",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Caméra café"
+        },
+        {
+          "time": "5:15 AM",
+          "title": "Kaamelott"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Elementary"
+        },
+        {
+          "time": "7:50 AM",
+          "title": "Elementary"
+        },
+        {
+          "time": "8:40 AM",
+          "title": "Elementary"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.0,
+      "audio_rms": 570.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9593,
+      "name": "F3 PARIS IDF",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9597,
+      "name": "BFM TOULONVAR HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.9,
+      "audio_rms": 1210.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9598,
+      "name": "TOP SANTE TV HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9599,
+      "name": "BEIN SPORTS MAX 4",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.7,
+      "audio_rms": 65.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9600,
+      "name": "BEIN SPORTS MAX 5",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9601,
+      "name": "BEIN SPORTS MAX 6",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9602,
+      "name": "BEIN SPORTS MAX 7",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9603,
+      "name": "BEIN SPORTS MAX 8",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9604,
+      "name": "BEIN SPORTS MAX 9",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9605,
+      "name": "BEIN SPORTS MAX 10",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9606,
+      "name": "MULTISPORTS 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9608,
+      "name": "MULTISPORTS 3",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.3,
+      "audio_rms": 0.7,
+      "audio_ok": false
+    },
+    {
+      "number": 9609,
+      "name": "MULTISPORTS 4",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9611,
+      "name": "MULTISPORTS 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9613,
+      "name": "AMAZON PRIME 1",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9614,
+      "name": "AMAZON PRIME 2",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9615,
+      "name": "AMAZON PRIME 3",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.9,
+      "audio_rms": 740.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9616,
+      "name": "AMAZON PRIME 4",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 28.0,
+      "audio_rms": 126.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9617,
+      "name": "AMAZON PRIME 5",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.8,
+      "audio_rms": 1421.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9623,
+      "name": "CANAL PLUS PREMIER LEAGUE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 26.0,
+      "audio_rms": 2571.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9624,
+      "name": "CANAL PLUS MOTOGP",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.5,
+      "audio_rms": 1147.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9630,
+      "name": "CANAL PLUS DOCS",
+      "epg": [
+        {
+          "time": "2:22 AM",
+          "title": "FAKE YOU! : Une vraie histoire de faux"
+        },
+        {
+          "time": "2:53 AM",
+          "title": "FAKE YOU! : Une vraie histoire de faux"
+        },
+        {
+          "time": "3:29 AM",
+          "title": "Les géants d'Hollywood"
+        },
+        {
+          "time": "4:18 AM",
+          "title": "Les géants d'Hollywood"
+        },
+        {
+          "time": "5:11 AM",
+          "title": "Les disparues"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.0,
+      "audio_rms": 780.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9631,
+      "name": "TOUTE L HISTOIRE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.2,
+      "audio_rms": 1258.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9635,
+      "name": "TV8 MONT BLANC",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Auto legend"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Le JT TV8MontBlanc"
+        },
+        {
+          "time": "4:10 AM",
+          "title": "La Météo"
+        },
+        {
+          "time": "4:45 AM",
+          "title": "Web tv culture"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Le JT TV8MontBlanc"
+        }
+      ],
+      "video_ok": true,
+      "luma": 174.0,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9638,
+      "name": "NICKELODEON PLUS 1",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "The Loud House"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Boss Baby: Back in Business"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Patrick Star Show"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "SpongeBob SquarePants"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9640,
+      "name": "Zo :",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "La grande édition"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Le magazine de la rédaction"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Le grand oral"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Défense"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Ca se débat ! Politique"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.5,
+      "audio_rms": 249.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9641,
+      "name": "CANAL PLUS GRAND ECRAN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.2,
+      "audio_rms": 85.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9643,
+      "name": "FRANCE 3 NOA HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.6,
+      "audio_rms": 2008.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9,
+      "name": "GOURMAND HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9647,
+      "name": "EUROSPORT 360 1 HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "ATP 500 Pékin"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "ATP 500 Pékin"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "A bientót sur Eurosport 360"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "ATP 500 Pékin"
+        },
+        {
+          "time": "8:30 AM",
+          "title": "ATP 500 Pékin"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 1862.7,
+      "audio_ok": true
+    },
+    {
+      "number": 9648,
+      "name": "EUROSPORT 360 2 HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "ATP 500 Pékin"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "A bientot rt"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9649,
+      "name": "EUROSPORT 360 3 HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "ATP 500 Pékin"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "A tot rt"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9650,
+      "name": "EUROSPORT 360 4 HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "A bientót sur Eurosport 360"
+        },
+        {
+          "time": "8:15 AM",
+          "title": "|"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 91,
+      "name": "EUROSPORT 360 5 HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tennis : Tournoi ATP de Pékin"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "ATP 500 Pékin"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "A bientót sur Eurosport 360"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "A bientot"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9658,
+      "name": "BBC COMEDY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.5,
+      "audio_rms": 1176.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9659,
+      "name": "BBC 2 WALES",
+      "epg": [
+        {
+          "time": "2:15 AM",
+          "title": "Antiques Road Trip"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Gardeners’ World"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "BBC News"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Politics Live"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Impossible"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.9,
+      "audio_rms": 2345.8,
+      "audio_ok": true
+    },
+    {
+      "number": 14001,
+      "name": "AAA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14002,
+      "name": "U & GOLD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.1,
+      "audio_rms": 363.9,
+      "audio_ok": true
+    },
+    {
+      "number": 14003,
+      "name": "U & VV",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14004,
+      "name": "VIRGIN MEDIA EXTRA 1 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14005,
+      "name": "VIRGIN MEDIA FOUR HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.8,
+      "audio_rms": 1560.1,
+      "audio_ok": true
+    },
+    {
+      "number": 14006,
+      "name": "VIRGIN MERA MORE HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14007,
+      "name": "BBC 1 HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Morning Live"
+        },
+        {
+          "time": "5:45 AM",
+          "title": "Rip-Off Britain"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Homes Under the Hammer"
+        },
+        {
+          "time": "7:15 AM",
+          "title": "Bargain Hunt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.5,
+      "audio_rms": 674.1,
+      "audio_ok": true
+    },
+    {
+      "number": 14008,
+      "name": "BOOMERANG HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 157.1,
+      "audio_rms": 1707.5,
+      "audio_ok": true
+    },
+    {
+      "number": 14009,
+      "name": "COMEDY HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 177.0,
+      "audio_rms": 745.3,
+      "audio_ok": true
+    },
+    {
+      "number": 14010,
+      "name": "COMEDY PLUS 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14011,
+      "name": "COMEDY EXTRA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 147.5,
+      "audio_rms": 1886.9,
+      "audio_ok": true
+    },
+    {
+      "number": 14013,
+      "name": "FILM FOUR HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.3,
+      "audio_rms": 1714.0,
+      "audio_ok": true
+    },
+    {
+      "number": 14014,
+      "name": "HGTV HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.5,
+      "audio_rms": 2381.3,
+      "audio_ok": true
+    },
+    {
+      "number": 14015,
+      "name": "MORE 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 161.4,
+      "audio_rms": 1036.9,
+      "audio_ok": true
+    },
+    {
+      "number": 14016,
+      "name": "NATIONAL GEOGRAPHIC HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 126.1,
+      "audio_rms": 1674.5,
+      "audio_ok": true
+    },
+    {
+      "number": 14017,
+      "name": "NICK JUNIOR HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.4,
+      "audio_rms": 1162.7,
+      "audio_ok": true
+    },
+    {
+      "number": 14018,
+      "name": "NICK TOONS HD",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Alvinnn!!! and the Chipmunks"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Alvinnn!!! and the Chipmunks"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Alvinnn!!! and the Chipmunks"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Alvinnn!!! and the Chipmunks"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Alvinnn!!! and the Chipmunks"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14019,
+      "name": "NICKELODEAN HD",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "The Patrick Star Show"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Creature Cases"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Deer Squad"
+        }
+      ],
+      "video_ok": true,
+      "luma": 166.3,
+      "audio_rms": 1937.8,
+      "audio_ok": true
+    },
+    {
+      "number": 14020,
+      "name": "OIREACHTAS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.1,
+      "audio_rms": 769.3,
+      "audio_ok": true
+    },
+    {
+      "number": 14021,
+      "name": "QUEST RED HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Say Yes to the Dress"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Say Yes to the Dress UK"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Say Yes to the Dress UK"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Say Yes to the Dress UK"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "esto t )1"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14022,
+      "name": "RTE NEWS NOW",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14023,
+      "name": "RTE ONE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.1,
+      "audio_rms": 1002.3,
+      "audio_ok": true
+    },
+    {
+      "number": 14024,
+      "name": "RTE TWO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.2,
+      "audio_rms": 1704.0,
+      "audio_ok": true
+    },
+    {
+      "number": 14025,
+      "name": "RIE 2 R",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14026,
+      "name": "UK MTV MUSIC",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14027,
+      "name": "UK MTV HITS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 1399.4,
+      "audio_ok": true
+    },
+    {
+      "number": 14028,
+      "name": "UK IL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14029,
+      "name": "NICKSPONGEBOB",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.8,
+      "audio_rms": 2556.6,
+      "audio_ok": true
+    },
+    {
+      "number": 14030,
+      "name": "SKY KIDS HD",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Pip €: Posy"
+        },
+        {
+          "time": "2:55 AM",
+          "title": "Pip & Posy"
+        },
+        {
+          "time": "3:50 AM",
+          "title": "Pip & Posy"
+        },
+        {
+          "time": "4:20 AM",
+          "title": "Pip €: Posy"
+        }
+      ],
+      "video_ok": true,
+      "luma": 141.7,
+      "audio_rms": 1815.2,
+      "audio_ok": true
+    },
+    {
+      "number": 14032,
+      "name": "VIRGIN MEDIA MORE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 186.0,
+      "audio_rms": 973.5,
+      "audio_ok": true
+    },
+    {
+      "number": 14033,
+      "name": "SKY HISTORY",
+      "epg": [
+        {
+          "time": "2:25 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "3:20 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "5:10 AM",
+          "title": "Storage Wars"
+        },
+        {
+          "time": "5:40 AM",
+          "title": "Storage Wars"
+        }
+      ],
+      "video_ok": true,
+      "luma": 152.1,
+      "audio_rms": 1027.1,
+      "audio_ok": true
+    },
+    {
+      "number": 14034,
+      "name": "UK RTEJR",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14036,
+      "name": "MTV 80s",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14037,
+      "name": "MTV 90s",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14038,
+      "name": "SKY ART 1",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Jean-Michel Jarre Live In Sevilla"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Joy of Painting with Bob Ross"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Joy of Painting with Bob Ross"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Tales of the Unexpected"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Tales of the Unexpected"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14039,
+      "name": "U € DRAVE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14040,
+      "name": "BRIT ASIA TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 14041,
+      "name": "HISTORY & WARFARE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.1,
+      "audio_rms": 463.3,
+      "audio_ok": true
+    },
+    {
+      "number": 144,
+      "name": "ACORN TV MYSTERIES",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.8,
+      "audio_rms": 115.1,
+      "audio_ok": true
+    },
+    {
+      "number": 14045,
+      "name": "BARGAIN HUNT",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.0,
+      "audio_rms": 1084.4,
+      "audio_ok": true
+    },
+    {
+      "number": 14046,
+      "name": "Silent Witness & New Tricks",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.9,
+      "audio_rms": 1984.3,
+      "audio_ok": true
+    }
+  ]
+}

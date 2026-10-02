@@ -1,0 +1,40 @@
+{
+  "category": "ARABIC | MAURITANIA",
+  "captured": "2026-10-01T20:47:30-0400",
+  "mode": "sports-only",
+  "reported_total": 8,
+  "channels": [
+    {
+      "number": 42543,
+      "name": "SAHEL TV"
+    },
+    {
+      "number": 42548,
+      "name": "MOURITANA ARRIADIA TV"
+    },
+    {
+      "number": 42549,
+      "name": "MOURITANIA ATHAGAVIA TV"
+    },
+    {
+      "number": 42551,
+      "name": "EL MAURITANIA 2"
+    },
+    {
+      "number": 42555,
+      "name": "ALMOURABITOUNE"
+    },
+    {
+      "number": 42556,
+      "name": "EL WATANIA TV"
+    },
+    {
+      "number": 42558,
+      "name": "AL BARLEMANIA"
+    },
+    {
+      "number": 42559,
+      "name": "DAVA TV"
+    }
+  ]
+}

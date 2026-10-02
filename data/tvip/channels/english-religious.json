@@ -1,0 +1,506 @@
+{
+  "category": "ENGLISH RELIGIOUS",
+  "captured": "2026-10-01T03:19:17-0400",
+  "mode": "full",
+  "reported_total": 26,
+  "channels": [
+    {
+      "number": 15414,
+      "name": "FAITH WORLD TV",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.3,
+      "audio_rms": 638.5,
+      "audio_ok": true
+    },
+    {
+      "number": 15415,
+      "name": "HOPE",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "New Perceptions"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Prophecy Unsealed"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tracing The Footsteps of Jesus"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "CreationScapes"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Hope Sabbath School"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15416,
+      "name": "EWTN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15417,
+      "name": "MIRACLE HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Faytene TV: Canadian Voices"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Joel Osteen"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Bridge City News Late Evening"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Andrew Wommack: Gospel Truth"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Turning Point with David Jeremiah"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.0,
+      "audio_rms": 1786.9,
+      "audio_ok": true
+    },
+    {
+      "number": 15418,
+      "name": "GREAT AMERICAN LIVING",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "A Taste of Tuscany"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Love Can Surprise You"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Andy Griffith Show"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "The Andy Griffith Show"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "The Andy Griffith Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.9,
+      "audio_rms": 2003.7,
+      "audio_ok": true
+    },
+    {
+      "number": 15419,
+      "name": "THE AFRICA CHANNEL",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15420,
+      "name": "DAYSTAR",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Reflections"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Reflections"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Reflections"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Reflections"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Reflections"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.5,
+      "audio_rms": 2098.7,
+      "audio_ok": true
+    },
+    {
+      "number": 15421,
+      "name": "DSTV FAITH",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Rick Renner"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Jesus The Healer With Nancy Dufresne"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Building People"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Believer's Voice Of Victory"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Next Level with Tony & Cynthia..."
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.6,
+      "audio_rms": 1106.9,
+      "audio_ok": true
+    },
+    {
+      "number": 15422,
+      "name": "DSTV TBN Africa",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Better Together"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "John Hagee"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Elevation"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Bishop T.D. Jakes"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "3C Live Experience"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15423,
+      "name": "TBN INSPIRE",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.6,
+      "audio_rms": 2475.9,
+      "audio_ok": true
+    },
+    {
+      "number": 15424,
+      "name": "TBN NEJAT",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 70.9,
+      "audio_rms": 2967.0,
+      "audio_ok": true
+    },
+    {
+      "number": 15425,
+      "name": "TBN SMILE",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15426,
+      "name": "TBN IC",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.2,
+      "audio_rms": 1447.7,
+      "audio_ok": true
+    },
+    {
+      "number": 15427,
+      "name": "THE FAITH CHANNEL",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.1,
+      "audio_rms": 1746.5,
+      "audio_ok": true
+    },
+    {
+      "number": 15428,
+      "name": "THE WORD NETWORK",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Water for Life"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Peter Popoff Ministries"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Sonoran Secret"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Stem Cell Activators With Joseph Christiano ND"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Joyce Meyer Enjoying Everyday Life"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15429,
+      "name": "GREAT AMERICAN FAITH AND",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.6,
+      "audio_rms": 1628.0,
+      "audio_ok": true
+    },
+    {
+      "number": 15430,
+      "name": "CATHOLIC FAITH NETWORK",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.0,
+      "audio_rms": 3278.4,
+      "audio_ok": true
+    },
+    {
+      "number": 15431,
+      "name": "CTSA CATHOLIC TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Religious Programming"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Religious Programming"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Religious Programming"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Religious Programming"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Religious Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 70.9,
+      "audio_rms": 3400.8,
+      "audio_ok": true
+    },
+    {
+      "number": 15432,
+      "name": "CBN FAMILY",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.0,
+      "audio_rms": 3021.6,
+      "audio_ok": true
+    },
+    {
+      "number": 15433,
+      "name": "LIN",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15434,
+      "name": "CIN",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15435,
+      "name": "GOD IV",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Touching the World"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Lift Up Jesus"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Love of God: Randy Brodhagen"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "God TV Today"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Through the Bible With Andrew Wommack"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15436,
+      "name": "11.2 AZ LL",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.9,
+      "audio_rms": 508.9,
+      "audio_ok": true
+    },
+    {
+      "number": 15437,
+      "name": "CATHOLIC FAITH NETWORK (",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.7,
+      "audio_rms": 2385.8,
+      "audio_ok": true
+    },
+    {
+      "number": 15438,
+      "name": "CTVN",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.8,
+      "audio_rms": 2680.7,
+      "audio_ok": true
+    },
+    {
+      "number": 15440,
+      "name": "US VICTORY TELEVISION NET",
+      "epg": [],
+      "video_ok": true,
+      "luma": 131.6,
+      "audio_rms": 11.0,
+      "audio_ok": false
+    }
+  ]
+}

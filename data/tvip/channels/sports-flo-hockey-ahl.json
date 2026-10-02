@@ -1,0 +1,1048 @@
+{
+  "category": "SPORTS | FLO HOCKEY | AHL",
+  "captured": "2026-10-01T00:32:33-0400",
+  "mode": "full",
+  "reported_total": 40,
+  "channels": [
+    {
+      "number": 17001,
+      "name": "FLO HOCKEY 1",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.6,
+      "audio_rms": 4536.1,
+      "audio_ok": true
+    },
+    {
+      "number": 17002,
+      "name": "FLO HOCKEY 2",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17003,
+      "name": "FLO HOCKEY 3",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17004,
+      "name": "FLO HOCKEY 4",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17005,
+      "name": "FLO HOCKEY 5",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17006,
+      "name": "FLO HOCKEY 6",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17007,
+      "name": "FLO HOCKEY 7",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17008,
+      "name": "FLO HOCKEY 8",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17009,
+      "name": "FLO HOCKEY 9",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17010,
+      "name": "FLO HOCKEY 10",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.8,
+      "audio_rms": 1522.3,
+      "audio_ok": true
+    },
+    {
+      "number": 17011,
+      "name": "FLO HOCKEY 11",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.5,
+      "audio_rms": 1318.7,
+      "audio_ok": true
+    },
+    {
+      "number": 17012,
+      "name": "FLO HOCKEY 12",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.4,
+      "audio_rms": 2087.1,
+      "audio_ok": true
+    },
+    {
+      "number": 17013,
+      "name": "FLO HOCKEY 13",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.5,
+      "audio_rms": 1222.7,
+      "audio_ok": true
+    },
+    {
+      "number": 17014,
+      "name": "FLO HOCKEY 14",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.9,
+      "audio_rms": 1317.5,
+      "audio_ok": true
+    },
+    {
+      "number": 17015,
+      "name": "FLO HOCKEY 15",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.0,
+      "audio_rms": 828.6,
+      "audio_ok": true
+    },
+    {
+      "number": 17016,
+      "name": "FLO HOCKEY 16",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.0,
+      "audio_rms": 2177.8,
+      "audio_ok": true
+    },
+    {
+      "number": 17017,
+      "name": "FLO HOCKEY 17",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.5,
+      "audio_rms": 1880.3,
+      "audio_ok": true
+    },
+    {
+      "number": 17018,
+      "name": "FLO HOCKEY 18",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.7,
+      "audio_rms": 1584.2,
+      "audio_ok": true
+    },
+    {
+      "number": 17019,
+      "name": "FLO HOCKEY 19",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.4,
+      "audio_rms": 1571.7,
+      "audio_ok": true
+    },
+    {
+      "number": 17020,
+      "name": "FLO HOCKEY 20",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.5,
+      "audio_rms": 1671.0,
+      "audio_ok": true
+    },
+    {
+      "number": 17021,
+      "name": "FLO HOCKEY 21",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.5,
+      "audio_rms": 1989.1,
+      "audio_ok": true
+    },
+    {
+      "number": 17022,
+      "name": "FLO HOCKEY 22",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.5,
+      "audio_rms": 1294.5,
+      "audio_ok": true
+    },
+    {
+      "number": 17023,
+      "name": "FLO HOCKEY 23",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.0,
+      "audio_rms": 1968.0,
+      "audio_ok": true
+    },
+    {
+      "number": 17024,
+      "name": "FLO HOCKEY 24",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.3,
+      "audio_rms": 1952.1,
+      "audio_ok": true
+    },
+    {
+      "number": 17025,
+      "name": "FLO HOCKEY 25",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.9,
+      "audio_rms": 1973.5,
+      "audio_ok": true
+    },
+    {
+      "number": 17026,
+      "name": "FLO HOCKEY 26",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.5,
+      "audio_rms": 2398.5,
+      "audio_ok": true
+    },
+    {
+      "number": 17027,
+      "name": "FLO HOCKEY 27",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.1,
+      "audio_rms": 1974.1,
+      "audio_ok": true
+    },
+    {
+      "number": 17028,
+      "name": "FLO HOCKEY 28",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 2127.3,
+      "audio_ok": true
+    },
+    {
+      "number": 17029,
+      "name": "FLO HOCKEY 29",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.7,
+      "audio_rms": 2227.5,
+      "audio_ok": true
+    },
+    {
+      "number": 17030,
+      "name": "FLO HOCKEY 30",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.1,
+      "audio_rms": 1888.5,
+      "audio_ok": true
+    },
+    {
+      "number": 17031,
+      "name": "FLO HOCKEY 31",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.1,
+      "audio_rms": 1382.7,
+      "audio_ok": true
+    },
+    {
+      "number": 17032,
+      "name": "FLO HOCKEY 32",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.4,
+      "audio_rms": 2558.1,
+      "audio_ok": true
+    },
+    {
+      "number": 17033,
+      "name": "FLO HOCKEY 33",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.9,
+      "audio_rms": 1047.4,
+      "audio_ok": true
+    },
+    {
+      "number": 17034,
+      "name": "FLO HOCKEY 34",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.9,
+      "audio_rms": 2062.3,
+      "audio_ok": true
+    },
+    {
+      "number": 17035,
+      "name": "FLO HOCKEY 35",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.5,
+      "audio_rms": 960.6,
+      "audio_ok": true
+    },
+    {
+      "number": 17036,
+      "name": "FLO HOCKEY 36",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.1,
+      "audio_rms": 1369.3,
+      "audio_ok": true
+    },
+    {
+      "number": 17037,
+      "name": "FLO HOCKEY 37",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17038,
+      "name": "FLO HOCKEY 38",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17039,
+      "name": "FLO HOCKEY 39",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17040,
+      "name": "FLO HOCKEY 40",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

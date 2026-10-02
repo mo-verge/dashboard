@@ -1,0 +1,188 @@
+{
+  "category": "SPANISH | PUERTO RICO",
+  "captured": "2026-09-30T18:48:56-0400",
+  "mode": "full",
+  "reported_total": 6,
+  "channels": [
+    {
+      "number": 37461,
+      "name": "PR | WAPA AMERICA HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 136.3,
+      "audio_rms": 1365.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37462,
+      "name": "PR | WAPA 2",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.9,
+      "audio_rms": 1813.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37463,
+      "name": "PR| WAPA HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.4,
+      "audio_rms": 2446.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37464,
+      "name": "PR | UNIVISION",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.1,
+      "audio_rms": 1345.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37465,
+      "name": "PR | TELEMUNDO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.8,
+      "audio_rms": 1315.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37466,
+      "name": "PR | MEGA TV",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.1,
+      "audio_rms": 653.9,
+      "audio_ok": true
+    }
+  ]
+}

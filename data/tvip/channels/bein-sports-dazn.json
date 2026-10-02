@@ -1,0 +1,3177 @@
+{
+  "category": "BEIN SPORTS | DAZN",
+  "captured": "2026-09-30T20:31:39-0400",
+  "mode": "full",
+  "reported_total": 146,
+  "channels": [
+    {
+      "number": 8940,
+      "name": "XXX U S D AZN XXXXXKX",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8941,
+      "name": "US-DAZN 1 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.5,
+      "audio_rms": 1724.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8942,
+      "name": "US-DAZN 2 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.7,
+      "audio_rms": 721.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8943,
+      "name": "US-DAZN 3 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8944,
+      "name": "US-DAZN 4 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8945,
+      "name": "US-DAZN 5 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8946,
+      "name": "US-DAZN 6 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8947,
+      "name": "US-DAZN 7 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8948,
+      "name": "US-DAZN 8 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8949,
+      "name": "US-DAZN 9 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8950,
+      "name": "US-DAZN 10 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8951,
+      "name": "US-DAZN 11 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8952,
+      "name": "US-DAZN 12 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8953,
+      "name": "US-DAZN 13 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8954,
+      "name": "US-DAZN 14 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8955,
+      "name": "US-DAZN 15 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8956,
+      "name": "UK-DAZN 1 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.5,
+      "audio_rms": 1434.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8957,
+      "name": "UK-DAZN 2 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8958,
+      "name": "UK-DAZN 3 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 161.3,
+      "audio_rms": 466.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8959,
+      "name": "UK-DAZN 4 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8960,
+      "name": "UK-DAZN 5 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8961,
+      "name": "UK-DAZN 6 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8962,
+      "name": "UK-DAZN 7 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8963,
+      "name": "UK-DAZN 8 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8964,
+      "name": "UK-DAZN 9 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8965,
+      "name": "UK-DAZN 10 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 138,
+      "name": "UK-DAZN 11 HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N t"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8967,
+      "name": "UK-DAZN 12 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8968,
+      "name": "UK-DAZN 13 HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8989,
+      "name": "BEIN IZ HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.9,
+      "audio_rms": 2274.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8990,
+      "name": "BEIN SPORTS CANADA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.6,
+      "audio_rms": 1700.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8993,
+      "name": "BEIN SPORTS XTRA HD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.2,
+      "audio_rms": 1339.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8996,
+      "name": "BEIN SPORTS 4 SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9008,
+      "name": "BEIN SPORTS 1 - AUS -4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "ATP 500 - Beijing Evening 1"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "LIVE: ATP 500 - Beijing Day 2"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "ATP - Federer's Miami Masterclass"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "LIVE: ATP 500 - Beijing Evening 2"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "ATP Classic - Agassi v Sampras 1995"
+        }
+      ],
+      "video_ok": true,
+      "luma": 161.0,
+      "audio_rms": 1375.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9009,
+      "name": "BEIN SPORTS 2 - AUS -4K",
+      "epg": [
+        {
+          "time": "7:40 PM",
+          "title": "UEFA Nations League - Norway vs Portugal"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "UEFA Nations League - Belgium vs France"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "UEFA Nations League - Turkiye vs Italy"
+        },
+        {
+          "time": "1:10 AM",
+          "title": "UEFA Nations League - Czechia vs England"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "UEFA Nations League - Serbia vs Netherlands"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.0,
+      "audio_rms": 1648.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9010,
+      "name": "BEIN SPORTS 3 - AUS -4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "UEFA Nations League Matchnight Highlights - MD1 -"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "UEFA Nations League Matchnight Highlights - MD1 -"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "UEFA Nations League Matchnight Highlights - MD1 -"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9018,
+      "name": "BEIN MAX - ASTRO",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.7,
+      "audio_rms": 1733.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9019,
+      "name": "BEIN MAX 2- ASTRO",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.8,
+      "audio_rms": 473.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9020,
+      "name": "BEIN SPORTS- ASTRO",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.8,
+      "audio_rms": 1709.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9077,
+      "name": "BEIN SPORTS 1 EN SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Football Men - SF - Asian Games Aichi-Nagoya 2026"
+        },
+        {
+          "time": "11:45 AM",
+          "title": "Azerbaijan vs Liechtenstein - UEFA Nations League"
+        },
+        {
+          "time": "2:35 PM",
+          "title": "Wales vs Norway - UEFA Nations League 2026/27 -"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Practice 1 - F1 Bahrain Grand Prix - 2026"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.2,
+      "audio_rms": 3296.8,
+      "audio_ok": true
+    },
+    {
+      "number": 9078,
+      "name": "BEIN SPORTS 1 EN ULTRA 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Football Men - SF - Asian Games Aichi-Nagoya 2026"
+        },
+        {
+          "time": "11:45 AM",
+          "title": "Azerbaijan vs Liechtenstein - UEFA Nations League"
+        },
+        {
+          "time": "2:35 PM",
+          "title": "Wales vs Norway - UEFA Nations League 2026/27 -"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Practice 1 - F1 Bahrain Grand Prix - 2026"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.0,
+      "audio_rms": 1614.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9079,
+      "name": "BEIN SPORTS 1 PREMIUM SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 137.0,
+      "audio_rms": 1834.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9080,
+      "name": "BEIN SPORTS 1 PREMIUM ULT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 5064.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9081,
+      "name": "BEIN SPORTS 1 SD",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Botswana vs Tunisia - Africa Cup of Nations ( AFCON )"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Belgium vs France - Mini Matche - UEFA Nations League"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Spain vs Croatia - Mini Matche - UEFA Nations League"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.4,
+      "audio_rms": 1728.9,
+      "audio_ok": true
+    },
+    {
+      "number": 9082,
+      "name": "BEIN SPORTS 1 ULTRA 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Botswana vs Tunisia - Africa Cup of Nations ( AFCON )"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Belgium vs France - Mini Matche - UEFA Nations League"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Spain vs Croatia - Mini Matche - UEFA Nations League"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9083,
+      "name": "BEIN SPORTS 2 EN SD",
+      "epg": [
+        {
+          "time": "3:00 PM",
+          "title": "Wrestling - Finals - Asian Games Aichi-Nagoya 2026"
+        },
+        {
+          "time": "2:40 PM",
+          "title": "Israel vs Kosovo - UEFA Nations League 2026/27 - Match"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Pittsburgh Steelers @ Cleveland Browns - NFL -National"
+        },
+        {
+          "time": "11:45 AM",
+          "title": "Cyprus vs Armenia - UEFA Nations League 2026/27 -"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.7,
+      "audio_rms": 494.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9084,
+      "name": "BEIN SPORTS 2 EN ULTRA 4K",
+      "epg": [
+        {
+          "time": "3:00 PM",
+          "title": "Wrestling - Finals - Asian Games Aichi-Nagoya 2026"
+        },
+        {
+          "time": "2:40 PM",
+          "title": "Israel vs Kosovo - UEFA Nations League 2026/27 - Match"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Pittsburgh Steelers @ Cleveland Browns - NFL -National"
+        },
+        {
+          "time": "11:45 AM",
+          "title": "Cyprus vs Armenia - UEFA Nations League 2026/27 -"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9089,
+      "name": "BEIN SPORTS 3 EN SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.6,
+      "audio_rms": 2806.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9090,
+      "name": "BEIN SPORTS 3 EN ULTRA 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9103,
+      "name": "BEIN SPORT 1 HD EN",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.5,
+      "audio_rms": 1775.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9104,
+      "name": "BEIN SPORT 2 HD EN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.3,
+      "audio_rms": 1531.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9105,
+      "name": "BEIN SPORT 3 HD EN",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 131.0,
+      "audio_rms": 2289.2,
+      "audio_ok": true
+    },
+    {
+      "number": 9107,
+      "name": "BEIN SPORTS 1 EN 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Football Men - SF - Asian Games Aichi-Nagoya 2026"
+        },
+        {
+          "time": "11:45 AM",
+          "title": "Azerbaijan vs Liechtenstein - UEFA Nations League"
+        },
+        {
+          "time": "2:35 PM",
+          "title": "Wales vs Norway - UEFA Nations League 2026/27 -"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Practice 1 - F1 Bahrain Grand Prix - 2026"
+        }
+      ],
+      "video_ok": true,
+      "luma": 146.0,
+      "audio_rms": 1714.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9114,
+      "name": "BEIN SPORTS 2 EN 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 161.5,
+      "audio_rms": 1376.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9121,
+      "name": "BEIN SPORTS 3 EN 4K",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.8,
+      "audio_rms": 1644.6,
+      "audio_ok": true
+    },
+    {
+      "number": 9123,
+      "name": "BEIN SPORTS 3 MAX EN HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "belN Sports MAX"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "belN Sports MAX"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "belN Sports MAX"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "belN Sports MAX"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "belN Sports MAX"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9172,
+      "name": "BEIN SPORT - USA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.6,
+      "audio_rms": 1907.3,
+      "audio_ok": true
+    },
+    {
+      "number": 9173,
+      "name": "BEIN XTRA - USA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "Ligue 1 Highlights Show"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "This is Paris"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "European Le Mans Series Highlights"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Knockout Room"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "The Knockout Room"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.3,
+      "audio_rms": 1343.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9175,
+      "name": "BEIN SPORTS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.5,
+      "audio_rms": 3718.1,
+      "audio_ok": true
+    },
+    {
+      "number": 9177,
+      "name": "BEIN SPORTS 5",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.7,
+      "audio_rms": 1443.5,
+      "audio_ok": true
+    },
+    {
+      "number": 9178,
+      "name": "BEIN SPORTS 6",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 9179,
+      "name": "BEIN SPORTS 7",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.7,
+      "audio_rms": 2129.4,
+      "audio_ok": true
+    },
+    {
+      "number": 9180,
+      "name": "BEIN SPORTS 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.7,
+      "audio_rms": 1836.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10006,
+      "name": "KEKKKEE 7 U BO IN FO KEKKEKEE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10007,
+      "name": "FUBO TUDN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10008,
+      "name": "FUBO TUDNXTRA 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.5,
+      "audio_rms": 917.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10009,
+      "name": "FUBO TUDNXTRA 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.3,
+      "audio_rms": 1784.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10010,
+      "name": "FUBO TUDNXTRA 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.1,
+      "audio_rms": 1161.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10011,
+      "name": "FUBO TUDNXTRA 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.3,
+      "audio_rms": 4255.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10012,
+      "name": "FUBO TUDNXTRA 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.7,
+      "audio_rms": 3290.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10013,
+      "name": "FUBO TUDNXTRA 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.8,
+      "audio_rms": 2921.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10014,
+      "name": "FUBO TUDNXTRA 7",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.6,
+      "audio_rms": 2988.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10015,
+      "name": "FUBO TUDNXTRA 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.4,
+      "audio_rms": 2198.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10016,
+      "name": "FUBO TUDNXTRA 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.7,
+      "audio_rms": 2370.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10017,
+      "name": "FUBO TUDNXTRA 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.7,
+      "audio_rms": 2954.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10018,
+      "name": "FUBO TUDNXTRA 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.1,
+      "audio_rms": 1498.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10019,
+      "name": "FUBO BEIN SPORTS 4",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10020,
+      "name": "FUBO BEIN SPORTS 5",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10021,
+      "name": "FUBO BEIN SPORTS 7",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10022,
+      "name": "FUBO BEIN SPORTS 8",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 1089,
+      "name": "AAA DAZN CANADA XXX XA",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10900,
+      "name": "DAZN 1- CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8431,
+      "name": "DAZN 2- CANADA",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10899,
+      "name": "e DAZN CANADA *******",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10903,
+      "name": "DAZN 4 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10904,
+      "name": "DAZN 5 - CANADA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.4,
+      "audio_rms": 684.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10905,
+      "name": "DAZN 6 - CANADA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.5,
+      "audio_rms": 1638.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10906,
+      "name": "DAZN 7 - CANADA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.0,
+      "audio_rms": 1401.5,
+      "audio_ok": true
+    },
+    {
+      "number": 1090,
+      "name": "DAZN 8 - CANADA",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10908,
+      "name": "DAZN 9 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10909,
+      "name": "DAZN 10 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10910,
+      "name": "DAZN 11 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10911,
+      "name": "DAZN 12 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10912,
+      "name": "DAZN 13 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10913,
+      "name": "DAZN 14- CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10914,
+      "name": "DAZN 15 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10915,
+      "name": "DAZN 16 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10916,
+      "name": "DAZN 17 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 1091,
+      "name": "DAZN 18- CANADA",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10918,
+      "name": "DAZN 19 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 1091,
+      "name": "DAZN 20 - CANADA",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10920,
+      "name": "DAZN 21 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10921,
+      "name": "DAZN 22 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10922,
+      "name": "DAZN 23 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10923,
+      "name": "DAZN 24 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10924,
+      "name": "DAZN 25 - CANADA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.8,
+      "audio_rms": 1084.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10925,
+      "name": "DAZN 26 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10926,
+      "name": "DAZN 27 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10927,
+      "name": "DAZN 28 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10928,
+      "name": "DAZN 29 - CANADA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3431,
+      "name": "DAZN 30 - CANADA",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10940,
+      "name": "DAZN IT 1",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.0,
+      "audio_rms": 6864.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10941,
+      "name": "DAZNIT 2",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N format"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10942,
+      "name": "DAZN IT 3",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10943,
+      "name": "DAZN IT 4",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10944,
+      "name": "DAZNIT 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10945,
+      "name": "DAZN IT 6",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10946,
+      "name": "DAZN IT 7",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N format"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10947,
+      "name": "DAZN IT 8",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10948,
+      "name": "DAZN IT 9",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N t"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10949,
+      "name": "DAZN IT 10",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10950,
+      "name": "DAZN IT 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10951,
+      "name": "DAZN IT 12",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N format"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10952,
+      "name": "DAZN IT 13",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6431,
+      "name": "3. DAZN IT 14",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N t"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10952,
+      "name": "DAZN IT 13",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10970,
+      "name": "DAZN 31 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N t"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10971,
+      "name": "DAZN 32 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10972,
+      "name": "DAZN 33 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N format"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10973,
+      "name": "DAZN 34 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10974,
+      "name": "DAZN 35 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10975,
+      "name": "DAZN 36 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N t"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10976,
+      "name": "DAZN 37 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10977,
+      "name": "DAZN 38 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10978,
+      "name": "DAZN 39 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10979,
+      "name": "DAZN 40 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N t"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10980,
+      "name": "DAZN 41 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10981,
+      "name": "DAZN 42 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N format"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10982,
+      "name": "DAZN 43 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 431,
+      "name": "3. DAZN 44 + CANADA",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N format"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10984,
+      "name": "DAZN 45 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10985,
+      "name": "DAZN 46 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10986,
+      "name": "DAZN 47 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10987,
+      "name": "DAZN 48 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No informatio:"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10988,
+      "name": "DAZN 49 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "N format"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10989,
+      "name": "DAZN 50 - CANADA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

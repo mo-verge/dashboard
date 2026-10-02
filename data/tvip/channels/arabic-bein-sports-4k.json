@@ -1,0 +1,116 @@
+{
+  "category": "ARABIC | BEIN SPORTS 4K",
+  "captured": "2026-09-30T21:08:03-0400",
+  "mode": "full",
+  "reported_total": 12,
+  "channels": [
+    {
+      "number": 42582,
+      "name": "BEIN SPORTS 2 XSTRA 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.7,
+      "audio_rms": 8446.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42586,
+      "name": "BEIN SPORTS 1 XSTRA 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.7,
+      "audio_rms": 7835.6,
+      "audio_ok": true
+    },
+    {
+      "number": 42589,
+      "name": "BEIN SPORTS 7 HEVC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 128.7,
+      "audio_rms": 2913.6,
+      "audio_ok": true
+    },
+    {
+      "number": 42595,
+      "name": "BEIN SPORTS 6 HEVC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.1,
+      "audio_rms": 8558.7,
+      "audio_ok": true
+    },
+    {
+      "number": 42598,
+      "name": "BEIN SPORTS 5 HEVC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 6499.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42602,
+      "name": "BEIN SPORTS 4 HEVC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 8807.4,
+      "audio_ok": true
+    },
+    {
+      "number": 42605,
+      "name": "BEIN SPORTS 3 HEVC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.9,
+      "audio_rms": 2088.6,
+      "audio_ok": true
+    },
+    {
+      "number": 42610,
+      "name": "BEIN SPORTS 2 HEVC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 8571.7,
+      "audio_ok": true
+    },
+    {
+      "number": 42613,
+      "name": "BEIN SPORTS 1 HEVC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.0,
+      "audio_rms": 8871.1,
+      "audio_ok": true
+    },
+    {
+      "number": 42642,
+      "name": "BEIN SPORTS AFC 4K",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42645,
+      "name": "BEIN SPORTS GLOBAL 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.3,
+      "audio_rms": 958.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42649,
+      "name": "BEIN SPORTS NEWS 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 126.4,
+      "audio_rms": 1921.4,
+      "audio_ok": true
+    }
+  ]
+}

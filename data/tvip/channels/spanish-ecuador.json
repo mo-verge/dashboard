@@ -1,0 +1,761 @@
+{
+  "category": "SPANISH | ECUADOR",
+  "captured": "2026-09-30T19:33:08-0400",
+  "mode": "full",
+  "reported_total": 37,
+  "channels": [
+    {
+      "number": 37251,
+      "name": "ECU | DIRECTV ECUADOR",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.6,
+      "audio_rms": 1459.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37252,
+      "name": "ECU | El CANAL DEL FUTBOL",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 144.2,
+      "audio_rms": 3344.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37253,
+      "name": "ECU | El CANAL DEL FUTBOL HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 151.6,
+      "audio_rms": 3321.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37254,
+      "name": "ECU | GOL TV HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.3,
+      "audio_rms": 1865.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37255,
+      "name": "ECU | GOL TV HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.7,
+      "audio_rms": 1963.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37256,
+      "name": "ECU | CANELA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.0,
+      "audio_rms": 1464.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37257,
+      "name": "ECU | ECUADOR TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Infantiles"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Proxima parada"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hola, ¿qué hace?"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Telediario"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Fanatico"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.7,
+      "audio_rms": 4336.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37258,
+      "name": "ECU | ECUADOR TV (MOVIL)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Infantiles"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Proxima parada"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hola, ¿qué hace?"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Telediario"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Fanatico"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.7,
+      "audio_rms": 5620.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37259,
+      "name": "ECU | ECUADOR TV FULL HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Infantiles"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Próxima parada"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hola, ¿qué hace?"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Telediario"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Fanático"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.1,
+      "audio_rms": 167.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37260,
+      "name": "ECU | ECUADOR TV HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Infantiles"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Próxima parada"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hola, ¿qué hace?"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Telediario"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Fanático"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.3,
+      "audio_rms": 1719.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37261,
+      "name": "ECU | ECUAVISA HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.9,
+      "audio_rms": 1503.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37262,
+      "name": "ECU | ECUAVISA QUITO HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.8,
+      "audio_rms": 2519.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37263,
+      "name": "ECU | ECUAVISA QUITO UHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.4,
+      "audio_rms": 2833.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37264,
+      "name": "ECU | ECUAVISA SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 141.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37265,
+      "name": "ECU | GAMA FULL HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 140.3,
+      "audio_rms": 1520.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37266,
+      "name": "ECU | GAMA HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.3,
+      "audio_rms": 947.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37267,
+      "name": "ECU | GAMA SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 132.9,
+      "audio_rms": 884.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37268,
+      "name": "ECU | IESS (EX CANAL UNO)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.6,
+      "audio_rms": 7013.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37269,
+      "name": "ECU | OROMAR HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.4,
+      "audio_rms": 1980.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37270,
+      "name": "ECU | OROMAR SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.3,
+      "audio_rms": 162.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37271,
+      "name": "ECU | RTS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.6,
+      "audio_rms": 3492.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37272,
+      "name": "ECU | RTS SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.5,
+      "audio_rms": 265.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37273,
+      "name": "ECU | RTU SD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37274,
+      "name": "ECU | TC TELEVISION",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Caminos de amor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El noticiero ||"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Después de el noticiero"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hilos de vida"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Propuesta de amor"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.1,
+      "audio_rms": 3821.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37275,
+      "name": "ECU | TC TELEVISION FULL HD",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Caminos de amor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El noticiero I!"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Después de el noticiero"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hilos de vida"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Propuesta de amor"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.0,
+      "audio_rms": 5362.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37276,
+      "name": "ECU | TC TELEVISION HD",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Caminos de amor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El noticiero II"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Después de el noticiero"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hilos de vida"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Propuesta de amor"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.3,
+      "audio_rms": 3938.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37277,
+      "name": "ECU | TC TELEVISION SD",
+      "epg": [
+        {
+          "time": "7:30 PM",
+          "title": "Caminos de amor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El noticiero II"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Después de el noticiero"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hilos de vida"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Propuesta de amor"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.4,
+      "audio_rms": 3889.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37278,
+      "name": "ECU | TELEAMAZONAS (MOVIL)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.9,
+      "audio_rms": 2354.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37279,
+      "name": "ECU | TELEAMAZONAS FHD (",
+      "epg": [],
+      "video_ok": true,
+      "luma": 124.9,
+      "audio_rms": 2629.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37280,
+      "name": "ECU | TELEAMAZONAS FULL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.8,
+      "audio_rms": 747.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37281,
+      "name": "ECU | TELEAMAZONAS HD (G",
+      "epg": [],
+      "video_ok": true,
+      "luma": 131.2,
+      "audio_rms": 2230.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37283,
+      "name": "ECU | TELEAMAZONAS SD (G",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.6,
+      "audio_rms": 1975.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37284,
+      "name": "ECU | TELEVICENTRO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.3,
+      "audio_rms": 4433.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37285,
+      "name": "ECU | TVC SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.8,
+      "audio_rms": 2786.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37286,
+      "name": "ECU | TVC SD OPT2",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37288,
+      "name": "EC ZAPPING SPORTS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 146.1,
+      "audio_rms": 4166.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37289,
+      "name": "ZAPPING SPORTS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

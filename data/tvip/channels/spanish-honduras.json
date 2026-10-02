@@ -1,0 +1,541 @@
+{
+  "category": "SPANISH | HONDURAS",
+  "captured": "2026-09-30T19:20:17-0400",
+  "mode": "full",
+  "reported_total": 20,
+  "channels": [
+    {
+      "number": 37331,
+      "name": "HN | TIGO SPORTS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.3,
+      "audio_rms": 1010.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37332,
+      "name": "HN | AZTECA HONDURAS HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.0,
+      "audio_rms": 1066.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37333,
+      "name": "HN | CAMPUS TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37334,
+      "name": "HN | CANAL 10",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 178.2,
+      "audio_rms": 991.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37335,
+      "name": "HN | CANAL 11 HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.9,
+      "audio_rms": 938.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37337,
+      "name": "HN | CANAL 5 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37338,
+      "name": "HN | CANAL 6 HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.1,
+      "audio_rms": 1617.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37339,
+      "name": "HN | CANAL VTV SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.3,
+      "audio_rms": 1317.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37340,
+      "name": "HN | GLOBO TV HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.6,
+      "audio_rms": 1844.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37341,
+      "name": "HN | HCH",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.6,
+      "audio_rms": 5111.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37342,
+      "name": "HN | MAYA TV SD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37343,
+      "name": "HN | Q HUBO TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.3,
+      "audio_rms": 1561.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37344,
+      "name": "HN | TELECADENA",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Primer impacto"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Abriendo brecha"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El gordo y la flaca"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Propuesta indecente"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hermanas, un amor compartido"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.0,
+      "audio_rms": 810.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37345,
+      "name": "HN | TELECEIBA 7",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "El camino antiguo"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Teleceiba Music"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Telenoticias"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Teledeportes"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Honduras hoy"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.6,
+      "audio_rms": 1099.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37346,
+      "name": "HN | TELEPROGRESO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.2,
+      "audio_rms": 5059.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37347,
+      "name": "HN | TSI HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.6,
+      "audio_rms": 569.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37348,
+      "name": "HN | TVC EL LIDER HONDURAS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.1,
+      "audio_rms": 784.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37349,
+      "name": "HN | UNE TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "N tormat"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37350,
+      "name": "HN | VICA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.7,
+      "audio_rms": 1854.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37351,
+      "name": "HN | TVC DEPORTES",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

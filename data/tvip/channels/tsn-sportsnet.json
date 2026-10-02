@@ -1,0 +1,1808 @@
+{
+  "category": "TSN+ | SPORTSNET+",
+  "captured": "2026-09-30T23:38:45-0400",
+  "mode": "full",
+  "reported_total": 200,
+  "channels": [
+    {
+      "number": 54000,
+      "name": "ISN+ 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.4,
+      "audio_rms": 7453.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54001,
+      "name": "LIINT Z",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 5529.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54002,
+      "name": "TSN+3 ©",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.0,
+      "audio_rms": 4996.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54003,
+      "name": "Ds",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5577.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54004,
+      "name": "ISN+ 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5349.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54005,
+      "name": "TSN+6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5665.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54006,
+      "name": "LOINT 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.2,
+      "audio_rms": 62.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54007,
+      "name": "ISN+ 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 5718.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54008,
+      "name": "ISN+ S",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.5,
+      "audio_rms": 43.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54009,
+      "name": "LSN+ 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.3,
+      "audio_rms": 54.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54010,
+      "name": "ISN+ 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.5,
+      "audio_rms": 1549.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54011,
+      "name": "IS A A",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.5,
+      "audio_rms": 165.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54012,
+      "name": "Oe",
+      "epg": [],
+      "video_ok": true,
+      "luma": 127.9,
+      "audio_rms": 185.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54013,
+      "name": "ISN+ 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.5,
+      "audio_rms": 5.6,
+      "audio_ok": false
+    },
+    {
+      "number": 54014,
+      "name": "ISN+ 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.4,
+      "audio_rms": 13.4,
+      "audio_ok": false
+    },
+    {
+      "number": 54015,
+      "name": "ISN+ 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 5674.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54016,
+      "name": "ISN+ 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5630.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54017,
+      "name": "TSN+18",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5634.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54018,
+      "name": "I5SN+ 19",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.4,
+      "audio_rms": 5411.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54019,
+      "name": "TSN+ 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 5768.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54020,
+      "name": "TSN+ 21",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.4,
+      "audio_rms": 5414.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54021,
+      "name": "A",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5739.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54022,
+      "name": "ISN+ 23",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5173.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54023,
+      "name": "i I 3 at",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5772.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54024,
+      "name": "TSN4+25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5453.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54025,
+      "name": "LIINT ZO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.1,
+      "audio_rms": 5426.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54026,
+      "name": "TSN4+27",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.7,
+      "audio_rms": 5453.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54027,
+      "name": "TSN+ 28",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 5699.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54028,
+      "name": "TSN+ 29",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5351.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54029,
+      "name": "TSN+ 30",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 5346.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54030,
+      "name": "iJ A ei wt",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 5436.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54031,
+      "name": "TSN+ 32",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5655.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54032,
+      "name": "ISN+ 33",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.8,
+      "audio_rms": 5134.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54033,
+      "name": "TSN+ 34",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5749.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54034,
+      "name": "Ae",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5713.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54035,
+      "name": "1 SN+ 36",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 5421.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54036,
+      "name": "ISN+ 3,",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5683.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54037,
+      "name": "LSN+ 30",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.9,
+      "audio_rms": 5486.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54038,
+      "name": "I5N+ 39",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.3,
+      "audio_rms": 1815.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54039,
+      "name": "TSN+ 40",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5710.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54040,
+      "name": "TSN+ 41",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.7,
+      "audio_rms": 5328.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54041,
+      "name": "LOINT 42",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.7,
+      "audio_rms": 5466.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54042,
+      "name": "TSN+ 43",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.9,
+      "audio_rms": 5318.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54043,
+      "name": "TSN+ 44",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.4,
+      "audio_rms": 1321.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54044,
+      "name": "TSN+ 45",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5706.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54045,
+      "name": "TSN+46",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.0,
+      "audio_rms": 5655.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54046,
+      "name": "TSN+ 47",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5642.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54047,
+      "name": "TSN+ 48",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.0,
+      "audio_rms": 5405.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54048,
+      "name": "I5N+ 49",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5410.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54049,
+      "name": "OO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5389.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54050,
+      "name": "SN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 5633.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54051,
+      "name": "TSN4+52 |)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5682.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54052,
+      "name": "TSN+ 53",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 5479.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54053,
+      "name": "TSN+ 54",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 5652.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54054,
+      "name": "TSN+ 55",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 5688.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54055,
+      "name": "TSN+56",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.0,
+      "audio_rms": 5730.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54056,
+      "name": "ISN+ 5,",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5544.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54057,
+      "name": "TSN+ 58",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.0,
+      "audio_rms": 5329.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54058,
+      "name": "TSN+ 59",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5309.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54059,
+      "name": "TSN+60",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5384.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54060,
+      "name": "Ser",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.1,
+      "audio_rms": 5484.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54061,
+      "name": "TSN+62",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.0,
+      "audio_rms": 5727.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54062,
+      "name": "CN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5429.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54063,
+      "name": "1 SN+ 64",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5539.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54064,
+      "name": "ISN+ 65",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5660.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54065,
+      "name": "ISN+ 66",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 5528.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54066,
+      "name": "TSN+ 67",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.1,
+      "audio_rms": 5436.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54067,
+      "name": "TSN+ 68",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 5657.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54068,
+      "name": "SN reer",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5661.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54069,
+      "name": "TSN+70",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 5736.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54070,
+      "name": "do:",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.9,
+      "audio_rms": 5427.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54071,
+      "name": "TSN+ 72",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5346.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54072,
+      "name": "TISN+73 — ©",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.9,
+      "audio_rms": 5437.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54073,
+      "name": "ISN+ 74",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5660.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54074,
+      "name": "",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.8,
+      "audio_rms": 5455.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54075,
+      "name": "TSN+76",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5717.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54076,
+      "name": "TSN+ 77",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.1,
+      "audio_rms": 5457.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54077,
+      "name": "ISN+ /8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.8,
+      "audio_rms": 5536.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54078,
+      "name": "TSN+ 79",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5508.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54079,
+      "name": "TSN+80",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5746.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54080,
+      "name": "ISN+ 81",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.1,
+      "audio_rms": 1570.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54081,
+      "name": "TSN+ 82",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.2,
+      "audio_rms": 1580.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54082,
+      "name": "TSN+ 83",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.5,
+      "audio_rms": 5361.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54083,
+      "name": "TSN+ 84",
+      "epg": [],
+      "video_ok": true,
+      "luma": 162.1,
+      "audio_rms": 1064.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54084,
+      "name": "TSN+ 85",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5415.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54085,
+      "name": "TSN+ 86",
+      "epg": [],
+      "video_ok": true,
+      "luma": 168.7,
+      "audio_rms": 1482.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54086,
+      "name": "TSN+ 87",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 5636.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54087,
+      "name": "TSN+ 88",
+      "epg": [],
+      "video_ok": true,
+      "luma": 136.4,
+      "audio_rms": 1339.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54088,
+      "name": "TSN+ 89",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.7,
+      "audio_rms": 5200.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54089,
+      "name": "TSN+ 90",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 5693.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54090,
+      "name": "ISN+ 91",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.1,
+      "audio_rms": 5421.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54091,
+      "name": "ña N+ 92",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.5,
+      "audio_rms": 1375.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54092,
+      "name": "ISN+ 93",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 5715.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54093,
+      "name": "TSN+ 94",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5315.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54094,
+      "name": "ISN+ 95",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 5663.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54095,
+      "name": "1 »SN+ 96",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5361.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54096,
+      "name": "TSN+ 97",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5162.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54097,
+      "name": "TSN+ 98",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5679.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54098,
+      "name": "TSN+ 99",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 5418.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54099,
+      "name": "TSN+ 100",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.1,
+      "audio_rms": 5332.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54121,
+      "name": "SPORTSNET-+ 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7259.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54122,
+      "name": "SPORTSNET+ 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8098.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54123,
+      "name": "SPORTSNET+ 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 7412.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54124,
+      "name": "SPORTSNET+ 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8225.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54125,
+      "name": "SPORTSNET+ 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8173.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54126,
+      "name": "SPORTSNET+ 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.4,
+      "audio_rms": 7970.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54127,
+      "name": "SPORTSNET+ 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8480.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54128,
+      "name": "SPORTSNET+ 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8156.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54129,
+      "name": "SPORTSNET+ 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8635.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54130,
+      "name": "SPORTSNET+ 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8225.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54131,
+      "name": "SPORTSNET+ 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7286.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54132,
+      "name": "SPORTSNET+ 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 6509.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54133,
+      "name": "SPORTSNET+ 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.1,
+      "audio_rms": 2436.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54134,
+      "name": "SPORTSNET+ 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.2,
+      "audio_rms": 4862.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54135,
+      "name": "SPORTSNET+ 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.1,
+      "audio_rms": 1756.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54136,
+      "name": "SPORTSNET+ 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8493.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54137,
+      "name": "SPORTSNET+ 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.5,
+      "audio_rms": 795.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54138,
+      "name": "SPORTSNET+ 18",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.3,
+      "audio_rms": 6378.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54139,
+      "name": "SPORTSNET+ 19",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8495.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54140,
+      "name": "SPORTSNET+ 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8494.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54141,
+      "name": "SPORTSNET+ 21",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8224.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54142,
+      "name": "SPORTSNET+ 22",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8217.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54143,
+      "name": "SPORTSNET+ 23",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8646.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54144,
+      "name": "SPORTSNET+ 24",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 7515.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54145,
+      "name": "SPORTSNET+ 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7286.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54146,
+      "name": "SPORTSNET+ 26",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7606.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54147,
+      "name": "SPORTSNET+ 27",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7362.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54148,
+      "name": "SPORTSNET+ 28",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8238.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54149,
+      "name": "SPORTSNET+ 29",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8761.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54150,
+      "name": "SPORTSNET+ 30",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 7323.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54151,
+      "name": "SPORTSNET+ 31",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8298.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54152,
+      "name": "SPORTSNET+ 32",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8215.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54153,
+      "name": "SPORTSNET+ 33",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8205.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54154,
+      "name": "SPORTSNET+ 34",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8126.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54155,
+      "name": "SPORTSNET+ 35",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8199.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54156,
+      "name": "SPORTSNET+ 36",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 6659.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54157,
+      "name": "SPORTSNET+ 37",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7817.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54158,
+      "name": "SPORTSNET+ 38",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 7458.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54159,
+      "name": "SPORTSNET+ 39",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8233.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54160,
+      "name": "SPORTSNET+ 40",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8306.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54161,
+      "name": "SPORTSNET+ 41",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8793.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54162,
+      "name": "SPORTSNET+ 42",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 6753.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54163,
+      "name": "SPORTSNET+ 43",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8779.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54164,
+      "name": "SPORTSNET+ 44",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 6467.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54165,
+      "name": "SPORTSNET+ 45",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7614.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54166,
+      "name": "SPORTSNET+ 46",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8234.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54167,
+      "name": "SPORTSNET+ 47",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 6633.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54168,
+      "name": "SPORTSNET+ 48",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8299.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54169,
+      "name": "SPORTSNET+ 49",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8809.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54170,
+      "name": "SPORTSNET+ 50",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8219.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54171,
+      "name": "SPORTSNET+ 51",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8644.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54172,
+      "name": "SPORTSNET+ 52",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8558.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54173,
+      "name": "SPORTSNET+ 53",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8259.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54174,
+      "name": "SPORTSNET+ 54",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8430.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54175,
+      "name": "SPORTSNET+ 55",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8792.5,
+      "audio_ok": true
+    },
+    {
+      "number": 54176,
+      "name": "SPORTSNET+ 56",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8789.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54177,
+      "name": "SPORTSNET+ 57",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8269.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54178,
+      "name": "SPORTSNET+ 58",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8271.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54179,
+      "name": "SPORTSNET+ 59",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7331.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54180,
+      "name": "SPORTSNET+ 60",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.0,
+      "audio_rms": 6762.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54181,
+      "name": "SPORTSNET+ 61",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 6779.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54182,
+      "name": "SPORTSNET+ 62",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8222.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54183,
+      "name": "SPORTSNET+ 63",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8312.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54184,
+      "name": "SPORTSNET+ 64",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7657.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54185,
+      "name": "SPORTSNET+ 65",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 6323.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54186,
+      "name": "SPORTSNET+ 66",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8308.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54187,
+      "name": "SPORTSNET+ 67",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8234.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54188,
+      "name": "SPORTSNET+ 68",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7312.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54189,
+      "name": "SPORTSNET+ 69",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8179.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54190,
+      "name": "SPORTSNET+ 70",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8800.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54191,
+      "name": "SPORTSNET+ 71",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8625.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54192,
+      "name": "SPORTSNET+ 72",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8300.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54193,
+      "name": "SPORTSNET+ 73",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7615.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54194,
+      "name": "SPORTSNET+ 74",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7479.8,
+      "audio_ok": true
+    },
+    {
+      "number": 54195,
+      "name": "SPORTSNET+ 75",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.4,
+      "audio_rms": 8045.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54196,
+      "name": "SPORTSNET+ 76",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8173.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54197,
+      "name": "SPORTSNET+ 77",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7851.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54198,
+      "name": "SPORTSNET+ 78",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7994.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54199,
+      "name": "SPORTSNET+ 79",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7326.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54200,
+      "name": "SPORTSNET+ 80",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8539.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54201,
+      "name": "SPORTSNET+ 81",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7327.9,
+      "audio_ok": true
+    },
+    {
+      "number": 54202,
+      "name": "SPORTSNET+ 82",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8318.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54203,
+      "name": "SPORTSNET+ 83",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 6524.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54204,
+      "name": "SPORTSNET+ 84",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8065.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54205,
+      "name": "SPORTSNET+ 85",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7471.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54206,
+      "name": "SPORTSNET+ 86",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7654.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54207,
+      "name": "SPORTSNET+ 87",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8575.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54208,
+      "name": "SPORTSNET+ 88",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8122.3,
+      "audio_ok": true
+    },
+    {
+      "number": 54209,
+      "name": "SPORTSNET+ 89",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7361.0,
+      "audio_ok": true
+    },
+    {
+      "number": 54210,
+      "name": "SPORTSNET+ 90",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8635.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54211,
+      "name": "SPORTSNET+ 91",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 7307.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54212,
+      "name": "SPORTSNET+ 92",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8772.6,
+      "audio_ok": true
+    },
+    {
+      "number": 54213,
+      "name": "SPORTSNET+ 93",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8729.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54214,
+      "name": "SPORTSNET+ 94",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8318.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54215,
+      "name": "SPORTSNET+ 95",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 6942.7,
+      "audio_ok": true
+    },
+    {
+      "number": 54216,
+      "name": "SPORTSNET+ 96",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8709.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54217,
+      "name": "SPORTSNET+ 97",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 6762.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54218,
+      "name": "SPORTSNET+ 98",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 8566.4,
+      "audio_ok": true
+    },
+    {
+      "number": 54219,
+      "name": "SPORTSNET+ 99",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 7371.1,
+      "audio_ok": true
+    },
+    {
+      "number": 54220,
+      "name": "SPORTSNET+ 100",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 8311.4,
+      "audio_ok": true
+    }
+  ]
+}

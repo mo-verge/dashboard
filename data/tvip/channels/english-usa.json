@@ -1,0 +1,6860 @@
+{
+  "category": "ENGLISH | USA",
+  "captured": "2026-10-01T02:20:33-0400",
+  "mode": "full",
+  "reported_total": 307,
+  "channels": [
+    {
+      "number": 1117,
+      "name": "WELCOME TO SMART 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.5,
+      "audio_rms": 3928.8,
+      "audio_ok": true
+    },
+    {
+      "number": 1163,
+      "name": "SMART | HAPPY HALLOWEEN",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.3,
+      "audio_rms": 2676.5,
+      "audio_ok": true
+    },
+    {
+      "number": 1157,
+      "name": "BIG BROTHER 2026 - 1",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.3,
+      "audio_rms": 49.7,
+      "audio_ok": true
+    },
+    {
+      "number": 120,
+      "name": "BIG BROTHER 2026 - 2",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.7,
+      "audio_rms": 46.1,
+      "audio_ok": true
+    },
+    {
+      "number": 121,
+      "name": "BIG BROTHER 2026 - 3",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.3,
+      "audio_rms": 71.5,
+      "audio_ok": true
+    },
+    {
+      "number": 122,
+      "name": "BIG BROTHER 2026 - 4",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.7,
+      "audio_rms": 51.1,
+      "audio_ok": true
+    },
+    {
+      "number": 343,
+      "name": "TBS WEST",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Office"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.7,
+      "audio_rms": 1622.0,
+      "audio_ok": true
+    },
+    {
+      "number": 344,
+      "name": "TBS EAST",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Office"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.6,
+      "audio_rms": 1884.7,
+      "audio_ok": true
+    },
+    {
+      "number": 345,
+      "name": "ONE AMERICAN NEWS NETW",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "OAN News"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "OAN News"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Real America With Dan Ball"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Matt Gaetz Show"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Fine Point With Chanel Rion"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.7,
+      "audio_rms": 133.0,
+      "audio_ok": true
+    },
+    {
+      "number": 346,
+      "name": "A&E 4K",
+      "epg": [
+        {
+          "time": "1:03 AM",
+          "title": "Alaska State Troopers"
+        },
+        {
+          "time": "2:04 AM",
+          "title": "Alaska State Troopers"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Alaska State Troopers"
+        },
+        {
+          "time": "4:02 AM",
+          "title": "Freedom to Leave the House! Inogen Portable Oxygen"
+        },
+        {
+          "time": "4:32 AM",
+          "title": "Best Mattress Topper Ever!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.4,
+      "audio_rms": 2.6,
+      "audio_ok": false
+    },
+    {
+      "number": 347,
+      "name": "NASA TV",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "Education Hour"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Education Hour"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Education Hour"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Education Hour"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Education Hour"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.0,
+      "audio_rms": 1380.7,
+      "audio_ok": true
+    },
+    {
+      "number": 348,
+      "name": "PARAMOUNT",
+      "epg": [
+        {
+          "time": "1:25 AM",
+          "title": "Top Gun"
+        },
+        {
+          "time": "3:46 AM",
+          "title": "Bar Rescue"
+        },
+        {
+          "time": "4:40 AM",
+          "title": "Bar Rescue"
+        },
+        {
+          "time": "5:33 AM",
+          "title": "Bar Rescue"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Inside Edition"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.3,
+      "audio_rms": 2670.0,
+      "audio_ok": true
+    },
+    {
+      "number": 349,
+      "name": "MTV CLASSIC",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Classic Videos"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Classic Videos"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Classic Videos"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Classic Videos"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Classic Videos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.4,
+      "audio_rms": 1192.1,
+      "audio_ok": true
+    },
+    {
+      "number": 350,
+      "name": "ACCUWEATHER 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "AccuWeather All Night"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "AccuWeather Early"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Invisible Iceberg"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "AccuWeather Presents"
+        },
+        {
+          "time": "4:00 PM",
+          "title": "AccuWeather Ahead"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.3,
+      "audio_rms": 3732.6,
+      "audio_ok": true
+    },
+    {
+      "number": 351,
+      "name": "COOKING CHANNEL 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Halloween Wars"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Halloween Wars"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Halloween Wars"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hair Growth Secrets!"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.2,
+      "audio_rms": 2058.3,
+      "audio_ok": true
+    },
+    {
+      "number": 352,
+      "name": "AMERICAN HEROES 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Ultimate Warfare"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Ultimate Warfare"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Ultimate Warfare"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Ultimate Warfare"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Ultimate Warfare"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.7,
+      "audio_rms": 1641.3,
+      "audio_ok": true
+    },
+    {
+      "number": 353,
+      "name": "PBS DALLAS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Amanpour and Company"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Broadchurch"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Frontline"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "A Conversation With Stanley Marcus"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Being Texan: A Texas Monthly Special"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.3,
+      "audio_rms": 1333.6,
+      "audio_ok": true
+    },
+    {
+      "number": 354,
+      "name": "Ñ lElV",
+      "epg": [
+        {
+          "time": "1:35 AM",
+          "title": "Alfred Hitchcock Presents"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Mannix"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Cannon"
+        },
+        {
+          "time": "4:05 AM",
+          "title": "Barnaby Jones"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Dragnet"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.3,
+      "audio_rms": 2093.1,
+      "audio_ok": true
+    },
+    {
+      "number": 355,
+      "name": "ANIMAL PLANET 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "Naked and Afraid"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Naked and Afraid"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Naked and Afraid"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Naked and Afraid"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Too Cute!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.6,
+      "audio_rms": 596.3,
+      "audio_ok": true
+    },
+    {
+      "number": 356,
+      "name": "DIY NETWORK 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.5,
+      "audio_rms": 2031.3,
+      "audio_ok": true
+    },
+    {
+      "number": 357,
+      "name": "NAT GEO WILD 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Cesar Millan: Better Human Better Dog"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "America the Wild"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Close Encounters of the Wild Kind"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "America the Wild"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Close Encounters of the Wild Kind"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.1,
+      "audio_rms": 1490.7,
+      "audio_ok": true
+    },
+    {
+      "number": 358,
+      "name": "AWE 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Tasting America"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Travel in Style"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Distant Shores"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Top Travel"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Selling Jets"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.0,
+      "audio_rms": 1461.9,
+      "audio_ok": true
+    },
+    {
+      "number": 359,
+      "name": "NATIONAL GEOGRAPHIC C",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Catch a Smuggler: South Pacific"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Catch a Smuggler: South Pacific"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Catch a Smuggler: South Pacific"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Catch a Smuggler: South Pacific"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Catch a Smuggler: South Pacific"
+        }
+      ],
+      "video_ok": true,
+      "luma": 144.5,
+      "audio_rms": 2044.2,
+      "audio_ok": true
+    },
+    {
+      "number": 360,
+      "name": "EC: 4nK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Keeping Up With the Kardashians"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Keeping Up With the Kardashians"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Keeping Up With the Kardashians"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Keeping Up With the Kardashians"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Keeping Up With the Kardashians"
+        }
+      ],
+      "video_ok": true,
+      "luma": 151.1,
+      "audio_rms": 2341.1,
+      "audio_ok": true
+    },
+    {
+      "number": 361,
+      "name": "OXYGEN 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.1,
+      "audio_rms": 2295.9,
+      "audio_ok": true
+    },
+    {
+      "number": 362,
+      "name": "BBC AMERICA 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Criminal Minds"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Criminal Minds"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Criminal Minds"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Criminal Minds"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Criminal Minds"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.0,
+      "audio_rms": 2020.6,
+      "audio_ok": true
+    },
+    {
+      "number": 363,
+      "name": "EPIX 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.7,
+      "audio_rms": 1495.7,
+      "audio_ok": true
+    },
+    {
+      "number": 364,
+      "name": "BBC WORLD NEWS 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Business Today"
+        },
+        {
+          "time": "1:55 AM",
+          "title": "Talking Movies"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "BBC News"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Business Today"
+        },
+        {
+          "time": "2:55 AM",
+          "title": "Talking Movies"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.8,
+      "audio_rms": 2675.3,
+      "audio_ok": true
+    },
+    {
+      "number": 365,
+      "name": "MGM+4+ HITS",
+      "epg": [
+        {
+          "time": "1:45 AM",
+          "title": "Wonder"
+        },
+        {
+          "time": "3:40 AM",
+          "title": "Sex Life"
+        },
+        {
+          "time": "4:40 AM",
+          "title": "American Hostage"
+        },
+        {
+          "time": "5:35 AM",
+          "title": "A Tale of Two Cities"
+        },
+        {
+          "time": "6:35 AM",
+          "title": "Betrayed"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.0,
+      "audio_rms": 542.0,
+      "audio_ok": true
+    },
+    {
+      "number": 366,
+      "name": "BET JAMS SD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "West Coast Wednesday"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Music Playlist"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Music Playlist"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Music Playlist"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Music Playlist"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.8,
+      "audio_rms": 1592.7,
+      "audio_ok": true
+    },
+    {
+      "number": 367,
+      "name": "WORLD FISHING NETWORK HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 131.4,
+      "audio_rms": 2879.7,
+      "audio_ok": true
+    },
+    {
+      "number": 368,
+      "name": "ANIMAL PLANET PACIFIC",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.2,
+      "audio_rms": 456.5,
+      "audio_ok": true
+    },
+    {
+      "number": 369,
+      "name": "BET 4K",
+      "epg": [
+        {
+          "time": "1:20 AM",
+          "title": "Martin"
+        },
+        {
+          "time": "1:55 AM",
+          "title": "Martin"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Jamie Foxx Show"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Jamie Foxx Show"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Jamie Foxx Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.3,
+      "audio_rms": 1029.7,
+      "audio_ok": true
+    },
+    {
+      "number": 370,
+      "name": "FOOD NETWORK 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Guy's Grocery Games"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Guy's Grocery Games"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Guy's Grocery Games"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Beachside Brawl"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Secret to More Energy, Better Focus & Restful Sleep"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.7,
+      "audio_rms": 2184.5,
+      "audio_ok": true
+    },
+    {
+      "number": 371,
+      "name": "BET HER 4K",
+      "epg": [
+        {
+          "time": "1:36 AM",
+          "title": "Tyler Perry's Assisted Living"
+        },
+        {
+          "time": "2:12 AM",
+          "title": "Tyler Perry's Assisted Living"
+        },
+        {
+          "time": "2:48 AM",
+          "title": "Tyler Perry's Assisted Living"
+        },
+        {
+          "time": "3:24 AM",
+          "title": "Tyler Perry's Assisted Living"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Reminisce"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.2,
+      "audio_rms": 828.7,
+      "audio_ok": true
+    },
+    {
+      "number": 372,
+      "name": "MOTORTREND 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Roadkill"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Roadkill"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Roadkill Garage"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Roadkill Garage"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Roadkill Garage"
+        }
+      ],
+      "video_ok": true,
+      "luma": 229.3,
+      "audio_rms": 2219.1,
+      "audio_ok": true
+    },
+    {
+      "number": 373,
+      "name": "BET SOUL SD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "In Rotation"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Ascending Soul"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "In Rotation"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "In Rotation"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "In Rotation"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.2,
+      "audio_rms": 1035.2,
+      "audio_ok": true
+    },
+    {
+      "number": 374,
+      "name": "OWN 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.6,
+      "audio_rms": 1388.6,
+      "audio_ok": true
+    },
+    {
+      "number": 375,
+      "name": "BRAVO 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Watch What Happens Live With Andy Cohen"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.6,
+      "audio_rms": 672.1,
+      "audio_ok": true
+    },
+    {
+      "number": 376,
+      "name": "USA NETWORK 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "9-1-1"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.2,
+      "audio_rms": 401.8,
+      "audio_ok": true
+    },
+    {
+      "number": 377,
+      "name": "POP 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 21.4,
+      "audio_rms": 1382.2,
+      "audio_ok": true
+    },
+    {
+      "number": 378,
+      "name": "SUNDANCE TV 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Law €: Order"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Law & Order"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Law €: Order"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Andy Griffith Show"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "The Andy Griffith Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.3,
+      "audio_rms": 2007.1,
+      "audio_ok": true
+    },
+    {
+      "number": 379,
+      "name": "COMEDY TV 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The World's Funniest Weather"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Comics Unleashed With Byron Allen"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Comics Unleashed With Byron Allen"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Comics Unleashed With Byron Allen"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Comics Unleashed With Byron Allen"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.0,
+      "audio_rms": 405.4,
+      "audio_ok": true
+    },
+    {
+      "number": 380,
+      "name": "FREEFORM 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "According to Jim"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Bathroom Makeover"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Inogen Portable Oxygen - No More Tanks!"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The 700 Club"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Rateescape: Stop Overpaying for Cellular"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.8,
+      "audio_rms": 1570.1,
+      "audio_ok": true
+    },
+    {
+      "number": 381,
+      "name": "DOG TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Relaxation For Dogs"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Good Night: Relaxation for Dogs"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Good Night: Relaxation for Dogs"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Good Night: Relaxation for Dogs"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Good Night: Relaxation for Dogs"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.5,
+      "audio_rms": 1218.9,
+      "audio_ok": true
+    },
+    {
+      "number": 382,
+      "name": "COMEDY CENTRAL 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Mike Judge's Beavis and Butt-Head"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Mike Judge's Beavis and Butt-Head"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "South Park"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "South Park"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "South Park"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.4,
+      "audio_rms": 2536.9,
+      "audio_ok": true
+    },
+    {
+      "number": 383,
+      "name": "RFD-TV 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Opry Live"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Aging Brain"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Best Mattress Topper Ever!"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Bathroom Makeover"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Natural Blood Pressure Management"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.4,
+      "audio_rms": 571.2,
+      "audio_ok": true
+    },
+    {
+      "number": 384,
+      "name": "TBS 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Office"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.4,
+      "audio_rms": 1144.1,
+      "audio_ok": true
+    },
+    {
+      "number": 385,
+      "name": "COMET HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Xena: Warrior Princess"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Xena: Warrior Princess"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Xena: Warrior Princess"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.3,
+      "audio_rms": 1463.1,
+      "audio_ok": true
+    },
+    {
+      "number": 386,
+      "name": "FUSE 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Sex Clinic"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Sex Clinic"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Sex Sells"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Sex Sells"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Jim Morrison's Final Chapter"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.1,
+      "audio_rms": 1621.0,
+      "audio_ok": true
+    },
+    {
+      "number": 387,
+      "name": "TRUE4K TRAVEL XP",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Backpack"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "World Heritage"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "See My Home California"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Unbound"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Viajar Peru"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.1,
+      "audio_rms": 791.3,
+      "audio_ok": true
+    },
+    {
+      "number": 388,
+      "name": "NAUTICAL CHANNEL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.6,
+      "audio_rms": 3943.9,
+      "audio_ok": true
+    },
+    {
+      "number": 389,
+      "name": "SMITHSONIAN CHANNEL 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Air Disasters"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Air Disasters"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Air Disasters"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Air Disasters"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Air Disasters"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.7,
+      "audio_rms": 1735.9,
+      "audio_ok": true
+    },
+    {
+      "number": 390,
+      "name": "re —————",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "ER: Caught on Camera"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Save My Skin"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "1000-lb Roomies"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "90 Day Fiancé: Happily Ever After?"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Jennifer Hudson Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 25.1,
+      "audio_rms": 1739.0,
+      "audio_ok": true
+    },
+    {
+      "number": 391,
+      "name": "C-SPAN 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "C-SPAN Primetime"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Public Affairs Events"
+        },
+        {
+          "time": "3:40 AM",
+          "title": "Public Affairs Events"
+        },
+        {
+          "time": "5:20 AM",
+          "title": "Public Affairs Events"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Washington Journal"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.0,
+      "audio_rms": 639.5,
+      "audio_ok": true
+    },
+    {
+      "number": 392,
+      "name": "FYI4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Storage Wars"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Storage Wars"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Storage Wars"
+        },
+        {
+          "time": "3:01 AM",
+          "title": "Storage Wars"
+        },
+        {
+          "time": "3:31 AM",
+          "title": "Storage Wars"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.5,
+      "audio_rms": 2204.8,
+      "audio_ok": true
+    },
+    {
+      "number": 393,
+      "name": "C-SPAN 2 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "Public Affairs Events"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Public Affairs Events"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Public Affairs Events"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Public Affairs Events"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Public Affairs Events"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.6,
+      "audio_rms": 762.3,
+      "audio_ok": true
+    },
+    {
+      "number": 394,
+      "name": "GSN 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.6,
+      "audio_rms": 959.6,
+      "audio_ok": true
+    },
+    {
+      "number": 395,
+      "name": "TRAVEL CHANNEL 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.8,
+      "audio_rms": 1462.6,
+      "audio_ok": true
+    },
+    {
+      "number": 396,
+      "name": "COURT TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Blue Bloods"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Blue Bloods"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Rateescape: Stop Overpaying for Cellular"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Joint Relief Revolution"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.9,
+      "audio_rms": 2216.4,
+      "audio_ok": true
+    },
+    {
+      "number": 397,
+      "name": "HGTV 4K",
+      "epg": [
+        {
+          "time": "1:31 AM",
+          "title": "Botched Homes"
+        },
+        {
+          "time": "2:32 AM",
+          "title": "House Hunters"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "House Hunters"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "House Hunters"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Renovation Island: The Adventure Continues"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.6,
+      "audio_rms": 1148.9,
+      "audio_ok": true
+    },
+    {
+      "number": 398,
+      "name": "DESTINATION AMERICA 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Flea Market Flip"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Flea Market Flip"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Flea Market Flip"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Flea Market Flip"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Flea Market Flip"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.2,
+      "audio_rms": 1903.2,
+      "audio_ok": true
+    },
+    {
+      "number": 399,
+      "name": "HLN 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Forensic Files"
+        }
+      ],
+      "video_ok": true,
+      "luma": 185.4,
+      "audio_rms": 1486.5,
+      "audio_ok": true
+    },
+    {
+      "number": 400,
+      "name": "if 1 | 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Impractical Jokers"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Cold Case"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Cold Case"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Cold Case"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Cold Case"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.7,
+      "audio_rms": 847.7,
+      "audio_ok": true
+    },
+    {
+      "number": 401,
+      "name": "DISCOVERY FAMILY CHANNE",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Halloween Wars"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Halloween Wars"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Buddy's Bakery Rescue"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Yard Crashers"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Yard Crashers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 187.6,
+      "audio_rms": 1065.2,
+      "audio_ok": true
+    },
+    {
+      "number": 402,
+      "name": "INVESTIGATION DISCOVERY 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Unmasking a Monster: Aileen Wuornos"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Unmasking a Monster: Aileen Wuornos"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "A Body in the Basement"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Scorned: Fatal Fury"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Scorned: Fatal Fury"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.0,
+      "audio_rms": 1806.2,
+      "audio_ok": true
+    },
+    {
+      "number": 404,
+      "name": "DISCOVERY LIFE 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "My 600-Lb. Life"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "My 600-Lb. Life"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "My 600-Lb. Life"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "High School Moms"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "High School Moms"
+        }
+      ],
+      "video_ok": true,
+      "luma": 136.1,
+      "audio_rms": 458.6,
+      "audio_ok": true
+    },
+    {
+      "number": 405,
+      "name": "TRU TV 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Foul Play With Anthony Davis"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Impractical Jokers: Inside Jokes"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Impractical Jokers: Inside Jokes"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Impractical Jokers: Inside Jokes"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Impractical Jokers: Inside Jokes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.6,
+      "audio_rms": 2549.0,
+      "audio_ok": true
+    },
+    {
+      "number": 406,
+      "name": "DISCOVERY USA 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "Ghost Adventures: Devil's Den"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Ghost Adventures"
+        },
+        {
+          "time": "3:01 AM",
+          "title": "Ghost Adventures"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Harpoon Hunters"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Deadliest Catch"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.4,
+      "audio_rms": 1027.8,
+      "audio_ok": true
+    },
+    {
+      "number": 407,
+      "name": "LOGO 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "RuPaul's Drag Race"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "RuPaul's Drag Race"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "RuPaul's Drag Race"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "RuPaul's Drag Race"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "RuPaul's Drag Race"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.2,
+      "audio_rms": 2475.7,
+      "audio_ok": true
+    },
+    {
+      "number": 408,
+      "name": "ABC HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.5,
+      "audio_rms": 1522.1,
+      "audio_ok": true
+    },
+    {
+      "number": 409,
+      "name": "TV LAND 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The King of Queens"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.8,
+      "audio_rms": 1269.4,
+      "audio_ok": true
+    },
+    {
+      "number": 410,
+      "name": "MTV 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Office"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.8,
+      "audio_rms": 1920.5,
+      "audio_ok": true
+    },
+    {
+      "number": 4411,
+      "name": "MTV LIVE 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Global Beats"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "MTV Rewind"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Adore U...MTV Loves Love"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Hot Right Now!"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Eat, Sleep, Dance, Repeat!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.2,
+      "audio_rms": 786.7,
+      "audio_ok": true
+    },
+    {
+      "number": 412,
+      "name": "VIH 1 iN",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Nick Cannon Presents: Wild 'n Out"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Nick Cannon Presents: Wild 'n Out"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Nick Cannon Presents: Wild 'n Out"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Nick Cannon Presents: Wild 'n Out"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Nick Cannon Presents: Wild 'n Out"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.5,
+      "audio_rms": 1311.2,
+      "audio_ok": true
+    },
+    {
+      "number": 413,
+      "name": "ION TV HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Blue Bloods"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Blue Bloods"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Rateescape: Stop Overpaying for Cellular"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Joint Relief Revolution"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.7,
+      "audio_rms": 876.4,
+      "audio_ok": true
+    },
+    {
+      "number": 414,
+      "name": "RECIPE TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.9,
+      "audio_rms": 2027.9,
+      "audio_ok": true
+    },
+    {
+      "number": 415,
+      "name": "STARZ WEST 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "The Furious"
+        },
+        {
+          "time": "1:57 AM",
+          "title": "Priest"
+        },
+        {
+          "time": "3:28 AM",
+          "title": "Hellboy Il: The Golden Army"
+        },
+        {
+          "time": "5:31 AM",
+          "title": "Queen of Manhattan"
+        },
+        {
+          "time": "7:13 AM",
+          "title": "Couples Retreat"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.4,
+      "audio_rms": 1557.0,
+      "audio_ok": true
+    },
+    {
+      "number": 416,
+      "name": "CARS TV 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.1,
+      "audio_rms": 1845.6,
+      "audio_ok": true
+    },
+    {
+      "number": 417,
+      "name": "WGN AMERICA 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.7,
+      "audio_rms": 2163.4,
+      "audio_ok": true
+    },
+    {
+      "number": 418,
+      "name": "VICELAND 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "UFOs: Investigating the Unknown"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "UFOs: Investigating the Unknown"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "UFOs: Investigating the Unknown"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "UFOs: Investigating the Unknown"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "UFOs: Investigating the Unknown"
+        }
+      ],
+      "video_ok": true,
+      "luma": 36.0,
+      "audio_rms": 590.4,
+      "audio_ok": true
+    },
+    {
+      "number": 419,
+      "name": "THE WEATHER CHANNEL 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Overnight on The Weather Network"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Dream in Colour"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Dream in Colour"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Overnight on The Weather Network"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Overnight on The Weather Network"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.9,
+      "audio_rms": 1667.4,
+      "audio_ok": true
+    },
+    {
+      "number": 420,
+      "name": "OXYGEN EAST HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Prosecuting Evil With Kelly Siegler"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.1,
+      "audio_rms": 1949.9,
+      "audio_ok": true
+    },
+    {
+      "number": 421,
+      "name": "POP TV HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 28.1,
+      "audio_rms": 1372.7,
+      "audio_ok": true
+    },
+    {
+      "number": 424,
+      "name": "AMC 4K",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Creepshow"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "1408"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Freedom to Leave the House! Inogen Portable Oxygen"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Rare Silver & Gold Coins"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.5,
+      "audio_rms": 948.0,
+      "audio_ok": true
+    },
+    {
+      "number": 428,
+      "name": "CLEO TV 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Parkers"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Living by Design"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "New Soul Kitchen Remix"
+        },
+        {
+          "time": "2:45 AM",
+          "title": "New Soul Kitchen Remix"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "New Soul Kitchen"
+        }
+      ],
+      "video_ok": true,
+      "luma": 45.1,
+      "audio_rms": 1394.8,
+      "audio_ok": true
+    },
+    {
+      "number": 429,
+      "name": "LIFETIME 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 230.5,
+      "audio_rms": 1684.5,
+      "audio_ok": true
+    },
+    {
+      "number": 430,
+      "name": "LIFETIME REAL WOMEN",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Dance Moms"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Little Women: LA"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Little Women: LA"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Rateescape: Stop Overpaying for Cellular"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 431,
+      "name": "HISTORY 4K",
+      "epg": [
+        {
+          "time": "1:04 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "2:06 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Pawn Stars"
+        },
+        {
+          "time": "4:01 AM",
+          "title": "Get A Beautiful New Smile in 24 Hours"
+        },
+        {
+          "time": "4:31 AM",
+          "title": "Best Mattress Topper Ever!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.6,
+      "audio_rms": 1746.0,
+      "audio_ok": true
+    },
+    {
+      "number": 432,
+      "name": "CNN 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 169.9,
+      "audio_rms": 3027.6,
+      "audio_ok": true
+    },
+    {
+      "number": 433,
+      "name": "CNN HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Story Is With Elex Michaelson"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Story Is With Elex Michaelson"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CNN NewsNight: Post Debate Analysis"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CNN Headline Express"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "CNN This Morning"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.7,
+      "audio_rms": 2682.3,
+      "audio_ok": true
+    },
+    {
+      "number": 434,
+      "name": "CNBC 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "American Greed"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Dateline"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Dateline"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Squawk Box Europe"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Morning Call"
+        }
+      ],
+      "video_ok": true,
+      "luma": 203.0,
+      "audio_rms": 2352.6,
+      "audio_ok": true
+    },
+    {
+      "number": 435,
+      "name": "CNBC WORLD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "CNBC: U.S. Markets Edition"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Squawk Box Europe"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Morning Call"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Executive Decisions"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "Executive Decisions"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.4,
+      "audio_rms": 649.4,
+      "audio_ok": true
+    },
+    {
+      "number": 436,
+      "name": "MSNBC 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Last Word With Lawrence O'Donnell"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The 11th Hour With Ali Velshi"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "All in With Chris Hayes"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Briefing With Jen Psaki"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Way Too Early With Ali Vitali"
+        }
+      ],
+      "video_ok": true,
+      "luma": 151.3,
+      "audio_rms": 1891.6,
+      "audio_ok": true
+    },
+    {
+      "number": 437,
+      "name": "FOX BUSINESS NETWORK 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.8,
+      "audio_rms": 1652.0,
+      "audio_ok": true
+    },
+    {
+      "number": 438,
+      "name": "FOX NEWS CHANNEL 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Jesse Watters Primetime"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Hannity"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Gutfeld!"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Fox News at Night"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "FOX & Friends First"
+        }
+      ],
+      "video_ok": true,
+      "luma": 154.7,
+      "audio_rms": 2056.0,
+      "audio_ok": true
+    },
+    {
+      "number": 439,
+      "name": "RED BULL TV 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 180.2,
+      "audio_rms": 481.1,
+      "audio_ok": true
+    },
+    {
+      "number": 440,
+      "name": "NEWS MAX 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "David Harris Jr. The Pulse"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Unsettled: Climate Change's Real Story"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Wardens"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Wardens"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Presidents and UFOs: The Surprising Story"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.7,
+      "audio_rms": 1317.3,
+      "audio_ok": true
+    },
+    {
+      "number": 44441,
+      "name": "USATODAY NEWS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 442,
+      "name": "PBS BUFFALO HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "New York: A Documentary Film"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "New York: A Documentary Film"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Treasures of New York"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "BBC News"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Donkey Hodie"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 1864.9,
+      "audio_ok": true
+    },
+    {
+      "number": 443,
+      "name": "NEWS 12 LONG ISLAND",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.1,
+      "audio_rms": 371.8,
+      "audio_ok": true
+    },
+    {
+      "number": 445,
+      "name": "EARTH X TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 144.2,
+      "audio_rms": 488.4,
+      "audio_ok": true
+    },
+    {
+      "number": 446,
+      "name": "AMC SHOWCASE",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.0,
+      "audio_rms": 3135.8,
+      "audio_ok": true
+    },
+    {
+      "number": 447,
+      "name": "ASPIRE 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "My Wife and Kids"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Emma: Natural Relief for Bloating, Constipation & Gut"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Inogen Portable Oxygen - No More Tanks!"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Pain Relief Revealed"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.7,
+      "audio_rms": 547.6,
+      "audio_ok": true
+    },
+    {
+      "number": 448,
+      "name": "AXS TV 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Top Ten Revealed"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Rock Legends"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Rock Legends"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Big Interview With Dan Rather"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "New Bath for Seniors"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.2,
+      "audio_rms": 826.5,
+      "audio_ok": true
+    },
+    {
+      "number": 449,
+      "name": "ACTION MAX 4K",
+      "epg": [
+        {
+          "time": "12:56 AM",
+          "title": "Abraham Lincoln: Vampire Hunter"
+        },
+        {
+          "time": "2:41 AM",
+          "title": "Horizon: An American Saga: Chapter 1"
+        },
+        {
+          "time": "5:43 AM",
+          "title": "Charlie and the Chocolate Factory"
+        },
+        {
+          "time": "5:56 AM",
+          "title": "Abraham Lincoln: Vampire Hunter"
+        },
+        {
+          "time": "8:58 AM",
+          "title": "Fantastic Planet"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.0,
+      "audio_rms": 1357.7,
+      "audio_ok": true
+    },
+    {
+      "number": 450,
+      "name": "AFRO",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Africa Eye"
+        },
+        {
+          "time": "2:15 AM",
+          "title": "Eye Investigations"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "30 Minute Tour"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Focus on Africa"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.3,
+      "audio_rms": 87.8,
+      "audio_ok": true
+    },
+    {
+      "number": 451,
+      "name": "ANTENNA TV SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.8,
+      "audio_rms": 1396.3,
+      "audio_ok": true
+    },
+    {
+      "number": 452,
+      "name": "BLACK NEWS CHANNEL 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 153.3,
+      "audio_rms": 2075.7,
+      "audio_ok": true
+    },
+    {
+      "number": 453,
+      "name": "BOUNCE TV SD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "S.W.A.T."
+        },
+        {
+          "time": "2:00 AM",
+          "title": "S.W.A.T."
+        },
+        {
+          "time": "3:00 AM",
+          "title": "S.W.A.T."
+        },
+        {
+          "time": "4:00 AM",
+          "title": "S.W.A.T."
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Family Feud Favorites"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.7,
+      "audio_rms": 2211.8,
+      "audio_ok": true
+    },
+    {
+      "number": 454,
+      "name": "BUZZR SD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Match Game Hollywood Squares Hour"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Family Feud"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Family Feud"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Password"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Password"
+        }
+      ],
+      "video_ok": true,
+      "luma": 173.7,
+      "audio_rms": 1546.8,
+      "audio_ok": true
+    },
+    {
+      "number": 455,
+      "name": "CINEMAX ACTIONMAX SD",
+      "epg": [
+        {
+          "time": "12:53 AM",
+          "title": "Red Sparrow"
+        },
+        {
+          "time": "3:14 AM",
+          "title": "Blood Father"
+        },
+        {
+          "time": "4:43 AM",
+          "title": "Catfish"
+        },
+        {
+          "time": "6:13 AM",
+          "title": "Isle of Dogs"
+        },
+        {
+          "time": "7:55 AM",
+          "title": "Space Jam"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.4,
+      "audio_rms": 1219.7,
+      "audio_ok": true
+    },
+    {
+      "number": 456,
+      "name": "CMT 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Golden Girls"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Golden Girls"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Golden Girls"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CMT Music"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "CMT Music"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.2,
+      "audio_rms": 825.0,
+      "audio_ok": true
+    },
+    {
+      "number": 457,
+      "name": "CHEDDAR BUSINESS 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Who Knew?"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Lightbulb Moment"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Who Knew?"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "NYC Revealed"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "NYC Revealed"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.2,
+      "audio_rms": 1206.0,
+      "audio_ok": true
+    },
+    {
+      "number": 458,
+      "name": "GEM SHOPPING NETWORK",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Gems.com With Chris"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Cashler Jewels with Marvin"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Gems.com with Tara"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Gems.com with Mike"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Gems.com With Daniel"
+        }
+      ],
+      "video_ok": true,
+      "luma": 183.9,
+      "audio_rms": 724.6,
+      "audio_ok": true
+    },
+    {
+      "number": 459,
+      "name": "OVATION 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Midsomer Murders"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Aging Brain"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Best Mattress Topper Ever!"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Pain Relief Revealed"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.1,
+      "audio_rms": 2290.2,
+      "audio_ok": true
+    },
+    {
+      "number": 460,
+      "name": "DECADES SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.4,
+      "audio_rms": 1367.8,
+      "audio_ok": true
+    },
+    {
+      "number": 461,
+      "name": "RED BULL 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 26.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 462,
+      "name": "COZI SD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "The Nanny"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Nanny"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Nanny"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Nanny"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Bob Hearts Abishola"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.0,
+      "audio_rms": 2230.5,
+      "audio_ok": true
+    },
+    {
+      "number": 463,
+      "name": "DABL SD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Hot Bench"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Hot Bench"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Judge Judy"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Judge Judy"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Half & Half"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.8,
+      "audio_rms": 1115.3,
+      "audio_ok": true
+    },
+    {
+      "number": 464,
+      "name": "Ivi “TIN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Janet Jackson: In Control"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Pain Relief Revealed"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.3,
+      "audio_rms": 2281.0,
+      "audio_ok": true
+    },
+    {
+      "number": 465,
+      "name": "EXX 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "King of the Hill"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "King of the Hill"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "King of the Hill"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "King of the Hill"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax"
+        }
+      ],
+      "video_ok": true,
+      "luma": 30.9,
+      "audio_rms": 1319.1,
+      "audio_ok": true
+    },
+    {
+      "number": 466,
+      "name": "EX 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Spider-Man 3"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Inogen Portable Oxygen - No More Tanks!"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 21.1,
+      "audio_rms": 2313.3,
+      "audio_ok": true
+    },
+    {
+      "number": 467,
+      "name": "GET TV hd",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.1,
+      "audio_rms": 1574.4,
+      "audio_ok": true
+    },
+    {
+      "number": 469,
+      "name": "IPL FA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.4,
+      "audio_rms": 1395.1,
+      "audio_ok": true
+    },
+    {
+      "number": 470,
+      "name": "HEROS & ICONS SD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Renegade"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Fall Guy"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Nash Bridges"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Walker, Texas Ranger"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Rebel"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.7,
+      "audio_rms": 604.0,
+      "audio_ok": true
+    },
+    {
+      "number": 471,
+      "name": "GRIT 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Tales of Wells Fargo"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Tired of Aging? Super Pill's Secret to Lasting Youth &"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Inogen Portable Oxygen - No More Tanks!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.2,
+      "audio_rms": 1673.9,
+      "audio_ok": true
+    },
+    {
+      "number": 472,
+      "name": "EPIX HITS 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.6,
+      "audio_rms": 67.8,
+      "audio_ok": true
+    },
+    {
+      "number": 473,
+      "name": "FLIX SD",
+      "epg": [
+        {
+          "time": "12:40 AM",
+          "title": "Scream"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Tales From the Darkside: The Movie"
+        },
+        {
+          "time": "4:10 AM",
+          "title": "The Brothers Grimm"
+        },
+        {
+          "time": "6:15 AM",
+          "title": "Vanilla Sky"
+        },
+        {
+          "time": "8:45 AM",
+          "title": "Shakespeare in Love"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 474,
+      "name": "DISCOVERY USA HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Ghost Adventures"
+        },
+        {
+          "time": "3:01 AM",
+          "title": "Ghost Adventures"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Harpoon Hunters"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Deadliest Catch"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Contraband: Seized at the Border"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.7,
+      "audio_rms": 2250.3,
+      "audio_ok": true
+    },
+    {
+      "number": 475,
+      "name": "INSP SD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Tales of Wells Fargo"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Tales of Wells Fargo"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Daniel Boone"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Campmeeting"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Campmeeting"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.1,
+      "audio_rms": 3042.1,
+      "audio_ok": true
+    },
+    {
+      "number": 477,
+      "name": "MTV2 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "The Fresh Prince of Bel-Air"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Fresh Prince of Bel-Air"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Wayans Bros."
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Wayans Bros."
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Wayans Bros."
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.6,
+      "audio_rms": 1770.1,
+      "audio_ok": true
+    },
+    {
+      "number": 478,
+      "name": "MOTORTREND FAST TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.6,
+      "audio_rms": 1425.0,
+      "audio_ok": true
+    },
+    {
+      "number": 479,
+      "name": "J ye VH D",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.8,
+      "audio_rms": 2123.1,
+      "audio_ok": true
+    },
+    {
+      "number": 480,
+      "name": "JUSTICE CENTRAL 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Justice for All With Judge Cristina Pérez"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Justice for All With Judge Cristina Pérez"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Equal Justice With Judge Eboni K. Williams"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Equal Justice With Judge Eboni K. Williams"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Verdict With Judge Hatchett"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.1,
+      "audio_rms": 900.9,
+      "audio_ok": true
+    },
+    {
+      "number": 481,
+      "name": "OUTSIDE TV SD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Outside Television"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Outside Television"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Outside Television"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Outside Television"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Outside Television"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.5,
+      "audio_rms": 1841.9,
+      "audio_ok": true
+    },
+    {
+      "number": 482,
+      "name": "OUTDOOR CHANNEL SD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "North American Whitetail"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Bowhunter TV"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Guns €: Ammo TV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Handguns"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Shooting USA"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.4,
+      "audio_rms": 2087.7,
+      "audio_ok": true
+    },
+    {
+      "number": 483,
+      "name": "LAFF TV SD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Family Feud Favorites"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Family Feud Favorites"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Bathroom Makeover"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "CSN Mint: 1776-2026 Proof Silver American Eagle in"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.9,
+      "audio_rms": 1599.0,
+      "audio_ok": true
+    },
+    {
+      "number": 485,
+      "name": "PBS WORLD SD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 487,
+      "name": "PEOPLE TV SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.2,
+      "audio_rms": 861.4,
+      "audio_ok": true
+    },
+    {
+      "number": 488,
+      "name": "PURSUIT CHANNEL 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Country Raised"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Live The Wild Life"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Mass Pursuit Tv"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Walk In Tubs"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Deertopia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 160.1,
+      "audio_rms": 594.8,
+      "audio_ok": true
+    },
+    {
+      "number": 490,
+      "name": "REELZCHANNEL 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "On Patrol: Live"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Hair Growth Secrets!"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Freedom to Leave the House! Inogen Portable Oxygen"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Rateescape: Stop Overpaying for Cellular"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.7,
+      "audio_rms": 2721.3,
+      "audio_ok": true
+    },
+    {
+      "number": 491,
+      "name": "REVOLT 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Funny AF"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Funny AF"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Verified Videos: After Hours"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Big Facts"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Verified Videos: After Hours"
+        }
+      ],
+      "video_ok": true,
+      "luma": 31.8,
+      "audio_rms": 1514.2,
+      "audio_ok": true
+    },
+    {
+      "number": 492,
+      "name": "SEC NETWORK SPORTS NEWS",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "College Football"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "SEC Inside"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "TrueSouth"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "College Football"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "SEC Now"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.2,
+      "audio_rms": 1404.1,
+      "audio_ok": true
+    },
+    {
+      "number": 493,
+      "name": "DISCOVERY SCIENCE 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Manhattan Project: Mysteries at the Museum"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Modern Warfare 2.0"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Alaska Mega Machines"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Alaska Mega Machines"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "NASA's Unexplained Files"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.8,
+      "audio_rms": 1729.8,
+      "audio_ok": true
+    },
+    {
+      "number": 494,
+      "name": "TCM 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.5,
+      "audio_rms": 2488.9,
+      "audio_ok": true
+    },
+    {
+      "number": 496,
+      "name": "On",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Hudson & Rex"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hair Growth Secrets!"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CSN Mint 1776-2026 Complete 20-Coin U.S. Mint Set in"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.1,
+      "audio_rms": 1611.4,
+      "audio_ok": true
+    },
+    {
+      "number": 497,
+      "name": "VICE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.2,
+      "audio_rms": 814.8,
+      "audio_ok": true
+    },
+    {
+      "number": 498,
+      "name": "WE TV 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "S.W.A.T."
+        },
+        {
+          "time": "3:00 AM",
+          "title": "S.W.A.T."
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Tia Mowry: My Next Act"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "See Wrinkles and Bags Vanish Instantly With GEN90!!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.1,
+      "audio_rms": 2656.5,
+      "audio_ok": true
+    },
+    {
+      "number": 499,
+      "name": "Z LIVING HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Silk Stalkings"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Commish"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Wiseguy"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Namaste Yoga"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Namaste Yoga"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.9,
+      "audio_rms": 1561.9,
+      "audio_ok": true
+    },
+    {
+      "number": 500,
+      "name": "DUS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.0,
+      "audio_rms": 1663.4,
+      "audio_ok": true
+    },
+    {
+      "number": 501,
+      "name": "EPIX 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.5,
+      "audio_rms": 3521.3,
+      "audio_ok": true
+    },
+    {
+      "number": 503,
+      "name": "FOX LIFE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 172.0,
+      "audio_rms": 769.8,
+      "audio_ok": true
+    },
+    {
+      "number": 504,
+      "name": "TV ONE 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Good Times"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Good Times"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Unsung"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "black-ish"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "black-ish"
+        }
+      ],
+      "video_ok": true,
+      "luma": 172.5,
+      "audio_rms": 2105.4,
+      "audio_ok": true
+    },
+    {
+      "number": 506,
+      "name": "MILITARY HISTORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.6,
+      "audio_rms": 835.8,
+      "audio_ok": true
+    },
+    {
+      "number": 508,
+      "name": "SYFY SD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Star Trek Beyond"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "The Twilight Zone"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Twilight Zone"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "The Twilight Zone"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Twilight Zone"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.1,
+      "audio_rms": 1264.7,
+      "audio_ok": true
+    },
+    {
+      "number": 509,
+      "name": "GAC LIVING",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "- A Taste of Tuscany"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Love Can Surprise You"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Andy Griffith Show"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "The Andy Griffith Show"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "The Andy Griffith Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.0,
+      "audio_rms": 2670.2,
+      "audio_ok": true
+    },
+    {
+      "number": 510,
+      "name": "GAC FAMILY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "As Gouda As It Gets"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Harmony From the Heart"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Perry Mason"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Perry Mason"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Perry Mason"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.5,
+      "audio_rms": 355.3,
+      "audio_ok": true
+    },
+    {
+      "number": 511,
+      "name": "CHARGE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.9,
+      "audio_rms": 1230.4,
+      "audio_ok": true
+    },
+    {
+      "number": 512,
+      "name": "TBN HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.6,
+      "audio_rms": 1155.0,
+      "audio_ok": true
+    },
+    {
+      "number": 513,
+      "name": "CINELIFE HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 15.8,
+      "audio_rms": 791.8,
+      "audio_ok": true
+    },
+    {
+      "number": 514,
+      "name": "US AUTO AUCTION PARADISE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.8,
+      "audio_rms": 1313.0,
+      "audio_ok": true
+    },
+    {
+      "number": 515,
+      "name": "CARS TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.8,
+      "audio_rms": 107.0,
+      "audio_ok": true
+    },
+    {
+      "number": 516,
+      "name": "SURFER IV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.3,
+      "audio_rms": 2590.9,
+      "audio_ok": true
+    },
+    {
+      "number": 517,
+      "name": "24/7 UNDISCOVERED VISTAS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 559,
+      "name": "EWTN (The Eternal Word Tele",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "EWTN News Nightly"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Crossing the Goal"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Life on the Rock"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "At Home With Jim and Joy"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Bob and Penny Lord Present"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.9,
+      "audio_rms": 197.4,
+      "audio_ok": true
+    },
+    {
+      "number": 560,
+      "name": "US LATINO HOGER TV 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.2,
+      "audio_rms": 2083.4,
+      "audio_ok": true
+    },
+    {
+      "number": 561,
+      "name": "US GAC FAMILY 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 1515.2,
+      "audio_ok": true
+    },
+    {
+      "number": 562,
+      "name": "USA COWBOY CHANNEL HD",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Pendleton Round Up"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Western Sports Roundup"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Building Spain"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "The Great Wagon Race"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Great Health Works"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 1985.4,
+      "audio_ok": true
+    },
+    {
+      "number": 563,
+      "name": "USA MGM 4K",
+      "epg": [
+        {
+          "time": "2:05 AM",
+          "title": "A Tale of Two Cities"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "American Hostage"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Desperate Hours"
+        },
+        {
+          "time": "5:55 AM",
+          "title": "Sherlock Gnomes"
+        },
+        {
+          "time": "7:25 AM",
+          "title": "A Night at the Roxbury"
+        }
+      ],
+      "video_ok": true,
+      "luma": 24.5,
+      "audio_rms": 1535.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5644,
+      "name": "US NEWSNATION 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Katie Pavlich Tonight"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Cuomo"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "On Balance With Leland Vittert"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Katie Pavlich Tonight"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Morning in America"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.3,
+      "audio_rms": 1521.2,
+      "audio_ok": true
+    },
+    {
+      "number": 565,
+      "name": "US SHORTS TV 4K",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Stars Takeover"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Midnight Horror"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Sci-fi September"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Happy Hour"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Breakfast With Shorts"
+        }
+      ],
+      "video_ok": true,
+      "luma": 29.5,
+      "audio_rms": 73.5,
+      "audio_ok": true
+    },
+    {
+      "number": 566,
+      "name": "NEWS 12",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.1,
+      "audio_rms": 914.8,
+      "audio_ok": true
+    },
+    {
+      "number": 570,
+      "name": "BYU T\\",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.2,
+      "audio_rms": 736.6,
+      "audio_ok": true
+    },
+    {
+      "number": 571,
+      "name": "CIRCLE TV",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "Local Programming"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Local Programming"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Local Programming"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Local Programming"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Local Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.4,
+      "audio_rms": 2385.0,
+      "audio_ok": true
+    },
+    {
+      "number": 572,
+      "name": "A",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.2,
+      "audio_rms": 1585.8,
+      "audio_ok": true
+    },
+    {
+      "number": 573,
+      "name": "FAMILY MOVIE CHANNEL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.1,
+      "audio_rms": 1573.5,
+      "audio_ok": true
+    },
+    {
+      "number": 574,
+      "name": "GAME SHOW NETWORK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Jeopardy!"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Jeopardy!"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Family Feud"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Family Feud"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.4,
+      "audio_rms": 1248.0,
+      "audio_ok": true
+    },
+    {
+      "number": 576,
+      "name": "GREAT AMERICAN FAMILY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.7,
+      "audio_rms": 241.7,
+      "audio_ok": true
+    },
+    {
+      "number": 577,
+      "name": "HEARTLAND",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.1,
+      "audio_rms": 984.9,
+      "audio_ok": true
+    },
+    {
+      "number": 578,
+      "name": "F LIM",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.5,
+      "audio_rms": 996.2,
+      "audio_ok": true
+    },
+    {
+      "number": 580,
+      "name": "10 FP A V",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Hudson & Rex"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hair Growth Secrets!"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CSN Mint 1776-2026 Complete 20-Coin U.S. Mint Set in"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.3,
+      "audio_rms": 1822.0,
+      "audio_ok": true
+    },
+    {
+      "number": 581,
+      "name": "INSIGHT TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.6,
+      "audio_rms": 223.8,
+      "audio_ok": true
+    },
+    {
+      "number": 582,
+      "name": "THE ONLY WAY IS ESSEX",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 583,
+      "name": "SO REAL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.6,
+      "audio_rms": 1921.4,
+      "audio_ok": true
+    },
+    {
+      "number": 584,
+      "name": "DOCURAMA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 586,
+      "name": "DOVE CHANNEL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.8,
+      "audio_rms": 551.4,
+      "audio_ok": true
+    },
+    {
+      "number": 587,
+      "name": "COMEDY DYNAMICS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.1,
+      "audio_rms": 685.9,
+      "audio_ok": true
+    },
+    {
+      "number": 588,
+      "name": "MAVERICK BLACK CINEMA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 28.5,
+      "audio_rms": 601.4,
+      "audio_ok": true
+    },
+    {
+      "number": 589,
+      "name": "BLOODY DISGUSTING",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 590,
+      "name": "THE PET COLLECTIVE USA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.0,
+      "audio_rms": 1722.5,
+      "audio_ok": true
+    },
+    {
+      "number": 591,
+      "name": "PEOPLE ARE AWESOME USA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.7,
+      "audio_rms": 1800.5,
+      "audio_ok": true
+    },
+    {
+      "number": 592,
+      "name": "ALL REALITY WETV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.6,
+      "audio_rms": 1982.0,
+      "audio_ok": true
+    },
+    {
+      "number": 593,
+      "name": "STORIES BY AMC",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.8,
+      "audio_rms": 202.5,
+      "audio_ok": true
+    },
+    {
+      "number": 594,
+      "name": "ET LIVE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 596,
+      "name": "SPECTRUM NEWS NY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.0,
+      "audio_rms": 3513.6,
+      "audio_ok": true
+    },
+    {
+      "number": 597,
+      "name": "OVC 1",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Me by Jennie Garth - Fashion"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "COOP Sleep Goods"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Gourmet Holiday"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Philosophy -- Beauty"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Q the Real Talk With Jayne and Pat"
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.3,
+      "audio_rms": 1028.8,
+      "audio_ok": true
+    },
+    {
+      "number": 598,
+      "name": "OVC 2",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "Shopping"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Shopping"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Explore Your Style With Vanessa"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Shoe Shopping With Vanessa: Shoe Shopping With"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "AnyBody Fashion Clearance"
+        }
+      ],
+      "video_ok": true,
+      "luma": 136.9,
+      "audio_rms": 1387.6,
+      "audio_ok": true
+    },
+    {
+      "number": 599,
+      "name": "OO",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Shopping"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Shopping"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Shopping"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Shopping"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Shopping"
+        }
+      ],
+      "video_ok": true,
+      "luma": 144.3,
+      "audio_rms": 409.2,
+      "audio_ok": true
+    },
+    {
+      "number": 600,
+      "name": "QVC IN THE KITCHEN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 167.2,
+      "audio_rms": 1209.5,
+      "audio_ok": true
+    },
+    {
+      "number": 601,
+      "name": "EL REY NETWORK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.2,
+      "audio_rms": 1376.5,
+      "audio_ok": true
+    },
+    {
+      "number": 602,
+      "name": "FIOIN 1",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.7,
+      "audio_rms": 1278.9,
+      "audio_ok": true
+    },
+    {
+      "number": 603,
+      "name": "E A",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Radiance by Absolute Jewelry with Colleen Lopez - All"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Daily Deals & Top Finds"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Best of Beauty"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Electronic Connection"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Andrew Lessman Your Vitamins 30th Anniversary"
+        }
+      ],
+      "video_ok": true,
+      "luma": 149.0,
+      "audio_rms": 1058.9,
+      "audio_ok": true
+    },
+    {
+      "number": 604,
+      "name": "VH 1 CLASSIC",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 148.3,
+      "audio_rms": 2086.6,
+      "audio_ok": true
+    },
+    {
+      "number": 605,
+      "name": "ABC 7 KOAT",
+      "epg": [
+        {
+          "time": "2:06 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Live with Kelly and Mark"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Protect Your Family From Identity Theft"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "ABC World News Now"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.6,
+      "audio_rms": 707.4,
+      "audio_ok": true
+    },
+    {
+      "number": 606,
+      "name": "USA ANIMAL PLANET EAST",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.7,
+      "audio_rms": 642.6,
+      "audio_ok": true
+    },
+    {
+      "number": 607,
+      "name": "BRAVO PACIFIC",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Below Deck Sailing Yacht"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.7,
+      "audio_rms": 451.6,
+      "audio_ok": true
+    },
+    {
+      "number": 609,
+      "name": "HISTORY WEST",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.8,
+      "audio_rms": 770.6,
+      "audio_ok": true
+    },
+    {
+      "number": 610,
+      "name": "NAT GEO EAST 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.5,
+      "audio_rms": 1321.4,
+      "audio_ok": true
+    },
+    {
+      "number": 4511,
+      "name": "NAT GEO WEST 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.0,
+      "audio_rms": 1022.8,
+      "audio_ok": true
+    },
+    {
+      "number": 612,
+      "name": "WEATHER NATION",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Top Weather News, Regional Forecasts, Live Severe"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Top Weather News, Regional Forecasts, Live Severe"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Top Weather News, Regional Forecasts, Live Severe"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.0,
+      "audio_rms": 1224.9,
+      "audio_ok": true
+    },
+    {
+      "number": 613,
+      "name": "METV TOONS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Super Friends"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Super Friends"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "SilverHawks"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Challenge of the GoBots"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Centurions"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.4,
+      "audio_rms": 1188.9,
+      "audio_ok": true
+    },
+    {
+      "number": 614,
+      "name": "BON APPETIT",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.8,
+      "audio_rms": 1425.1,
+      "audio_ok": true
+    },
+    {
+      "number": 615,
+      "name": "SCREAMBOX TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 28.1,
+      "audio_rms": 1217.1,
+      "audio_ok": true
+    },
+    {
+      "number": 616,
+      "name": "ALLBLK GEMS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.7,
+      "audio_rms": 208.3,
+      "audio_ok": true
+    },
+    {
+      "number": 617,
+      "name": "ALL WEDDINGS WE TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.2,
+      "audio_rms": 1835.1,
+      "audio_ok": true
+    },
+    {
+      "number": 618,
+      "name": "DANCE MOMS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.2,
+      "audio_rms": 1425.0,
+      "audio_ok": true
+    },
+    {
+      "number": 619,
+      "name": "FREE SPEECH IV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "France 24"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Stephanie Miller Show"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Rising Up With Sonali"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "The Rick Smith Show"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Democracy Now!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 27.0,
+      "audio_rms": 1039.1,
+      "audio_ok": true
+    },
+    {
+      "number": 620,
+      "name": "DISH SCAPES 1",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.8,
+      "audio_rms": 1974.1,
+      "audio_ok": true
+    },
+    {
+      "number": 621,
+      "name": "THE WICKED TUNA CHANNEL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 29.7,
+      "audio_rms": 428.9,
+      "audio_ok": true
+    },
+    {
+      "number": 622,
+      "name": "WAYPOINT TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.1,
+      "audio_rms": 913.3,
+      "audio_ok": true
+    },
+    {
+      "number": 623,
+      "name": "DINOS 24/7",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 193.8,
+      "audio_rms": 723.1,
+      "audio_ok": true
+    },
+    {
+      "number": 624,
+      "name": "HOW TO",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.3,
+      "audio_rms": 899.2,
+      "audio_ok": true
+    },
+    {
+      "number": 625,
+      "name": "AIR SPACE CHANNEL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 177.9,
+      "audio_rms": 1820.5,
+      "audio_ok": true
+    },
+    {
+      "number": 626,
+      "name": "MODERN INNOVATIONS BY H",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.7,
+      "audio_rms": 831.4,
+      "audio_ok": true
+    },
+    {
+      "number": 627,
+      "name": "MGM-+ DRIVE-IN",
+      "epg": [
+        {
+          "time": "1:20 AM",
+          "title": "Delta Force 2: The Columbian Connection"
+        },
+        {
+          "time": "3:15 AM",
+          "title": "The Dogs of War"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Duellists"
+        },
+        {
+          "time": "6:45 AM",
+          "title": "Sands of Iwo Jima"
+        },
+        {
+          "time": "8:35 AM",
+          "title": "McLintock! -- Producer's Cut"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.6,
+      "audio_rms": 2357.8,
+      "audio_ok": true
+    },
+    {
+      "number": 628,
+      "name": "POWERNATION",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.6,
+      "audio_rms": 12.2,
+      "audio_ok": false
+    },
+    {
+      "number": 629,
+      "name": "ANGER MANAGEMENT CHAN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.0,
+      "audio_rms": 1081.3,
+      "audio_ok": true
+    },
+    {
+      "number": 630,
+      "name": "PERFORM",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.4,
+      "audio_rms": 1213.7,
+      "audio_ok": true
+    },
+    {
+      "number": 631,
+      "name": "NIKITA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.5,
+      "audio_rms": 644.1,
+      "audio_ok": true
+    },
+    {
+      "number": 632,
+      "name": "IN THE GARAGE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.1,
+      "audio_rms": 1066.1,
+      "audio_ok": true
+    },
+    {
+      "number": 633,
+      "name": "DANGER TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.1,
+      "audio_rms": 1805.6,
+      "audio_ok": true
+    },
+    {
+      "number": 639,
+      "name": "COOK'S COUNTRY CHANNEL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.6,
+      "audio_rms": 1266.4,
+      "audio_ok": true
+    },
+    {
+      "number": 640,
+      "name": "TASTEMADE+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 124.7,
+      "audio_rms": 1711.5,
+      "audio_ok": true
+    },
+    {
+      "number": 67441,
+      "name": "LONE STAR CLASSICS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.6,
+      "audio_rms": 110.8,
+      "audio_ok": true
+    },
+    {
+      "number": 642,
+      "name": "CLASSIC CAR AUCTIONS BY H",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.0,
+      "audio_rms": 1108.7,
+      "audio_ok": true
+    },
+    {
+      "number": 643,
+      "name": "MGM+",
+      "epg": [
+        {
+          "time": "2:05 AM",
+          "title": "A Tale of Two Cities"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "American Hostage"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Desperate Hours"
+        },
+        {
+          "time": "5:55 AM",
+          "title": "Sherlock Gnomes"
+        },
+        {
+          "time": "7:25 AM",
+          "title": "A Night at the Roxbury"
+        }
+      ],
+      "video_ok": true,
+      "luma": 27.5,
+      "audio_rms": 173.0,
+      "audio_ok": true
+    },
+    {
+      "number": 645,
+      "name": "MODERN MARVELS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.7,
+      "audio_rms": 980.1,
+      "audio_ok": true
+    },
+    {
+      "number": 646,
+      "name": "LOL NETWORK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.6,
+      "audio_rms": 1424.8,
+      "audio_ok": true
+    },
+    {
+      "number": 647,
+      "name": "CRIMES CULTS KILLERS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.8,
+      "audio_rms": 1937.2,
+      "audio_ok": true
+    },
+    {
+      "number": 648,
+      "name": "THE ED SULLIVAN SHOW",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.1,
+      "audio_rms": 1285.1,
+      "audio_ok": true
+    },
+    {
+      "number": 649,
+      "name": "BEYOND BELIEF",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 33.6,
+      "audio_rms": 783.3,
+      "audio_ok": true
+    },
+    {
+      "number": 650,
+      "name": "THE PRICE IS RIGHT",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 651,
+      "name": "PROPERTY BROTHERS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 152.4,
+      "audio_rms": 1543.9,
+      "audio_ok": true
+    },
+    {
+      "number": 652,
+      "name": "BOO!",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.7,
+      "audio_rms": 1268.6,
+      "audio_ok": true
+    },
+    {
+      "number": 653,
+      "name": "TV ONE CRIME & JUSTICE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.2,
+      "audio_rms": 1038.5,
+      "audio_ok": true
+    },
+    {
+      "number": 654,
+      "name": "NASH BRIDGES CHANNEL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.4,
+      "audio_rms": 1628.1,
+      "audio_ok": true
+    },
+    {
+      "number": 655,
+      "name": "AT HOME WITH FAMILY HAN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.5,
+      "audio_rms": 1740.0,
+      "audio_ok": true
+    },
+    {
+      "number": 656,
+      "name": "HUNTER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 28.3,
+      "audio_rms": 1591.5,
+      "audio_ok": true
+    },
+    {
+      "number": 657,
+      "name": "BRAVO VAULT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.2,
+      "audio_rms": 3418.4,
+      "audio_ok": true
+    },
+    {
+      "number": 658,
+      "name": "FAMILY FEUD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.1,
+      "audio_rms": 1388.6,
+      "audio_ok": true
+    },
+    {
+      "number": 659,
+      "name": "FORENSIC FILES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.4,
+      "audio_rms": 554.5,
+      "audio_ok": true
+    },
+    {
+      "number": 660,
+      "name": "DOG THE BOUNTY HUNTER",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.3,
+      "audio_rms": 2187.7,
+      "audio_ok": true
+    },
+    {
+      "number": 662,
+      "name": "MIRAMAX MOVIE CHA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.7,
+      "audio_rms": 605.5,
+      "audio_ok": true
+    },
+    {
+      "number": 845,
+      "name": "MATCHED MARRIED MEET",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.3,
+      "audio_rms": 2421.1,
+      "audio_ok": true
+    },
+    {
+      "number": 847,
+      "name": "INGLES PARA TODOS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 1378.5,
+      "audio_ok": true
+    },
+    {
+      "number": 848,
+      "name": "DIYA TV",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 852,
+      "name": "NEWSMAX 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 114.8,
+      "audio_rms": 1793.2,
+      "audio_ok": true
+    },
+    {
+      "number": 853,
+      "name": "FOX WEATHER",
+      "epg": [
+        {
+          "time": "9:00 PM",
+          "title": "Fox Weather @ Night"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "FOX Weather First"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Weather Command"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "America's Weather Center"
+        },
+        {
+          "time": "3:00 PM",
+          "title": "FOX Weather Now"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.1,
+      "audio_rms": 1421.4,
+      "audio_ok": true
+    },
+    {
+      "number": 854,
+      "name": "VALOROUS TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.6,
+      "audio_rms": 1037.9,
+      "audio_ok": true
+    },
+    {
+      "number": 855,
+      "name": "LJ FR",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.4,
+      "audio_rms": 2257.8,
+      "audio_ok": true
+    },
+    {
+      "number": 856,
+      "name": "EARTHEXTRA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.1,
+      "audio_rms": 1182.4,
+      "audio_ok": true
+    },
+    {
+      "number": 857,
+      "name": "MS NOW",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.9,
+      "audio_rms": 558.3,
+      "audio_ok": true
+    },
+    {
+      "number": 845,
+      "name": "MATCHED MARRIED MEET",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "The Story Is With Elex Michaelson"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CNN NewsNight: Post Debate Analysis"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CNN Headline Express"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "CNN This Morning"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "CNN News Central  —"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.1,
+      "audio_rms": 1522.9,
+      "audio_ok": true
+    },
+    {
+      "number": 913,
+      "name": "WCTV (WC)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.6,
+      "audio_rms": 1172.0,
+      "audio_ok": true
+    },
+    {
+      "number": 915,
+      "name": "ALWAYS ON | FIFA WORLD C",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.1,
+      "audio_rms": 1997.3,
+      "audio_ok": true
+    },
+    {
+      "number": 923,
+      "name": "FAMILY FEUD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.5,
+      "audio_rms": 1530.1,
+      "audio_ok": true
+    },
+    {
+      "number": 924,
+      "name": "AX MEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.8,
+      "audio_rms": 2292.7,
+      "audio_ok": true
+    },
+    {
+      "number": 925,
+      "name": "TRAVEL + ADVENTURE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.8,
+      "audio_rms": 888.3,
+      "audio_ok": true
+    },
+    {
+      "number": 926,
+      "name": "ALWAYS FUNNY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 927,
+      "name": "STASH TV BLACK STORIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.4,
+      "audio_rms": 1291.6,
+      "audio_ok": true
+    },
+    {
+      "number": 928,
+      "name": "CHEATERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.3,
+      "audio_rms": 720.5,
+      "audio_ok": true
+    },
+    {
+      "number": 929,
+      "name": "WIRED2FISH TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.5,
+      "audio_rms": 2579.9,
+      "audio_ok": true
+    },
+    {
+      "number": 930,
+      "name": "FAMILY UNSCRIPTED",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.0,
+      "audio_rms": 2386.7,
+      "audio_ok": true
+    },
+    {
+      "number": 931,
+      "name": "FLIXFLING NOW",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 1467.2,
+      "audio_ok": true
+    },
+    {
+      "number": 934,
+      "name": "UNTOLD STORIES OF THE ER",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.3,
+      "audio_rms": 1505.8,
+      "audio_ok": true
+    },
+    {
+      "number": 935,
+      "name": "BIZARRE FOODS WITH ANDRE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.1,
+      "audio_rms": 1196.0,
+      "audio_ok": true
+    },
+    {
+      "number": 936,
+      "name": "LAFF MORE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.0,
+      "audio_rms": 756.1,
+      "audio_ok": true
+    },
+    {
+      "number": 937,
+      "name": "LAW & CRIME REWIND",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Most Outrageous Crimes"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Most Outrageous Crimes"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "BodyCam by Law&Crime"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Interrogations by Law&Crime"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Interrogations by Law&Crime"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.8,
+      "audio_rms": 1977.7,
+      "audio_ok": true
+    },
+    {
+      "number": 938,
+      "name": "ION PLUS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Screwdriver"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Large Blade"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Ties That Bind"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Bad Day To Be A Hero"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Dance With The Devil"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.6,
+      "audio_rms": 693.0,
+      "audio_ok": true
+    },
+    {
+      "number": 939,
+      "name": "AMERICA'S GOT TALENT",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.9,
+      "audio_rms": 1098.1,
+      "audio_ok": true
+    },
+    {
+      "number": 940,
+      "name": "SUPERMARKET SWEEP",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.7,
+      "audio_rms": 555.9,
+      "audio_ok": true
+    },
+    {
+      "number": 941,
+      "name": "BOLD AND THE BEAUTIFUL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 942,
+      "name": "THE ASYLUM MOVIE CHANNEL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.7,
+      "audio_rms": 779.0,
+      "audio_ok": true
+    },
+    {
+      "number": 943,
+      "name": "LOVE PETS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.5,
+      "audio_rms": 795.9,
+      "audio_ok": true
+    },
+    {
+      "number": 944,
+      "name": "GROWING UP HIP HOP WE TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.8,
+      "audio_rms": 1314.2,
+      "audio_ok": true
+    },
+    {
+      "number": 945,
+      "name": "AWE PLUS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.1,
+      "audio_rms": 1794.5,
+      "audio_ok": true
+    },
+    {
+      "number": 948,
+      "name": "MAGELLAN TV WILDEST",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 135.7,
+      "audio_rms": 120.7,
+      "audio_ok": true
+    },
+    {
+      "number": 949,
+      "name": "TORQUE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.9,
+      "audio_rms": 396.6,
+      "audio_ok": true
+    },
+    {
+      "number": 950,
+      "name": "MGM+ MARQUEE",
+      "epg": [
+        {
+          "time": "1:35 AM",
+          "title": "Breakdown"
+        },
+        {
+          "time": "3:10 AM",
+          "title": "In Too Deep"
+        },
+        {
+          "time": "4:50 AM",
+          "title": "The Wonderful Country"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "The Bridges at Toko-Ri"
+        },
+        {
+          "time": "8:15 AM",
+          "title": "Chaplin"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.8,
+      "audio_rms": 444.2,
+      "audio_ok": true
+    },
+    {
+      "number": 951,
+      "name": "JOHNNY CARSON TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.2,
+      "audio_rms": 1643.8,
+      "audio_ok": true
+    },
+    {
+      "number": 952,
+      "name": "A&E CRIME 360",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.2,
+      "audio_rms": 1086.3,
+      "audio_ok": true
+    },
+    {
+      "number": 953,
+      "name": "STASH TV SCREAMS AND SCA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 954,
+      "name": "EXTREME JOBS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 142.0,
+      "audio_rms": 639.0,
+      "audio_ok": true
+    },
+    {
+      "number": 955,
+      "name": "THE FILM DETECTIVE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 956,
+      "name": "HOME MADE NATION",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.6,
+      "audio_rms": 1743.5,
+      "audio_ok": true
+    },
+    {
+      "number": 957,
+      "name": "LOVE KILLS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.2,
+      "audio_rms": 1520.3,
+      "audio_ok": true
+    },
+    {
+      "number": 959,
+      "name": "FOX (KCPQ)",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.8,
+      "audio_rms": 2457.8,
+      "audio_ok": true
+    },
+    {
+      "number": 960,
+      "name": "FO",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Banshees of Inisherin"
+        },
+        {
+          "time": "3:20 AM",
+          "title": "The Song of Bernadette"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Book of Life"
+        },
+        {
+          "time": "7:40 AM",
+          "title": "Rebecca of Sunnybrook Farm"
+        },
+        {
+          "time": "9:05 AM",
+          "title": "Wee Willie Winkie"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.5,
+      "audio_rms": 1746.0,
+      "audio_ok": true
+    },
+    {
+      "number": 962,
+      "name": "THE FB",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.7,
+      "audio_rms": 1758.0,
+      "audio_ok": true
+    },
+    {
+      "number": 970,
+      "name": "RIG » ’",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.3,
+      "audio_rms": 1236.0,
+      "audio_ok": true
+    },
+    {
+      "number": 1041,
+      "name": "THE NBA CHANNEL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.9,
+      "audio_rms": 644.0,
+      "audio_ok": true
+    },
+    {
+      "number": 1069,
+      "name": "WILD WEST TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.9,
+      "audio_rms": 1339.9,
+      "audio_ok": true
+    },
+    {
+      "number": 1070,
+      "name": "CRIME HUNTERS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.9,
+      "audio_rms": 807.0,
+      "audio_ok": true
+    },
+    {
+      "number": 1071,
+      "name": "HOMEFUL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.3,
+      "audio_rms": 1088.0,
+      "audio_ok": true
+    }
+  ]
+}

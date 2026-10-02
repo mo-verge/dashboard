@@ -1,0 +1,2093 @@
+{
+  "category": "KIDS | 24X7",
+  "captured": "2026-09-30T22:43:24-0400",
+  "mode": "full",
+  "reported_total": 229,
+  "channels": [
+    {
+      "number": 8539,
+      "name": "KEKEKEEE KIDS 24/7 GENRES EX,",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8540,
+      "name": "SMART | BLUEY HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 204.4,
+      "audio_rms": 2113.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8546,
+      "name": "SMART | MRBEAN HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.3,
+      "audio_rms": 290.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8547,
+      "name": "SMART | PROPHET STORIES HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 172.7,
+      "audio_rms": 3066.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8548,
+      "name": "SMART | ABC HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.9,
+      "audio_rms": 484.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8549,
+      "name": "SMART | 123 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 151.0,
+      "audio_rms": 1660.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8551,
+      "name": "SMART | ALVINN CHIPMUNKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.3,
+      "audio_rms": 2210.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8555,
+      "name": "SMART | ANGRY BIRDS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.0,
+      "audio_rms": 436.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8556,
+      "name": "SMART | ANGRY BIRDS BLUE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.1,
+      "audio_rms": 1224.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8557,
+      "name": "SMART | SUPER WINGS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 128.5,
+      "audio_rms": 2391.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8558,
+      "name": "SMART | CUPHEAD SHOW HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.6,
+      "audio_rms": 408.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8559,
+      "name": "SMART | GO DOG GO HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 152.4,
+      "audio_rms": 1825.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8560,
+      "name": "SMART | SHARKDOG HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.1,
+      "audio_rms": 606.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8561,
+      "name": "SMART | TRANSFORMERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.0,
+      "audio_rms": 1703.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8562,
+      "name": "SMART | VLAD&NIK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 176.3,
+      "audio_rms": 4177.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8563,
+      "name": "SMART | DIANA SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 150.8,
+      "audio_rms": 5484.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8564,
+      "name": "SMART | NASTYA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 137.8,
+      "audio_rms": 1320.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8565,
+      "name": "SMART | PAW PATROL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.0,
+      "audio_rms": 500.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8566,
+      "name": "SMART | PJ MASKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.5,
+      "audio_rms": 2255.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8567,
+      "name": "SMART | MASHA&BEAR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.5,
+      "audio_rms": 305.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8568,
+      "name": "SMART | MICKEY MOUSE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.4,
+      "audio_rms": 463.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8569,
+      "name": "SMART | PEPPA PIG",
+      "epg": [],
+      "video_ok": true,
+      "luma": 185.0,
+      "audio_rms": 2686.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8570,
+      "name": "SMART | TOM&JERRY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.4,
+      "audio_rms": 1851.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8571,
+      "name": "SMART | BLOOPIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 135.4,
+      "audio_rms": 2490.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8572,
+      "name": "SMART | SPONGEBOB",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.4,
+      "audio_rms": 1675.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8573,
+      "name": "SMART | PETS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.1,
+      "audio_rms": 6116.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8574,
+      "name": "SMART | ODDBODS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.3,
+      "audio_rms": 891.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8575,
+      "name": "SMART | LARVA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.6,
+      "audio_rms": 6385.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8576,
+      "name": "SMART | GRIZZY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 144.6,
+      "audio_rms": 1806.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8577,
+      "name": "SMART | BOB THE BUILDER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.2,
+      "audio_rms": 3338.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8578,
+      "name": "SMART | BABYSHARK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.9,
+      "audio_rms": 5418.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8579,
+      "name": "SMART | CLOUDBABIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.6,
+      "audio_rms": 477.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8580,
+      "name": "SMART | COCOMELON",
+      "epg": [],
+      "video_ok": true,
+      "luma": 135.9,
+      "audio_rms": 6921.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8581,
+      "name": "SMART | BABYTV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 158.5,
+      "audio_rms": 1949.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8582,
+      "name": "SMART | TOY STORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.8,
+      "audio_rms": 1058.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8584,
+      "name": "SMART | SPIDEY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.0,
+      "audio_rms": 1637.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8585,
+      "name": "SMART | BLIPP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.1,
+      "audio_rms": 2027.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8586,
+      "name": "SMART | BOSS BABY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 131.1,
+      "audio_rms": 464.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8587,
+      "name": "SMART | MIGHTYLITTE BHEEM",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.3,
+      "audio_rms": 1543.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8588,
+      "name": "SMART | SONIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 192.8,
+      "audio_rms": 1125.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8589,
+      "name": "SMART | LITTLEPONY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 165.0,
+      "audio_rms": 1317.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8590,
+      "name": "SMART | SHAUNTHESHEEP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.4,
+      "audio_rms": 278.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8591,
+      "name": "SMART | GARFIELDSHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.0,
+      "audio_rms": 3271.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8592,
+      "name": "SMART | OGGY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.8,
+      "audio_rms": 2052.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8593,
+      "name": "SMART | CURIOUSGEORGE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 143.8,
+      "audio_rms": 2614.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8594,
+      "name": "SMART | PUCCA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 194.5,
+      "audio_rms": 2773.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8595,
+      "name": "SMART | PINKPANTHER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 153.6,
+      "audio_rms": 1060.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8596,
+      "name": "SMART | FIREMANSAM",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.1,
+      "audio_rms": 1764.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8597,
+      "name": "SMART | TMNT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.0,
+      "audio_rms": 905.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8598,
+      "name": "SMART | POWER RANGERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.0,
+      "audio_rms": 898.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8599,
+      "name": "SMART | BUBBLE GUPPIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.6,
+      "audio_rms": 883.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8601,
+      "name": "SMART | DRAKE AND JOSH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.5,
+      "audio_rms": 1160.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8602,
+      "name": "SMART | ADVENTURE TIME",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.3,
+      "audio_rms": 1721.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8603,
+      "name": "SMART | PINKY AND THE BRAIN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.1,
+      "audio_rms": 1340.2,
+      "audio_ok": true
+    },
+    {
+      "number": 338,
+      "name": "SMART | AVATAR",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8605,
+      "name": "SMART | BATMAN BRAVE AN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.2,
+      "audio_rms": 1313.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8606,
+      "name": "SMART | BATMAN THE ANIMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.4,
+      "audio_rms": 780.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8607,
+      "name": "SMART | BEN 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 196.2,
+      "audio_rms": 935.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8608,
+      "name": "SMART | BEN AND HOLLY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8609,
+      "name": "SMART | BLUEY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 204.7,
+      "audio_rms": 1384.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8610,
+      "name": "SMART | ARCADE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8611,
+      "name": "SMART | DISNEY MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.7,
+      "audio_rms": 2347.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8612,
+      "name": "SMART | DISNEY MOVIES 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8613,
+      "name": "SMART | DISNEY MOVIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.6,
+      "audio_rms": 926.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8614,
+      "name": "SMART | DOC MCSTUFFINS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.5,
+      "audio_rms": 314.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8615,
+      "name": "SMART | SPIDERMAN AND HIS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.8,
+      "audio_rms": 919.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8616,
+      "name": "SMART | SARAH AND DUCK",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8617,
+      "name": "SMART | DREAMWORKS ANIM",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.2,
+      "audio_rms": 91.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8618,
+      "name": "SMART | FAIRLY ODD PARENTS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.0,
+      "audio_rms": 640.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8620,
+      "name": "SMART | BATFINK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 154.2,
+      "audio_rms": 7527.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8621,
+      "name": "SMART | GRAVITY FALLS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 159.5,
+      "audio_rms": 4664.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8622,
+      "name": "AART | HEY ARNOLD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.4,
+      "audio_rms": 8589.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8623,
+      "name": "SMART | IN THE NIGHT GARDEN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8624,
+      "name": "SMART | JOHNNY BRAVO",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8625,
+      "name": "SMART | JOHNY TEST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 144.2,
+      "audio_rms": 4050.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8626,
+      "name": "SMART | LEGO MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.5,
+      "audio_rms": 994.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8627,
+      "name": "SMART | LEGO STAR WARS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.1,
+      "audio_rms": 1926.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8628,
+      "name": "SMART | LOONEY TUNES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 176.0,
+      "audio_rms": 784.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8629,
+      "name": "SMART | MICKEY MOUSE CLU",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.3,
+      "audio_rms": 1541.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8630,
+      "name": "SMART | SAINT SEIYA OMEGA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.3,
+      "audio_rms": 903.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8631,
+      "name": "SMART | MR BEAN ANIMATED",
+      "epg": [],
+      "video_ok": true,
+      "luma": 190.1,
+      "audio_rms": 267.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8632,
+      "name": "SMART | MUPPET BABIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.3,
+      "audio_rms": 1019.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8633,
+      "name": "SMART | PJ MASKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.5,
+      "audio_rms": 1000.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8634,
+      "name": "SMART| PAW PATROL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 182.8,
+      "audio_rms": 1848.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8635,
+      "name": "SMART || PEPPA PIG",
+      "epg": [],
+      "video_ok": true,
+      "luma": 164.1,
+      "audio_rms": 1797.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8636,
+      "name": "SMART | PINKY MALINKY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.0,
+      "audio_rms": 1026.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8637,
+      "name": "SMART | POKEMON",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.7,
+      "audio_rms": 2706.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8638,
+      "name": "SMART | POPEYE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 190.1,
+      "audio_rms": 395.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8639,
+      "name": "SMART | POWERPUFF GIRLS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8640,
+      "name": "SMART | PUPPY DOG PALS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.1,
+      "audio_rms": 2583.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8641,
+      "name": "SMART | RECESS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.5,
+      "audio_rms": 781.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8642,
+      "name": "SMART | RUGRATS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 145.2,
+      "audio_rms": 2995.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8643,
+      "name": "SMART | SCOOBY DOO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.2,
+      "audio_rms": 2463.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8,
+      "name": "SMART | SHAUN THE SHEEP",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.7,
+      "audio_rms": 186.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8645,
+      "name": "SMART | SOFIA THE FIRST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.2,
+      "audio_rms": 2797.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8646,
+      "name": "SMART | SPIDERMAN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.2,
+      "audio_rms": 829.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8647,
+      "name": "SMART | SPONGEBOB SQUAR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 152.7,
+      "audio_rms": 1171.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8648,
+      "name": "SMART | STAR WARS REBELS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 132.7,
+      "audio_rms": 464.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8649,
+      "name": "SMART | STAR WARS THE CLO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.9,
+      "audio_rms": 2010.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8650,
+      "name": "SMART | STEVEN UNIVERSE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.3,
+      "audio_rms": 1959.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8651,
+      "name": "SMART | DRAGONBALL Z",
+      "epg": [],
+      "video_ok": true,
+      "luma": 157.1,
+      "audio_rms": 3138.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8652,
+      "name": "SMART | THE REN & STIMPY S",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8653,
+      "name": "SMART | TEEN TITANS GO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 246.1,
+      "audio_rms": 1296.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8654,
+      "name": "SMART | THE BATMAN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.5,
+      "audio_rms": 921.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8655,
+      "name": "SMART | THE FLINSTONES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.3,
+      "audio_rms": 1060.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8656,
+      "name": "SMART | THE REGULAR SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 170.9,
+      "audio_rms": 1499.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8657,
+      "name": "SMART | THE SPECTACULAR S",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.7,
+      "audio_rms": 963.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8658,
+      "name": "SMART | THOMAS AND FRIENDS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.4,
+      "audio_rms": 4265.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8659,
+      "name": "SMART | TOM AND JERRY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.4,
+      "audio_rms": 1935.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8661,
+      "name": "SMART | WACKY RACES",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8662,
+      "name": "SMART | X-MEN CARTOON",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.0,
+      "audio_rms": 1502.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8663,
+      "name": "SMART | ALVIN AND THE CHIP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.7,
+      "audio_rms": 653.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8664,
+      "name": "SMART | PETER RABBIT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.8,
+      "audio_rms": 1815.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8665,
+      "name": "SMART | ZENIMATION",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 1537.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8666,
+      "name": "SMART | ANDI MACK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.4,
+      "audio_rms": 1421.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8667,
+      "name": "SMART | BAYMAX",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.7,
+      "audio_rms": 1487.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8668,
+      "name": "SMART | BARNEY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.2,
+      "audio_rms": 1169.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8669,
+      "name": "SMART | BEN 10 ULTIMATE AL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.3,
+      "audio_rms": 1226.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8670,
+      "name": "SMART | X MEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.7,
+      "audio_rms": 1414.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8671,
+      "name": "SMART | THE CARE BEARS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.8,
+      "audio_rms": 486.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8672,
+      "name": "SMART | NINJAGO: MASTERS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8674,
+      "name": "SMART | CAILLOU",
+      "epg": [],
+      "video_ok": true,
+      "luma": 206.9,
+      "audio_rms": 1448.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8675,
+      "name": "SMART | CAPTAIN PLANET AN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.9,
+      "audio_rms": 421.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8676,
+      "name": "SMART | COW & CHICKEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.6,
+      "audio_rms": 2324.5,
+      "audio_ok": true
+    },
+    {
+      "number": 138,
+      "name": "SMART | DANIEL TIGER'S NEIC",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8679,
+      "name": "SMART | DESPICABLE ME",
+      "epg": [],
+      "video_ok": true,
+      "luma": 31.8,
+      "audio_rms": 527.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8681,
+      "name": "SMART | DISNEY SHORTS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.5,
+      "audio_rms": 1062.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8682,
+      "name": "SMART | DONALD DUCK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.9,
+      "audio_rms": 1745.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8683,
+      "name": "SMART | DOTA DRAGON'S BL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8684,
+      "name": "SMART | DRAGON BALL Z KA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.5,
+      "audio_rms": 9701.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8685,
+      "name": "SMART | DUCKTALES( 80'S)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.2,
+      "audio_rms": 1808.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8686,
+      "name": "SMART | ED EDD N EDDY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8687,
+      "name": "SMART | FELIX THE CAT",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8688,
+      "name": "SMART | FRAGGLE ROCK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.7,
+      "audio_rms": 3303.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8689,
+      "name": "SMART | GUARDIANS OF THE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8690,
+      "name": "SMART | INVINCIBLE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8691,
+      "name": "SMART | MARVEL AVENGERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.7,
+      "audio_rms": 2212.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8692,
+      "name": "SMART | HARLEY QUINN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8693,
+      "name": "SMART | HE-MAN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.2,
+      "audio_rms": 1793.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8694,
+      "name": "SMART | HENRY DANGER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.7,
+      "audio_rms": 1026.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8695,
+      "name": "SMART | HOTEL TRANSYLVANIA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8696,
+      "name": "SMART | JACKIE CHAN ADVEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 136.6,
+      "audio_rms": 1025.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8697,
+      "name": "SMART | JESSE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.4,
+      "audio_rms": 1526.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8698,
+      "name": "SMART | JOHNNY TEST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.6,
+      "audio_rms": 5566.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8699,
+      "name": "SMART | LITTLE EINSTEINS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 143.1,
+      "audio_rms": 633.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8700,
+      "name": "SMART | LEGO CITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.7,
+      "audio_rms": 1388.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8701,
+      "name": "SMART | LEGO MOVIE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.0,
+      "audio_rms": 128.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8702,
+      "name": "SMART | MORTAL KOMBAT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.5,
+      "audio_rms": 622.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8703,
+      "name": "SMART | THE PJS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.1,
+      "audio_rms": 720.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8704,
+      "name": "SMART | LOONY TUNES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.1,
+      "audio_rms": 1312.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8705,
+      "name": "SMART | DEXTER LABORATORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.3,
+      "audio_rms": 102.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8706,
+      "name": "SMART | ELENA OF AVALOR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.0,
+      "audio_rms": 786.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8707,
+      "name": "SMART | MICKEY AND THE RO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.7,
+      "audio_rms": 2813.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8710,
+      "name": "SMART | DORA THE EXPLORER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.3,
+      "audio_rms": 861.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8711,
+      "name": "SMART | MR BEAN CARTOON",
+      "epg": [],
+      "video_ok": true,
+      "luma": 194.0,
+      "audio_rms": 5537.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8712,
+      "name": "SMART | MUPPET BABIES S01",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.4,
+      "audio_rms": 2528.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8713,
+      "name": "SMART | MUPPET BABIES SO5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 156.4,
+      "audio_rms": 2277.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8714,
+      "name": "SMART | NARUTO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.2,
+      "audio_rms": 3516.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8716,
+      "name": "SMART | OCTONAUTS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8717,
+      "name": "SMART | PINGU",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.3,
+      "audio_rms": 2188.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8718,
+      "name": "SMART | PEPPA PIG",
+      "epg": [],
+      "video_ok": true,
+      "luma": 193.8,
+      "audio_rms": 1443.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8719,
+      "name": "SMART | PJ MASKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 132.7,
+      "audio_rms": 2016.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8720,
+      "name": "AART | POKEMON",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.5,
+      "audio_rms": 904.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8721,
+      "name": "SMART | POPEYE THE SAILOR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.5,
+      "audio_rms": 317.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8722,
+      "name": "SMART | RAVEN'S HOME",
+      "epg": [],
+      "video_ok": true,
+      "luma": 212.4,
+      "audio_rms": 2021.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8723,
+      "name": "SMART | BLUES CLUES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 153.0,
+      "audio_rms": 835.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8724,
+      "name": "SMART | BLACK CLOVER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 128.2,
+      "audio_rms": 849.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8725,
+      "name": "SMART | SESAME STREET",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.6,
+      "audio_rms": 871.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8726,
+      "name": "SMART | SHAUN THE SHEEP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.3,
+      "audio_rms": 575.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8727,
+      "name": "SMART | SHE-RA AND THE PRI",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8728,
+      "name": "SMART | BLAZE AND THE MO",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.9,
+      "audio_rms": 1513.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8729,
+      "name": "SMART | SONICX",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.3,
+      "audio_rms": 2392.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8731,
+      "name": "SMART | SPIDER-MAN 90'S",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.5,
+      "audio_rms": 759.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8732,
+      "name": "SMART | SPIDER-MAN AND HI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.8,
+      "audio_rms": 1046.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8733,
+      "name": "SMART | SPONGEBOB SQUAR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 147.9,
+      "audio_rms": 538.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8737,
+      "name": "SMART | TEEN TITANS GO",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8738,
+      "name": "SMART | TELETUBBIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.0,
+      "audio_rms": 746.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8739,
+      "name": "SMART | THE DRAGON BALL Z",
+      "epg": [],
+      "video_ok": true,
+      "luma": 126.9,
+      "audio_rms": 2897.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8741,
+      "name": "SMART | THE FAIRLY ODDPAR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 146.1,
+      "audio_rms": 502.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8742,
+      "name": "SMART | THE FLINTSTONES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.9,
+      "audio_rms": 1079.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8743,
+      "name": "SMART | THE JETSONS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 155.1,
+      "audio_rms": 380.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8744,
+      "name": "SMART | THE LITTLE MERMAID",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.4,
+      "audio_rms": 1342.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8747,
+      "name": "SMART | THE SMURFS SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.8,
+      "audio_rms": 1817.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8748,
+      "name": "SMART | THE SMURFS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.3,
+      "audio_rms": 3262.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8750,
+      "name": "SMART | THOMAS & FRIENDS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 126.4,
+      "audio_rms": 1256.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8751,
+      "name": "SMART | THREE STOOGES CA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.5,
+      "audio_rms": 88.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8752,
+      "name": "SMART | THUNDER CATS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 181.1,
+      "audio_rms": 1145.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8753,
+      "name": "SMART | TOM AND JERRY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.9,
+      "audio_rms": 1323.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8755,
+      "name": "SMART | WHATS NEW SCOOB",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.8,
+      "audio_rms": 4860.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8756,
+      "name": "SMART | X-MEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.3,
+      "audio_rms": 2476.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8757,
+      "name": "SMART | ANIMATED MOVIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.5,
+      "audio_rms": 426.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8758,
+      "name": "SMART | ANIMATED MOVIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.8,
+      "audio_rms": 3428.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8759,
+      "name": "SMART | ANIMATED MOVIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 154.9,
+      "audio_rms": 1273.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8760,
+      "name": "SMART | ANIMATED MOVIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.4,
+      "audio_rms": 2054.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8761,
+      "name": "SMART | ANIMATED MOVIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8768,
+      "name": "SMART | SPIDER MAN-1994 45",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.5,
+      "audio_rms": 2868.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8769,
+      "name": "SMART | TRANFORMERS PRIME",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.1,
+      "audio_rms": 1094.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8770,
+      "name": "SMART | KIDS CARTOON | TO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.2,
+      "audio_rms": 1401.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8771,
+      "name": "SMART | KIDS CARTOON | THE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.4,
+      "audio_rms": 2231.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8775,
+      "name": "SMART | KIDS CARTOON | SPI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.0,
+      "audio_rms": 2001.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8781,
+      "name": "SMART | KIDS CARTOON | SHI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 146.6,
+      "audio_rms": 2416.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8782,
+      "name": "SMART | KIDS CARTOON | CH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.0,
+      "audio_rms": 8442.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8783,
+      "name": "SMART | KIDS CARTOONS | KU",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.1,
+      "audio_rms": 1827.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8784,
+      "name": "SMART | KIDS CARTOONS | GE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 2805.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8785,
+      "name": "SMART | KIDS CARTOON | DU",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.9,
+      "audio_rms": 2889.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8786,
+      "name": "SMART | KIDS CARTOON | DU",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.1,
+      "audio_rms": 656.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8787,
+      "name": "SMART | KIDS CARTOON | DO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 155.4,
+      "audio_rms": 383.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8788,
+      "name": "SMART | BEN 10 ULTIMATE AL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.9,
+      "audio_rms": 2554.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8790,
+      "name": "SMART | BEN 10 CLASSIC HIND",
+      "epg": [],
+      "video_ok": true,
+      "luma": 160.8,
+      "audio_rms": 3148.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8793,
+      "name": "SMART | KIDS CARTOON | AV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 538.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8794,
+      "name": "SMART | ANGRY BIRDS TOONS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8795,
+      "name": "AART | ALF",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.6,
+      "audio_rms": 32.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8796,
+      "name": "AART | ICARLY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.0,
+      "audio_rms": 46.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8797,
+      "name": "AART | ANIMANIACS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8798,
+      "name": "AART | ARTHUR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 169.9,
+      "audio_rms": 68.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8799,
+      "name": "AART | WIZARDS OF WAVERLY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8800,
+      "name": "AART | TALES OF THE TEENAG",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.0,
+      "audio_rms": 2358.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8801,
+      "name": "AART | JIMMY NEUTRON",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8802,
+      "name": "AART | INSPECTOR GADGET",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.7,
+      "audio_rms": 740.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8803,
+      "name": "AART | DARKWING DUCK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 137.8,
+      "audio_rms": 523.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8804,
+      "name": "AART | CHOWDER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 135.6,
+      "audio_rms": 1348.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8805,
+      "name": "AART | BAT WHEELS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8806,
+      "name": "AART | RAA RAA THE NOISY LION",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8807,
+      "name": "AART | LITTLE BEAR",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8808,
+      "name": "AART | THE LAND BEFORE TIME",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.8,
+      "audio_rms": 854.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8809,
+      "name": "AART | BEN AND HOLLYS LITTL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8810,
+      "name": "AART | ZOEY 101",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8811,
+      "name": "AART | GOOSEBUMPS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.7,
+      "audio_rms": 91.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8812,
+      "name": "SMART | ANIME X HIDIVE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 11.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

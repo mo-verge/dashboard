@@ -1,0 +1,14 @@
+# systemd USER unit:  ~/.config/systemd/user/mediamtx.service
+#   systemctl --user daemon-reload && systemctl --user enable --now mediamtx
+#   journalctl --user -u mediamtx -f
+[Unit]
+Description=MediaMTX (HDMI capture -> HLS for Chromecast)
+After=network-online.target
+
+[Service]
+ExecStart=%h/stream/mediamtx %h/stream/mediamtx.yml
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=default.target

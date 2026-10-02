@@ -1,0 +1,4940 @@
+{
+  "category": "LATINO | USA",
+  "captured": "2026-09-30T18:34:15-0400",
+  "mode": "full",
+  "reported_total": 221,
+  "channels": [
+    {
+      "number": 3525,
+      "name": "La Casa De Los famosos",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.2,
+      "audio_rms": 1448.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3526,
+      "name": "ASE HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 90.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3527,
+      "name": "A3CINE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.2,
+      "audio_rms": 1652.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3528,
+      "name": "A3S ATRESERIES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.4,
+      "audio_rms": 1430.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3529,
+      "name": "A24 HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.5,
+      "audio_rms": 1610.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3530,
+      "name": "AMC HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.5,
+      "audio_rms": 1361.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3531,
+      "name": "AXN HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.0,
+      "audio_rms": 64.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3532,
+      "name": "AMERICA TV HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 148.3,
+      "audio_rms": 1367.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3533,
+      "name": "ANIMAL PLANET HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.2,
+      "audio_rms": 1453.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3534,
+      "name": "ANTENA 3 4K",
+      "epg": [
+        {
+          "time": "3:45 PM",
+          "title": "Y ahora sonsoles"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Sueños de libertad"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "La ruleta de la suerte"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Pasapalabra"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "El hormiguero"
+        }
+      ],
+      "video_ok": true,
+      "luma": 169.9,
+      "audio_rms": 546.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3535,
+      "name": "ANTENA3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.7,
+      "audio_rms": 1687.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3536,
+      "name": "ATRES SERIES 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.1,
+      "audio_rms": 1301.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3537,
+      "name": "AZTECA 4K",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3538,
+      "name": "GOLDEN PREMIER",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 684.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3539,
+      "name": "GOLDEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.2,
+      "audio_rms": 1506.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3540,
+      "name": "BANDAMAX",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Qué News Bandamax"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "La esquina de las primicias"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Las Mapa noches"
+        },
+        {
+          "time": "11:50 AM",
+          "title": "Ídolos"
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Pa’ la banda"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.3,
+      "audio_rms": 672.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3541,
+      "name": "BLOOMBERG HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.9,
+      "audio_rms": 961.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3542,
+      "name": "BOOMERANG HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3543,
+      "name": "CINE CANAL HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.3,
+      "audio_rms": 659.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3544,
+      "name": "CINE LATINO HD",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Café con sabor a mi tierra"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Al fin y al cabo"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "El tatuaje"
+        },
+        {
+          "time": "9:25 PM",
+          "title": "La última gira"
+        },
+        {
+          "time": "11:25 PM",
+          "title": "El precio del sueño americano"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.6,
+      "audio_rms": 592.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3545,
+      "name": "CNN INTERNATIONAL HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.2,
+      "audio_rms": 1671.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3546,
+      "name": "CNN EN ESPANOL",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.0,
+      "audio_rms": 3077.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3547,
+      "name": "CNN EN ESPA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 131.0,
+      "audio_rms": 1740.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3549,
+      "name": "CANAL 5 NOTICIAS (C5N ARG",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 144.4,
+      "audio_rms": 1657.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3550,
+      "name": "CANAL 22 INTERNACIONAL 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.0,
+      "audio_rms": 606.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3551,
+      "name": "CANAL 26 ARGENTINA HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.2,
+      "audio_rms": 1263.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3552,
+      "name": "CANAL ONCE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Les gardes chiméres"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Academia de superhéroes"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Moomin Valley"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Once Noticias"
+        },
+        {
+          "time": "7:03 PM",
+          "title": "Un lugar llamado México"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.7,
+      "audio_rms": 1593.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3553,
+      "name": "CARACOL TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 157.8,
+      "audio_rms": 1886.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3554,
+      "name": "CARTOON NETWORK HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 147.1,
+      "audio_rms": 3251.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3555,
+      "name": "CENTROAMERICA TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 174.7,
+      "audio_rms": 1050.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3556,
+      "name": "CINE ESTELAR",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Columbus, en busca de los dorados de Villa"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Código Rosetta"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Ráfaga de Plomo"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "El Vampiro Enamorado"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Los lavaderos II"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.3,
+      "audio_rms": 89.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3557,
+      "name": "CINE MEXICANO",
+      "epg": [
+        {
+          "time": "5:20 PM",
+          "title": "La tijera de oro"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Mi mujer no es mía"
+        },
+        {
+          "time": "8:05 PM",
+          "title": "El Vato"
+        },
+        {
+          "time": "8:50 PM",
+          "title": "El Vato"
+        },
+        {
+          "time": "9:35 PM",
+          "title": "El Vato"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.0,
+      "audio_rms": 651.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3558,
+      "name": "CINE NOSTALGIA",
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "Yo fui novio de Rosita Alvirez"
+        },
+        {
+          "time": "7:15 PM",
+          "title": "Asesinos en la noche"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Canción de Cuna"
+        },
+        {
+          "time": "11:15PM",
+          "title": "Lo que le pasó a Sansón"
+        },
+        {
+          "time": "1:15 AM",
+          "title": "En la hacienda de la flor"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 907.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3559,
+      "name": "CINE SONY",
+      "epg": [
+        {
+          "time": "4:32 PM",
+          "title": "Hudson Hawk"
+        },
+        {
+          "time": "6:23 PM",
+          "title": "Owning mahowny"
+        },
+        {
+          "time": "8:19 PM",
+          "title": "The devil's own"
+        },
+        {
+          "time": "10:21 PM",
+          "title": "13 going on 30"
+        },
+        {
+          "time": "12:09 AM",
+          "title": "Magic in the Water"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.8,
+      "audio_rms": 1649.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3560,
+      "name": "CINELATINO",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Café con sabor a mi tierra"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Al fin y al cabo"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "El tatuaje"
+        },
+        {
+          "time": "9:25 PM",
+          "title": "La última gira"
+        },
+        {
+          "time": "11:25 PM",
+          "title": "El precio del sueño americano"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.7,
+      "audio_rms": 657.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3561,
+      "name": "CINEMAX HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.9,
+      "audio_rms": 622.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3562,
+      "name": "SONY CINE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.6,
+      "audio_rms": 119.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3563,
+      "name": "CIUDAD MAGAZINE HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No informat ."
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3564,
+      "name": "COMEDY CENTRAL HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.6,
+      "audio_rms": 4395.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3565,
+      "name": "CRONICA TV HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No informat ."
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 1431,
+      "name": "DEPORTV HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No informat . !"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3568,
+      "name": "DIRECTV SPORTS2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.3,
+      "audio_rms": 1404.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3569,
+      "name": "DIRECTV SPORTS PLUS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.0,
+      "audio_rms": 2144.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3570,
+      "name": "DE PELICULA",
+      "epg": [
+        {
+          "time": "4:24 PM",
+          "title": "El señor doctor"
+        },
+        {
+          "time": "6:38 PM",
+          "title": "Los legionarios"
+        },
+        {
+          "time": "8:26 PM",
+          "title": "El camino de los espantos"
+        },
+        {
+          "time": "10:03 PM",
+          "title": "Operación carambola"
+        },
+        {
+          "time": "11:40 PM",
+          "title": "El rey de Acapulco"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.4,
+      "audio_rms": 1356.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3571,
+      "name": "STAR CHANNEL",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3572,
+      "name": "MULTIPREMIER HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3573,
+      "name": "DISCOVERY FAMILIA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Hasta que el diseno nos separe"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Clinica de la piel"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Kilos mortales"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Kilos mortales"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Kilos mortales: sus vidas hoy"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.0,
+      "audio_rms": 822.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3574,
+      "name": "DISCOVERY HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.0,
+      "audio_rms": 827.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3575,
+      "name": "DISCOVERY KIDS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 186.2,
+      "audio_rms": 1219.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3576,
+      "name": "DISCOVERY THEATER HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.3,
+      "audio_rms": 1764.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3577,
+      "name": "DISCOVERY TURBO HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3578,
+      "name": "DISCOVERY WORLD HD",
+      "epg": [
+        {
+          "time": "5:48 PM",
+          "title": "El poder de la comida"
+        },
+        {
+          "time": "6:12 PM",
+          "title": "Mi casa en la montaña"
+        },
+        {
+          "time": "6:36 PM",
+          "title": "Piscinas fabulosas"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Renuévelo usted mismo"
+        },
+        {
+          "time": "7:24 PM",
+          "title": "Renuévelo usted mismo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.1,
+      "audio_rms": 6980.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3579,
+      "name": "DISCOVERY EN ESPANOL",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.8,
+      "audio_rms": 2093.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3580,
+      "name": "DISCOVERY H&H HD",
+      "epg": [
+        {
+          "time": "5:44 PM",
+          "title": "Hermanos a la obra: un hogar para siempre"
+        },
+        {
+          "time": "6:32 PM",
+          "title": "Kilos mortales"
+        },
+        {
+          "time": "7:21 PM",
+          "title": "Kilos mortales: México"
+        },
+        {
+          "time": "8:16 PM",
+          "title": "Kilos mortales: sus vidas hoy"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "Remodelaciones con celebridades"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.9,
+      "audio_rms": 1528.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3581,
+      "name": "DISNEY HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 170.9,
+      "audio_rms": 2711.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3582,
+      "name": "DISNEY JUNIOR HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.5,
+      "audio_rms": 435.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3583,
+      "name": "DISNEY XD HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 1485.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3584,
+      "name": "ct! HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.4,
+      "audio_rms": 7024.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3585,
+      "name": "UNIVERSAL CINEMA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.8,
+      "audio_rms": 864.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3586,
+      "name": "ESPN2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.3,
+      "audio_rms": 1261.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3587,
+      "name": "ESPN3 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3588,
+      "name": "ESPN DEPORTES 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.6,
+      "audio_rms": 3371.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3589,
+      "name": "UNIVERSAL CRIME",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 30.3,
+      "audio_rms": 696.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3590,
+      "name": "ESPN HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "SportsCenter"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "WNBA Countdown"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "WNBA Basketball"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "WNBA Basketball"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "SportsCenter With Scott Van Pelt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.2,
+      "audio_rms": 2541.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3591,
+      "name": "ECUADOR IV",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Rodando Ecuador"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Infantiles"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Proxima parada"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hola, ¿qué hace?"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Telediario"
+        }
+      ],
+      "video_ok": true,
+      "luma": 162.1,
+      "audio_rms": 2843.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3592,
+      "name": "ECUAVISA INTERNACIONAL",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "En Contacto"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Televistazo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Los hackers de la farándula"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Televistazo en la comunidad"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "La Dr. Polo vida sin limites"
+        }
+      ],
+      "video_ok": true,
+      "luma": 170.0,
+      "audio_rms": 812.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3593,
+      "name": "ELGOURMET HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Hermana Verónica"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "La cocina de los recuerdos"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La ruta de los insectos"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Especiales"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Especiales"
+        }
+      ],
+      "video_ok": true,
+      "luma": 131.7,
+      "audio_rms": 6461.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3594,
+      "name": "EL TRECE HD",
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "Ahora caigo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Telenoche"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Otro dia perdido"
+        },
+        {
+          "time": "11:15 PM",
+          "title": "En sintesis"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Cucinare"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.5,
+      "audio_rms": 1387.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3595,
+      "name": "ENCUENTRO HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Flora y fauna"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Memorias del frente"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Caudillos"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Haylli, una memoria revelada"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Universo conurbano"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.7,
+      "audio_rms": 736.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3596,
+      "name": "ENLACE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.8,
+      "audio_rms": 658.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3597,
+      "name": "ESTRELLA TV 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.6,
+      "audio_rms": 1463.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3598,
+      "name": "EUROPA EUROPA HD",
+      "epg": [
+        {
+          "time": "4:40 PM",
+          "title": "La banda de Oss"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "La niña de tus ojos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Signora Volpe"
+        },
+        {
+          "time": "10:40 PM",
+          "title": "Charité"
+        },
+        {
+          "time": "11:40 PM",
+          "title": "La banda de Oss"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3599,
+      "name": "UNIVERSAL REALITY",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.8,
+      "audio_rms": 892.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3600,
+      "name": "FOX DEPORTES 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.1,
+      "audio_rms": 2515.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3601,
+      "name": "FOX SPORTS 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.7,
+      "audio_rms": 1818.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3602,
+      "name": "FOX SPORTS 3 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3603,
+      "name": "FOX SPORTS PREMIUM HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.2,
+      "audio_rms": 871.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3605,
+      "name": "FXM HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3606,
+      "name": "FILM&ARTS HD",
+      "epg": [
+        {
+          "time": "5:40 PM",
+          "title": "Macbeth"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "El concierto de París 2026"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "All Creatures Great & Small"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "All Creatures Great €: Small"
+        },
+        {
+          "time": "12:50 AM",
+          "title": "Frank"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3607,
+      "name": "FOOD NETWORK HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 149.4,
+      "audio_rms": 979.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3608,
+      "name": "GALAVISION 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.9,
+      "audio_rms": 2415.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3609,
+      "name": "GLITZ HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.7,
+      "audio_rms": 356.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3610,
+      "name": "UNIVERSAL PREMIERE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.5,
+      "audio_rms": 913.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3603,
+      "name": "FOX SPORTS PREMIUM HD",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3612,
+      "name": "HBO FAMILY HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.2,
+      "audio_rms": 1965.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3613,
+      "name": "HBO HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.0,
+      "audio_rms": 994.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3614,
+      "name": "HBO LATINO FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.8,
+      "audio_rms": 351.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3615,
+      "name": "HBO LATINO HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.5,
+      "audio_rms": 1104.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3616,
+      "name": "HBO MUNDI HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3617,
+      "name": "HBO POP HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.8,
+      "audio_rms": 1020.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3618,
+      "name": "HBO PLUS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.8,
+      "audio_rms": 821.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3619,
+      "name": "HBO SIGNATURE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.4,
+      "audio_rms": 421.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3620,
+      "name": "HBO XTREME",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.9,
+      "audio_rms": 674.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3621,
+      "name": "HGTV HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 124.5,
+      "audio_rms": 2599.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3622,
+      "name": "14 iif",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.4,
+      "audio_rms": 587.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3623,
+      "name": "GOLTV 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Primeira Liga Soccer"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Go Go Goal"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Tu Futbol - Peru"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Ecuadorian Serie A Soccer"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Primeira Liga Soccer"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3624,
+      "name": "HTV HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 7431,
+      "name": "LAT WARNER CHANNEL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3626,
+      "name": "HISTORY HD",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 149.4,
+      "audio_rms": 1512.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3627,
+      "name": "HISTORY EN ESPANOL 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Aztecas: El oro perdido"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Aztecas: El oro perdido"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "La maldición de la isla"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "La maldición de la isla"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Mas alla de Skinwalker"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.5,
+      "audio_rms": 1861.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3628,
+      "name": "HOLA TV 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.1,
+      "audio_rms": 2301.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3629,
+      "name": "SAT HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.8,
+      "audio_rms": 2917.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3630,
+      "name": "IVC NET HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3631,
+      "name": "INVESTIGATION DISCOVERY HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.1,
+      "audio_rms": 108.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3632,
+      "name": "LA NAC",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.2,
+      "audio_rms": 2055.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3636,
+      "name": "MULTIMEDIOS 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Alerta 8"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Telediario internacional"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Inaudito Revelaciones"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Éxitos del 8"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Telediario en directo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.7,
+      "audio_rms": 1650.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3637,
+      "name": "Mm",
+      "epg": [
+        {
+          "time": "6:10 PM",
+          "title": "The Son"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "The Son"
+        },
+        {
+          "time": "7:50 PM",
+          "title": "Ministerio del mal: El culto retorcido"
+        },
+        {
+          "time": "8:40 PM",
+          "title": "TURN: espías de Washington"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "TURN: espías de Washington"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.9,
+      "audio_rms": 1014.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3638,
+      "name": "NBA TV HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "WNBA Playback"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "WNBA Shot Clock: Games of the Night"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "NBA Stories"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Nash & Nowitzki: A Basketball Friendship"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Association"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.1,
+      "audio_rms": 2030.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3639,
+      "name": "NET TV HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.8,
+      "audio_rms": 999.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3640,
+      "name": "NTN24",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.4,
+      "audio_rms": 761.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3642,
+      "name": "NATGEO MUNDO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.5,
+      "audio_rms": 695.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3643,
+      "name": "NAT GEO WILD HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 132.4,
+      "audio_rms": 683.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3645,
+      "name": "NICK JR. HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.1,
+      "audio_rms": 1519.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3646,
+      "name": "NICKELODEON HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 147.8,
+      "audio_rms": 1906.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3647,
+      "name": "NUESTRA TELE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.3,
+      "audio_rms": 1327.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3649,
+      "name": "PX SPORTS 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "La hora de la bestia"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Mundo PX"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "A confirmar"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Total Combat"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Camino extremo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.8,
+      "audio_rms": 1526.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3650,
+      "name": "PARAMOUNT HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.0,
+      "audio_rms": 1343.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3651,
+      "name": "PASIONES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Melissa: La nina del Valle Verde"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Desamparados"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Vale todo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Reyes"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "La reina del flow"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.9,
+      "audio_rms": 1361.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3652,
+      "name": "PASIONES HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Melissa: La niña del Valle Verde"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Desamparados"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Vale todo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Reyes"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "La reina del flow"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.6,
+      "audio_rms": 905.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3653,
+      "name": "PERU MAGICO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "El camerino"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Wantan digital"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Celebra Peru"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Al ángulo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "N Noticias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.4,
+      "audio_rms": 260.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3654,
+      "name": "QUIERO M",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Q al día"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Premios Quiero 2026 - Los nominados"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Mi gente de Quiero"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "En alta"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Código urbano"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3656,
+      "name": "SUR PERU",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.2,
+      "audio_rms": 606.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3657,
+      "name": "SMITHSONIAN CHANNEL HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.3,
+      "audio_rms": 1924.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3658,
+      "name": "SONY HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3659,
+      "name": "SPACE SUR HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 200.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3660,
+      "name": "STAR ACTION HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3661,
+      "name": "STAR CINEMA HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.3,
+      "audio_rms": 261.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3662,
+      "name": "STAR CLASSICS HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.1,
+      "audio_rms": 1047.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3663,
+      "name": "STAR COMEDY HD",
+      "epg": [
+        {
+          "time": "5:07 PM",
+          "title": "Hi-Life"
+        },
+        {
+          "time": "6:33 PM",
+          "title": "The Stepford Wives"
+        },
+        {
+          "time": "8:07 PM",
+          "title": "Harlem Nights"
+        },
+        {
+          "time": "10:04 PM",
+          "title": "Ask Me Anything"
+        },
+        {
+          "time": "11:43 PM",
+          "title": "Lay the Favorite"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3664,
+      "name": "STAR FUN HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3665,
+      "name": "STAR HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3666,
+      "name": "STAR HITS HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 36.4,
+      "audio_rms": 574.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3667,
+      "name": "STAR LIFE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.9,
+      "audio_rms": 333.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3668,
+      "name": "STAR SERIES HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3669,
+      "name": "STARZ ENCORE ESPA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.4,
+      "audio_rms": 1660.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3670,
+      "name": "STUDIO UNI HD",
+      "epg": [
+        {
+          "time": "4:20 PM",
+          "title": "Transformers: La era de la extinción"
+        },
+        {
+          "time": "7:15 PM",
+          "title": "Transformers: El último caballero"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Rápidos y furiosos 9"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Rápidos y furiosos X"
+        },
+        {
+          "time": "1:40 AM",
+          "title": "Baywatch: guardianes de la bahía"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.6,
+      "audio_rms": 46.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3672,
+      "name": "LC HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.1,
+      "audio_rms": 1480.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3673,
+      "name": "TNT HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 28.3,
+      "audio_rms": 388.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3674,
+      "name": "TNT SERIES HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.3,
+      "audio_rms": 1055.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3675,
+      "name": "TNT SPORTS HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.0,
+      "audio_rms": 4378.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3676,
+      "name": "TUDN FHD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Línea de cuatro"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Atlas vs. Pumas UNAM"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Hazaña: El deporte vive"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Monterrey vs. Tigres UANL"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Cruz Azul vs. Toluca"
+        }
+      ],
+      "video_ok": true,
+      "luma": 188.3,
+      "audio_rms": 2259.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3677,
+      "name": "TV CHILE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.0,
+      "audio_rms": 781.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3678,
+      "name": "IVE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.5,
+      "audio_rms": 801.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3679,
+      "name": "TELECENTRO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 143.2,
+      "audio_rms": 616.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3680,
+      "name": "TELEFE 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.9,
+      "audio_rms": 1406.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3682,
+      "name": "TELEMUNDO INTERNACIONA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.4,
+      "audio_rms": 128.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3683,
+      "name": "TELEVISION PUBLIC ARGENTINA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.3,
+      "audio_rms": 1160.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3684,
+      "name": "TODO NOTICIAS HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.7,
+      "audio_rms": 794.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3685,
+      "name": "IR YD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Exitos"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Exitos"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Exitos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tropicalisimo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Fresh"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.4,
+      "audio_rms": 625.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3686,
+      "name": "TRUTV HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.7,
+      "audio_rms": 1481.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3687,
+      "name": "TURNER CLASSIC MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.9,
+      "audio_rms": 552.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3688,
+      "name": "TV CORTOS HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3689,
+      "name": "TYC SPORTS 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.6,
+      "audio_rms": 465.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3691,
+      "name": "UNIVERSO 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.3,
+      "audio_rms": 1234.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3692,
+      "name": "UNIMAS WEST 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.1,
+      "audio_rms": 2712.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3693,
+      "name": "UNIVERSAL CHANNEL HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Chicago Fire"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Chicago Fire"
+        },
+        {
+          "time": "7:40 PM",
+          "title": "Chicago Fire"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "La ley y el orden: UVE"
+        },
+        {
+          "time": "9:20 PM",
+          "title": "La ley y el orden: UVE"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3694,
+      "name": "UNIVISION EAST 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.8,
+      "audio_rms": 2481.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3695,
+      "name": "UNIVISION TLNOVELAS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3696,
+      "name": "VV",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.7,
+      "audio_rms": 232.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3697,
+      "name": "VEPLUS 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 174.5,
+      "audio_rms": 1094.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3699,
+      "name": "VIENDOMOVIES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3700,
+      "name": "VOLVER HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3701,
+      "name": "WAPA AMERICA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Lo sé todo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Historias de la Virgen morena"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticentro América"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Super Chef Celebrities: Foodtruckers Edition"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Noticentro 11 p. m."
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.9,
+      "audio_rms": 1453.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3702,
+      "name": "WARNER HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.9,
+      "audio_rms": 188.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3703,
+      "name": "ZOOMOO 4K",
+      "epg": [
+        {
+          "time": "6:15 PM",
+          "title": "ZooMoo tiene Cerebros"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "ZooMoo tiene Cerebros"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "ZooMoo tiene Cerebros"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Todas las Estrellas Animales"
+        },
+        {
+          "time": "7:15 PM",
+          "title": "Todas las Estrellas Animales"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.7,
+      "audio_rms": 226.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3704,
+      "name": "TELEMUNDO SALT LAKE CITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.5,
+      "audio_rms": 1266.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3705,
+      "name": "USA TELEMUNDO NEW YORK",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.4,
+      "audio_rms": 747.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3706,
+      "name": "TELEMUNDO MIAM",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.4,
+      "audio_rms": 512.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3707,
+      "name": "TELEMUNDO DENVER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.7,
+      "audio_rms": 877.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3708,
+      "name": "TELEMUNDO DALLAS FORT",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 150.1,
+      "audio_rms": 909.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3709,
+      "name": "TELEMUNDO LAS VEGAS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "La mesa caliente"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Al rojo vivo"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticiero Telemundo Las Vegas"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Noticiero Telemundo Las Vegas"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Noticiero Telemundo Las Vegas"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.1,
+      "audio_rms": 802.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3710,
+      "name": "USA TELEMUNDO PHOENIX",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Al rojo vivo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Noticiero Telemundo Arizona"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Noticiero Telemundo Arizona"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticiero Telemundo Arizona"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Noticias Telemundo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.5,
+      "audio_rms": 1357.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3711,
+      "name": "USA TELEMUNDO TUCSON",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.1,
+      "audio_rms": 1141.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3712,
+      "name": "USA TELEMUNDO CHICAGO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Noticiero Telemundo Chicago"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticias Telemundo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Top Chef VIP"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El senor de los cielos"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Lejos de ti"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.4,
+      "audio_rms": 463.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3713,
+      "name": "USA TELEMUNDO HOUSTON",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Noticiero Telemundo Houston"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticias Telemundo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Top Chef VIP"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El señor de los cielos"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Lejos de ti"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.0,
+      "audio_rms": 499.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3716,
+      "name": "USA TELEMUNDO BOSTON",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 33.6,
+      "audio_rms": 421.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3717,
+      "name": "USA TELEMUNDO SAN ANTO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Noticias Telemundo 60"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticias Telemundo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Top Chef VIP"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El señor de los cielos"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Lejos de ti"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3718,
+      "name": "USA TELEMUNDO PHILADELP",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "WWSI Telemundo Local News 6P"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticias Telemundo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Top Chef VIP"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El señor de los cielos"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Lejos de ti"
+        }
+      ],
+      "video_ok": true,
+      "luma": 171.0,
+      "audio_rms": 2194.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3719,
+      "name": "UNIVISION SACRAMENTO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Desiguales"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "El gordo y la flaca"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Primer impacto"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Noticias 19"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Noticiero N+ Univision"
+        }
+      ],
+      "video_ok": true,
+      "luma": 131.8,
+      "audio_rms": 712.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3720,
+      "name": "UNIVISION FRESNO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Desiguales"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "El gordo y la flaca"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Primer impacto"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Noticias 21"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Noticiero N+ Univision"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.6,
+      "audio_rms": 1538.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3721,
+      "name": "UNIVISION DALLAS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Noticias 23"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tierra de amor y coraje"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.3,
+      "audio_rms": 607.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3722,
+      "name": "UNIVISION MIAM",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.8,
+      "audio_rms": 527.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3723,
+      "name": "UNIVISION PHOENIX",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "El gordo y la flaca"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Primer impacto"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticias 33"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Debate Educación: Secretary of State"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.8,
+      "audio_rms": 651.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3724,
+      "name": "UNIVISION ATLANTA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Noticias 34 Atlanta"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tierra de amor y coraje"
+        }
+      ],
+      "video_ok": true,
+      "luma": 135.4,
+      "audio_rms": 700.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3725,
+      "name": "UNIVISION HOUSTON",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Noticias 45 alas 5"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tierra de amor y coraje"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.6,
+      "audio_rms": 532.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3726,
+      "name": "UNIVISION TUCSON",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "El gordo y la flaca"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Primer impacto"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticias 33"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Debate Secretaría de Educación"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.9,
+      "audio_rms": 709.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3727,
+      "name": "DSPORTS WC",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3728,
+      "name": "UNIVISION CHICAGO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Noticias Univision Chicago 5pm"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tierra de amor y coraje"
+        }
+      ],
+      "video_ok": true,
+      "luma": 159.9,
+      "audio_rms": 2548.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3729,
+      "name": "SPECTRUM NOTICIAS NY",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 144.0,
+      "audio_rms": 1839.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3730,
+      "name": "UNIVISION NY",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tierra de amor y coraje"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Corazón de oro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 156.3,
+      "audio_rms": 2232.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3731,
+      "name": "UNIMAS EAST",
+      "epg": [
+        {
+          "time": "6:12 PM",
+          "title": "Nuevo rico, nuevo pobre"
+        },
+        {
+          "time": "7:12 PM",
+          "title": "Como dice el dicho"
+        },
+        {
+          "time": "8:12 PM",
+          "title": "Lo tomas o lo dejas"
+        },
+        {
+          "time": "9:12 PM",
+          "title": "Criminal"
+        },
+        {
+          "time": "11:12 PM",
+          "title": "C.D.l. Código de investigación"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3732,
+      "name": "UNIVISION LOS ANGELES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Desiguales"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "El gordo y la flaca"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Primer impacto"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Primero Noticias 34"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Noticiero N+ Univision"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 1862.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3733,
+      "name": "AGE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.6,
+      "audio_rms": 562.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3734,
+      "name": "LAT AXN",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.8,
+      "audio_rms": 397.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3735,
+      "name": "LOVE NATURE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3736,
+      "name": "LAS ESTRELLAS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3737,
+      "name": "LIFETIME FHD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3738,
+      "name": "CINEMA DINAMITA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.7,
+      "audio_rms": 651.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3739,
+      "name": "GOLDEN EDGE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 70.8,
+      "audio_rms": 2316.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3740,
+      "name": "GOLDEN PLUS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 1295.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3831,
+      "name": "NBC UNIVERSO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Acércate a Rocio"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Acércate a Rocio"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Béisbol MLB"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Caso cerrado"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Caso cerrado"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.7,
+      "audio_rms": 2406.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3832,
+      "name": "TELEMUNDO ORLANDO FLOR",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Noticias Telemundo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Top Chef VIP"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El senor de los cielos"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Lejos de ti"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Noticias Telemundo 31"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.0,
+      "audio_rms": 1396.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3833,
+      "name": "TELEMUNDO WASHINGTON DC",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Noticias Telemundo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Top Chef VIP"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El señor de los cielos"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Lejos de ti"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Noticiero Telemundo Washington"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.8,
+      "audio_rms": 1679.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3834,
+      "name": "TELEMUNDO ATLANTA HD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Noticias Telemundo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Top Chef VIP"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El señor de los cielos"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Lejos de ti"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Noticias Telemundo Atlanta a las 11PM"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.4,
+      "audio_rms": 1147.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3835,
+      "name": "GALAVISION ATLANTA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.5,
+      "audio_rms": 2179.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3836,
+      "name": "GALAVISION HOUSTON",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.8,
+      "audio_rms": 2627.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3837,
+      "name": "GALAVISION LAS VEGAS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.5,
+      "audio_rms": 2724.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3838,
+      "name": "GALAVISION MIAM",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.0,
+      "audio_rms": 2372.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3839,
+      "name": "GALAVISION PHILADELPHIA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.7,
+      "audio_rms": 2178.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3840,
+      "name": "GALAVISION SAN FRANCISCO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 145.7,
+      "audio_rms": 2314.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3841,
+      "name": "GALAVISION WEST",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3842,
+      "name": "UNIVISION NOTICIAS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.0,
+      "audio_rms": 404.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3843,
+      "name": "UNIVISION AUSTIN",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tierra de amor y coraje"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Corazón de oro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.6,
+      "audio_rms": 679.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3844,
+      "name": "UNIVISION CLEVELAND",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tierra de amor y coraje"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Corazón de oro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.3,
+      "audio_rms": 664.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3845,
+      "name": "UNIVISION SAN ANTONIO",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Noticiero N+ Univision"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tierra de amor y coraje"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Corazón de oro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.1,
+      "audio_rms": 481.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3846,
+      "name": "UNIVISION PUERTO RICO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3847,
+      "name": "UNIVISION TAMPA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.1,
+      "audio_rms": 1480.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3848,
+      "name": "UNIMAS LOS ANGELES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Qué bonito amor"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La herencia"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Nuevo rico, nuevo pobre"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Como dice el dicho"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Lo tomas o lo dejas"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.8,
+      "audio_rms": 860.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3853,
+      "name": "UNIMAS NY",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Como dice el dicho"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Lo tomas o lo dejas"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Criminal"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "C.D.!. Código de investigación"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Sin miedo a la verdad"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.8,
+      "audio_rms": 439.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3854,
+      "name": "UNIVISION WASHINGTON DC",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.1,
+      "audio_rms": 849.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3855,
+      "name": "UNIVISION NETWORK",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.9,
+      "audio_rms": 1872.1,
+      "audio_ok": true
+    }
+  ]
+}

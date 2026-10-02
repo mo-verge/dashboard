@@ -1,0 +1,677 @@
+{
+  "category": "SPANISH | DOMINICAN REPU",
+  "captured": "2026-09-30T19:14:13-0400",
+  "mode": "full",
+  "reported_total": 23,
+  "channels": [
+    {
+      "number": 37551,
+      "name": "R.DO | TELESISTEMA HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Acorralada"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Telenoticias - Emisión vespertina"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Arte y medio"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Almas Heridas"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Jonas"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.9,
+      "audio_rms": 1202.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37552,
+      "name": "R.DO | DOMINICAN VIEW",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 21.2,
+      "audio_rms": 1644.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37553,
+      "name": "R.DO | TELEUNION",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "El show de Nelson"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Concavo y convexo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El reportero"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Noticias Teleunión"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Mundo Noticias"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37554,
+      "name": "R.DO | TELEMICRO HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Papas por Conveniencia"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Alborada"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Noticias Telemicro"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Tú y yo"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "A.Mar donde el amor teje"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.6,
+      "audio_rms": 1653.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37555,
+      "name": "R.DO | TELEMICRO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Papas por Conveniencia"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Alborada"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Noticias Telemicro"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Tú y yo"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "A.Mar donde el amor teje"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37556,
+      "name": "R.DO | TELEFUTURO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.6,
+      "audio_rms": 2105.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37557,
+      "name": "R.DO | TELECENTRO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "La opción"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Noticiero - Tera. emisión"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Yo no creo en los hombres"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Mujer Casos de la Vida Real"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Clase 406"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.4,
+      "audio_rms": 1000.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37558,
+      "name": "R.DO | SUPERCANAL",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.7,
+      "audio_rms": 1194.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37559,
+      "name": "R.DO | SUPER TV 55",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.1,
+      "audio_rms": 1201.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37560,
+      "name": "R.DO | ROMANA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.8,
+      "audio_rms": 215.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37561,
+      "name": "R.DO | MICROVISION",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.8,
+      "audio_rms": 3261.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37562,
+      "name": "JO | DIGITAL 15",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Extremo a extremo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Como dice el dicho"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Rebelde"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Alondra"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Portada digital"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37563,
+      "name": "R.DO | COLOR VISION HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "El show del mediodia"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Noticias SIN - 1ra emisión"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Looney Tunes"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Scooby doo"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Lilet Matias Abogada"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.0,
+      "audio_rms": 313.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37564,
+      "name": "R.DO | CDN SPORTSMAX HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.6,
+      "audio_rms": 1860.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37565,
+      "name": "R.DO | CDN HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "CDN Sportmax"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "CDN Sportmax"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CDN Sportmax"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "CDN Sportmax"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CDN Sportmax"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.5,
+      "audio_rms": 1050.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37566,
+      "name": "R.DO | CANAL 25",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.7,
+      "audio_rms": 1019.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37567,
+      "name": "R.DO | ANTENA 7",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 45.3,
+      "audio_rms": 632.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37568,
+      "name": "R.DO | CDN SPORTS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.9,
+      "audio_rms": 2140.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37569,
+      "name": "R.DO | TELEANTILLAS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "CNN América"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Esto No Tiene Nombre"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "A 2 camaras"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "Al fondo hay sitio"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Piezas rotas"
+        }
+      ],
+      "video_ok": true,
+      "luma": 162.3,
+      "audio_rms": 1486.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37570,
+      "name": "R.DO | TELEMICRO INTERNACI",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.2,
+      "audio_rms": 1467.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37571,
+      "name": "R.DO | TELEUNIVERSO",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Ustedes y nosotros"
+        },
+        {
+          "time": "7:47 PM",
+          "title": "Pregúntale a Juan"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "Loto real"
+        },
+        {
+          "time": "8:05 PM",
+          "title": "Teleuniverso al día"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Opción NY"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.8,
+      "audio_rms": 1296.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37572,
+      "name": "R.DO | TELE CIBAO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.9,
+      "audio_rms": 1142.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37574,
+      "name": "R.DO | TV QUISQUEYA",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.7,
+      "audio_rms": 743.3,
+      "audio_ok": true
+    }
+  ]
+}

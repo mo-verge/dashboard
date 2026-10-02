@@ -1,0 +1,518 @@
+{
+  "category": "SPANISH | BOLIVIA",
+  "captured": "2026-09-30T18:48:04-0400",
+  "mode": "full",
+  "reported_total": 17,
+  "channels": [
+    {
+      "number": 37893,
+      "name": "BO | RED ADVENIR",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.2,
+      "audio_rms": 7351.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37894,
+      "name": "BO | CANAL 7 BOLIVIA TV",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.7,
+      "audio_rms": 4015.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37895,
+      "name": "BO | RED UNO FHD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.2,
+      "audio_rms": 1455.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37896,
+      "name": "UNITEL FHD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.5,
+      "audio_rms": 1711.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37897,
+      "name": "BO | UNITEL",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.0,
+      "audio_rms": 2037.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37898,
+      "name": "BO | TV UNIVERSITARIA LA PAZ",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 189.5,
+      "audio_rms": 2144.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37899,
+      "name": "BO|TVU",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 150.6,
+      "audio_rms": 3442.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37900,
+      "name": "BO | RTP",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.9,
+      "audio_rms": 1342.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37901,
+      "name": "BO | GIGAVISION",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.9,
+      "audio_rms": 3517.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37902,
+      "name": "BOLIVISION FULL HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 145.1,
+      "audio_rms": 6694.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37903,
+      "name": "BO | BOLIVISION",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.6,
+      "audio_rms": 7114.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37904,
+      "name": "BOLIVIA TV",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.6,
+      "audio_rms": 4475.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37905,
+      "name": "BO | CADENA A",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 9.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37906,
+      "name": "BOLIVIA TV (MOVIL)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.2,
+      "audio_rms": 3862.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37907,
+      "name": "BO | ATB FULL HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.6,
+      "audio_rms": 4410.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37908,
+      "name": "BO | ATB",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.2,
+      "audio_rms": 4684.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37909,
+      "name": "BO | Tigo Sports UHD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.3,
+      "audio_rms": 2059.9,
+      "audio_ok": true
+    }
+  ]
+}

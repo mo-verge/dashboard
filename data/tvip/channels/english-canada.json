@@ -1,0 +1,5799 @@
+{
+  "category": "ENGLISH | CANADA",
+  "captured": "2026-10-01T01:48:07-0400",
+  "mode": "full",
+  "reported_total": 226,
+  "channels": [
+    {
+      "number": 1,
+      "name": "WORLD IN TRUE 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 150.3,
+      "audio_rms": 1315.8,
+      "audio_ok": true
+    },
+    {
+      "number": 2,
+      "name": "SMART | HAPPY HALLOWEEN",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.2,
+      "audio_rms": 3641.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3,
+      "name": "CP24 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "CP24 Nightside"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "CTV Toronto Late News"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "CP24 Nightside"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CTV Toronto Late News"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CP24 Nightside"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.8,
+      "audio_rms": 1308.9,
+      "audio_ok": true
+    },
+    {
+      "number": 4,
+      "name": "APTN ©",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Rezervations for Two"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "The Other Side"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Ghost Hunters of the Grand River"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Taken"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Searchers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.2,
+      "audio_rms": 835.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5,
+      "name": "CBC NEWS NETWORK 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The National"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.0,
+      "audio_rms": 1153.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6,
+      "name": "CP24 HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "CP24 Nightside"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "CTV Toronto Late News"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "CP24 Nightside"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CTV Toronto Late News"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CP24 Nightside"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.6,
+      "audio_rms": 1458.7,
+      "audio_ok": true
+    },
+    {
+      "number": 7,
+      "name": "BNN BLOOMBERG 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Trading Day"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Bloomberg The Opening Trade"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Pulse with Francine Lacqua"
+        },
+        {
+          "time": "4:59 AM",
+          "title": "Bloomberg Brief"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Bloomberg Surveillance"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.4,
+      "audio_rms": 1332.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8,
+      "name": "CTV TORONTO 4K",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.9,
+      "audio_rms": 1473.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9,
+      "name": "CTV 2 TORONTO 4K",
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Criminal Minds: Evolution"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Just for Laughs: Gags"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Just for Laughs: Gags"
+        }
+      ],
+      "video_ok": true,
+      "luma": 171.8,
+      "audio_rms": 1416.1,
+      "audio_ok": true
+    },
+    {
+      "number": 161,
+      "name": "CTV OTTAWA 4K",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.2,
+      "audio_rms": 1283.1,
+      "audio_ok": true
+    },
+    {
+      "number": 11,
+      "name": "CTV 2 OTTAWA 4K",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Criminal Minds: Evolution"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Just for Laughs: Gags"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Just for Laughs: Gags"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.7,
+      "audio_rms": 1718.5,
+      "audio_ok": true
+    },
+    {
+      "number": 152,
+      "name": "CTV VANCOUVER 4K",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "The Amazing Race"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "The Big Bang Theory"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "Late Night With Seth Meyers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.8,
+      "audio_rms": 1691.9,
+      "audio_ok": true
+    },
+    {
+      "number": 13,
+      "name": "CTV 2 VANCOUVER 4K",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Shark Tank"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "2:34 AM",
+          "title": "The Tonight Show Starring Jimmy Fallon"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "CTV National News With Omar Sachedina"
+        },
+        {
+          "time": "4:07 AM",
+          "title": "Flashpoint"
+        }
+      ],
+      "video_ok": true,
+      "luma": 33.6,
+      "audio_rms": 1249.8,
+      "audio_ok": true
+    },
+    {
+      "number": 144,
+      "name": "CTV ATLANTIC (ATV MONCTON)",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Cash Cab"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.6,
+      "audio_rms": 1052.9,
+      "audio_ok": true
+    },
+    {
+      "number": 15,
+      "name": "CTV 2 ATLANTIC HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Criminal Minds: Evolution"
+        },
+        {
+          "time": "3:15 AM",
+          "title": "Just for Laughs: Gags"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Just for Laughs: Gags"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Littlest Hobo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.2,
+      "audio_rms": 1134.7,
+      "audio_ok": true
+    },
+    {
+      "number": 145,
+      "name": "CTV CALGARY",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "The Big Bang Theory"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.4,
+      "audio_rms": 1999.1,
+      "audio_ok": true
+    },
+    {
+      "number": 117,
+      "name": "CTV MONTREAL",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.7,
+      "audio_rms": 1771.7,
+      "audio_ok": true
+    },
+    {
+      "number": 163,
+      "name": "CTV HALIFAX 4K",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Cash Cab"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.0,
+      "audio_rms": 1519.9,
+      "audio_ok": true
+    },
+    {
+      "number": 151,
+      "name": "CTV KITCHENER",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.3,
+      "audio_rms": 1559.8,
+      "audio_ok": true
+    },
+    {
+      "number": 20,
+      "name": "CTV 2 LONDON",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Criminal Minds: Evolution"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Just for Laughs: Gags"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Just for Laughs: Gags"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.4,
+      "audio_rms": 1587.7,
+      "audio_ok": true
+    },
+    {
+      "number": 21,
+      "name": "CTV 2 WINDSOR",
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Criminal Minds: Evolution"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Just for Laughs: Gags"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Just for Laughs: Gags"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.4,
+      "audio_rms": 2210.9,
+      "audio_ok": true
+    },
+    {
+      "number": 22,
+      "name": "CTV REGINA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "The Big Bang Theory"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.5,
+      "audio_rms": 376.7,
+      "audio_ok": true
+    },
+    {
+      "number": 23,
+      "name": "CTV WINNIPEG",
+      "epg": [
+        {
+          "time": "1:05 AM",
+          "title": "The Big Bang Theory"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.7,
+      "audio_rms": 1884.0,
+      "audio_ok": true
+    },
+    {
+      "number": 24,
+      "name": "CTV NEWS NETWORK 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "CTV News Overnight"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CTV News Overnight"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.4,
+      "audio_rms": 2763.1,
+      "audio_ok": true
+    },
+    {
+      "number": 25,
+      "name": "CTV SCI-FI 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Star Trek: The Next Generation"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Star Trek: The Next Generation"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Ark"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Librarians"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Librarians"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.3,
+      "audio_rms": 988.8,
+      "audio_ok": true
+    },
+    {
+      "number": 26,
+      "name": "CTV DRAMA 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Doc"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Best Medicine"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.6,
+      "audio_rms": 1237.8,
+      "audio_ok": true
+    },
+    {
+      "number": 27,
+      "name": "CTV COMEDY 4k",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Big Bang Theory"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "The Big Bang Theory"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Friends"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Friends"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Friends"
+        }
+      ],
+      "video_ok": true,
+      "luma": 133.7,
+      "audio_rms": 1623.6,
+      "audio_ok": true
+    },
+    {
+      "number": 28,
+      "name": "ROGERS TV LONDON",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 219.1,
+      "audio_rms": 1358.4,
+      "audio_ok": true
+    },
+    {
+      "number": 179,
+      "name": "CUSTOMER FEEDBACK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 26.8,
+      "audio_rms": 3198.9,
+      "audio_ok": true
+    },
+    {
+      "number": 180,
+      "name": "WEATHER NETWORK NATIONAL",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Overnight on The Weather Network"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Dream in Colour"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Dream in Colour"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Overnight on The Weather Network"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Overnight on The Weather Network"
+        }
+      ],
+      "video_ok": true,
+      "luma": 146.8,
+      "audio_rms": 1267.3,
+      "audio_ok": true
+    },
+    {
+      "number": 1731,
+      "name": "CITYTV MONTREAL",
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "CityNews Tonight Montreal"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "CityNews Tonight Montreal"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Let's Make a Deal"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Family Feud"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "CityNews Tonight Montreal"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.0,
+      "audio_rms": 1694.5,
+      "audio_ok": true
+    },
+    {
+      "number": 182,
+      "name": "CITY TV TORONTO HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Hudson & Rex"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Let's Make a Deal"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Inspired Unemployed (Impractical) Jokers"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Inspired Unemployed (impractical) Jokers"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hudson & Rex"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.0,
+      "audio_rms": 1139.3,
+      "audio_ok": true
+    },
+    {
+      "number": 183,
+      "name": "CITYTV VANCOUVER",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Dateline NBC"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "CityNews Tonight Vancouver"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Jimmy Kimmel Live!"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "The Inspired Unemployed (impractical) Jokers"
+        },
+        {
+          "time": "4:07 AM",
+          "title": "CityNews Tonight Vancouver"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.0,
+      "audio_rms": 1380.9,
+      "audio_ok": true
+    },
+    {
+      "number": 184,
+      "name": "GLOBAL NATIONAL (BC1)",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "BC1 News Evening"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Global News at 11"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.1,
+      "audio_rms": 1264.4,
+      "audio_ok": true
+    },
+    {
+      "number": 185,
+      "name": "CITYTV WINNIPEG",
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Family Feud"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Family Feud"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "CityNews Tonight Winnipeg"
+        },
+        {
+          "time": "2:12 AM",
+          "title": "CityNews Tonight Winnipeg"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "CityNews Tonight Winnipeg"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.4,
+      "audio_rms": 1908.9,
+      "audio_ok": true
+    },
+    {
+      "number": 186,
+      "name": "AL JAZEERA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "News"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "Inside Story"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "News"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Big Picture"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Newshour"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.0,
+      "audio_rms": 738.7,
+      "audio_ok": true
+    },
+    {
+      "number": 187,
+      "name": "CITYTV CALGARY",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "CityNews Tonight Calgary"
+        },
+        {
+          "time": "1:35 AM",
+          "title": "Jimmy Kimmel Live!"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "The Inspired Unemployed (impractical) Jokers"
+        },
+        {
+          "time": "3:12 AM",
+          "title": "CityNews Tonight Calgary"
+        },
+        {
+          "time": "3:42 AM",
+          "title": "CityNews Tonight Calgary"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.9,
+      "audio_rms": 1768.1,
+      "audio_ok": true
+    },
+    {
+      "number": 188,
+      "name": "CNBC CANADA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.2,
+      "audio_rms": 1805.5,
+      "audio_ok": true
+    },
+    {
+      "number": 189,
+      "name": "CNN HD CANADA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Story Is With Elex Michaelson"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Story Is With Elex Michaelson"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "CNN NewsNight: Post Debate Analysis"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CNN Headline Express"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "CNN This Morning"
+        }
+      ],
+      "video_ok": true,
+      "luma": 133.6,
+      "audio_rms": 1694.1,
+      "audio_ok": true
+    },
+    {
+      "number": 190,
+      "name": "TRAVEL XP",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Off the Grid"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "Backpack"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "World Heritage"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "See My Home California"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Unbound"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.9,
+      "audio_rms": 353.0,
+      "audio_ok": true
+    },
+    {
+      "number": 1571,
+      "name": "A",
+      "epg": [
+        {
+          "time": "1:03 AM",
+          "title": "Alaska State Troopers"
+        },
+        {
+          "time": "2:04 AM",
+          "title": "Alaska State Troopers"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Alaska State Troopers"
+        },
+        {
+          "time": "4:02 AM",
+          "title": "Freedom to Leave the House! Inogen Portable Oxygen"
+        },
+        {
+          "time": "4:32 AM",
+          "title": "Best Mattress Topper Ever!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.6,
+      "audio_rms": 1319.6,
+      "audio_ok": true
+    },
+    {
+      "number": 192,
+      "name": "ABC SPARK",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.7,
+      "audio_rms": 700.7,
+      "audio_ok": true
+    },
+    {
+      "number": 193,
+      "name": "ABORIGINAL PEOPLES TELEVI",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Rezervations for Two"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "The Other Side"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Ghost Hunters of the Grand River"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Taken"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Searchers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.9,
+      "audio_rms": 1166.2,
+      "audio_ok": true
+    },
+    {
+      "number": 194,
+      "name": "ADULT SWIM HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "American Dad!"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "American Dad!"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Family Guy"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Family Guy"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "King of the Hill"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.0,
+      "audio_rms": 156.7,
+      "audio_ok": true
+    },
+    {
+      "number": 195,
+      "name": "CTV WILD CHANNEL",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Littlest Hobo"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "The Littlest Hobo"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Timber Titans"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Inside Taronga Zoo"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Wicked Tuna"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.0,
+      "audio_rms": 1426.5,
+      "audio_ok": true
+    },
+    {
+      "number": 196,
+      "name": "BBC CANADA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.1,
+      "audio_rms": 1811.5,
+      "audio_ok": true
+    },
+    {
+      "number": 197,
+      "name": "BBC EARTH",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Down to Earth With Zac Efron: Down Under"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Wonders of Volcanoes With Dara O Briain"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Planet Earth Ill"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Vet on the Hill"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Arctic Secrets"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.9,
+      "audio_rms": 405.6,
+      "audio_ok": true
+    },
+    {
+      "number": 198,
+      "name": "HGTV CA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 169.2,
+      "audio_rms": 1227.8,
+      "audio_ok": true
+    },
+    {
+      "number": 199,
+      "name": "CBC OTTAWA HD",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Escape to the Country"
+        }
+      ],
+      "video_ok": true,
+      "luma": 171.2,
+      "audio_rms": 1899.5,
+      "audio_ok": true
+    },
+    {
+      "number": 200,
+      "name": "CBC ST. JOHN'S",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "Island of Bryan"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Scenes of Newfoundland"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "NTV News: First Edition"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.0,
+      "audio_rms": 215.0,
+      "audio_ok": true
+    },
+    {
+      "number": 201,
+      "name": "CBC TORONTO HD",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Escape to the Country"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.7,
+      "audio_rms": 1572.8,
+      "audio_ok": true
+    },
+    {
+      "number": 202,
+      "name": "CHCH 4K",
+      "epg": [
+        {
+          "time": "1:06 AM",
+          "title": "Evening News at Eleven"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "Jewelry Television"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Joni Table Talk"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Andrew Wommack Ministries"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Morning Live"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.6,
+      "audio_rms": 2060.1,
+      "audio_ok": true
+    },
+    {
+      "number": 203,
+      "name": "CMT CANADA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Mindy Project"
+        },
+        {
+          "time": "1:30 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Office"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Rules of Engagement"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Rules of Engagement"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.9,
+      "audio_rms": 1223.4,
+      "audio_ok": true
+    },
+    {
+      "number": 204,
+      "name": "CPAC ENGLISH",
+      "epg": [
+        {
+          "time": "12:50 AM",
+          "title": "Dossier public"
+        },
+        {
+          "time": "1:40 AM",
+          "title": "Dossier public"
+        },
+        {
+          "time": "2:20 AM",
+          "title": "Dossier public"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Dossier public"
+        },
+        {
+          "time": "3:40 AM",
+          "title": "Dossier public"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.7,
+      "audio_rms": 612.4,
+      "audio_ok": true
+    },
+    {
+      "number": 205,
+      "name": "CBC WINDSOR",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Escape to the Country"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.4,
+      "audio_rms": 1943.5,
+      "audio_ok": true
+    },
+    {
+      "number": 206,
+      "name": "CBC CHARLOTTETOWN",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Escape to the Country"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "World Report"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.5,
+      "audio_rms": 138.5,
+      "audio_ok": true
+    },
+    {
+      "number": 207,
+      "name": "CBC FREDERICTION",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Escape to the Country"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "World Report"
+        }
+      ],
+      "video_ok": false,
+      "luma": 15.2,
+      "audio_rms": 75.4,
+      "audio_ok": true
+    },
+    {
+      "number": 208,
+      "name": "CBC YELLOWKNIFE",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Land and Sea"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Coronation Street"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Kim's Convenience"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.6,
+      "audio_rms": 49.5,
+      "audio_ok": true
+    },
+    {
+      "number": 209,
+      "name": "CBC MONCTON",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Cash Cab"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.4,
+      "audio_rms": 916.7,
+      "audio_ok": true
+    },
+    {
+      "number": 210,
+      "name": "CITY TV EDMONTON",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "CityNews Tonight Edmonton"
+        },
+        {
+          "time": "1:35 AM",
+          "title": "Jimmy Kimmel Live!"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "The Inspired Unemployed (impractical) Jokers"
+        },
+        {
+          "time": "3:12 AM",
+          "title": "CityNews Tonight Edmonton"
+        },
+        {
+          "time": "3:42 AM",
+          "title": "CityNews Tonight Edmonton"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.3,
+      "audio_rms": 327.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5311,
+      "name": "CTV EDMONTON",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "The Big Bang Theory"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "4:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 25.7,
+      "audio_rms": 552.0,
+      "audio_ok": true
+    },
+    {
+      "number": 212,
+      "name": "CTV NORTH BAY 4K",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.4,
+      "audio_rms": 1566.6,
+      "audio_ok": true
+    },
+    {
+      "number": 213,
+      "name": "DISCOVERY CHANNEL CA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Mayday"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Mayday"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Mayday"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Mayday"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CSI: NY"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.0,
+      "audio_rms": 1297.8,
+      "audio_ok": true
+    },
+    {
+      "number": 214,
+      "name": "CTV LETHBRIDGE",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.6,
+      "audio_rms": 1296.0,
+      "audio_ok": true
+    },
+    {
+      "number": 215,
+      "name": "CTV LIFE",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Monk"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Monk"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Jamie's Quick €: Easy Food"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Jamie's Quick €: Easy Food"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Good Stuff With Mary Berg"
+        }
+      ],
+      "video_ok": true,
+      "luma": 171.4,
+      "audio_rms": 1633.5,
+      "audio_ok": true
+    },
+    {
+      "number": 216,
+      "name": "CTV MONCTON",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Cash Cab"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.6,
+      "audio_rms": 1660.4,
+      "audio_ok": true
+    },
+    {
+      "number": 219,
+      "name": "CTV PRINCE ALBERT",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.7,
+      "audio_rms": 1414.2,
+      "audio_ok": true
+    },
+    {
+      "number": 222,
+      "name": "CTV SASKATOON",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Paramedics: Emergency Response"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Tribunal Justice"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Tribunal Justice"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Judy Justice"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Judy Justice"
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.8,
+      "audio_rms": 1621.5,
+      "audio_ok": true
+    },
+    {
+      "number": 223,
+      "name": "CTV SAULT STE. MARIE",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.6,
+      "audio_rms": 1548.8,
+      "audio_ok": true
+    },
+    {
+      "number": 224,
+      "name": "CTV SYDNEY",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.1,
+      "audio_rms": 1338.6,
+      "audio_ok": true
+    },
+    {
+      "number": 225,
+      "name": "CTV TIMMINS",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.4,
+      "audio_rms": 1084.7,
+      "audio_ok": true
+    },
+    {
+      "number": 226,
+      "name": "CTV SUDBURY",
+      "epg": [
+        {
+          "time": "12:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "1:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:07 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "3:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.5,
+      "audio_rms": 2329.6,
+      "audio_ok": true
+    },
+    {
+      "number": 227,
+      "name": "CTV TWO ATLANTIC",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.2,
+      "audio_rms": 873.6,
+      "audio_ok": true
+    },
+    {
+      "number": 229,
+      "name": "ROGERS TV GUELPH",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 218.3,
+      "audio_rms": 1220.8,
+      "audio_ok": true
+    },
+    {
+      "number": 230,
+      "name": "CTV YORKTON",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "etalk"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "The Big Bang Theory"
+        },
+        {
+          "time": "2:37 AM",
+          "title": "Late Night With Seth Meyers"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "Seinfeld"
+        },
+        {
+          "time": "4:07 AM",
+          "title": "Seinfeld"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.5,
+      "audio_rms": 1513.3,
+      "audio_ok": true
+    },
+    {
+      "number": 231,
+      "name": "CTV2 ALBERTA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 206.7,
+      "audio_rms": 1451.3,
+      "audio_ok": true
+    },
+    {
+      "number": 233,
+      "name": "CTV2 BARRIE",
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Criminal Minds: Evolution"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Just for Laughs: Gags"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Just for Laughs: Gags"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.4,
+      "audio_rms": 726.0,
+      "audio_ok": true
+    },
+    {
+      "number": 240,
+      "name": "CBC OTTAWA",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Escape to the Country"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.6,
+      "audio_rms": 1109.2,
+      "audio_ok": true
+    },
+    {
+      "number": 241,
+      "name": "CBC EDMONTON",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Land and Sea"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Coronation Street"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Kim's Convenience"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 242,
+      "name": "GUSIO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.6,
+      "audio_rms": 516.6,
+      "audio_ok": true
+    },
+    {
+      "number": 243,
+      "name": "GLOBAL BC 4K",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Abbott Elementary"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "The West Block"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Crime Beat"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.9,
+      "audio_rms": 1987.0,
+      "audio_ok": true
+    },
+    {
+      "number": 244,
+      "name": "GLOBAL EDMONTON",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Crime Beat"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "4:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.7,
+      "audio_rms": 1093.8,
+      "audio_ok": true
+    },
+    {
+      "number": 245,
+      "name": "GLOBAL MARITIMES - SAINT J",
+      "epg": [
+        {
+          "time": "12:35 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "1:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Tamron Hall"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Local Programming"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.5,
+      "audio_rms": 1341.1,
+      "audio_ok": true
+    },
+    {
+      "number": 246,
+      "name": "GLOBAL TORONTO 4K",
+      "epg": [
+        {
+          "time": "1:05 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Tamron Hall"
+        },
+        {
+          "time": "4:05 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:35 AM",
+          "title": "Local Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.4,
+      "audio_rms": 967.9,
+      "audio_ok": true
+    },
+    {
+      "number": 247,
+      "name": "CBC VANCOUVER",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Absolutely Canadian"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Coronation Street"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "CBC Docs POV"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.5,
+      "audio_rms": 1356.7,
+      "audio_ok": true
+    },
+    {
+      "number": 249,
+      "name": "CBC CALGARY",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Land and Sea"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Coronation Street"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Kim's Convenience"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.5,
+      "audio_rms": 932.6,
+      "audio_ok": true
+    },
+    {
+      "number": 250,
+      "name": "CBC EASTERN",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.9,
+      "audio_rms": 122.6,
+      "audio_ok": true
+    },
+    {
+      "number": 251,
+      "name": "CBC HALIFAX",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Escape to the Country"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "World Report"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.1,
+      "audio_rms": 996.9,
+      "audio_ok": true
+    },
+    {
+      "number": 252,
+      "name": "CBC HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The National"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.4,
+      "audio_rms": 1255.8,
+      "audio_ok": true
+    },
+    {
+      "number": 253,
+      "name": "CBC MONTREAL",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Escape to the Country"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.5,
+      "audio_rms": 2602.4,
+      "audio_ok": true
+    },
+    {
+      "number": 254,
+      "name": "CBC REGINA",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Land and Sea"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Coronation Street"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Kim's Convenience"
+        }
+      ],
+      "video_ok": true,
+      "luma": 186.5,
+      "audio_rms": 1192.4,
+      "audio_ok": true
+    },
+    {
+      "number": 255,
+      "name": "CBC WINNIPEG",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Escape to the Country"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.0,
+      "audio_rms": 1218.0,
+      "audio_ok": true
+    },
+    {
+      "number": 256,
+      "name": "COTTAGE LIFE",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Weird Earth"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "World's Deadliest Weather"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Mysteries of the Abandoned"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Mysteries of the Abandoned: Hidden America"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "River Monsters"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.4,
+      "audio_rms": 678.0,
+      "audio_ok": true
+    },
+    {
+      "number": 257,
+      "name": "STINGRAY SOUL",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 16.9,
+      "audio_rms": 2399.5,
+      "audio_ok": true
+    },
+    {
+      "number": 258,
+      "name": "DOCUMENTARY CHANNEL C",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 14.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 259,
+      "name": "FIGHT NETWORK CANADA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Heroes of Lucha Libre"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "ROH Classics"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Ultimate Strongman"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "UK's Strongest Man 2021"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "World Armwrestling League"
+        }
+      ],
+      "video_ok": true,
+      "luma": 70.6,
+      "audio_rms": 3786.7,
+      "audio_ok": true
+    },
+    {
+      "number": 260,
+      "name": "GLOBAL BC",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Abbott Elementary"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "The West Block"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Crime Beat"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.2,
+      "audio_rms": 1401.2,
+      "audio_ok": true
+    },
+    {
+      "number": 261,
+      "name": "GLOBAL BC NEWS",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Global News at 11"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.9,
+      "audio_rms": 913.1,
+      "audio_ok": true
+    },
+    {
+      "number": 262,
+      "name": "GLOBAL CALGARY",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Crime Beat"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "4:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.3,
+      "audio_rms": 1637.4,
+      "audio_ok": true
+    },
+    {
+      "number": 263,
+      "name": "GLOBAL CALGARY NEWS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Crime Beat"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "4:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.0,
+      "audio_rms": 1608.2,
+      "audio_ok": true
+    },
+    {
+      "number": 264,
+      "name": "GLOBAL DURHAM",
+      "epg": [
+        {
+          "time": "1:05 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 2475.4,
+      "audio_ok": true
+    },
+    {
+      "number": 265,
+      "name": "GLOBAL EDMONTON NEWS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Crime Beat"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "4:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.0,
+      "audio_rms": 1392.0,
+      "audio_ok": true
+    },
+    {
+      "number": 266,
+      "name": "GLOBAL HALIFAX NEWS",
+      "epg": [
+        {
+          "time": "1:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Tamron Hall"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Local Programming"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.4,
+      "audio_rms": 1158.5,
+      "audio_ok": true
+    },
+    {
+      "number": 267,
+      "name": "GLOBAL KINGSTON NEWS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.4,
+      "audio_rms": 1408.5,
+      "audio_ok": true
+    },
+    {
+      "number": 268,
+      "name": "GLOBAL LETHBRIDGE NEWS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Global News at 11"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Global National"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Crime Beat"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "4:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.3,
+      "audio_rms": 1984.5,
+      "audio_ok": true
+    },
+    {
+      "number": 269,
+      "name": "GLOBAL MARITIMES",
+      "epg": [
+        {
+          "time": "1:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Tamron Hall"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Local Programming"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.4,
+      "audio_rms": 1172.7,
+      "audio_ok": true
+    },
+    {
+      "number": 270,
+      "name": "GLOBAL MONTREAL",
+      "epg": [
+        {
+          "time": "1:35 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "3:35 AM",
+          "title": "Tamron Hall"
+        },
+        {
+          "time": "4:35 AM",
+          "title": "Local Programming"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 235.1,
+      "audio_rms": 928.9,
+      "audio_ok": true
+    },
+    {
+      "number": 271,
+      "name": "GLOBAL NATIONAL NEWS 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.8,
+      "audio_rms": 1267.1,
+      "audio_ok": true
+    },
+    {
+      "number": 272,
+      "name": "GKP WINDSOR",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 274,
+      "name": "GLOBAL REGINA NEWS",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Abbott Elementary"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Crime Beat"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tamron Hall"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.4,
+      "audio_rms": 1796.4,
+      "audio_ok": true
+    },
+    {
+      "number": 275,
+      "name": "GLOBAL SASKATOON NEWS",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Abbott Elementary"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Crime Beat"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tamron Hall"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.2,
+      "audio_rms": 892.3,
+      "audio_ok": true
+    },
+    {
+      "number": 276,
+      "name": "GLOBAL WINNIPEG",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Crime Beat"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Fire Masters"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Tamron Hall"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Paid Programming"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.9,
+      "audio_rms": 989.5,
+      "audio_ok": true
+    },
+    {
+      "number": 277,
+      "name": "SALT LIGHT",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Audience générale"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "This Is the Day"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Walking Together: A Tapestry of Reconciliation"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "General Audience"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Behold"
+        }
+      ],
+      "video_ok": true,
+      "luma": 145.3,
+      "audio_rms": 1591.7,
+      "audio_ok": true
+    },
+    {
+      "number": 278,
+      "name": "SPORTSNET NY",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "AL Wildcard in 30"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "MLB's Top 100"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Sportsnet Central"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Sportsnet Central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.3,
+      "audio_rms": 1125.1,
+      "audio_ok": true
+    },
+    {
+      "number": 279,
+      "name": "SILVER SCREEN CLASSICS",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Radio Classics"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "True North Classics"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Postcards From Canada"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Retrola: Canada's Time Machine"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Classroom Classics"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.4,
+      "audio_rms": 322.1,
+      "audio_ok": true
+    },
+    {
+      "number": 280,
+      "name": "STINGRAY CLASSIC",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.8,
+      "audio_rms": 2426.9,
+      "audio_ok": true
+    },
+    {
+      "number": 281,
+      "name": "STINGRAY DJAZZ",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.0,
+      "audio_rms": 1692.8,
+      "audio_ok": true
+    },
+    {
+      "number": 282,
+      "name": "STINGRAY ICONCERT",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 447.7,
+      "audio_ok": true
+    },
+    {
+      "number": 283,
+      "name": "STINGRAY VIBE",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.5,
+      "audio_rms": 1262.7,
+      "audio_ok": true
+    },
+    {
+      "number": 284,
+      "name": "THE SHOPPING CHANNEL",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Estate Originals: Treasures From the Past"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "M. Asam Skin Care"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Skechers Footwear"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "M. Asam Skin Care"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tower Hill by Christie Brinkley"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.6,
+      "audio_rms": 951.8,
+      "audio_ok": true
+    },
+    {
+      "number": 285,
+      "name": "TVO ©",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "SponsorLand: Welcome to Canada"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Red Fever"
+        },
+        {
+          "time": "2:52 AM",
+          "title": "GeoMinute"
+        },
+        {
+          "time": "2:53 AM",
+          "title": "Citizen Minutes"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Striking Balance"
+        }
+      ],
+      "video_ok": true,
+      "luma": 21.7,
+      "audio_rms": 262.1,
+      "audio_ok": true
+    },
+    {
+      "number": 286,
+      "name": "UVAGUT TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.4,
+      "audio_rms": 1520.9,
+      "audio_ok": true
+    },
+    {
+      "number": 287,
+      "name": "WILD TELEVISION",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Forever Wild Outdoors Adrenaline Adventures"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Choice"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "High BC"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Dirt Nap TV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Big Tracks 8: Heavy Racks Marathon"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.4,
+      "audio_rms": 924.9,
+      "audio_ok": true
+    },
+    {
+      "number": 288,
+      "name": "T+E",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Cold Justice"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Murder by Medic"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Secrets In The Dark"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Paranormal Caught on Camera"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "A Secret to Die For"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.0,
+      "audio_rms": 965.9,
+      "audio_ok": true
+    },
+    {
+      "number": 289,
+      "name": "COOKING CHANNEL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.6,
+      "audio_rms": 1921.4,
+      "audio_ok": true
+    },
+    {
+      "number": 290,
+      "name": "PETERBOROUGH GLOBAL",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 178.1,
+      "audio_rms": 891.2,
+      "audio_ok": true
+    },
+    {
+      "number": 291,
+      "name": "5 STAR PLUS",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "Teleshopping"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Teleshopping"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Shop: Must Have Ideas"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "eFOLDi Mobility Scooters"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Bargain-Loving Brits in the Sun"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.4,
+      "audio_rms": 1429.2,
+      "audio_ok": true
+    },
+    {
+      "number": 292,
+      "name": "5 SIAR",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Teleshopping"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Shop: Must Have Ideas"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "eEFOLDi Mobility Scooters"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Bargain-Loving Brits in the Sun"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Bargain-Loving Brits in the Sun"
+        }
+      ],
+      "video_ok": true,
+      "luma": 152.0,
+      "audio_rms": 1578.3,
+      "audio_ok": true
+    },
+    {
+      "number": 293,
+      "name": "REALLY TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.0,
+      "audio_rms": 1604.8,
+      "audio_ok": true
+    },
+    {
+      "number": 294,
+      "name": "CRIME + INVESTIGATION",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Scorpion"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Scorpion"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Fire Country"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "FBI"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "FBI"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.0,
+      "audio_rms": 889.5,
+      "audio_ok": true
+    },
+    {
+      "number": 295,
+      "name": "DIY NETWORK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.9,
+      "audio_rms": 766.7,
+      "audio_ok": true
+    },
+    {
+      "number": 296,
+      "name": "DTOUR HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Rizzoli & Isles"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Rizzoli & Isles"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The West Wing"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The West Wing"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Chuck"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.8,
+      "audio_rms": 1091.8,
+      "audio_ok": true
+    },
+    {
+      "number": 297,
+      "name": "DEJAVIEW",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "| Love Lucy"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Andy Griffith Show"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Andy Griffith Show"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Beverly Hillbillies"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Beverly Hillbillies"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.8,
+      "audio_rms": 1386.0,
+      "audio_ok": true
+    },
+    {
+      "number": 298,
+      "name": "USA NETWORK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.2,
+      "audio_rms": 518.6,
+      "audio_ok": true
+    },
+    {
+      "number": 299,
+      "name": "CTV NATURE CHANNEL",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "How It's Made"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Aussie Gold Hunters"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "How It's Made"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "How It's Made"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "How It's Made"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.6,
+      "audio_rms": 1409.2,
+      "audio_ok": true
+    },
+    {
+      "number": 300,
+      "name": "OXYGEN TRUE CRIME",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Scorpion"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Scorpion"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Fire Country"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "FBI"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "FBI"
+        }
+      ],
+      "video_ok": true,
+      "luma": 131.3,
+      "audio_rms": 2078.6,
+      "audio_ok": true
+    },
+    {
+      "number": 301,
+      "name": "SMITHSONIAN CHANNEL",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Egyptian tomb Hunting"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Mummy Mysteries"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tutankhamun: Life, Death And Legacy"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "How Did They Build That?"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "How Did They Fix That?"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.7,
+      "audio_rms": 1679.1,
+      "audio_ok": true
+    },
+    {
+      "number": 302,
+      "name": "HISTORY 2",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "True Story"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "History's Most Shocking"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Swamp People"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Proof Is Out There"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Swamp People"
+        }
+      ],
+      "video_ok": true,
+      "luma": 200.3,
+      "audio_rms": 1494.9,
+      "audio_ok": true
+    },
+    {
+      "number": 303,
+      "name": "HISTORY HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Hazardous History With Henry Winkler"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "History's Deadliest With Ving Rhames"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "True Story Part Two"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "M*A*S*H"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "M*A*S*H"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.9,
+      "audio_rms": 1407.9,
+      "audio_ok": true
+    },
+    {
+      "number": 304,
+      "name": "RUSSIA TODAY DOCUMENTARY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.7,
+      "audio_rms": 1167.2,
+      "audio_ok": true
+    },
+    {
+      "number": 305,
+      "name": "E! ENTERTAINMENT TELEVISI",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "My Big Fat Greek Wedding 2"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Relatively Nat & Liv"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Rookie"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Rookie"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Botched"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.7,
+      "audio_rms": 2054.2,
+      "audio_ok": true
+    },
+    {
+      "number": 306,
+      "name": "e. SD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "My Big Fat Greek Wedding 2"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Relatively Nat & Liv"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Rookie"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Rookie"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Botched"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.4,
+      "audio_rms": 1408.7,
+      "audio_ok": true
+    },
+    {
+      "number": 307,
+      "name": "FA HL",
+      "epg": [
+        {
+          "time": "1:25 AM",
+          "title": "What We Do in the Shadows"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "What We Do in the Shadows"
+        },
+        {
+          "time": "2:35 AM",
+          "title": "What We Do in the Shadows"
+        },
+        {
+          "time": "3:10 AM",
+          "title": "What We Do in the Shadows"
+        },
+        {
+          "time": "3:40 AM",
+          "title": "It's Always Sunny in Philadelphia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.3,
+      "audio_rms": 2149.2,
+      "audio_ok": true
+    },
+    {
+      "number": 308,
+      "name": "FXX HDTV",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "It's Always Sunny in Philadelphia"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "It's Always Sunny in Philadelphia"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "It's Always Sunny in Philadelphia"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Twilight Zone"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Twilight Zone"
+        }
+      ],
+      "video_ok": true,
+      "luma": 45.8,
+      "audio_rms": 1041.9,
+      "audio_ok": true
+    },
+    {
+      "number": 309,
+      "name": "FLAVOUR NETWORK",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Beat Bobby Flay"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Hell's Kitchen"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Hell's Kitchen"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hell's Kitchen"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Hell's Kitchen"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.3,
+      "audio_rms": 1080.6,
+      "audio_ok": true
+    },
+    {
+      "number": 310,
+      "name": "GAME TV",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Match Game"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Supermarket Sweep"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Tattletales"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Card Sharks"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Sale of the Century"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.9,
+      "audio_rms": 1616.2,
+      "audio_ok": true
+    },
+    {
+      "number": 311,
+      "name": "HOME NETWORK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Mother Flip"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Help! | Wrecked My House"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Help! | Wrecked My House"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Extreme Makeover: Home Edition"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Extreme Makeover: Home Edition"
+        }
+      ],
+      "video_ok": true,
+      "luma": 166.1,
+      "audio_rms": 697.8,
+      "audio_ok": true
+    },
+    {
+      "number": 312,
+      "name": "HLN =",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Forensic Files"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.7,
+      "audio_rms": 1697.2,
+      "audio_ok": true
+    },
+    {
+      "number": 313,
+      "name": "HEADLINE NEWS HD",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Forensic Files"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 314,
+      "name": "LIFETIME HD",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Married at First Sight Australia"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "NCIS: Los Angeles"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Scorpion"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "S.W.A.T."
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.4,
+      "audio_rms": 2058.1,
+      "audio_ok": true
+    },
+    {
+      "number": 315,
+      "name": "LOVE NATURE TRUE 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Survival of the Beast"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Orangutan Jungle School"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Wonders of Nature"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Wonders of Nature"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Survival of the Beast"
+        }
+      ],
+      "video_ok": true,
+      "luma": 31.8,
+      "audio_rms": 1785.7,
+      "audio_ok": true
+    },
+    {
+      "number": 316,
+      "name": "GINX ESPORTS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.7,
+      "audio_rms": 1125.4,
+      "audio_ok": true
+    },
+    {
+      "number": 317,
+      "name": "MSNBC",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.7,
+      "audio_rms": 1147.9,
+      "audio_ok": true
+    },
+    {
+      "number": 318,
+      "name": "MTV HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 213.6,
+      "audio_rms": 1540.9,
+      "audio_ok": true
+    },
+    {
+      "number": 319,
+      "name": "MUCH MUSIC HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Icons Unearthed: Harry Potter"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Dark Side of the Cage"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "World's Funniest Videos: Top 10 Countdown"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "World's Funniest Videos: Top 10 Countdown"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Totally Funny Animals"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.6,
+      "audio_rms": 1952.9,
+      "audio_ok": true
+    },
+    {
+      "number": 320,
+      "name": "MAKEFUL",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Reba"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Repair Shop: On the Road"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Bargain Hunt"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Travelling Auctioneers"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Repair Shop"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.6,
+      "audio_rms": 1986.0,
+      "audio_ok": true
+    },
+    {
+      "number": 321,
+      "name": "NTV ST. JOHN'S (CJON)",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Island of Bryan"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Making It Home With Kortney & Dave"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Scenes of Newfoundland"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "NTV News: First Edition"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "NTV Early Morning News"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.9,
+      "audio_rms": 1752.8,
+      "audio_ok": true
+    },
+    {
+      "number": 322,
+      "name": "NAT GEO WILD HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Cesar Millan: Better Human Better Dog"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "America the Wild"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Close Encounters of the Wild Kind"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "America the Wild"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Close Encounters of the Wild Kind"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.8,
+      "audio_rms": 1639.3,
+      "audio_ok": true
+    },
+    {
+      "number": 323,
+      "name": "NATIONAL GEOGRAPHIC",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Inside Sydney Airport"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Inside Airport Lost & Found"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Inside Airport Lost & Found"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Inside Airport Lost & Found"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Inside Airport Lost & Found"
+        }
+      ],
+      "video_ok": true,
+      "luma": 45.1,
+      "audio_rms": 1145.7,
+      "audio_ok": true
+    },
+    {
+      "number": 324,
+      "name": "OLN HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.6,
+      "audio_rms": 1204.7,
+      "audio_ok": true
+    },
+    {
+      "number": 325,
+      "name": "OMNI EAST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 229.9,
+      "audio_rms": 2279.9,
+      "audio_ok": true
+    },
+    {
+      "number": 326,
+      "name": "OMNI.1 HD",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "L'arte Di Cucinare"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "OMNI News: Italian Edition"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "L'arte Di Cucinare"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "OMNI News: Italian Edition"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "L'arte Di Cucinare"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.7,
+      "audio_rms": 2177.7,
+      "audio_ok": true
+    },
+    {
+      "number": 327,
+      "name": "OMNI.2 HD",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "OMNI News: Punjabi Edition"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "OMNI News: Cantonese Edition"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "OMNI News: Mandarin Edition"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "OMNI News: Filipino Edition"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "OMNI News: Arabic Edition"
+        }
+      ],
+      "video_ok": true,
+      "luma": 135.3,
+      "audio_rms": 1971.8,
+      "audio_ok": true
+    },
+    {
+      "number": 328,
+      "name": "OWN HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.7,
+      "audio_rms": 1408.6,
+      "audio_ok": true
+    },
+    {
+      "number": 329,
+      "name": "PEACHTREE TV HD",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Neighborhood"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Bob Hearts Abishola"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Bob Hearts Abishola"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Aging Untold"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Good Side"
+        }
+      ],
+      "video_ok": true,
+      "luma": 70.7,
+      "audio_rms": 1648.8,
+      "audio_ok": true
+    },
+    {
+      "number": 330,
+      "name": "OMNI BC",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.1,
+      "audio_rms": 1714.8,
+      "audio_ok": true
+    },
+    {
+      "number": 331,
+      "name": "OMNI VANCOVER HD",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Focus Mandarin"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "OMNI News: Punjabi Edition"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Focus Punjabi"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Focus Mandarin"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "OMNI News: Filipino Edition"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 332,
+      "name": "SLICE HD",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "The Goldbergs"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Neighborhood"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Neighborhood"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Real Housewives of Beverly Hills"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Real Housewives of Beverly Hills"
+        }
+      ],
+      "video_ok": true,
+      "luma": 170.9,
+      "audio_rms": 1642.2,
+      "audio_ok": true
+    },
+    {
+      "number": 333,
+      "name": "TLC HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "ER: Caught on Camera"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Save My Skin"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "1000-lb Roomies"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "90 Day Fiancé: Happily Ever After?"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "The Jennifer Hudson Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.6,
+      "audio_rms": 1302.2,
+      "audio_ok": true
+    },
+    {
+      "number": 334,
+      "name": "o",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Estate Originals: Treasures From the Past"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "M. Asam Skin Care"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Skechers Footwear"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "M. Asam Skin Care"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Tower Hill by Christie Brinkley"
+        }
+      ],
+      "video_ok": true,
+      "luma": 224.3,
+      "audio_rms": 941.2,
+      "audio_ok": true
+    },
+    {
+      "number": 335,
+      "name": "TVO KIDS HD",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "SponsorLand: Welcome to Canada"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Red Fever"
+        },
+        {
+          "time": "2:52 AM",
+          "title": "GeoMinute"
+        },
+        {
+          "time": "2:53 AM",
+          "title": "Citizen Minutes"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Striking Balance"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.7,
+      "audio_rms": 1934.0,
+      "audio_ok": true
+    },
+    {
+      "number": 336,
+      "name": "UNIS TV HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.2,
+      "audio_rms": 2362.0,
+      "audio_ok": true
+    },
+    {
+      "number": 337,
+      "name": "CTV SPEED CHANNEL",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Highway Thru Hell"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Graveyard Carz"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Highway Thru Hell"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Highway Thru Hell"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Highway Thru Hell"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.7,
+      "audio_rms": 1323.8,
+      "audio_ok": true
+    },
+    {
+      "number": 338,
+      "name": "VISION TV",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "Columbo"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "700 Club Canada"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Tribal Trails"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tomorrow's World"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Prophecy USA"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.4,
+      "audio_rms": 938.3,
+      "audio_ok": true
+    },
+    {
+      "number": 339,
+      "name": "W NETWORK HD (EAST)",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "All My Life"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Girl on the Train"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Parks and Recreation"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Parks and Recreation"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "You Had Me at Aloha"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.0,
+      "audio_rms": 1343.2,
+      "audio_ok": true
+    },
+    {
+      "number": 340,
+      "name": "W NETWORK (WEST)",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "All My Life"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Girl on the Train"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Parks and Recreation"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Parks and Recreation"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "You Had Me at Aloha"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.3,
+      "audio_rms": 190.6,
+      "audio_ok": true
+    },
+    {
+      "number": 341,
+      "name": "YES TV HD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Murdoch Mysteries"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Flip Side"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Laverne €: Shirley"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Heartland"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Joyce Meyer Enjoying Everyday Life"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.9,
+      "audio_rms": 1406.3,
+      "audio_ok": true
+    },
+    {
+      "number": 342,
+      "name": "BET CANADA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.8,
+      "audio_rms": 1254.3,
+      "audio_ok": true
+    },
+    {
+      "number": 881,
+      "name": "JOY 14",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 149.5,
+      "audio_rms": 581.5,
+      "audio_ok": true
+    },
+    {
+      "number": 882,
+      "name": "FASHION TV 4K",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.8,
+      "audio_rms": 2443.2,
+      "audio_ok": true
+    },
+    {
+      "number": 883,
+      "name": "COSMO",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.0,
+      "audio_rms": 1703.4,
+      "audio_ok": true
+    },
+    {
+      "number": 884,
+      "name": "GLOBAL NEWS OKANAGAN",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.8,
+      "audio_rms": 1570.3,
+      "audio_ok": true
+    },
+    {
+      "number": 885,
+      "name": "ONTARIO LEGISLATIVE",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.4,
+      "audio_rms": 1562.6,
+      "audio_ok": true
+    },
+    {
+      "number": 886,
+      "name": "MAGNOLIA NETWORK FHD",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.2,
+      "audio_rms": 978.5,
+      "audio_ok": true
+    },
+    {
+      "number": 887,
+      "name": "BLAZE TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.5,
+      "audio_rms": 1671.0,
+      "audio_ok": true
+    },
+    {
+      "number": 888,
+      "name": "BRAVO FHD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Real Housewives of Potomac"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The Real Housewives of Potomac"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Real Housewives of Potomac"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Real Housewives of Potomac"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Real Housewives of Potomac"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.1,
+      "audio_rms": 1449.8,
+      "audio_ok": true
+    },
+    {
+      "number": 889,
+      "name": "PICK TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 235.9,
+      "audio_rms": 1667.7,
+      "audio_ok": true
+    },
+    {
+      "number": 890,
+      "name": "CBS REALITY CA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 891,
+      "name": "CITYNEWS TORONTO",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.6,
+      "audio_rms": 725.5,
+      "audio_ok": true
+    },
+    {
+      "number": 892,
+      "name": "CITYNEWS ALBERTA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.3,
+      "audio_rms": 1730.9,
+      "audio_ok": true
+    },
+    {
+      "number": 893,
+      "name": "CITYNEWS VANCOUVER",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.2,
+      "audio_rms": 1811.3,
+      "audio_ok": true
+    },
+    {
+      "number": 894,
+      "name": "OMNI PACIFIC FHD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.5,
+      "audio_rms": 1126.6,
+      "audio_ok": true
+    },
+    {
+      "number": 895,
+      "name": "OMNI ICI FHD",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.0,
+      "audio_rms": 986.0,
+      "audio_ok": true
+    },
+    {
+      "number": 896,
+      "name": "OMNI PRAIRIES FHD",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Focus Punjabi"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Focus Cantonese"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "OMNI News: Filipino Edition"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "OMNI News: Arabic Edition"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "OMNI News: Punjabi Edition"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.7,
+      "audio_rms": 1656.9,
+      "audio_ok": true
+    },
+    {
+      "number": 897,
+      "name": "ROGERS TV BATHURST",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 217.0,
+      "audio_rms": 441.2,
+      "audio_ok": true
+    },
+    {
+      "number": 898,
+      "name": "ROGERS TV OTTAWA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 217.6,
+      "audio_rms": 1506.8,
+      "audio_ok": true
+    },
+    {
+      "number": 899,
+      "name": "RYAN AND FRIENDS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 170.2,
+      "audio_rms": 575.1,
+      "audio_ok": true
+    },
+    {
+      "number": 900,
+      "name": "ROGERS TV CORNER BROOK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 901,
+      "name": "ROGERS TV ST JOHNS",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 217.1,
+      "audio_rms": 320.7,
+      "audio_ok": true
+    },
+    {
+      "number": 902,
+      "name": "ROGERS TV WATERLOO",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 218.1,
+      "audio_rms": 1048.5,
+      "audio_ok": true
+    },
+    {
+      "number": 903,
+      "name": "COMEDY CENTRAL XTRA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 161.8,
+      "audio_rms": 1373.5,
+      "audio_ok": true
+    },
+    {
+      "number": 904,
+      "name": "COMEDY CENTRAL HD CA",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.2,
+      "audio_rms": 1365.1,
+      "audio_ok": true
+    },
+    {
+      "number": 905,
+      "name": "KNOWLEDGE NETWORK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Paramedics: Life on the Line"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Hope for Wildlife"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Nile: 5000 Years of History"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Knowing"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Paramedics: Life on the Line"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.1,
+      "audio_rms": 387.0,
+      "audio_ok": true
+    },
+    {
+      "number": 906,
+      "name": "AS",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "CHEK Late News"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "100 Huntley Street"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "The Great Salish Heist"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Finding the Balance"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Prazana Lab-Grown Diamonds"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.1,
+      "audio_rms": 2109.4,
+      "audio_ok": true
+    },
+    {
+      "number": 907,
+      "name": "CPAC CA",
+      "epg": [
+        {
+          "time": "1:30 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Forensic Files"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Forensic Files"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.5,
+      "audio_rms": 322.9,
+      "audio_ok": true
+    },
+    {
+      "number": 909,
+      "name": "TRUE4K REVEL TV",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.7,
+      "audio_rms": 1663.0,
+      "audio_ok": true
+    },
+    {
+      "number": 9,
+      "name": "AMILY CHANNEL WEST",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15501,
+      "name": "NEWS FORUM WEST HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.4,
+      "audio_rms": 1810.4,
+      "audio_ok": true
+    },
+    {
+      "number": 15510,
+      "name": "CITY TV MONTREAL BACKUP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.2,
+      "audio_rms": 1444.0,
+      "audio_ok": true
+    },
+    {
+      "number": 15511,
+      "name": "CTV 2 OTTAWA BACKUP",
+      "epg": [
+        {
+          "time": "1:07 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "2:05 AM",
+          "title": "Flashpoint"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Criminal Minds: Evolution"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Just for Laughs: Gags"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Just for Laughs: Gags"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.3,
+      "audio_rms": 2522.3,
+      "audio_ok": true
+    },
+    {
+      "number": 15512,
+      "name": "YES TV BACKUP",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Murdoch Mysteries"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Flip Side"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Laverne €: Shirley"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Heartland"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Joyce Meyer Enjoying Everyday Life"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.8,
+      "audio_rms": 1560.9,
+      "audio_ok": true
+    },
+    {
+      "number": 15513,
+      "name": "CBC TORONTO BACKUP",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Escape to the Country"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.4,
+      "audio_rms": 90.3,
+      "audio_ok": true
+    },
+    {
+      "number": 15514,
+      "name": "CHEK BACKUP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.8,
+      "audio_rms": 948.7,
+      "audio_ok": true
+    },
+    {
+      "number": 15515,
+      "name": "CITY TV BACKUP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 153.0,
+      "audio_rms": 1503.8,
+      "audio_ok": true
+    },
+    {
+      "number": 15516,
+      "name": "YES TV BACKUP",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Murdoch Mysteries"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Flip Side"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Laverne €: Shirley"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Heartland"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Joyce Meyer Enjoying Everyday Life"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15517,
+      "name": "CBC TORONTO BACKUP",
+      "epg": [
+        {
+          "time": "12:30 AM",
+          "title": "Yintah"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "CBC Docs POV"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Kim's Convenience"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Escape to the Country"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 15518,
+      "name": "BBC FIRST",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "The Graham Norton Show"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "QI"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "QI"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Finish Line"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Chase"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.6,
+      "audio_rms": 1332.0,
+      "audio_ok": true
+    },
+    {
+      "number": 15519,
+      "name": "CANADA TV 24",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.0,
+      "audio_rms": 4011.6,
+      "audio_ok": true
+    },
+    {
+      "number": 99995,
+      "name": "AAA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.4,
+      "audio_rms": 1131.6,
+      "audio_ok": true
+    },
+    {
+      "number": 99996,
+      "name": "A",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.7,
+      "audio_rms": 822.0,
+      "audio_ok": true
+    },
+    {
+      "number": 99997,
+      "name": "A",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.4,
+      "audio_rms": 1325.6,
+      "audio_ok": true
+    },
+    {
+      "number": 99998,
+      "name": "A AAA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.9,
+      "audio_rms": 1617.6,
+      "audio_ok": true
+    },
+    {
+      "number": 99999,
+      "name": "GL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.2,
+      "audio_rms": 603.4,
+      "audio_ok": true
+    }
+  ]
+}

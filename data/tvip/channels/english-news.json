@@ -1,0 +1,1102 @@
+{
+  "category": "ENGLISH | NEWS",
+  "captured": "2026-10-01T03:15:35-0400",
+  "mode": "full",
+  "reported_total": 49,
+  "channels": [
+    {
+      "number": 123,
+      "name": "BLOOMBERG TRUE 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Bloomberg The Opening Trade"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Pulse with Francine Lacqua"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Bloomberg Brief"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Bloomberg Surveillance"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Bloomberg Open Interest"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.7,
+      "audio_rms": 1089.5,
+      "audio_ok": true
+    },
+    {
+      "number": 124,
+      "name": "WION NEWS ENGLISH",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "TOP STORIES"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "TOP STORIES"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "TOP STORIES"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "TOP STORIES"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "TOP STORIES"
+        }
+      ],
+      "video_ok": true,
+      "luma": 144.3,
+      "audio_rms": 335.2,
+      "audio_ok": true
+    },
+    {
+      "number": 125,
+      "name": "CTV NEWS NETWORK",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "CTV News Overnight"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CTV News Overnight"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CTV National News With Omar Sachedina"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.1,
+      "audio_rms": 2355.7,
+      "audio_ok": true
+    },
+    {
+      "number": 126,
+      "name": "AL JAZEERA 4K NEWS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Newshour"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "News"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "The Bottom Line"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "News"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "People and Power"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.6,
+      "audio_rms": 1383.7,
+      "audio_ok": true
+    },
+    {
+      "number": 127,
+      "name": "BBC WORLD NEWS AK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.3,
+      "audio_rms": 4137.6,
+      "audio_ok": true
+    },
+    {
+      "number": 128,
+      "name": "BNN BLOOMBERG 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Bloomberg The Opening Trade"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Pulse with Francine Lacqua"
+        },
+        {
+          "time": "4:59 AM",
+          "title": "Bloomberg Brief"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Bloomberg Surveillance"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "The Street"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.8,
+      "audio_rms": 1402.4,
+      "audio_ok": true
+    },
+    {
+      "number": 129,
+      "name": "BLOOMBERG AK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.0,
+      "audio_rms": 2608.3,
+      "audio_ok": true
+    },
+    {
+      "number": 130,
+      "name": "BLOOMBERG UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.6,
+      "audio_rms": 1021.2,
+      "audio_ok": true
+    },
+    {
+      "number": 131,
+      "name": "OOMBERG NEWS INDIA",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.2,
+      "audio_rms": 1352.4,
+      "audio_ok": true
+    },
+    {
+      "number": 132,
+      "name": "BLOOMBERG AFRICA",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Bloomberg Open Interest"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The David Rubenstein Show"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Bloomberg Next Africa"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Bloomberg Technology"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Bloomberg Real Yield"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.6,
+      "audio_rms": 1827.6,
+      "audio_ok": true
+    },
+    {
+      "number": 133,
+      "name": "CNBC CANADA 4K",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.1,
+      "audio_rms": 824.5,
+      "audio_ok": true
+    },
+    {
+      "number": 134,
+      "name": "CNBC USA 4K",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Dateline"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Squawk Box Europe"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Morning Call"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Squawk Box"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Squawk on the Street"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.4,
+      "audio_rms": 1585.4,
+      "audio_ok": true
+    },
+    {
+      "number": 135,
+      "name": "CNBC WORLD 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Squawk Box Europe"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Morning Call"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Executive Decisions"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "Executive Decisions"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Marketing Media Money"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.8,
+      "audio_rms": 775.5,
+      "audio_ok": true
+    },
+    {
+      "number": 136,
+      "name": "SKY NEWS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Mornings with Ridge and Frost"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Mornings with Ridge and Frost"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Mornings with Ridge and Frost"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Mornings with Ridge and Frost"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Sky News Today with Gareth Malone"
+        }
+      ],
+      "video_ok": true,
+      "luma": 149.0,
+      "audio_rms": 1509.7,
+      "audio_ok": true
+    },
+    {
+      "number": 137,
+      "name": "CNN USA 4K",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "CNN NewsNight: Post Debate Analysis"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CNN Headline Express"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "CNN This Morning"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "CNN News Central"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "CNN News Central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.3,
+      "audio_rms": 1788.5,
+      "audio_ok": true
+    },
+    {
+      "number": 138,
+      "name": "CNN INTERNATIONAL 4K",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "CNN Newsroom"
+        },
+        {
+          "time": "3:45 AM",
+          "title": "World Sport"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "CNN Newsroom"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CNN Headline Express"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "CNN This Morning"
+        }
+      ],
+      "video_ok": true,
+      "luma": 144.4,
+      "audio_rms": 1163.2,
+      "audio_ok": true
+    },
+    {
+      "number": 139,
+      "name": "CNN EUROPE 4K",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "CNN Newsroom"
+        },
+        {
+          "time": "3:45 AM",
+          "title": "World Sport"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "CNN Newsroom"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CNN Headline Express"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "CNN This Morning"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.4,
+      "audio_rms": 1261.7,
+      "audio_ok": true
+    },
+    {
+      "number": 140,
+      "name": "CNN AFRICA",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.7,
+      "audio_rms": 1424.4,
+      "audio_ok": true
+    },
+    {
+      "number": 1441,
+      "name": "CNN ARABIC",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 142,
+      "name": "FOX NEWS CHANNEL",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Gutfeld!"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Fox News at Night"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "FOX & Friends First"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "FOX and Friends"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "America's Newsroom"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.0,
+      "audio_rms": 2550.4,
+      "audio_ok": true
+    },
+    {
+      "number": 143,
+      "name": "FOX BUSINESS NETWORK AK",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "The Aging Brain"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Paid Programming"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Legends & Lies: The Patriots"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "FOX Weather First"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Mornings With FOX Business"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.0,
+      "audio_rms": 2472.7,
+      "audio_ok": true
+    },
+    {
+      "number": 14644,
+      "name": "MSNBC CANADA 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.4,
+      "audio_rms": 1843.7,
+      "audio_ok": true
+    },
+    {
+      "number": 145,
+      "name": "MSNBC USA 4K",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "All in With Chris Hayes"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Briefing With Jen Psaki"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Way Too Early With Ali Vitali"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Morning Joe"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Money, Power, Politics With Stephanie Ruhle"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.1,
+      "audio_rms": 1181.7,
+      "audio_ok": true
+    },
+    {
+      "number": 146,
+      "name": "CBC NEWS NETWORK 4K",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The National"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "CBC Morning Live With David Common"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "CBC Newsroom With Aarti Pole"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.4,
+      "audio_rms": 1403.4,
+      "audio_ok": true
+    },
+    {
+      "number": 147,
+      "name": "FRANCE 24 FR HD",
+      "epg": [
+        {
+          "time": "2:59 AM",
+          "title": "Le Journal"
+        },
+        {
+          "time": "3:22 AM",
+          "title": "L'info Eco"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Le Journal"
+        },
+        {
+          "time": "3:42 AM",
+          "title": "Revue de presse francaise"
+        },
+        {
+          "time": "3:47 AM",
+          "title": "Focus"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.6,
+      "audio_rms": 882.8,
+      "audio_ok": true
+    },
+    {
+      "number": 14443,
+      "name": "FRANCE 24 INDIA",
+      "epg": [
+        {
+          "time": "2:40 AM",
+          "title": "The Debate"
+        },
+        {
+          "time": "3:23 AM",
+          "title": "Shortcuts"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "News"
+        },
+        {
+          "time": "3:40 AM",
+          "title": "Focus"
+        },
+        {
+          "time": "3:45 AM",
+          "title": "Talking Europe"
+        }
+      ],
+      "video_ok": true,
+      "luma": 145.1,
+      "audio_rms": 75.8,
+      "audio_ok": true
+    },
+    {
+      "number": 149,
+      "name": "RUSSIA TODAY UK 4K",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.1,
+      "audio_rms": 516.3,
+      "audio_ok": true
+    },
+    {
+      "number": 150,
+      "name": "BLACK NEWS CHANNEL HD",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.2,
+      "audio_rms": 2234.3,
+      "audio_ok": true
+    },
+    {
+      "number": 151,
+      "name": "GLOBAL NATIONAL NEWS CA",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.4,
+      "audio_rms": 539.8,
+      "audio_ok": true
+    },
+    {
+      "number": 152,
+      "name": "CNBC TV18 NEWS INDIA HD",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.2,
+      "audio_rms": 1570.8,
+      "audio_ok": true
+    },
+    {
+      "number": 153,
+      "name": "CGTN NEWS",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "TV Drama"
+        },
+        {
+          "time": "3:14 AM",
+          "title": "TV Drama"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "China News"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Focus Today"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "China Showbiz"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.1,
+      "audio_rms": 698.7,
+      "audio_ok": true
+    },
+    {
+      "number": 154,
+      "name": "TIMES NOW INDIA",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "First Break"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Morning Newshour"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "The Morning Newshour"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Times Now Live"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Times Now Live"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.4,
+      "audio_rms": 1632.2,
+      "audio_ok": true
+    },
+    {
+      "number": 155,
+      "name": "NDTV 24X7 INDIA",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "News"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "News"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Breakfast Show"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "The Breakfast Show"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "News"
+        }
+      ],
+      "video_ok": true,
+      "luma": 204.4,
+      "audio_rms": 1997.3,
+      "audio_ok": true
+    },
+    {
+      "number": 156,
+      "name": "RUSSIA TODAY USA",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.0,
+      "audio_rms": 2425.3,
+      "audio_ok": true
+    },
+    {
+      "number": 157,
+      "name": "RUSSIA TODAY NEWS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.1,
+      "audio_rms": 2157.1,
+      "audio_ok": true
+    },
+    {
+      "number": 158,
+      "name": "CBSN",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 159,
+      "name": "GB NEWS UK",
+      "epg": [
+        {
+          "time": "1:00 AM",
+          "title": "Breakfast with Stephen and Ellie"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Britain's Newsroom"
+        },
+        {
+          "time": "7:00 AM",
+          "title": "Good Afternoon Britain"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Martin Daubney"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Dewbs & Co"
+        }
+      ],
+      "video_ok": true,
+      "luma": 162.0,
+      "audio_rms": 1125.8,
+      "audio_ok": true
+    },
+    {
+      "number": 160,
+      "name": "CGTN DOCUMENTARY",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Youthful China"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Pixel Collage"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Today's Top Pick"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Humanities and Geography"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Living China"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 1451,
+      "name": "PRESS TV",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.0,
+      "audio_rms": 994.3,
+      "audio_ok": true
+    },
+    {
+      "number": 162,
+      "name": "EURO NEWS",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.2,
+      "audio_rms": 2138.2,
+      "audio_ok": true
+    },
+    {
+      "number": 163,
+      "name": "CITY NEWS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.3,
+      "audio_rms": 1995.0,
+      "audio_ok": true
+    },
+    {
+      "number": 14544,
+      "name": "NTD NEWS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "NTD Financial News"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "DaYu's Time"
+        },
+        {
+          "time": "3:45 AM",
+          "title": "News Duet"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Frontline"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "China's Forbidden News"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.9,
+      "audio_rms": 1151.4,
+      "audio_ok": true
+    },
+    {
+      "number": 165,
+      "name": "REPUBLIC TV",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Live This Morning"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Live This Morning"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Live This Morning"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Live This Morning"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Live And Breaking"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.5,
+      "audio_rms": 1112.2,
+      "audio_ok": true
+    },
+    {
+      "number": 168,
+      "name": "OAN PLUS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 169,
+      "name": "SS NEWS PHILADELPHIA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 1571,
+      "name": "CBS NEWS NEW YORK",
+      "epg": [
+        {
+          "time": "3:07 AM",
+          "title": "CBS Evening News"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "CBS News Roundup"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "CBS News Mornings"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CBS News New York This Morning 4:30am"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CBS N kK This M"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.4,
+      "audio_rms": 1565.3,
+      "audio_ok": true
+    },
+    {
+      "number": 172,
+      "name": "CBS NEWS CHICAGO",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.5,
+      "audio_rms": 1593.1,
+      "audio_ok": true
+    },
+    {
+      "number": 218,
+      "name": "CBS NEWS 24/7",
+      "epg": [
+        {
+          "time": "3:07 AM",
+          "title": "CBS Evening News"
+        },
+        {
+          "time": "3:37 AM",
+          "title": "CBS News Roundup"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "CBS News Mornings"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "CBS News New York This Morning 4:30am"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "CBS News New York This Morning 5am"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.4,
+      "audio_rms": 852.7,
+      "audio_ok": true
+    },
+    {
+      "number": 221,
+      "name": "FOX 5 LOCAL WASHINGTON DC",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.5,
+      "audio_rms": 2220.1,
+      "audio_ok": true
+    }
+  ]
+}

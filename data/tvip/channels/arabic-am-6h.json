@@ -1,0 +1,65 @@
+{
+  "category": "ARABIC | AM +6H",
+  "captured": "2026-10-01T20:45:45-0400",
+  "mode": "sports-only",
+  "reported_total": 154,
+  "channels": [
+    {
+      "number": 41680,
+      "name": "ALMAGHARIBIA TV +6H"
+    },
+    {
+      "number": 41681,
+      "name": "UTV IRAQ +6H"
+    },
+    {
+      "number": 41690,
+      "name": "AL RASHED +6H"
+    },
+    {
+      "number": 41705,
+      "name": "AL ONS TV +6H"
+    },
+    {
+      "number": 41706,
+      "name": "AL SUMARIA +6H"
+    },
+    {
+      "number": 41721,
+      "name": "RAFIDEN TV +6H"
+    },
+    {
+      "number": 41737,
+      "name": "CHADA TV +6H"
+    },
+    {
+      "number": 41738,
+      "name": "AL HIWAR HD +6H"
+    },
+    {
+      "number": 41753,
+      "name": "NBN 4K +6H"
+    },
+    {
+      "number": 41768,
+      "name": "TELE MAROC +6H"
+    },
+    {
+      "number": 41769,
+      "name": "AL GHAD AL ARABY 4K +6H"
+    },
+    {
+      "number": 41784,
+      "name": "AL AHD +6H"
+    },
+    {
+      "number": 334,
+      "name": "ALMAGHARIBIA TV +6H",
+      "number_uncertain": true
+    },
+    {
+      "number": 504,
+      "name": "ALMAGHARIBIA TV +6H"
+    }
+  ]
+}

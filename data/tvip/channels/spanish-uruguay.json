@@ -1,0 +1,260 @@
+{
+  "category": "SPANISH | URUGUAY",
+  "captured": "2026-09-30T19:28:59-0400",
+  "mode": "full",
+  "reported_total": 14,
+  "channels": [
+    {
+      "number": 37597,
+      "name": "UY | FLORIDA TELEVISION CO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.0,
+      "audio_rms": 5968.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37598,
+      "name": "UY | CANAL 12 HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.5,
+      "audio_rms": 1332.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37600,
+      "name": "UY | ARTIGAS TELIVISION",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.8,
+      "audio_rms": 3375.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37601,
+      "name": "UY | Directv Sports",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.6,
+      "audio_rms": 1503.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37602,
+      "name": "U Y VIY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.0,
+      "audio_rms": 312.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37603,
+      "name": "UY | VTV Plus HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.9,
+      "audio_rms": 649.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37604,
+      "name": "UY | VIV +",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.0,
+      "audio_rms": 724.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37605,
+      "name": "UY | VIV HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.8,
+      "audio_rms": 1207.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37607,
+      "name": "Ad",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37609,
+      "name": "UY | Canal 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37610,
+      "name": "UY | Canal 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 151.6,
+      "audio_rms": 6331.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37611,
+      "name": "UY | Canal 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37612,
+      "name": "UY | Canal 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 152.1,
+      "audio_rms": 6970.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37613,
+      "name": "UY | La Red",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.0,
+      "audio_rms": 1189.4,
+      "audio_ok": true
+    }
+  ]
+}

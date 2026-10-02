@@ -1,0 +1,246 @@
+{
+  "category": "ARABIC | KIDS TV",
+  "captured": "2026-10-01T20:29:02-0400",
+  "mode": "sports-only",
+  "reported_total": 58,
+  "channels": [
+    {
+      "number": 41526,
+      "name": "H#H##H## KIDS TV ######"
+    },
+    {
+      "number": 41530,
+      "name": "AR: SPONGEBOB 4K"
+    },
+    {
+      "number": 41533,
+      "name": "AR: SUPER JOJO 4K"
+    },
+    {
+      "number": 41541,
+      "name": "AR: GRIZZY AND THE LEMMINGS 4K"
+    },
+    {
+      "number": 41542,
+      "name": "AR: MARAH KG 4K"
+    },
+    {
+      "number": 41543,
+      "name": "AR: MARAH TV 4K"
+    },
+    {
+      "number": 41546,
+      "name": "AR: KIDS 3"
+    },
+    {
+      "number": 41547,
+      "name": "AR: KIDS 4"
+    },
+    {
+      "number": 41549,
+      "name": "AR: KIDS 6"
+    },
+    {
+      "number": 41550,
+      "name": "AR: KIDS 7"
+    },
+    {
+      "number": 41561,
+      "name": "AR: Unite 2 Blast"
+    },
+    {
+      "number": 41562,
+      "name": "AR: NETFLIX KIDS 1 4K"
+    },
+    {
+      "number": 104,
+      "name": "HH#HH# KIDS TV ####8#",
+      "number_uncertain": true
+    },
+    {
+      "number": 41541,
+      "name": "AR: GRIZZY AND THE LEMMINGS 4K"
+    },
+    {
+      "number": 41566,
+      "name": "AR: SHAUN THE SHEEP HD"
+    },
+    {
+      "number": 41567,
+      "name": "AR: GUIli ARABIC 4K"
+    },
+    {
+      "number": 41568,
+      "name": "AR: Masha and the Bear 1 HD"
+    },
+    {
+      "number": 41569,
+      "name": "AR: Sirag 1 4K"
+    },
+    {
+      "number": 41570,
+      "name": "AR: Sirag 2 4K"
+    },
+    {
+      "number": 41571,
+      "name": "AR: Tom and Jerry"
+    },
+    {
+      "number": 41572,
+      "name": "AR: MR Bean KIDS 1 4K"
+    },
+    {
+      "number": 41573,
+      "name": "AR: Sasoki KIDS 1 4K"
+    },
+    {
+      "number": 41574,
+      "name": "AR: KIDS Islamic 1 HD"
+    },
+    {
+      "number": 41575,
+      "name": "AR: Rotana Kids 4K"
+    },
+    {
+      "number": 41576,
+      "name": "AR: Majid Kids 4K"
+    },
+    {
+      "number": 8634,
+      "name": "HH#HHH KIDS TV ###FFF",
+      "number_uncertain": true
+    },
+    {
+      "number": 41578,
+      "name": "AR: CN Arabic Cartoon Arabic 4K"
+    },
+    {
+      "number": 41580,
+      "name": "AR: Cookies Kids"
+    },
+    {
+      "number": 41581,
+      "name": "AR: Nemo Kids"
+    },
+    {
+      "number": 41582,
+      "name": "AR: Doros 1"
+    },
+    {
+      "number": 41583,
+      "name": "AR: Doros 2"
+    },
+    {
+      "number": 41584,
+      "name": "AR: Doros 3"
+    },
+    {
+      "number": 41585,
+      "name": "AR: Doros 4"
+    },
+    {
+      "number": 41586,
+      "name": "AR: Doros 5"
+    },
+    {
+      "number": 41587,
+      "name": "AR: Doros 6"
+    },
+    {
+      "number": 41588,
+      "name": "AR: Doros 7"
+    },
+    {
+      "number": 41589,
+      "name": "AR: Doros 8"
+    },
+    {
+      "number": 41590,
+      "name": "AR: Doros 9"
+    },
+    {
+      "number": 41591,
+      "name": "AR: Doros 10"
+    },
+    {
+      "number": 41592,
+      "name": "AR: Doros 11"
+    },
+    {
+      "number": 41591,
+      "name": "AR: Doros 10",
+      "number_uncertain": true
+    },
+    {
+      "number": 41594,
+      "name": "AR: Akwam Kids 1 HD"
+    },
+    {
+      "number": 41595,
+      "name": "AR: Akwam Kids 2 HD"
+    },
+    {
+      "number": 41596,
+      "name": "AR: Akwam Kids 3 HD"
+    },
+    {
+      "number": 41597,
+      "name": "AR: Akwam Kids 4 HD"
+    },
+    {
+      "number": 41599,
+      "name": "AR: Akwam Kids 6 HD"
+    },
+    {
+      "number": 41600,
+      "name": "AR: Akwam Kids 7 HD"
+    },
+    {
+      "number": 41601,
+      "name": "AR: Akwam Kids 8 HD"
+    },
+    {
+      "number": 41602,
+      "name": "AR: Akwam Kids 9 HD"
+    },
+    {
+      "number": 41603,
+      "name": "AR: Akwam Kids 10 HD"
+    },
+    {
+      "number": 41604,
+      "name": "AR: Akwam Kids 11 HD"
+    },
+    {
+      "number": 41605,
+      "name": "AR: Akwam Kids 12 HD"
+    },
+    {
+      "number": 41606,
+      "name": "AR: Akwam Kids 13 HD"
+    },
+    {
+      "number": 41607,
+      "name": "AR: Akwam Kids 14 HD"
+    },
+    {
+      "number": 41606,
+      "name": "AR: Akwam Kids 13 HD",
+      "number_uncertain": true
+    },
+    {
+      "number": 41609,
+      "name": "AR: Akwam Kids 16 HD"
+    },
+    {
+      "number": 41608,
+      "name": "AR: Akwam Kids 15 HD",
+      "number_uncertain": true
+    },
+    {
+      "number": 41530,
+      "name": "AR: SPONGEBOB 4K",
+      "number_uncertain": true
+    }
+  ]
+}

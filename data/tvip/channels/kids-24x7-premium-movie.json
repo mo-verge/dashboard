@@ -1,0 +1,554 @@
+{
+  "category": "KIDS | 24X7 PREMIUM MOVIE",
+  "captured": "2026-09-30T22:17:48-0400",
+  "mode": "full",
+  "reported_total": 60,
+  "channels": [
+    {
+      "number": 60000,
+      "name": "SMART | DISNEY MOVIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 1183.2,
+      "audio_ok": true
+    },
+    {
+      "number": 60001,
+      "name": "SMART | DISNEY MOVIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.0,
+      "audio_rms": 350.5,
+      "audio_ok": true
+    },
+    {
+      "number": 60002,
+      "name": "SMART | DISNEY MOVIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.7,
+      "audio_rms": 719.0,
+      "audio_ok": true
+    },
+    {
+      "number": 60003,
+      "name": "SMART | DISNEY MOVIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 160.4,
+      "audio_rms": 1075.7,
+      "audio_ok": true
+    },
+    {
+      "number": 60004,
+      "name": "SMART | DISNEY MOVIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.2,
+      "audio_rms": 285.4,
+      "audio_ok": true
+    },
+    {
+      "number": 60010,
+      "name": "SMART | LIV AND MADDIE S1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.7,
+      "audio_rms": 807.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60011,
+      "name": "SMART | LIV AND MADDIE S2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.8,
+      "audio_rms": 1987.6,
+      "audio_ok": true
+    },
+    {
+      "number": 60012,
+      "name": "SMART | LIV AND MADDIE S3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.7,
+      "audio_rms": 684.8,
+      "audio_ok": true
+    },
+    {
+      "number": 60013,
+      "name": "SMART | LIV AND MADDIE S4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.5,
+      "audio_rms": 1434.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60020,
+      "name": "",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 60021,
+      "name": "SMART | KIDS MOVIE 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.4,
+      "audio_rms": 1588.2,
+      "audio_ok": true
+    },
+    {
+      "number": 60022,
+      "name": "SMART | KIDS MOVIE 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.5,
+      "audio_rms": 1099.0,
+      "audio_ok": true
+    },
+    {
+      "number": 60023,
+      "name": "SMART | KIDS MOVIE 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.4,
+      "audio_rms": 616.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6002,
+      "name": "SMART | KIDS MOVIE 4",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 166.3,
+      "audio_rms": 2819.4,
+      "audio_ok": true
+    },
+    {
+      "number": 60025,
+      "name": "SMART | KIDS MOVIE 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 368.1,
+      "audio_ok": true
+    },
+    {
+      "number": 60026,
+      "name": "SMART | KIDS MOVIE 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.1,
+      "audio_rms": 718.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60027,
+      "name": "SMART | KIDS MOVIE 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.5,
+      "audio_rms": 1292.8,
+      "audio_ok": true
+    },
+    {
+      "number": 60028,
+      "name": "SMART | KIDS MOVIE 8",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 60029,
+      "name": "SMART | KIDS MOVIE 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.4,
+      "audio_rms": 135.0,
+      "audio_ok": true
+    },
+    {
+      "number": 60030,
+      "name": "SMART | KIDS MOVIE 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.1,
+      "audio_rms": 2307.8,
+      "audio_ok": true
+    },
+    {
+      "number": 60031,
+      "name": "SMART | KIDS MOVIE 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.3,
+      "audio_rms": 1574.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60032,
+      "name": "SMART | KIDS MOVIE 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 11.4,
+      "audio_rms": 1253.8,
+      "audio_ok": true
+    },
+    {
+      "number": 60033,
+      "name": "SMART | KIDS MOVIE 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.7,
+      "audio_rms": 1289.6,
+      "audio_ok": true
+    },
+    {
+      "number": 60034,
+      "name": "SMART | KIDS MOVIE 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.0,
+      "audio_rms": 1544.2,
+      "audio_ok": true
+    },
+    {
+      "number": 60035,
+      "name": "SMART | KIDS MOVIE 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.3,
+      "audio_rms": 392.2,
+      "audio_ok": true
+    },
+    {
+      "number": 60036,
+      "name": "SMART | KIDS MOVIE 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 26.4,
+      "audio_rms": 563.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6003,
+      "name": "SMART | KIDS MOVIE 17",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.3,
+      "audio_rms": 544.7,
+      "audio_ok": true
+    },
+    {
+      "number": 60038,
+      "name": "SMART | KIDS MOVIE 18",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.7,
+      "audio_rms": 627.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6003,
+      "name": "SMART | KIDS MOVIE 19",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.8,
+      "audio_rms": 1603.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60040,
+      "name": "SMART | KIDS MOVIE 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.7,
+      "audio_rms": 1041.2,
+      "audio_ok": true
+    },
+    {
+      "number": 60041,
+      "name": "SMART | KIDS MOVIE 21",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.5,
+      "audio_rms": 533.4,
+      "audio_ok": true
+    },
+    {
+      "number": 60042,
+      "name": "SMART | KIDS MOVIE 22",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.4,
+      "audio_rms": 1333.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60043,
+      "name": "SMART | KIDS MOVIE 23",
+      "epg": [],
+      "video_ok": false,
+      "luma": 12.6,
+      "audio_rms": 4.0,
+      "audio_ok": false
+    },
+    {
+      "number": 60044,
+      "name": "SMART | KIDS MOVIE 24",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.4,
+      "audio_rms": 312.2,
+      "audio_ok": true
+    },
+    {
+      "number": 60045,
+      "name": "SMART | KIDS MOVIE 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.8,
+      "audio_rms": 1468.8,
+      "audio_ok": true
+    },
+    {
+      "number": 60,
+      "name": "SMART | KIDS MOVIE 26",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.3,
+      "audio_rms": 278.5,
+      "audio_ok": true
+    },
+    {
+      "number": 60047,
+      "name": "SMART | KIDS MOVIE 27",
+      "epg": [],
+      "video_ok": true,
+      "luma": 169.6,
+      "audio_rms": 2110.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60048,
+      "name": "SMART | KIDS MOVIE 28",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.8,
+      "audio_rms": 610.2,
+      "audio_ok": true
+    },
+    {
+      "number": 60049,
+      "name": "SMART | KIDS MOVIE 29",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.8,
+      "audio_rms": 545.9,
+      "audio_ok": true
+    },
+    {
+      "number": 60050,
+      "name": "SMART | KIDS MOVIE 30",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.6,
+      "audio_rms": 230.1,
+      "audio_ok": true
+    },
+    {
+      "number": 60051,
+      "name": "SMART | KIDS MOVIE 31",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.4,
+      "audio_rms": 572.4,
+      "audio_ok": true
+    },
+    {
+      "number": 60052,
+      "name": "SMART | KIDS MOVIE 32",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.8,
+      "audio_rms": 923.2,
+      "audio_ok": true
+    },
+    {
+      "number": 60053,
+      "name": "SMART | KIDS MOVIE 33",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.1,
+      "audio_rms": 46.5,
+      "audio_ok": true
+    },
+    {
+      "number": 60054,
+      "name": "SMART | KIDS MOVIE 34",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.9,
+      "audio_rms": 421.0,
+      "audio_ok": true
+    },
+    {
+      "number": 60055,
+      "name": "SMART | KIDS MOVIE 35",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.5,
+      "audio_rms": 2292.8,
+      "audio_ok": true
+    },
+    {
+      "number": 60056,
+      "name": "SMART | KIDS MOVIE 36",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.4,
+      "audio_rms": 569.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60057,
+      "name": "SMART | KIDS MOVIE 37",
+      "epg": [],
+      "video_ok": true,
+      "luma": 136.1,
+      "audio_rms": 101.0,
+      "audio_ok": true
+    },
+    {
+      "number": 60058,
+      "name": "SMART | KIDS MOVIE 38",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.9,
+      "audio_rms": 95.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6005,
+      "name": "SMART | KIDS MOVIE 39",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.4,
+      "audio_rms": 1118.0,
+      "audio_ok": true
+    },
+    {
+      "number": 60060,
+      "name": "SMART | KIDS MOVIE 40",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.7,
+      "audio_rms": 2131.8,
+      "audio_ok": true
+    },
+    {
+      "number": 60061,
+      "name": "SMART | KIDS MOVIE 41",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.7,
+      "audio_rms": 235.7,
+      "audio_ok": true
+    },
+    {
+      "number": 60062,
+      "name": "SMART | KIDS MOVIE 42",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.0,
+      "audio_rms": 2759.5,
+      "audio_ok": true
+    },
+    {
+      "number": 60063,
+      "name": "SMART | KIDS MOVIE 43",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.3,
+      "audio_rms": 2897.9,
+      "audio_ok": true
+    },
+    {
+      "number": 60064,
+      "name": "SMART | KIDS MOVIE 44",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.4,
+      "audio_rms": 1683.5,
+      "audio_ok": true
+    },
+    {
+      "number": 60065,
+      "name": "SMART | KIDS MOVIE 45",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.5,
+      "audio_rms": 3624.6,
+      "audio_ok": true
+    },
+    {
+      "number": 60066,
+      "name": "SMART | KIDS MOVIE 46",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.4,
+      "audio_rms": 2169.3,
+      "audio_ok": true
+    },
+    {
+      "number": 60067,
+      "name": "SMART | KIDS MOVIE 47",
+      "epg": [],
+      "video_ok": false,
+      "luma": 10.8,
+      "audio_rms": 43.1,
+      "audio_ok": true
+    },
+    {
+      "number": 60068,
+      "name": "SMART | KIDS MOVIE 48",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.2,
+      "audio_rms": 3912.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6006,
+      "name": "SMART | KIDS MOVIE 49",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.4,
+      "audio_rms": 406.9,
+      "audio_ok": true
+    },
+    {
+      "number": 60070,
+      "name": "SMART | KIDS MOVIE 50",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 1527.4,
+      "audio_ok": true
+    }
+  ]
+}

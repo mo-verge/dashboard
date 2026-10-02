@@ -1,0 +1,278 @@
+{
+  "category": "SPORTS | FORMULA 1",
+  "captured": "2026-09-30T23:57:26-0400",
+  "mode": "full",
+  "reported_total": 30,
+  "channels": [
+    {
+      "number": 48001,
+      "name": "FORMULA 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.6,
+      "audio_rms": 1218.9,
+      "audio_ok": true
+    },
+    {
+      "number": 48002,
+      "name": "FORMULA 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48003,
+      "name": "FORMULA 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48004,
+      "name": "FORMULA 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48005,
+      "name": "FORMULA 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48006,
+      "name": "FORMULA 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48011,
+      "name": "FORMULA ZHOU ALFAROMEO",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48012,
+      "name": "FORMULA RICCIARDO RB",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48013,
+      "name": "FORMULA VERSTAPPEN REDB",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48014,
+      "name": "FORMULA TSUNODA RB",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48015,
+      "name": "FORMULA SAINZ FERRAR",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48016,
+      "name": "FORMULA STROLL ASTONMA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48017,
+      "name": "FORMULA RUSSEL MERCEDES",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48018,
+      "name": "FORMULA PIASTRI MCLAREN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48019,
+      "name": "FORMULA PEREZ REDBULLRA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48020,
+      "name": "FORMULA OCON ALPINE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48021,
+      "name": "FORMULA NORRIS MCLAREN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48022,
+      "name": "FORMULA HULKENBERG HAA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48023,
+      "name": "FORMULA MAGNUSSEN HAA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48024,
+      "name": "FORMULA LECLERC FERRAR",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48025,
+      "name": "FORMULA SARGEANT WILLIAMS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48026,
+      "name": "FORMULA HAMILTON MERCE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48027,
+      "name": "FORMULA GASLY ALPINE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48028,
+      "name": "FORMULA BOTTAS ALFAROMEO",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48029,
+      "name": "FORMULA ALONSO ASTONM",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48030,
+      "name": "FORMULA ALBON WILLIAMS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48031,
+      "name": "FORMULA TRACKER",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48032,
+      "name": "FORMULA PIT LANE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48033,
+      "name": "FORMULA DATA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 48034,
+      "name": "FORMULA TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.1,
+      "audio_rms": 2181.0,
+      "audio_ok": true
+    }
+  ]
+}

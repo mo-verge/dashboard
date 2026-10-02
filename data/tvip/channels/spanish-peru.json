@@ -1,0 +1,1044 @@
+{
+  "category": "SPANISH | PERU",
+  "captured": "2026-09-30T19:27:03-0400",
+  "mode": "full",
+  "reported_total": 45,
+  "channels": [
+    {
+      "number": 37402,
+      "name": "PE | GOL PERU HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.2,
+      "audio_rms": 2301.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37403,
+      "name": "PE | GOL PERU SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 135.2,
+      "audio_rms": 2437.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37404,
+      "name": "PE | GOL PERU UHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.0,
+      "audio_rms": 2820.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37405,
+      "name": "PE | MOVISTAR DEPORTES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.2,
+      "audio_rms": 791.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37406,
+      "name": "PE | MOVISTAR DEPORTES HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.4,
+      "audio_rms": 1951.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37407,
+      "name": "PE | AMERICA TV SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Los milagros de la rosa"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Esto es guerra"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "La vida que me robaste"
+        },
+        {
+          "time": "11:50 PM",
+          "title": "La tinka"
+        },
+        {
+          "time": "11:53 PM",
+          "title": "La vida que me robaste"
+        }
+      ],
+      "video_ok": true,
+      "luma": 32.5,
+      "audio_rms": 1390.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37408,
+      "name": "PE | AMERICA TV HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Los milagros de la rosa"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Esto es guerra"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "La vida que me robaste"
+        },
+        {
+          "time": "11:50 PM",
+          "title": "La tinka"
+        },
+        {
+          "time": "11:53 PM",
+          "title": "La vida que me robaste"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.2,
+      "audio_rms": 959.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37409,
+      "name": "PE | AMERICA TV UHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Los milagros de la rosa"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Esto es guerra"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "La vida que me robaste"
+        },
+        {
+          "time": "11:50 PM",
+          "title": "La tinka"
+        },
+        {
+          "time": "11:53 PM",
+          "title": "La vida que me robaste"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.7,
+      "audio_rms": 1982.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37410,
+      "name": "PE| ATVSD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Amor eterno"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ocurre ahora"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Magaly TV, la firme"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ATV Noticias"
+        },
+        {
+          "time": "12:50 AM",
+          "title": "En otra cancha"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.7,
+      "audio_rms": 1280.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37411,
+      "name": "PE| ATV HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Amor eterno"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ocurre ahora"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Magaly TV, la firme"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ATV Noticias"
+        },
+        {
+          "time": "12:50 AM",
+          "title": "En otra cancha"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.0,
+      "audio_rms": 1834.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37412,
+      "name": "PE | ATV UHD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Amor eterno"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ocurre ahora"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Magaly TV, la firme"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "ATV Noticias"
+        },
+        {
+          "time": "12:50 AM",
+          "title": "En otra cancha"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.4,
+      "audio_rms": 1606.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37413,
+      "name": "PE | ATV+ HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Matinal"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El deportivo digital"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Así de simple"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "ATV noticias - Edición mediodía"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "En contacto"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.5,
+      "audio_rms": 1095.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37414,
+      "name": "PE | ATV+ UHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Matinal"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El deportivo digital"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Así de simple"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "ATV noticias - Edición mediodía"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "En contacto"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.7,
+      "audio_rms": 538.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37415,
+      "name": "PE| CANAL N SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.4,
+      "audio_rms": 3702.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37416,
+      "name": "PE | CANAL N HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.8,
+      "audio_rms": 3176.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37417,
+      "name": "PE | EXITOSA SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 172.9,
+      "audio_rms": 7519.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37418,
+      "name": "PE | EXITOSA HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 137.1,
+      "audio_rms": 2872.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37419,
+      "name": "PE | FRECUENCIA LATINA SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Doble Kara"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Latina noticias - Edición central"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Valentina Valiente"
+        },
+        {
+          "time": "10:20 PM",
+          "title": "Yo soy"
+        },
+        {
+          "time": "12:20 AM",
+          "title": "Corazon ajeno"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.2,
+      "audio_rms": 2246.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37420,
+      "name": "PE | FRECUENCIA LATINA HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Doble Kara"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Latina noticias - Edicion central"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Valentina Valiente"
+        },
+        {
+          "time": "10:20 PM",
+          "title": "Yo soy"
+        },
+        {
+          "time": "12:20 AM",
+          "title": "Corazon ajeno"
+        }
+      ],
+      "video_ok": true,
+      "luma": 145.9,
+      "audio_rms": 1309.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37421,
+      "name": "PE | FRECUENCIA LATINA UHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Doble Kara"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Latina noticias - Edicion central"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Valentina Valiente"
+        },
+        {
+          "time": "10:20 PM",
+          "title": "Yo soy"
+        },
+        {
+          "time": "12:20 AM",
+          "title": "Corazon ajeno"
+        }
+      ],
+      "video_ok": true,
+      "luma": 146.3,
+      "audio_rms": 1734.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37422,
+      "name": "PE | MOVISTAR DEPORTES UHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.3,
+      "audio_rms": 1962.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37423,
+      "name": "PE | MOVISTAR PLUS SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 181.9,
+      "audio_rms": 3151.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37424,
+      "name": "PE | MOVISTAR PLUS UHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 143.3,
+      "audio_rms": 1580.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37425,
+      "name": "PE | PANAMERICANA SD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Ana de nadie"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "La familia Ingalls"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "La tienda roja"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "24 horas - Edición central"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Esta noche"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.0,
+      "audio_rms": 3975.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37426,
+      "name": "PE | PANAMERICANA HD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Ana de nadie"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "La familia Ingalls"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "La tienda roja"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "24 horas - Edición central"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Esta noche"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.8,
+      "audio_rms": 4367.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37427,
+      "name": "PE | PANAMERICANA UHD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Ana de nadie"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "La familia Ingalls"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "La tienda roja"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "24 horas - Edicion central"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Esta noche"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.0,
+      "audio_rms": 1589.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37428,
+      "name": "PE | PERU MAGICO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Wantan digital"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Celebra Perú"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Al ángulo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "N Noticias"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "El camerino"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.8,
+      "audio_rms": 2632.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37429,
+      "name": "PE| RPP SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.1,
+      "audio_rms": 559.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37430,
+      "name": "PE | SUR PERU",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Desafío Súper Humanos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Revenge"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "TV noticias central"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Nutrissa"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Nutrissa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.7,
+      "audio_rms": 3105.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37431,
+      "name": "PE | TOP LATINO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.0,
+      "audio_rms": 5720.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37432,
+      "name": "PE| TV PERU",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Que gane el mejor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "GeoMundo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Hora central"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "En pared"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Tu decisión 2026"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.5,
+      "audio_rms": 1978.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37433,
+      "name": "PE | TV PERU NOTICIAS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37434,
+      "name": "PE | WILLAX SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.0,
+      "audio_rms": 663.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37435,
+      "name": "PE | WILLAX UHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Caso cerrado"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Willax noticias - Edición central"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "Contracorriente"
+        },
+        {
+          "time": "9:55 PM",
+          "title": "Beto a saber"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Ahora y en la hora"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.7,
+      "audio_rms": 922.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37438,
+      "name": "PE| ATV SUR",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Desafio Super Humanos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Revenge"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "TV noticias central"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Nutrissa"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Nutrissa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 85.9,
+      "audio_rms": 3066.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37439,
+      "name": "PE | GLOBAL TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.8,
+      "audio_rms": 2841.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37440,
+      "name": "PE | KARIBENA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 45.4,
+      "audio_rms": 3060.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37441,
+      "name": "PE | NATIVA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 132.8,
+      "audio_rms": 962.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37442,
+      "name": "PE | CAJAMARCA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.9,
+      "audio_rms": 1816.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37443,
+      "name": "PE | VIAALTOMAYO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.6,
+      "audio_rms": 7896.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37,
+      "name": "PE | TROPICAL TV",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.9,
+      "audio_rms": 278.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37445,
+      "name": "PE | RIBERENA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.0,
+      "audio_rms": 7146.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37446,
+      "name": "PE | DMJ TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.6,
+      "audio_rms": 6827.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37447,
+      "name": "PE| LIGA 1 MAX",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.9,
+      "audio_rms": 3289.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37448,
+      "name": "PE | OVACION TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 148.3,
+      "audio_rms": 7445.9,
+      "audio_ok": true
+    }
+  ]
+}

@@ -1,0 +1,2895 @@
+{
+  "category": "ENGLISH | 24X7 MOVIES",
+  "captured": "2026-10-01T18:43:00-0400",
+  "mode": "full",
+  "reported_total": 311,
+  "channels": [
+    {
+      "number": 6453,
+      "name": "SS HOLL VOOD IBLE A",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6454,
+      "name": "SMART | HOLLYWOOD TRUE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 9.6,
+      "audio_rms": 630.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6455,
+      "name": "SMART | HOLLYWOOD TRUE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.4,
+      "audio_rms": 880.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6456,
+      "name": "SMART | HOLLYWOOD TRUE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.9,
+      "audio_rms": 1020.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6457,
+      "name": "SMART | HOLLYWOOD TRUE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.5,
+      "audio_rms": 798.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6458,
+      "name": "SMART | HOLLYWOOD TRUE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.8,
+      "audio_rms": 998.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6571,
+      "name": "e SMART | LATEST FLICK",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6572,
+      "name": "SMART | LATEST FLICKS 01",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.5,
+      "audio_rms": 1444.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6573,
+      "name": "SMART | LATEST FLICKS 02",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.7,
+      "audio_rms": 1786.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6574,
+      "name": "SMART | LATEST FLICKS 03",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.2,
+      "audio_rms": 1308.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6575,
+      "name": "SMART | LATEST FLICKS 04",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.6,
+      "audio_rms": 3307.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6576,
+      "name": "SMART | LATEST FLICKS 05",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.5,
+      "audio_rms": 23.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6577,
+      "name": "SMART | LATEST FLICKS 06",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.5,
+      "audio_rms": 93.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6578,
+      "name": "SMART | LATEST FLICKS 07",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.4,
+      "audio_rms": 32.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6579,
+      "name": "SMART | LATEST FLICKS 08",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.6,
+      "audio_rms": 281.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6580,
+      "name": "SMART | LATEST FLICKS 09",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.7,
+      "audio_rms": 1327.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6581,
+      "name": "SMART | LATEST FLICKS 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.0,
+      "audio_rms": 809.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6582,
+      "name": "SMART | LATEST FLICKS 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.9,
+      "audio_rms": 3506.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6583,
+      "name": "SMART | LATEST FLICKS 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.6,
+      "audio_rms": 1149.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6584,
+      "name": "SMART | LATEST FLICKS 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.0,
+      "audio_rms": 684.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6585,
+      "name": "SMART | LATEST FLICKS 14",
+      "epg": [],
+      "video_ok": false,
+      "luma": 13.7,
+      "audio_rms": 1269.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6586,
+      "name": "SMART | LATEST FLICKS 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 136.3,
+      "audio_rms": 566.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6587,
+      "name": "SMART | LATEST FLICKS 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.4,
+      "audio_rms": 943.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6588,
+      "name": "SMART | LATEST FLICKS 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.3,
+      "audio_rms": 1253.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6589,
+      "name": "SMART | LATEST FLICKS 18",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.6,
+      "audio_rms": 238.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6590,
+      "name": "SMART | LATEST FLICKS 19",
+      "epg": [],
+      "video_ok": true,
+      "luma": 28.3,
+      "audio_rms": 2851.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6591,
+      "name": "SMART | LATEST FLICKS 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.7,
+      "audio_rms": 1268.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6592,
+      "name": "SMART | LATEST FLICKS 21",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.6,
+      "audio_rms": 262.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6593,
+      "name": "SMART | LATEST FLICKS 22",
+      "epg": [],
+      "video_ok": true,
+      "luma": 26.0,
+      "audio_rms": 1855.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6594,
+      "name": "SMART | LATEST FLICKS 23",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.4,
+      "audio_rms": 194.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6595,
+      "name": "SMART | LATEST FLICKS 24",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.1,
+      "audio_rms": 1587.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6596,
+      "name": "SMART | LATEST FLICKS 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.6,
+      "audio_rms": 264.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6597,
+      "name": "SMART | LATEST FLICKS 26",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.7,
+      "audio_rms": 1006.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6598,
+      "name": "SMART | LATEST FLICKS 27",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.7,
+      "audio_rms": 617.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6599,
+      "name": "SMART | LATEST FLICKS 28",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.2,
+      "audio_rms": 499.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6743,
+      "name": "SMART | 24/7 GENRE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6744,
+      "name": "SMART | SPIDERMAN HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.2,
+      "audio_rms": 1780.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6745,
+      "name": "SMART | RAMBO HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.0,
+      "audio_rms": 2466.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6746,
+      "name": "SMART | PREMIERE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.0,
+      "audio_rms": 3522.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6747,
+      "name": "SMART | EXTRA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.6,
+      "audio_rms": 350.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6748,
+      "name": "SMART | BESTOFF",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.3,
+      "audio_rms": 78.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6749,
+      "name": "SMART | ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.2,
+      "audio_rms": 190.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6750,
+      "name": "SMART | ACTION +1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.1,
+      "audio_rms": 630.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6751,
+      "name": "SMART | COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.7,
+      "audio_rms": 2360.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6752,
+      "name": "SMART | THRILLER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.5,
+      "audio_rms": 2011.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6753,
+      "name": "SMART | HORROR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.8,
+      "audio_rms": 531.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6754,
+      "name": "SMART | WARZONE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.3,
+      "audio_rms": 1965.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6755,
+      "name": "SMART | FAMILY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.6,
+      "audio_rms": 1103.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6756,
+      "name": "SMART | ROMANCE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.5,
+      "audio_rms": 733.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6757,
+      "name": "SMART | FANTASY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.2,
+      "audio_rms": 2423.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6758,
+      "name": "SMART | WESTERN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.1,
+      "audio_rms": 1123.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6759,
+      "name": "SMART | 90S HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6760,
+      "name": "SMART | CLASSICS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.2,
+      "audio_rms": 35.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6761,
+      "name": "SMART | DISNEY+ HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.5,
+      "audio_rms": 2995.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6762,
+      "name": "SMART | MARVEL 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.7,
+      "audio_rms": 472.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6763,
+      "name": "SMART | MARVEL 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.0,
+      "audio_rms": 384.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6764,
+      "name": "SMART | 007 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.6,
+      "audio_rms": 1340.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6765,
+      "name": "SMART | 007 CLASSIC HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.6,
+      "audio_rms": 1536.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6766,
+      "name": "SMART | AVENGERS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.3,
+      "audio_rms": 130.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6767,
+      "name": "SMART | FAST&FURIOUS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.3,
+      "audio_rms": 1063.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6768,
+      "name": "SMART | FINAL DESTINATION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.5,
+      "audio_rms": 403.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6769,
+      "name": "SMART | HARRY POTTER HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.1,
+      "audio_rms": 1426.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6770,
+      "name": "SMART | MISSION IMPOSSIBLE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.0,
+      "audio_rms": 715.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6771,
+      "name": "SMART | PIRATES CARIBBEAN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.3,
+      "audio_rms": 102.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6772,
+      "name": "SMART | SAW HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.3,
+      "audio_rms": 350.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6773,
+      "name": "SMART | TRANSFORMERS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.8,
+      "audio_rms": 1211.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6774,
+      "name": "SMART | PLANET OF THE APES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.4,
+      "audio_rms": 470.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6775,
+      "name": "SMART | SCREAM HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.6,
+      "audio_rms": 1391.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6776,
+      "name": "SMART | STAR WARS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.4,
+      "audio_rms": 318.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6777,
+      "name": "SMART | THE TWILIGHT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.7,
+      "audio_rms": 238.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6778,
+      "name": "SMART | OCEANS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.2,
+      "audio_rms": 1366.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6779,
+      "name": "SMART | THE EXPENDABLES HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.6,
+      "audio_rms": 191.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6835,
+      "name": "24/7 | GET SMART",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.2,
+      "audio_rms": 2581.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6839,
+      "name": "24/7 | THE A TEAM",
+      "epg": [],
+      "video_ok": true,
+      "luma": 140.9,
+      "audio_rms": 4023.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6862,
+      "name": "24/7 | SEX IN THE CITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.4,
+      "audio_rms": 756.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6870,
+      "name": "24/7 | PERFECT STRANGERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.2,
+      "audio_rms": 1420.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6877,
+      "name": "24/7 | GOOSEBUMPS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 31.7,
+      "audio_rms": 2596.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6882,
+      "name": "24/7 | THE BIONIC WOMAN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.5,
+      "audio_rms": 70.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6885,
+      "name": "24/7 | THE LEGO MOVIE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.9,
+      "audio_rms": 258.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6897,
+      "name": "24/7 | X MEN HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 13.0,
+      "audio_rms": 1877.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6900,
+      "name": "24/7 | AHAUNTING",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.7,
+      "audio_rms": 1583.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6902,
+      "name": "24/7 | RESIDENT EVIL HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 153.8,
+      "audio_rms": 408.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6903,
+      "name": "24/7 | NIGHT AT THE MUSEU",
+      "epg": [],
+      "video_ok": false,
+      "luma": 12.4,
+      "audio_rms": 1299.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6904,
+      "name": "24/7 | JURRASIC PARK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.0,
+      "audio_rms": 7755.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6907,
+      "name": "SMART | THE DARK KNIGHT HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.0,
+      "audio_rms": 602.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6909,
+      "name": "24/7 | STAR TREK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.5,
+      "audio_rms": 1307.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6912,
+      "name": "24/7 | BAYWATCH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.8,
+      "audio_rms": 954.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6913,
+      "name": "24/7 | WAR MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.9,
+      "audio_rms": 4378.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6914,
+      "name": "24/7 | COMEDY MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.8,
+      "audio_rms": 904.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6915,
+      "name": "24/7 | VAMPIRE MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.9,
+      "audio_rms": 604.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6916,
+      "name": "24/7 | THRILLER MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.9,
+      "audio_rms": 1214.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6917,
+      "name": "24/7 | SUPERHERO MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.3,
+      "audio_rms": 344.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6918,
+      "name": "24/7 | SPORTS MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.8,
+      "audio_rms": 5710.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6919,
+      "name": "24/7 | SCIFI MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.8,
+      "audio_rms": 882.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6920,
+      "name": "24/7 | ROMANCE MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.9,
+      "audio_rms": 28.2,
+      "audio_ok": false
+    },
+    {
+      "number": 6921,
+      "name": "24/7 | HORROR MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.6,
+      "audio_rms": 100.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6922,
+      "name": "24/7 | FAMILY MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.1,
+      "audio_rms": 2985.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6923,
+      "name": "24/7 | CRIME MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.9,
+      "audio_rms": 494.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6924,
+      "name": "24/7 | BOXING MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.0,
+      "audio_rms": 5340.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6925,
+      "name": "24/7 | ZOMBIE MOVIES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.0,
+      "audio_rms": 138.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6926,
+      "name": "24/7 | ALIEN MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.4,
+      "audio_rms": 1124.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6927,
+      "name": "24/7 | QUENTIN TARANTINO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.0,
+      "audio_rms": 2306.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6928,
+      "name": "24/7 | AL PACINO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.5,
+      "audio_rms": 606.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6929,
+      "name": "HOLLYWOOD PREMIE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6930,
+      "name": "24/7 | ENGLISH MOVIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.8,
+      "audio_rms": 379.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6932,
+      "name": "24/7 | ENGLISH MOVIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.7,
+      "audio_rms": 448.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6933,
+      "name": "24/7 | ENGLISH MOVIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.6,
+      "audio_rms": 2582.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6934,
+      "name": "24/7 | ENGLISH MOVIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.1,
+      "audio_rms": 1566.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6935,
+      "name": "24/7 | ENGLISH MOVIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.9,
+      "audio_rms": 521.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6936,
+      "name": "24/7 | ENGLISH MOVIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.3,
+      "audio_rms": 2187.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6937,
+      "name": "24/7 | ENGLISH MOVIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.2,
+      "audio_rms": 1310.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6938,
+      "name": "24/7 | ENGLISH MOVIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.5,
+      "audio_rms": 1190.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6939,
+      "name": "24/7 | ENGLISH MOVIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.8,
+      "audio_rms": 1275.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6963,
+      "name": "24/7 | BLADE MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.1,
+      "audio_rms": 339.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6968,
+      "name": "24/7 | BRUCE LEE MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.0,
+      "audio_rms": 1546.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6976,
+      "name": "24/7 | DIEHARD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 221.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6980,
+      "name": "SMART | BEAUTY AND THE BE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6989,
+      "name": "24/7 | VIN DIESEL MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.4,
+      "audio_rms": 1527.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6990,
+      "name": "24/7 | INDIANA JONES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.2,
+      "audio_rms": 327.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6991,
+      "name": "24/7 | JACKIE CHAN MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.2,
+      "audio_rms": 2136.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6992,
+      "name": "24/7 | JASON BOURNE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.7,
+      "audio_rms": 86.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6996,
+      "name": "24/7 | KUNG FU PANDA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.2,
+      "audio_rms": 1227.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6998,
+      "name": "7 | LETHAL WEAPON",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.7,
+      "audio_rms": 219.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6999,
+      "name": "MIX ENGLISH MOVIES",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8002,
+      "name": "24/7 | MIX ENGLISH MOVIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.4,
+      "audio_rms": 296.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8003,
+      "name": "24/7 | MIX ENGLISH MOVIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.3,
+      "audio_rms": 2132.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8004,
+      "name": "24/7 | MIX ENGLISH MOVIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.0,
+      "audio_rms": 1123.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8005,
+      "name": "24/7 | MIX ENGLISH MOVIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.0,
+      "audio_rms": 18.7,
+      "audio_ok": false
+    },
+    {
+      "number": 8006,
+      "name": "24/7 | MIX ENGLISH MOVIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.5,
+      "audio_rms": 30.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8007,
+      "name": "24/7 | MIX ENGLISH MOVIES 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8008,
+      "name": "24/7 | MIX ENGLISH MOVIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.9,
+      "audio_rms": 458.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8009,
+      "name": "24/7 | MIX ENGLISH MOVIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.1,
+      "audio_rms": 3328.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8010,
+      "name": "24/7 | MIX ENGLISH MOVIES 9",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8011,
+      "name": "24/7 | MIX ENGLISH MOVIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.6,
+      "audio_rms": 164.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8012,
+      "name": "24/7 | MIX ENGLISH MOVIES 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8013,
+      "name": "24/7 | MIX ENGLISH MOVIES 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.7,
+      "audio_rms": 670.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8015,
+      "name": "24/7 | MIX ENGLISH MOVIES 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.6,
+      "audio_rms": 383.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8016,
+      "name": "24/7 | MIX ENGLISH MOVIES 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 25.0,
+      "audio_rms": 2000.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8017,
+      "name": "24/7 | MIX ENGLISH MOVIES 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.7,
+      "audio_rms": 2959.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8018,
+      "name": "24/7 | MIX ENGLISH MOVIES 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.4,
+      "audio_rms": 63.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8019,
+      "name": "24/7 | MIX ENGLISH MOVIES 18",
+      "epg": [],
+      "video_ok": false,
+      "luma": 12.7,
+      "audio_rms": 381.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8020,
+      "name": "24/7 | MIX ENGLISH MOVIES 19",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 1337.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8021,
+      "name": "24/7 | MIX ENGLISH MOVIES 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.2,
+      "audio_rms": 2387.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8022,
+      "name": "24/7 | MIX ENGLISH MOVIES 21",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.2,
+      "audio_rms": 342.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8023,
+      "name": "24/7 | MIX ENGLISH MOVIES 22",
+      "epg": [],
+      "video_ok": true,
+      "luma": 26.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8024,
+      "name": "24/7 | MIX ENGLISH MOVIES 23",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.1,
+      "audio_rms": 972.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8025,
+      "name": "24/7 | MIX ENGLISH MOVIES 24",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8026,
+      "name": "24/7 | MIX ENGLISH MOVIES 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.4,
+      "audio_rms": 556.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8027,
+      "name": "24/7 | MIX ENGLISH MOVIES 26",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8028,
+      "name": "24/7 | MIX ENGLISH MOVIES 27",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.5,
+      "audio_rms": 736.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8029,
+      "name": "24/7 | MIX ENGLISH MOVIES 28",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8030,
+      "name": "24/7 | MIX ENGLISH MOVIES 29",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8031,
+      "name": "24/7 | MIX ENGLISH MOVIES 30",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.5,
+      "audio_rms": 51.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8032,
+      "name": "SS FOLLY MOO) CLASSI",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8033,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.2,
+      "audio_rms": 3492.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8034,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.6,
+      "audio_rms": 659.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8035,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.3,
+      "audio_rms": 106.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8036,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.0,
+      "audio_rms": 416.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8037,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.7,
+      "audio_rms": 883.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8038,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 42.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8039,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.1,
+      "audio_rms": 964.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8040,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.6,
+      "audio_rms": 536.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8041,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.2,
+      "audio_rms": 1364.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8042,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.8,
+      "audio_rms": 616.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8043,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.5,
+      "audio_rms": 232.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8044,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.1,
+      "audio_rms": 951.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8045,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.9,
+      "audio_rms": 869.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8046,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 141.8,
+      "audio_rms": 796.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8047,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.3,
+      "audio_rms": 2892.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8048,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.4,
+      "audio_rms": 389.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8049,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.1,
+      "audio_rms": 213.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8050,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.4,
+      "audio_rms": 1993.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8051,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.9,
+      "audio_rms": 244.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8052,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.5,
+      "audio_rms": 759.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8058,
+      "name": "LAA MOOD MOVIES",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8059,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.9,
+      "audio_rms": 105.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8060,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.4,
+      "audio_rms": 862.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8061,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.2,
+      "audio_rms": 73.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8062,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.2,
+      "audio_rms": 17.9,
+      "audio_ok": false
+    },
+    {
+      "number": 8063,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.3,
+      "audio_rms": 80.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8064,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.2,
+      "audio_rms": 29.1,
+      "audio_ok": false
+    },
+    {
+      "number": 8065,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.8,
+      "audio_rms": 464.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8066,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.1,
+      "audio_rms": 1036.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8067,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.1,
+      "audio_rms": 602.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8068,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.2,
+      "audio_rms": 213.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8069,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.0,
+      "audio_rms": 945.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8070,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 144.8,
+      "audio_rms": 472.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8071,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.0,
+      "audio_rms": 1804.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8072,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.3,
+      "audio_rms": 202.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8073,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.6,
+      "audio_rms": 880.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8074,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.4,
+      "audio_rms": 226.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8075,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.0,
+      "audio_rms": 45.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8076,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.3,
+      "audio_rms": 604.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8077,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.4,
+      "audio_rms": 1193.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8078,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.9,
+      "audio_rms": 1646.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8079,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.2,
+      "audio_rms": 116.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8080,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.1,
+      "audio_rms": 436.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8081,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.3,
+      "audio_rms": 503.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8082,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.5,
+      "audio_rms": 418.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8083,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.7,
+      "audio_rms": 3265.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8084,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.6,
+      "audio_rms": 65.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8085,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.2,
+      "audio_rms": 458.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8086,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.4,
+      "audio_rms": 24.6,
+      "audio_ok": false
+    },
+    {
+      "number": 8087,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.7,
+      "audio_rms": 1490.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8088,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.1,
+      "audio_rms": 1002.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8089,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.0,
+      "audio_rms": 1218.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8090,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.2,
+      "audio_rms": 1344.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8091,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.1,
+      "audio_rms": 1326.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8092,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.4,
+      "audio_rms": 369.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8093,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.1,
+      "audio_rms": 7.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8094,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.3,
+      "audio_rms": 101.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8095,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 158.5,
+      "audio_rms": 1518.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8096,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.3,
+      "audio_rms": 787.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8097,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.1,
+      "audio_rms": 805.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8098,
+      "name": "24/7 | HOLLYWOOD MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.8,
+      "audio_rms": 1415.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8099,
+      "name": "EXE HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8100,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.9,
+      "audio_rms": 1583.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8101,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.8,
+      "audio_rms": 1601.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8102,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.8,
+      "audio_rms": 364.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8103,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.3,
+      "audio_rms": 2192.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8104,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.0,
+      "audio_rms": 16.5,
+      "audio_ok": false
+    },
+    {
+      "number": 8105,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": false,
+      "luma": 11.9,
+      "audio_rms": 2513.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8106,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.0,
+      "audio_rms": 1205.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8107,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.1,
+      "audio_rms": 279.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8108,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.3,
+      "audio_rms": 542.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8109,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.5,
+      "audio_rms": 186.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8110,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.8,
+      "audio_rms": 1313.4,
+      "audio_ok": true
+    },
+    {
+      "number": 43111,
+      "name": "24/7 | HOLLYWOOD ACTION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.9,
+      "audio_rms": 355.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8112,
+      "name": "EE HOLLYWOOD ADVEN",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8113,
+      "name": "24/7 | HOLLYWOOD ADVENT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.0,
+      "audio_rms": 513.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8114,
+      "name": "24/7 | HOLLYWOOD ADVENT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.4,
+      "audio_rms": 341.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8115,
+      "name": "24/7 | HOLLYWOOD ADVENT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.0,
+      "audio_rms": 51.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8116,
+      "name": "24/7 | HOLLYWOOD ADVENT",
+      "epg": [],
+      "video_ok": false,
+      "luma": 13.0,
+      "audio_rms": 8.3,
+      "audio_ok": false
+    },
+    {
+      "number": 8117,
+      "name": "24/7 | HOLLYWOOD ADVENT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.2,
+      "audio_rms": 559.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8118,
+      "name": "",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8119,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.3,
+      "audio_rms": 2185.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8120,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 994.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8121,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.2,
+      "audio_rms": 536.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8122,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.5,
+      "audio_rms": 107.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8123,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.3,
+      "audio_rms": 212.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8124,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.6,
+      "audio_rms": 207.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8125,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.9,
+      "audio_rms": 2279.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8126,
+      "name": "24/7 | HOLLYWOOD CLASSIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.2,
+      "audio_rms": 427.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8127,
+      "name": "EEE HOLLYWOOD COMED",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8128,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.9,
+      "audio_rms": 195.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8129,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.9,
+      "audio_rms": 562.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8130,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.2,
+      "audio_rms": 2795.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8131,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.3,
+      "audio_rms": 5166.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8133,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 25.3,
+      "audio_rms": 2516.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8134,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 777.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8135,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.3,
+      "audio_rms": 1217.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8136,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 8.3,
+      "audio_rms": 655.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8137,
+      "name": "24/7 | HOLLYWOOD COMEDY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.4,
+      "audio_rms": 27.4,
+      "audio_ok": false
+    },
+    {
+      "number": 8140,
+      "name": "EX HOLLYWOOD CRIME",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8141,
+      "name": "24/7 | HOLLYWOOD CRIME M",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.2,
+      "audio_rms": 1322.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8142,
+      "name": "24/7 | HOLLYWOOD CRIME M",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.5,
+      "audio_rms": 491.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8143,
+      "name": "24/7 | HOLLYWOOD CRIME M",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.9,
+      "audio_rms": 182.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8144,
+      "name": "24/7 | HOLLYWOOD CRIME M",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.4,
+      "audio_rms": 1046.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8145,
+      "name": "24/7 | HOLLYWOOD CRIME M",
+      "epg": [],
+      "video_ok": true,
+      "luma": 19.7,
+      "audio_rms": 727.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8146,
+      "name": "HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8147,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.7,
+      "audio_rms": 120.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8148,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.6,
+      "audio_rms": 2234.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8149,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 19.1,
+      "audio_rms": 574.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8150,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.9,
+      "audio_rms": 1266.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8151,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 14.8,
+      "audio_rms": 594.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8152,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 823.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8153,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.5,
+      "audio_rms": 3136.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8154,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.2,
+      "audio_rms": 471.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8155,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.8,
+      "audio_rms": 345.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8156,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.7,
+      "audio_rms": 724.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8157,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.2,
+      "audio_rms": 389.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8158,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8159,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.4,
+      "audio_rms": 332.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8160,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.6,
+      "audio_rms": 2587.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8161,
+      "name": "24/7 | HOLLYWOOD DRAMA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.4,
+      "audio_rms": 1464.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8162,
+      "name": "HOLLYWOOD HISTOR",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8163,
+      "name": "24/7 | HOLLYWOOD HISTORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.6,
+      "audio_rms": 780.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8164,
+      "name": "24/7 | HOLLYWOOD HISTORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.2,
+      "audio_rms": 314.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8165,
+      "name": "24/7 | HOLLYWOOD HISTORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.0,
+      "audio_rms": 989.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8166,
+      "name": "24/7 | HOLLYWOOD HISTORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.5,
+      "audio_rms": 241.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8167,
+      "name": "A NA NOOO MYSIER 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8168,
+      "name": "24/7 | HOLLYWOOD MYSTERY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.7,
+      "audio_rms": 683.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8169,
+      "name": "24/7 | HOLLYWOOD MYSTERY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.8,
+      "audio_rms": 168.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8170,
+      "name": "24/7 | HOLLYWOOD MYSTERY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.9,
+      "audio_rms": 2572.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8171,
+      "name": "24/7 | HOLLYWOOD MYSTERY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.4,
+      "audio_rms": 8.9,
+      "audio_ok": false
+    },
+    {
+      "number": 8172,
+      "name": "SS BOLLYWOOD SIA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 8173,
+      "name": "24/7 | HOLLYWOOD SCIFI HO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 19.5,
+      "audio_rms": 838.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8174,
+      "name": "24/7 | HOLLYWOOD SCIFI HO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.7,
+      "audio_rms": 250.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8175,
+      "name": "24/7 | HOLLYWOOD SCIFI HO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.4,
+      "audio_rms": 45.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8176,
+      "name": "24/7 | HOLLYWOOD SCIFI HO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.9,
+      "audio_rms": 554.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8177,
+      "name": "24/7 | HOLLYWOOD SCIFI HO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.0,
+      "audio_rms": 380.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8178,
+      "name": "24/7 | HOLLYWOOD SCIFI HO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.3,
+      "audio_rms": 939.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8179,
+      "name": "24/7 | HOLLYWOOD SCIFI HO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 316.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8181,
+      "name": "24/7 | HOLLYWOOD SCIFI HO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.6,
+      "audio_rms": 171.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8182,
+      "name": "24/7 | ENGLISH WAR MOVIES HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.3,
+      "audio_rms": 68.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8183,
+      "name": "24/7 | HOLLYWOOOD MYSTE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.4,
+      "audio_rms": 294.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8184,
+      "name": "24/7 | HOLLYWOOD NEW REL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.7,
+      "audio_rms": 889.8,
+      "audio_ok": true
+    },
+    {
+      "number": 8185,
+      "name": "24/7 | COMEDY MOVIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.9,
+      "audio_rms": 1505.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8186,
+      "name": "24/7 | COMEDY MOVIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.0,
+      "audio_rms": 491.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8187,
+      "name": "24/7 | ARCHIVE MOVIE 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 10.0,
+      "audio_rms": 1378.3,
+      "audio_ok": true
+    },
+    {
+      "number": 8189,
+      "name": "7 | MATRIX",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.6,
+      "audio_rms": 218.9,
+      "audio_ok": true
+    },
+    {
+      "number": 8190,
+      "name": "7 | STAR TREK MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.0,
+      "audio_rms": 91.5,
+      "audio_ok": true
+    },
+    {
+      "number": 8191,
+      "name": "7 | TRANSPORTER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.6,
+      "audio_rms": 4769.0,
+      "audio_ok": true
+    },
+    {
+      "number": 8192,
+      "name": "7 | PLANET EARTH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.4,
+      "audio_rms": 3526.2,
+      "audio_ok": true
+    },
+    {
+      "number": 8193,
+      "name": "7 | DRUG WARS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.4,
+      "audio_rms": 1323.6,
+      "audio_ok": true
+    },
+    {
+      "number": 8194,
+      "name": "24/7 | ROBIN WILLIAMS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 11.6,
+      "audio_rms": 1235.1,
+      "audio_ok": true
+    },
+    {
+      "number": 8195,
+      "name": "7 | WILL FERRELL MOVIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.9,
+      "audio_rms": 851.7,
+      "audio_ok": true
+    },
+    {
+      "number": 8196,
+      "name": "7 |X MEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.2,
+      "audio_rms": 1224.4,
+      "audio_ok": true
+    },
+    {
+      "number": 8197,
+      "name": "24/7 | AT THE MOVIES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 1077.2,
+      "audio_ok": true
+    }
+  ]
+}

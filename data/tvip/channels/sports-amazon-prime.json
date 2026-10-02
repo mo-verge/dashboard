@@ -1,0 +1,188 @@
+{
+  "category": "SPORTS | AMAZON PRIME",
+  "captured": "2026-09-30T23:51:16-0400",
+  "mode": "full",
+  "reported_total": 20,
+  "channels": [
+    {
+      "number": 17190,
+      "name": "nazon UK Event 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17191,
+      "name": "nazon UK Event 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17192,
+      "name": "nazon UK Event 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17193,
+      "name": "nazon UK Event 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17194,
+      "name": "nazon UK Event 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17195,
+      "name": "nazon UK Event 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17196,
+      "name": "nazon UK Event 7",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17197,
+      "name": "nazon UK Event 8",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17198,
+      "name": "nazon UK Event 9",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17199,
+      "name": "nazon UK Event 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17200,
+      "name": "nazon UK Event 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17201,
+      "name": "nazon UK Event 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17202,
+      "name": "nazon UK Event 13",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17203,
+      "name": "Amazon UK Eurosport 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 25.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17204,
+      "name": "Amazon UK Eurosport 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 25.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17205,
+      "name": "Amazon UK Eurosport XTRA 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17206,
+      "name": "Amazon UK Eurosport XTRA 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17207,
+      "name": "Amazon UK Eurosport XTRA 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17208,
+      "name": "Amazon UK Eurosport XTRA 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17209,
+      "name": "Amazon UK Eurosport XTRA 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

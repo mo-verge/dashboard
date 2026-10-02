@@ -1,0 +1,344 @@
+{
+  "category": "SPANISH | COSTA RICA",
+  "captured": "2026-09-30T19:09:03-0400",
+  "mode": "full",
+  "reported_total": 14,
+  "channels": [
+    {
+      "number": 37614,
+      "name": "CR | REPRETEL 11 4K",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.8,
+      "audio_rms": 872.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37615,
+      "name": "CR | TELETICA 7 HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.9,
+      "audio_rms": 3467.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37616,
+      "name": "CR | CANAL 14 TV SUR",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.3,
+      "audio_rms": 2342.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37617,
+      "name": "CR | TELEUNO",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.9,
+      "audio_rms": 8346.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37618,
+      "name": "CR | MULTIMEDIOS HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Telediario internacional"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Inaudito Revelaciones"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Exitos del 8"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Telediario en directo"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Telediario internacional"
+        }
+      ],
+      "video_ok": true,
+      "luma": 141.7,
+      "audio_rms": 1461.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37619,
+      "name": "CR | EXTREMA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37620,
+      "name": "CR | ANEXION",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37621,
+      "name": "CR | FUTV HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Argentina vs. Bolivia"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Escorpiones vs. Saprissa"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "P. Zeledón vs. Sporting"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Saprissa vs. Dimas"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Argentina vs. Bolivia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.6,
+      "audio_rms": 4240.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37622,
+      "name": "CR | FUTV HD+",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Argentina vs. Bolivia"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Escorpiones vs. Saprissa"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "P. Zeledón vs. Sporting"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Saprissa vs. Dimas"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Argentina vs. Bolivia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.3,
+      "audio_rms": 2320.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37623,
+      "name": "CR|TD+HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 150.9,
+      "audio_rms": 5796.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37624,
+      "name": "CR|TD+2HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.9,
+      "audio_rms": 3562.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37625,
+      "name": "CR | TIGO SPORTS UHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.2,
+      "audio_rms": 2382.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37626,
+      "name": "CR | TIGO SPORTS UHD OPT 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.4,
+      "audio_rms": 1242.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37700,
+      "name": "CR | COLOSAL",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

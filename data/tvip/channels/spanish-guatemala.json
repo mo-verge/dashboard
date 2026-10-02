@@ -1,0 +1,278 @@
+{
+  "category": "SPANISH | GUATEMALA",
+  "captured": "2026-09-30T19:17:31-0400",
+  "mode": "full",
+  "reported_total": 9,
+  "channels": [
+    {
+      "number": 37301,
+      "name": "GT | TN23",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.4,
+      "audio_rms": 685.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37302,
+      "name": "GT | AZTECA GUATEMALA",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Rutas de la vida"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Noticiero Hechos de la tarde"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Loto Quetzal"
+        },
+        {
+          "time": "9:05 PM",
+          "title": "Acércate a Rocio"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Hechos"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37303,
+      "name": "GT | CANAL 11",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "El novato"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El hombre nuclear"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El auto fantástico"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Cinema once"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "La casa de los famosos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 131.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37304,
+      "name": "GT | CANAL 13",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Taz-Mania"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Merrie Melodies Show"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Misterios de Silvestre y Piolin"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Los Supersónicos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tom and Jerry Theatricals"
+        }
+      ],
+      "video_ok": true,
+      "luma": 141.3,
+      "audio_rms": 583.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37305,
+      "name": "GT | CANAL 3",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.7,
+      "audio_rms": 975.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37306,
+      "name": "GT | CANAL 7",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.8,
+      "audio_rms": 623.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37307,
+      "name": "GT | CANAL Antigua",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Feedlatino"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Menos es mas"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Dueños del balón"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Noticiero a las 7:00 PM"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Disidentes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.7,
+      "audio_rms": 1380.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37308,
+      "name": "GT | RETRO TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.1,
+      "audio_rms": 1463.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37309,
+      "name": "GT | TIGO SPORTS FHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.2,
+      "audio_rms": 697.3,
+      "audio_ok": true
+    }
+  ]
+}

@@ -1,0 +1,3813 @@
+{
+  "category": "ENGLISH | PREMIUM MOVIES",
+  "captured": "2026-10-01T17:59:34-0400",
+  "mode": "full",
+  "reported_total": 141,
+  "channels": [
+    {
+      "number": 667,
+      "name": "CRAVE 1 WEST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 1312.2,
+      "audio_ok": true
+    },
+    {
+      "number": 668,
+      "name": "CRAVE 2 WEST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.4,
+      "audio_rms": 1210.1,
+      "audio_ok": true
+    },
+    {
+      "number": 669,
+      "name": "CRAVE 3 WEST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.6,
+      "audio_rms": 1972.7,
+      "audio_ok": true
+    },
+    {
+      "number": 670,
+      "name": "CRAVE 1",
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "Minions: The Rise of Gru"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "Till"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Mother and the Bear"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "Civil War"
+        },
+        {
+          "time": "12:40 AM",
+          "title": "The Furious"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.9,
+      "audio_rms": 1587.6,
+      "audio_ok": true
+    },
+    {
+      "number": 671,
+      "name": "CRAVE 2",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Love in Bloom"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Transplant"
+        },
+        {
+          "time": "7:20 PM",
+          "title": "Corner Gas"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Corner Gas"
+        },
+        {
+          "time": "8:10 PM",
+          "title": "Law & Order"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.4,
+      "audio_rms": 1284.1,
+      "audio_ok": true
+    },
+    {
+      "number": 672,
+      "name": "CRAVE 3",
+      "epg": [
+        {
+          "time": "4:25 PM",
+          "title": "The Holiday Junkie"
+        },
+        {
+          "time": "5:55 PM",
+          "title": "Jaws"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Love in Bloom"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Transplant"
+        },
+        {
+          "time": "10:20 PM",
+          "title": "Corner Gas"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.0,
+      "audio_rms": 1554.5,
+      "audio_ok": true
+    },
+    {
+      "number": 673,
+      "name": "CRAVE 4",
+      "epg": [
+        {
+          "time": "4:20 PM",
+          "title": "Aurora Teagarden Mysteries: Heist and Seek"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "Garage Sale Mysteries: Picture a Murder"
+        },
+        {
+          "time": "7:15 PM",
+          "title": "Minions: The Rise of Gru"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Till"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "The Mother and the Bear"
+        }
+      ],
+      "video_ok": true,
+      "luma": 18.6,
+      "audio_rms": 370.4,
+      "audio_ok": true
+    },
+    {
+      "number": 674,
+      "name": "HBO EAST 4K",
+      "epg": [
+        {
+          "time": "5:36 PM",
+          "title": "Lanterns"
+        },
+        {
+          "time": "6:27 PM",
+          "title": "Anatomy of a Fall"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "War"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "War"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Lanterns"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.8,
+      "audio_rms": 1323.3,
+      "audio_ok": true
+    },
+    {
+      "number": 675,
+      "name": "HBO2 EAST 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.9,
+      "audio_rms": 268.1,
+      "audio_ok": true
+    },
+    {
+      "number": 676,
+      "name": "HBO WEST 4K",
+      "epg": [
+        {
+          "time": "5:20 PM",
+          "title": "Fixer Upper Mysteries"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Fixer Upper Mysteries"
+        },
+        {
+          "time": "8:20 PM",
+          "title": "537 Votes"
+        },
+        {
+          "time": "10:05 PM",
+          "title": "Citizen U.S.A.: A 50-State Road Trip"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "War"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.2,
+      "audio_rms": 1771.6,
+      "audio_ok": true
+    },
+    {
+      "number": 677,
+      "name": "HBO 1",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Fixer Upper Mysteries"
+        },
+        {
+          "time": "6:20PM",
+          "title": "537 Votes"
+        },
+        {
+          "time": "8:05 PM",
+          "title": "Citizen U.S.A.: A 50-State Road Trip"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "War"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Gilded Age"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.0,
+      "audio_rms": 1556.2,
+      "audio_ok": true
+    },
+    {
+      "number": 678,
+      "name": "HBO 2",
+      "epg": [
+        {
+          "time": "5:20 PM",
+          "title": "Fixer Upper Mysteries"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Fixer Upper Mysteries"
+        },
+        {
+          "time": "8:20 PM",
+          "title": "537 Votes"
+        },
+        {
+          "time": "10:05 PM",
+          "title": "Citizen U.S.A.: A 50-State Road Trip"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "War"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.7,
+      "audio_rms": 494.0,
+      "audio_ok": true
+    },
+    {
+      "number": 679,
+      "name": "HBO COMEDY 4K",
+      "epg": [
+        {
+          "time": "5:43 PM",
+          "title": "Somebody Somewhere"
+        },
+        {
+          "time": "6:13 PM",
+          "title": "Somebody Somewhere"
+        },
+        {
+          "time": "6:42 PM",
+          "title": "Somebody Somewhere"
+        },
+        {
+          "time": "7:07 PM",
+          "title": "Somebody Somewhere"
+        },
+        {
+          "time": "7:36 PM",
+          "title": "Somebody Somewhere"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.2,
+      "audio_rms": 215.3,
+      "audio_ok": true
+    },
+    {
+      "number": 680,
+      "name": "HBO SIGNATURE 4K",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Jay-Z in 8"
+        },
+        {
+          "time": "5:55 PM",
+          "title": "The Night Of"
+        },
+        {
+          "time": "7:14PM",
+          "title": "The Night Of"
+        },
+        {
+          "time": "8:14 PM",
+          "title": "The Night Of"
+        },
+        {
+          "time": "9:14 PM",
+          "title": "The Night Of"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.6,
+      "audio_rms": 778.0,
+      "audio_ok": true
+    },
+    {
+      "number": 681,
+      "name": "HBO ZONE 4K",
+      "epg": [
+        {
+          "time": "3:52 PM",
+          "title": "Hereditary"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Birdman or (The Unexpected Virtue of Ignorance)"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "The Revenant"
+        },
+        {
+          "time": "10:37 PM",
+          "title": "Greenland"
+        },
+        {
+          "time": "12:37 AM",
+          "title": "Greenland 2: Migration"
+        }
+      ],
+      "video_ok": true,
+      "luma": 36.3,
+      "audio_rms": 432.7,
+      "audio_ok": true
+    },
+    {
+      "number": 682,
+      "name": "HBO FAMILY 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.1,
+      "audio_rms": 580.6,
+      "audio_ok": true
+    },
+    {
+      "number": 689,
+      "name": "SKY CINEMA ANIMATION 4K",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 694,
+      "name": "SKY ATLANTIC 4K UK",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Dune: Prophecy"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "IT: Welcome to Derry"
+        },
+        {
+          "time": "7:15 PM",
+          "title": "Station Eleven"
+        },
+        {
+          "time": "8:10 PM",
+          "title": "Station Eleven"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "War"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.5,
+      "audio_rms": 1194.1,
+      "audio_ok": true
+    },
+    {
+      "number": 697,
+      "name": "MOVIETIME HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "The Heist Before Christmas"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "What to Expect When You're Expecting"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Jay and Silent Bob Strike Back"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "What to Expect When You're Expecting"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Jay and Silent Bob Strike Back"
+        }
+      ],
+      "video_ok": true,
+      "luma": 157.4,
+      "audio_rms": 1929.6,
+      "audio_ok": true
+    },
+    {
+      "number": 698,
+      "name": "SYFY 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Cocaine Bear"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Five Nights at Freddy's"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Texas Chainsaw Massacre: The Next Generation"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Freaky"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Nobody"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.5,
+      "audio_rms": 1493.1,
+      "audio_ok": true
+    },
+    {
+      "number": 699,
+      "name": "SHOWTIME 2 4K",
+      "epg": [
+        {
+          "time": "4:35 PM",
+          "title": "The Dark Tower"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "The Addams Family"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Jumanji: Welcome to the Jungle"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Lego Movie"
+        },
+        {
+          "time": "11:45 PM",
+          "title": "Piranha"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.7,
+      "audio_rms": 148.2,
+      "audio_ok": true
+    },
+    {
+      "number": 700,
+      "name": "SHOWTIME EAST 4K",
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "Parasite"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "300"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "300: Rise of an Empire"
+        },
+        {
+          "time": "11:45 PM",
+          "title": "Crimes of the Future"
+        },
+        {
+          "time": "1:35 AM",
+          "title": "Kiss the Girls"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.0,
+      "audio_rms": 980.4,
+      "audio_ok": true
+    },
+    {
+      "number": 701,
+      "name": "SHOWTIME WEST 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.2,
+      "audio_rms": 1091.8,
+      "audio_ok": true
+    },
+    {
+      "number": 702,
+      "name": "SHOWTIME EXTREME 4K",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "Event Horizon"
+        },
+        {
+          "time": "6:10 PM",
+          "title": "Quantum of Solace"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "The Equalizer 2"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Se7en"
+        },
+        {
+          "time": "12:10 AM",
+          "title": "Overlord"
+        }
+      ],
+      "video_ok": true,
+      "luma": 31.4,
+      "audio_rms": 472.8,
+      "audio_ok": true
+    },
+    {
+      "number": 703,
+      "name": "SHOWTIME WOMEN 4K",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "Bridget Jones's Diary"
+        },
+        {
+          "time": "6:10 PM",
+          "title": "Bridget Jones: The Edge of Reason"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "The Intern"
+        },
+        {
+          "time": "10:05 PM",
+          "title": "What Women Want"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "Magic Mike"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.6,
+      "audio_rms": 55.7,
+      "audio_ok": true
+    },
+    {
+      "number": 704,
+      "name": "SHOWTIME FAMILY ZONE 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "The House of Mirth"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "The Wedding Singer"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Top Gun"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Forrest Gump"
+        },
+        {
+          "time": "12:25 AM",
+          "title": "School Ties"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.4,
+      "audio_rms": 177.6,
+      "audio_ok": true
+    },
+    {
+      "number": 705,
+      "name": "SHOWTIME BET 4K",
+      "epg": [
+        {
+          "time": "4:35 PM",
+          "title": "Along Came a Spider"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Body Cam"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Pretty Red Dress"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Regarding Us"
+        },
+        {
+          "time": "11:40 PM",
+          "title": "Along Came a Spider"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.9,
+      "audio_rms": 432.0,
+      "audio_ok": true
+    },
+    {
+      "number": 706,
+      "name": "SHOWTIME NEXT 4K",
+      "epg": [
+        {
+          "time": "3:55 PM",
+          "title": "We're the Millers"
+        },
+        {
+          "time": "5:50 PM",
+          "title": "Black Lotus"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Wes Craven Presents: They"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Scream 4"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Rush Hour"
+        }
+      ],
+      "video_ok": true,
+      "luma": 18.5,
+      "audio_rms": 828.9,
+      "audio_ok": true
+    },
+    {
+      "number": 707,
+      "name": "SHOWTIME SHOWCASE 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "South Park: Bigger, Longer 8: Uncut"
+        },
+        {
+          "time": "6:25 PM",
+          "title": "Old Guy"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Horrible Bosses"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "Horrible Bosses 2"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Jackass Presents: Bad Grandpa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.6,
+      "audio_rms": 582.6,
+      "audio_ok": true
+    },
+    {
+      "number": 708,
+      "name": "SONY MOVIES ACTION",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.2,
+      "audio_rms": 5273.2,
+      "audio_ok": true
+    },
+    {
+      "number": 709,
+      "name": "SONY MOVIE",
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "Anaconda 3: Offspring"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "The Shepherd"
+        },
+        {
+          "time": "9:18 PM",
+          "title": "Cleaner"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "88 Minutes"
+        },
+        {
+          "time": "12:52 AM",
+          "title": "Linewatch"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.6,
+      "audio_rms": 5121.3,
+      "audio_ok": true
+    },
+    {
+      "number": 710,
+      "name": "SONY MOVIES ACTION PLUS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.1,
+      "audio_rms": 657.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5711,
+      "name": "SONY CRIME",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 712,
+      "name": "SUPER CHANNEL FUSE HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "The Island Between Tides"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Snack Shack"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Gutter"
+        },
+        {
+          "time": "10:35 PM",
+          "title": "National Anthem"
+        },
+        {
+          "time": "12:15 AM",
+          "title": "The Gutter"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.3,
+      "audio_rms": 414.0,
+      "audio_ok": true
+    },
+    {
+      "number": 713,
+      "name": "SUPER CHANNEL HEART & HO",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "The Sweetest Heart"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "The Color of Rain"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Hashtag Proposal"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Love, Again"
+        },
+        {
+          "time": "10:59 PM",
+          "title": "The Perfect Man(icure)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.8,
+      "audio_rms": 1397.4,
+      "audio_ok": true
+    },
+    {
+      "number": 714,
+      "name": "SUPER CHANNEL VAULT",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "The Legend of Bagger Vance"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "All | Wanna Do"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "There Will Be Blood"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "The Whistleblower"
+        },
+        {
+          "time": "12:40 AM",
+          "title": "There Will Be Blood"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.3,
+      "audio_rms": 517.8,
+      "audio_ok": true
+    },
+    {
+      "number": 715,
+      "name": "SONY PIX",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Movie"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Movie"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Movie"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Movie"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Movie"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.4,
+      "audio_rms": 2742.5,
+      "audio_ok": true
+    },
+    {
+      "number": 716,
+      "name": "WARNER BROS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.7,
+      "audio_rms": 1879.4,
+      "audio_ok": true
+    },
+    {
+      "number": 717,
+      "name": "CINEMAX 5STAR MAX 4K",
+      "epg": [
+        {
+          "time": "5:36 PM",
+          "title": "Head Office"
+        },
+        {
+          "time": "7:08 PM",
+          "title": "Halloween: The Curse of Michael Myers"
+        },
+        {
+          "time": "8:36 PM",
+          "title": "Halloween H20: 20 Years Later"
+        },
+        {
+          "time": "10:03 PM",
+          "title": "Halloween: Resurrection"
+        },
+        {
+          "time": "11:33 PM",
+          "title": "Due Date"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.7,
+      "audio_rms": 26.1,
+      "audio_ok": false
+    },
+    {
+      "number": 718,
+      "name": "CINEMAX EAST 4K",
+      "epg": [
+        {
+          "time": "4:36 PM",
+          "title": "Ocean's Eleven"
+        },
+        {
+          "time": "6:33 PM",
+          "title": "Ocean's Twelve"
+        },
+        {
+          "time": "8:39 PM",
+          "title": "Ocean's Thirteen"
+        },
+        {
+          "time": "10:42 PM",
+          "title": "Ocean's Eight"
+        },
+        {
+          "time": "12:33 AM",
+          "title": "Contagion"
+        }
+      ],
+      "video_ok": true,
+      "luma": 36.5,
+      "audio_rms": 175.2,
+      "audio_ok": true
+    },
+    {
+      "number": 719,
+      "name": "CINEMAX MOREMAX",
+      "epg": [
+        {
+          "time": "5:13 PM",
+          "title": "The Shape of Water"
+        },
+        {
+          "time": "7:17 PM",
+          "title": "Joker"
+        },
+        {
+          "time": "9:19 PM",
+          "title": "Joker: Folie a Deux"
+        },
+        {
+          "time": "11:37 PM",
+          "title": "Birds of Prey (and the Fantabulous Emancipation of"
+        },
+        {
+          "time": "1:26 AM",
+          "title": "My Soul to Take"
+        }
+      ],
+      "video_ok": true,
+      "luma": 24.9,
+      "audio_rms": 537.8,
+      "audio_ok": true
+    },
+    {
+      "number": 720,
+      "name": "CINEMAX MOVIEMAX 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 31.3,
+      "audio_rms": 827.2,
+      "audio_ok": true
+    },
+    {
+      "number": 721,
+      "name": "CINEMAX OUTERMAX",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.4,
+      "audio_rms": 546.4,
+      "audio_ok": true
+    },
+    {
+      "number": 722,
+      "name": "CINEMAX THRILLERMAX 4K",
+      "epg": [
+        {
+          "time": "3:01 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "7:01 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "11:01 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 723,
+      "name": "CINEMAX WEST 4k",
+      "epg": [
+        {
+          "time": "4:36 PM",
+          "title": "Ocean's Eleven"
+        },
+        {
+          "time": "6:33 PM",
+          "title": "Ocean's Twelve"
+        },
+        {
+          "time": "8:39 PM",
+          "title": "Ocean's Thirteen"
+        },
+        {
+          "time": "10:42 PM",
+          "title": "Ocean's Eight"
+        },
+        {
+          "time": "12:33 AM",
+          "title": "Contagion"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.9,
+      "audio_rms": 2354.0,
+      "audio_ok": true
+    },
+    {
+      "number": 724,
+      "name": "HALLMARK CHANNEL 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Love on the Slopes"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "The Wedding Cottage"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Winter in Vail"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Golden Girls"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "The Golden Girls"
+        }
+      ],
+      "video_ok": true,
+      "luma": 161.3,
+      "audio_rms": 1438.4,
+      "audio_ok": true
+    },
+    {
+      "number": 725,
+      "name": "HALLMARK MOVIES & MYSTE",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Matlock"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Murder, She Wrote: South by Southwest"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Murder She Wrote: A Story to Die For"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Murder, She Wrote"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Murder, She Wrote"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.0,
+      "audio_rms": 1555.7,
+      "audio_ok": true
+    },
+    {
+      "number": 726,
+      "name": "HALLMARK DRAMA 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 136.4,
+      "audio_rms": 830.5,
+      "audio_ok": true
+    },
+    {
+      "number": 727,
+      "name": "5 STAR MAX 4K",
+      "epg": [
+        {
+          "time": "5:36 PM",
+          "title": "Head Office"
+        },
+        {
+          "time": "7:08 PM",
+          "title": "Halloween: The Curse of Michael Myers"
+        },
+        {
+          "time": "8:36 PM",
+          "title": "Halloween H20: 20 Years Later"
+        },
+        {
+          "time": "10:03 PM",
+          "title": "Halloween: Resurrection"
+        },
+        {
+          "time": "11:33 PM",
+          "title": "Due Date"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.5,
+      "audio_rms": 428.4,
+      "audio_ok": true
+    },
+    {
+      "number": 728,
+      "name": "LIFETIME MOVIE NETWORK 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Not My Family: The Monique Smith Story"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "The Girl Who Survived: The Alina Thompson Story"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Killer Clown"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Kidnapped by a Killer: The Heather Robinson Story"
+        },
+        {
+          "time": "12:01 AM",
+          "title": "Killer Clown"
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.5,
+      "audio_rms": 1745.5,
+      "audio_ok": true
+    },
+    {
+      "number": 729,
+      "name": "LIFETIME",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.4,
+      "audio_rms": 1439.1,
+      "audio_ok": true
+    },
+    {
+      "number": 730,
+      "name": "TURNER CLASSIC MOVIES HD",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Rome Adventure"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "The Bobo"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Queen Bee"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "The Nanny"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "The Honeymoon Killers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.3,
+      "audio_rms": 176.8,
+      "audio_ok": true
+    },
+    {
+      "number": 731,
+      "name": "Pu YA",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Halloween II"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Halloween"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Jeepers Creepers"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Tales From the Crypt"
+        },
+        {
+          "time": "11:40 PM",
+          "title": "Tales From the Crypt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.7,
+      "audio_rms": 1672.5,
+      "audio_ok": true
+    },
+    {
+      "number": 733,
+      "name": "FX MOVIE CHANNEL 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.7,
+      "audio_rms": 1897.9,
+      "audio_ok": true
+    },
+    {
+      "number": 725,
+      "name": "HALLMARK MOVIES & MYSTERIES 4K",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "Stardust"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Cop Land"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "The Score"
+        },
+        {
+          "time": "11:55 PM",
+          "title": "The Untouchables"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The November Mar"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 736,
+      "name": "STARZ CINEMA 4K",
+      "epg": [
+        {
+          "time": "4:47 PM",
+          "title": "Burn"
+        },
+        {
+          "time": "6:16 PM",
+          "title": "Once Upon a Time in Queens"
+        },
+        {
+          "time": "7:57 PM",
+          "title": "Silver Linings Playbook"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Thoroughbreds"
+        },
+        {
+          "time": "11:33 PM",
+          "title": "Bad Turn Worse"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.3,
+      "audio_rms": 1877.9,
+      "audio_ok": true
+    },
+    {
+      "number": 737,
+      "name": "STARZ COMEDY 4K",
+      "epg": [
+        {
+          "time": "5:48 PM",
+          "title": "Words and Pictures"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Scary Movie 2"
+        },
+        {
+          "time": "9:08 PM",
+          "title": "Scary Movie 3"
+        },
+        {
+          "time": "10:33 PM",
+          "title": "Clueless"
+        },
+        {
+          "time": "12:11 AM",
+          "title": "The Winning Season"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.7,
+      "audio_rms": 267.1,
+      "audio_ok": true
+    },
+    {
+      "number": 738,
+      "name": "STARZ EAST 4K",
+      "epg": [
+        {
+          "time": "4:20 PM",
+          "title": "The Bounce Back"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "Oscar Shaw"
+        },
+        {
+          "time": "7:38 PM",
+          "title": "Alarum"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Outlander: Blood of my Blood"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "Fightland"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.1,
+      "audio_rms": 641.8,
+      "audio_ok": true
+    },
+    {
+      "number": 739,
+      "name": "STARZ KIDS & FAMILY FHD 4K",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Yellowbird"
+        },
+        {
+          "time": "6:21 PM",
+          "title": "Win a Date With Tad Hamilton!"
+        },
+        {
+          "time": "7:58 PM",
+          "title": "Measure of a Man"
+        },
+        {
+          "time": "9:39 PM",
+          "title": "Monster Zone"
+        },
+        {
+          "time": "11:05 PM",
+          "title": "The Snow Queen 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 19.6,
+      "audio_rms": 803.2,
+      "audio_ok": true
+    },
+    {
+      "number": 740,
+      "name": "STARZ EDGE 4K",
+      "epg": [
+        {
+          "time": "5:02 PM",
+          "title": "Fightland"
+        },
+        {
+          "time": "5:54 PM",
+          "title": "Outlander: Blood of my Blood"
+        },
+        {
+          "time": "6:52 PM",
+          "title": "Michael"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Outlander: Blood of my Blood"
+        },
+        {
+          "time": "9:58 PM",
+          "title": "Fightland"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.5,
+      "audio_rms": 353.5,
+      "audio_ok": true
+    },
+    {
+      "number": 741,
+      "name": "STARZ IN BLACK 4K",
+      "epg": [
+        {
+          "time": "5:22 PM",
+          "title": "Sahara"
+        },
+        {
+          "time": "7:27 PM",
+          "title": "John Henry"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Pain & Gain"
+        },
+        {
+          "time": "11:11 PM",
+          "title": "Like a Boss"
+        },
+        {
+          "time": "12:36 AM",
+          "title": "Michael"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.8,
+      "audio_rms": 804.7,
+      "audio_ok": true
+    },
+    {
+      "number": 742,
+      "name": "STARZ ENCORE EAST 4K",
+      "epg": [
+        {
+          "time": "5:47 PM",
+          "title": "Little Man"
+        },
+        {
+          "time": "7:28 PM",
+          "title": "The Wedding Date"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "How to Lose a Guy in 10 Days"
+        },
+        {
+          "time": "10:59 PM",
+          "title": "Man of the House"
+        },
+        {
+          "time": "12:43 AM",
+          "title": "Speak No Evil"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.1,
+      "audio_rms": 1050.1,
+      "audio_ok": true
+    },
+    {
+      "number": 743,
+      "name": "STARZ ENCORE WEST 4K",
+      "epg": [
+        {
+          "time": "5:03 PM",
+          "title": "1 Can Only Imagine 2"
+        },
+        {
+          "time": "6:57 PM",
+          "title": "A Lot Like Love"
+        },
+        {
+          "time": "8:47 PM",
+          "title": "Little Man"
+        },
+        {
+          "time": "10:28 PM",
+          "title": "The Wedding Date"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "How to Lose a Guy in 10 Days"
+        }
+      ],
+      "video_ok": true,
+      "luma": 29.9,
+      "audio_rms": 1470.6,
+      "audio_ok": true
+    },
+    {
+      "number": 744,
+      "name": "STARZ ENCORE ACTION 4K",
+      "epg": [
+        {
+          "time": "4:43 PM",
+          "title": "Underworld: Awakening"
+        },
+        {
+          "time": "6:13 PM",
+          "title": "Non-Stop"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Jurassic Park Ill"
+        },
+        {
+          "time": "9:33 PM",
+          "title": "Avengers: Age of Ultron"
+        },
+        {
+          "time": "11:55 PM",
+          "title": "Underworld: Awakening"
+        }
+      ],
+      "video_ok": true,
+      "luma": 26.3,
+      "audio_rms": 1080.0,
+      "audio_ok": true
+    },
+    {
+      "number": 745,
+      "name": "STARZ ENCORE CLASSIC 4K",
+      "epg": [
+        {
+          "time": "4:28 PM",
+          "title": "The Benefactor"
+        },
+        {
+          "time": "6:02 PM",
+          "title": "Unknown"
+        },
+        {
+          "time": "7:28 PM",
+          "title": "Code Name: The Cleaner"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "All Is Lost"
+        },
+        {
+          "time": "10:47 PM",
+          "title": "Sucker Punch"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.8,
+      "audio_rms": 139.0,
+      "audio_ok": true
+    },
+    {
+      "number": 746,
+      "name": "STARZ ENCORE WESTERNS 4K",
+      "epg": [
+        {
+          "time": "5:32 PM",
+          "title": "Lawman"
+        },
+        {
+          "time": "5:58 PM",
+          "title": "Lawman"
+        },
+        {
+          "time": "6:24 PM",
+          "title": "Cheyenne"
+        },
+        {
+          "time": "7:16 PM",
+          "title": "Cheyenne"
+        },
+        {
+          "time": "8:08 PM",
+          "title": "Maverick"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.2,
+      "audio_rms": 802.6,
+      "audio_ok": true
+    },
+    {
+      "number": 747,
+      "name": "STARZ ENCORE ONCE 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.2,
+      "audio_rms": 2585.8,
+      "audio_ok": true
+    },
+    {
+      "number": 748,
+      "name": "STARZ ENCORE FAMILY 4K",
+      "epg": [
+        {
+          "time": "4:24 PM",
+          "title": "A Dog and Pony Show"
+        },
+        {
+          "time": "6:03 PM",
+          "title": "The Legend of Catclaws Mountain"
+        },
+        {
+          "time": "7:48 PM",
+          "title": "The Dog Who Saved Summer"
+        },
+        {
+          "time": "9:18 PM",
+          "title": "Sea Level"
+        },
+        {
+          "time": "10:51 PM",
+          "title": "Sea Level 2: Magic Arch"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.1,
+      "audio_rms": 1901.0,
+      "audio_ok": true
+    },
+    {
+      "number": 749,
+      "name": "STARZ ENCORE SUSPENSE 4K",
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "Ava's Possessions"
+        },
+        {
+          "time": "7:13 PM",
+          "title": "Mindhunters"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "2012"
+        },
+        {
+          "time": "11:39 PM",
+          "title": "Paranormal Activity"
+        },
+        {
+          "time": "1:05 AM",
+          "title": "Abattoir"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 2959.2,
+      "audio_ok": true
+    },
+    {
+      "number": 750,
+      "name": "MOVIEPLEX 4K",
+      "epg": [
+        {
+          "time": "5:14 PM",
+          "title": "Empire Waist"
+        },
+        {
+          "time": "6:52 PM",
+          "title": "Before | Fall"
+        },
+        {
+          "time": "8:31 PM",
+          "title": "The Hurricane Heist"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "The Presence"
+        },
+        {
+          "time": "11:43 PM",
+          "title": "Midnight Movies: From the Margin to the Mainstream"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.6,
+      "audio_rms": 1051.9,
+      "audio_ok": true
+    },
+    {
+      "number": 751,
+      "name": "SHOWCASE HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Twisted Tale of Amanda Knox"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.6,
+      "audio_rms": 1297.4,
+      "audio_ok": true
+    },
+    {
+      "number": 752,
+      "name": "AMERICAN MOVIE CLASSICS HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Halloween II"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Halloween"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "TNA iMPACT!"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Tales From the Crypt"
+        },
+        {
+          "time": "11:40 PM",
+          "title": "Tales From the Crypt"
+        }
+      ],
+      "video_ok": true,
+      "luma": 183.0,
+      "audio_rms": 2026.8,
+      "audio_ok": true
+    },
+    {
+      "number": 753,
+      "name": "THE MOVIE CHANNEL EXTRA 4K",
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "Our Friend"
+        },
+        {
+          "time": "7:25 PM",
+          "title": "Comet"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "He's Just Not That Into You"
+        },
+        {
+          "time": "11:10 PM",
+          "title": "She's the Man"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Airplane!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.7,
+      "audio_rms": 2368.2,
+      "audio_ok": true
+    },
+    {
+      "number": 754,
+      "name": "RETROPLEX 4K",
+      "epg": [
+        {
+          "time": "4:33 PM",
+          "title": "Cariboo Trail"
+        },
+        {
+          "time": "5:55 PM",
+          "title": "The Proud Rebel"
+        },
+        {
+          "time": "7:39 PM",
+          "title": "Bad Man's River"
+        },
+        {
+          "time": "9:12 PM",
+          "title": "Outride the Devil: A Morning With Doc Holliday"
+        },
+        {
+          "time": "10:40 PM",
+          "title": "Night of the Living Dead"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.6,
+      "audio_rms": 1456.0,
+      "audio_ok": true
+    },
+    {
+      "number": 755,
+      "name": "SCREENPIX 4K",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "The Bride Wore Black"
+        },
+        {
+          "time": "6:35 PM",
+          "title": "A Prayer for the Dying"
+        },
+        {
+          "time": "8:25 PM",
+          "title": "He Who Must Die"
+        },
+        {
+          "time": "10:35 PM",
+          "title": "Breakin’ 2: Electric Boogaloo"
+        },
+        {
+          "time": "12:10 AM",
+          "title": "Holiday Heart"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.8,
+      "audio_rms": 1321.3,
+      "audio_ok": true
+    },
+    {
+      "number": 756,
+      "name": "SCREENPIX ACTION 4K",
+      "epg": [
+        {
+          "time": "4:20 PM",
+          "title": "The Oblong Box"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Ski Patrol"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "Unholy Rollers"
+        },
+        {
+          "time": "9:05 PM",
+          "title": "Flatbed Annie & Sweetiepie: Lady Truckers"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "Fearless Frank"
+        }
+      ],
+      "video_ok": true,
+      "luma": 21.4,
+      "audio_rms": 298.5,
+      "audio_ok": true
+    },
+    {
+      "number": 757,
+      "name": "SCREENPIX VOICES 4K",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "Deadly Intent"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Sugar Hill"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "Blacula"
+        },
+        {
+          "time": "9:10 PM",
+          "title": "Scream Blacula Scream"
+        },
+        {
+          "time": "10:50 PM",
+          "title": "The First Power"
+        }
+      ],
+      "video_ok": true,
+      "luma": 27.8,
+      "audio_rms": 1262.3,
+      "audio_ok": true
+    },
+    {
+      "number": 758,
+      "name": "SCREENPIX WESTERNS 4K",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "Sitting Bull"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Bat Masterson"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Bat Masterson"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Tombstone Territory"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Tombstone Territory"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.2,
+      "audio_rms": 458.4,
+      "audio_ok": true
+    },
+    {
+      "number": 759,
+      "name": "HDNET MOVIES 4K",
+      "epg": [
+        {
+          "time": "4:55 PM",
+          "title": "Convoy"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "Quigley Down Under"
+        },
+        {
+          "time": "10:25 PM",
+          "title": "Convoy"
+        },
+        {
+          "time": "1:05 AM",
+          "title": "Quigley Down Under"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Bathroom Makeover"
+        }
+      ],
+      "video_ok": true,
+      "luma": 209.8,
+      "audio_rms": 1618.1,
+      "audio_ok": true
+    },
+    {
+      "number": 760,
+      "name": "HOLLYWOOD SUITE 00S",
+      "epg": [
+        {
+          "time": "5:35 PM",
+          "title": "America's Sweethearts"
+        },
+        {
+          "time": "7:25 PM",
+          "title": "Bride Wars"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ghost Rider"
+        },
+        {
+          "time": "10:55 PM",
+          "title": "Snakes on a Plane"
+        },
+        {
+          "time": "12:45 AM",
+          "title": "Deliver Us From Eva"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.3,
+      "audio_rms": 876.4,
+      "audio_ok": true
+    },
+    {
+      "number": 761,
+      "name": "HOLLYWOOD SUITE 70S",
+      "epg": [
+        {
+          "time": "5:40 PM",
+          "title": "Pennies From Heaven"
+        },
+        {
+          "time": "7:05 PM",
+          "title": "M"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Birds"
+        },
+        {
+          "time": "11:05 PM",
+          "title": "It Came From Beneath the Sea"
+        },
+        {
+          "time": "12:30 AM",
+          "title": "Creature From the Black Lagoon"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.7,
+      "audio_rms": 1104.8,
+      "audio_ok": true
+    },
+    {
+      "number": 762,
+      "name": "HOLLYWOOD SUITE 80S",
+      "epg": [
+        {
+          "time": "5:10 PM",
+          "title": "Crimes of the Heart"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Boys on the Side"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Of Unknown Origin"
+        },
+        {
+          "time": "10:35 PM",
+          "title": "Wolf"
+        },
+        {
+          "time": "12:45 AM",
+          "title": "Liar Liar"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.6,
+      "audio_rms": 898.9,
+      "audio_ok": true
+    },
+    {
+      "number": 763,
+      "name": "HOLLYWOOD SUITE 90S",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Stingray Nothin’ but 90's"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Stingray Nothin’ but 90's"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Stingray Nothin’ but 90's"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Stingray Nothin’ but 90's"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Stingray Nothin’ but 90's"
+        }
+      ],
+      "video_ok": true,
+      "luma": 29.3,
+      "audio_rms": 825.9,
+      "audio_ok": true
+    },
+    {
+      "number": 764,
+      "name": "STARZ 1",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Maze Runner: The Scorch Trials"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Maze Runner: The Death Cure"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Hunter Killer"
+        },
+        {
+          "time": "11:05 PM",
+          "title": "Shadow Force"
+        },
+        {
+          "time": "12:50 AM",
+          "title": "The Serpent Queen"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.3,
+      "audio_rms": 676.9,
+      "audio_ok": true
+    },
+    {
+      "number": 765,
+      "name": "STARZ 2",
+      "epg": [
+        {
+          "time": "3:45 PM",
+          "title": "Selena"
+        },
+        {
+          "time": "5:55 PM",
+          "title": "Nancy Drew and the Hidden Staircase"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Fantastic Mr. Fox"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Black Sails"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Black Sails"
+        }
+      ],
+      "video_ok": true,
+      "luma": 30.1,
+      "audio_rms": 669.7,
+      "audio_ok": true
+    },
+    {
+      "number": 766,
+      "name": "A A",
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "Stardust"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Cop Land"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "The Score"
+        },
+        {
+          "time": "11:55 PM",
+          "title": "The Untouchables"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "The November Man"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 767,
+      "name": "HBO 2 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.0,
+      "audio_rms": 711.7,
+      "audio_ok": true
+    },
+    {
+      "number": 768,
+      "name": "HBO FAMILY EAST 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.2,
+      "audio_rms": 2710.8,
+      "audio_ok": true
+    },
+    {
+      "number": 771,
+      "name": "INDIEPLEX 4K",
+      "epg": [
+        {
+          "time": "4:56 PM",
+          "title": "Singing in my Sleep"
+        },
+        {
+          "time": "6:29 PM",
+          "title": "Solitary Man"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Damsel"
+        },
+        {
+          "time": "9:54 PM",
+          "title": "The Devil You Know"
+        },
+        {
+          "time": "11:51 PM",
+          "title": "Youth in Oregon"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.6,
+      "audio_rms": 333.2,
+      "audio_ok": true
+    },
+    {
+      "number": 772,
+      "name": "SHOUT FACTORY TV 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.8,
+      "audio_rms": 1306.5,
+      "audio_ok": true
+    },
+    {
+      "number": 773,
+      "name": "EPIX 2 4K EN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.2,
+      "audio_rms": 163.0,
+      "audio_ok": true
+    },
+    {
+      "number": 774,
+      "name": "TURNER CLASSIC MOVIES",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Rome Adventure"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "The Bobo"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Queen Bee"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "The Nanny"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "The Honeymoon Killers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.8,
+      "audio_rms": 429.9,
+      "audio_ok": true
+    },
+    {
+      "number": 775,
+      "name": "AND PRIVE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 776,
+      "name": "EPIX 4K EN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.8,
+      "audio_rms": 1005.5,
+      "audio_ok": true
+    },
+    {
+      "number": 777,
+      "name": "MOVIES!",
+      "epg": [
+        {
+          "time": "4:05 PM",
+          "title": "They Won't Believe Me"
+        },
+        {
+          "time": "6:10 PM",
+          "title": "On Dangerous Ground"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Desperate"
+        },
+        {
+          "time": "9:35 PM",
+          "title": "Deception"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Born to Be Bad"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.9,
+      "audio_rms": 2339.8,
+      "audio_ok": true
+    },
+    {
+      "number": 778,
+      "name": "THE MOVIE CHANNEL",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "A Perfect Murder"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Phantoms"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Spontaneous"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Teaching Mrs. Tingle"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Haunter"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.2,
+      "audio_rms": 1273.2,
+      "audio_ok": true
+    },
+    {
+      "number": 779,
+      "name": "THE MOVIE CHANNEL EXTRA",
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "Our Friend"
+        },
+        {
+          "time": "7:25 PM",
+          "title": "Comet"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "He's Just Not That Into You"
+        },
+        {
+          "time": "11:10 PM",
+          "title": "She's the Man"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Airplane!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.6,
+      "audio_rms": 2066.9,
+      "audio_ok": true
+    },
+    {
+      "number": 780,
+      "name": "FOX MOVIES EN",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 32.7,
+      "audio_rms": 1167.9,
+      "audio_ok": true
+    },
+    {
+      "number": 781,
+      "name": "MOVIES NOW EN",
+      "epg": [
+        {
+          "time": "5:51 PM",
+          "title": "The Reunion"
+        },
+        {
+          "time": "6:16 PM",
+          "title": "The Reunion"
+        },
+        {
+          "time": "6:36 PM",
+          "title": "The Reunion"
+        },
+        {
+          "time": "7:01 PM",
+          "title": "The Reunion"
+        },
+        {
+          "time": "7:21 PM",
+          "title": "The Reunion"
+        }
+      ],
+      "video_ok": true,
+      "luma": 159.9,
+      "audio_rms": 1704.4,
+      "audio_ok": true
+    },
+    {
+      "number": 782,
+      "name": "MNX PLUS 4K",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "Nightcrawler"
+        },
+        {
+          "time": "6:06 PM",
+          "title": "Shaan-The Love Laugh Live Show"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Live-Mandira Bedi-The Love Laugh Live Show"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "In the Name of the King: The Last Mission"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Gun"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.6,
+      "audio_rms": 2083.9,
+      "audio_ok": true
+    },
+    {
+      "number": 783,
+      "name": "MN PLUS EN",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "The Social Network"
+        },
+        {
+          "time": "6:55 PM",
+          "title": "Knives Out"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Knives Out"
+        },
+        {
+          "time": "9:05 PM",
+          "title": "Big Eyes"
+        },
+        {
+          "time": "10:46 PM",
+          "title": "The Love Laugh Live Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.6,
+      "audio_rms": 1103.2,
+      "audio_ok": true
+    },
+    {
+      "number": 784,
+      "name": "SHOWCASE (EAST)",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "CSI: Miami"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Twisted Tale of Amanda Knox"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.1,
+      "audio_rms": 675.6,
+      "audio_ok": true
+    },
+    {
+      "number": 785,
+      "name": "STAR MOVIES EN",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Movie"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Movie"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Movie"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Movie"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Movie"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.7,
+      "audio_rms": 2228.9,
+      "audio_ok": true
+    },
+    {
+      "number": 786,
+      "name": "STAR MOVIES SELECT EN",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Guardians The Superheroes"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Breaking Infinity"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Journey to the West: Conquering the Demons"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Mojin The Treasure Valley"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Catch The Dragon"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.1,
+      "audio_rms": 1698.0,
+      "audio_ok": true
+    },
+    {
+      "number": 787,
+      "name": "ROMEDY NOW",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Blended"
+        },
+        {
+          "time": "6:56 PM",
+          "title": "Sex and the City"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sex and the City"
+        },
+        {
+          "time": "9:05 PM",
+          "title": "The Way, Way Back"
+        },
+        {
+          "time": "10:56 PM",
+          "title": "The Love Laugh Live Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 159.2,
+      "audio_rms": 3616.8,
+      "audio_ok": true
+    },
+    {
+      "number": 788,
+      "name": "SKY CINEMA ACTION HD",
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "Hancock (2008)"
+        },
+        {
+          "time": "6:55 PM",
+          "title": "Mr. Nice Guy (1997)"
+        },
+        {
+          "time": "8:35 PM",
+          "title": "Love Hurts (2025)"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "Safe (2012)"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "The Legend of Tarzan (2016)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.1,
+      "audio_rms": 697.2,
+      "audio_ok": true
+    },
+    {
+      "number": 789,
+      "name": "SKY CINEMA COMEDY HD",
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "Hitch (2005)"
+        },
+        {
+          "time": "7:25 PM",
+          "title": "American Pie 2 (2001)"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "American Pie: The Wedding (2003)"
+        },
+        {
+          "time": "10:55 PM",
+          "title": "American Pie: Reunion (2012)"
+        },
+        {
+          "time": "2:50 AM",
+          "title": "Bill & Ted's Excellent Adventure (1989)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 136.4,
+      "audio_rms": 1311.9,
+      "audio_ok": true
+    },
+    {
+      "number": 790,
+      "name": "SKY CINEMA DRAMA HD",
+      "epg": [
+        {
+          "time": "5:20 PM",
+          "title": "The Boy in the Striped Pyjamas (2008)"
+        },
+        {
+          "time": "7:05 PM",
+          "title": "Bohemian Rhapsody (2018)"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "The Breakfast Club (1985)"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "Stand by Me (1986)"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "May December (2023)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.0,
+      "audio_rms": 1497.9,
+      "audio_ok": true
+    },
+    {
+      "number": 791,
+      "name": "SKY CINEMA FAMILY HD",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Johnny English Reborn (2011)"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "Johnny English Strikes Again (2018)"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Cloudy With a Chance of Meatballs (2009)"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Cloudy With a Chance of Meatballs 2 (2013)"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "Sky Cinema Preview"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.5,
+      "audio_rms": 785.6,
+      "audio_ok": true
+    },
+    {
+      "number": 792,
+      "name": "SKY CINEMA GREATS HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Basic Instinct (1992)"
+        },
+        {
+          "time": "7:10 PM",
+          "title": "Dog Day Afternoon (1975)"
+        },
+        {
+          "time": "9:20 PM",
+          "title": "The Untouchables (1987)"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "Clear and Present Danger (1994)"
+        },
+        {
+          "time": "1:45 AM",
+          "title": "The Hunt for Red October (1990)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 45.5,
+      "audio_rms": 2530.7,
+      "audio_ok": true
+    },
+    {
+      "number": 793,
+      "name": "SKY CINEMA HITS HD",
+      "epg": [
+        {
+          "time": "4:35 PM",
+          "title": "Fuze (2025)"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "One Last Deal (2026)"
+        },
+        {
+          "time": "7:50 PM",
+          "title": "One More Shot (2025)"
+        },
+        {
+          "time": "9:35 PM",
+          "title": "Hungry (2026)"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "Flavia (2025)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 33.5,
+      "audio_rms": 1370.2,
+      "audio_ok": true
+    },
+    {
+      "number": 794,
+      "name": "SKY CINEMA PREMIER HD",
+      "epg": [
+        {
+          "time": "5:25 PM",
+          "title": "The Crow (2024)"
+        },
+        {
+          "time": "7:25 PM",
+          "title": "28 Years Later: The Bone Temple (2026)"
+        },
+        {
+          "time": "9:20 PM",
+          "title": "Barron's Cove (2024)"
+        },
+        {
+          "time": "11:25 PM",
+          "title": "Rabbit Trap (2025)"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "One Last Shot (2026)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.9,
+      "audio_rms": 667.2,
+      "audio_ok": true
+    },
+    {
+      "number": 795,
+      "name": "SKY CINEMA SCIFI HORROR HD",
+      "epg": [
+        {
+          "time": "5:25 PM",
+          "title": "28 Years Later: The Bone Temple (2026)"
+        },
+        {
+          "time": "7:20 PM",
+          "title": "Riddick (2013)"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Pet Sematary (2019)"
+        },
+        {
+          "time": "11:15 PM",
+          "title": "Sky Cinema Preview"
+        },
+        {
+          "time": "12:05 AM",
+          "title": "Army of Darkness (1992)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 110.7,
+      "audio_ok": true
+    },
+    {
+      "number": 796,
+      "name": "SKY CINEMA SELECT HD",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "One Battle After Another (2025)"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Bumblebee (2018)"
+        },
+        {
+          "time": "10:15 PM",
+          "title": "Shenandoah (1965)"
+        },
+        {
+          "time": "12:05 AM",
+          "title": "The Cinema List: Book Adaptations"
+        },
+        {
+          "time": "12:20 AM",
+          "title": "The Ballad of Wallis Island (2025)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.2,
+      "audio_rms": 540.0,
+      "audio_ok": true
+    },
+    {
+      "number": 797,
+      "name": "SKY CINEMA THRILLER HD",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Safe House (2025)"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Shaft (2000)"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "RocknRolla (2008)"
+        },
+        {
+          "time": "10:50 PM",
+          "title": "Juror #2 (2024)"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "Caddo Lake (2024)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 36.8,
+      "audio_rms": 797.5,
+      "audio_ok": true
+    },
+    {
+      "number": 798,
+      "name": "DISNEY PLUS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.5,
+      "audio_rms": 2337.0,
+      "audio_ok": true
+    },
+    {
+      "number": 799,
+      "name": "REWIND",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "Xanadu"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Kate €: Leopold"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Reservoir Dogs"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Gangs of New York"
+        },
+        {
+          "time": "2:30 AM",
+          "title": "Kaeshammer's Kitchen"
+        }
+      ],
+      "video_ok": false,
+      "luma": 14.9,
+      "audio_rms": 1195.7,
+      "audio_ok": true
+    },
+    {
+      "number": 800,
+      "name": "LMN MOVIES",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Not My Family: The Monique Smith Story"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "The Girl Who Survived: The Alina Thompson Story"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Killer Clown"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Kidnapped by a Killer: The Heather Robinson Story"
+        },
+        {
+          "time": "12:01 AM",
+          "title": "Killer Clown"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.7,
+      "audio_rms": 3454.3,
+      "audio_ok": true
+    },
+    {
+      "number": 801,
+      "name": "POPCORN FLIX",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 27.4,
+      "audio_rms": 1880.2,
+      "audio_ok": true
+    },
+    {
+      "number": 804,
+      "name": "SONY MOVIE CHANNEL 4K",
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "Anaconda 3: Offspring"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "The Shepherd"
+        },
+        {
+          "time": "9:18 PM",
+          "title": "Cleaner"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "88 Minutes"
+        },
+        {
+          "time": "12:52 AM",
+          "title": "Linewatch"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.0,
+      "audio_rms": 3297.4,
+      "audio_ok": true
+    },
+    {
+      "number": 805,
+      "name": "MNX HD",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "Nightcrawler"
+        },
+        {
+          "time": "6:06 PM",
+          "title": "Shaan-The Love Laugh Live Show"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Live-Mandira Bedi-The Love Laugh Live Show"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "In the Name of the King: The Last Mission"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Gun"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.5,
+      "audio_rms": 2608.9,
+      "audio_ok": true
+    },
+    {
+      "number": 810,
+      "name": "EPIX DRIVE IN HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.7,
+      "audio_rms": 1927.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6311,
+      "name": "STARZ ENCORE 4K",
+      "epg": [
+        {
+          "time": "5:47 PM",
+          "title": "Little Man"
+        },
+        {
+          "time": "7:28 PM",
+          "title": "The Wedding Date"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "How to Lose a Guy in 10 Days"
+        },
+        {
+          "time": "10:59 PM",
+          "title": "Man of the House"
+        },
+        {
+          "time": "12:43 AM",
+          "title": "Speak No Evil"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.7,
+      "audio_rms": 1479.6,
+      "audio_ok": true
+    },
+    {
+      "number": 812,
+      "name": "CBS DRAMA",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.6,
+      "audio_rms": 830.3,
+      "audio_ok": true
+    },
+    {
+      "number": 813,
+      "name": "CINESTAR TV",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.4,
+      "audio_rms": 2105.7,
+      "audio_ok": true
+    },
+    {
+      "number": 814,
+      "name": "TAN",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Pati's Mexican Table"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Gino's Italian Coastal Escape"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Lidia's Kitchen"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "M*A*S*H"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "M*A*S*H"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.1,
+      "audio_rms": 866.3,
+      "audio_ok": true
+    },
+    {
+      "number": 815,
+      "name": "SKY MAX HD",
+      "epg": [
+        {
+          "time": "4:15 PM",
+          "title": "Micky Flanagan: Back in the Game"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "The Paper"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "The Paper"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Gemma Collins: Everything. All at Once"
+        },
+        {
+          "time": "7:40 PM",
+          "title": "Grimm"
+        }
+      ],
+      "video_ok": true,
+      "luma": 25.9,
+      "audio_rms": 657.9,
+      "audio_ok": true
+    },
+    {
+      "number": 817,
+      "name": "SKY BOURNE HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.3,
+      "audio_rms": 1013.9,
+      "audio_ok": true
+    },
+    {
+      "number": 818,
+      "name": "SKY SCI Fl HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Evil"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "The Walking Dead"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Reginald the Vampire"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Fantasy Island"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Fantasy Island"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.0,
+      "audio_rms": 673.7,
+      "audio_ok": true
+    },
+    {
+      "number": 819,
+      "name": "SKY SHOWCASE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 170.3,
+      "audio_rms": 1533.9,
+      "audio_ok": true
+    },
+    {
+      "number": 820,
+      "name": "SKY HORROR HD",
+      "epg": [
+        {
+          "time": "5:25 PM",
+          "title": "28 Years Later: The Bone Temple (2026)"
+        },
+        {
+          "time": "7:20 PM",
+          "title": "Riddick (2013)"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Pet Sematary (2019)"
+        },
+        {
+          "time": "11:15 PM",
+          "title": "Sky Cinema Preview"
+        },
+        {
+          "time": "12:05 AM",
+          "title": "Army of Darkness (1992)"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.6,
+      "audio_rms": 1583.2,
+      "audio_ok": true
+    },
+    {
+      "number": 821,
+      "name": "SKY ADVENTURE",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.4,
+      "audio_rms": 1306.5,
+      "audio_ok": true
+    },
+    {
+      "number": 823,
+      "name": "CINEVAULT WESTERNS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.1,
+      "audio_rms": 1063.7,
+      "audio_ok": true
+    },
+    {
+      "number": 827,
+      "name": "SCARES BY SHUDDER",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 19.6,
+      "audio_rms": 1334.2,
+      "audio_ok": true
+    },
+    {
+      "number": 829,
+      "name": "UNSOLVED MYSTERIES",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.8,
+      "audio_rms": 39.3,
+      "audio_ok": true
+    },
+    {
+      "number": 831,
+      "name": "HBO MOVIES",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 11.6,
+      "audio_rms": 1194.5,
+      "audio_ok": true
+    },
+    {
+      "number": 837,
+      "name": "CINEVAULT",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.5,
+      "audio_rms": 375.4,
+      "audio_ok": true
+    },
+    {
+      "number": 840,
+      "name": "FREE MOVIES PLUS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.5,
+      "audio_rms": 1304.4,
+      "audio_ok": true
+    },
+    {
+      "number": 849,
+      "name": "STARZ ENCORE BLACK",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 850,
+      "name": "THE RIFLEMAN",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 851,
+      "name": "GET COMEDY",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.3,
+      "audio_rms": 1353.9,
+      "audio_ok": true
+    }
+  ]
+}

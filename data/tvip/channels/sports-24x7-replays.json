@@ -1,0 +1,1936 @@
+{
+  "category": "SPORTS | 24X7 | REPLAYS",
+  "captured": "2026-09-30T20:05:55-0400",
+  "mode": "full",
+  "reported_total": 214,
+  "channels": [
+    {
+      "number": 40073,
+      "name": "SOS SD EL SPORTS BEDLAY o",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.5,
+      "audio_rms": 1428.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40074,
+      "name": "SPFL SPORTS REPLAY HIGHLI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.2,
+      "audio_rms": 1857.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40075,
+      "name": "SPFL SPORTS REPLAY 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.3,
+      "audio_rms": 1304.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40076,
+      "name": "SPFL SPORTS REPLAY 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.4,
+      "audio_rms": 712.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40077,
+      "name": "SPFL SPORTS REPLAY 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.2,
+      "audio_rms": 695.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40078,
+      "name": "SPFL SPORTS REPLAY 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.8,
+      "audio_rms": 182.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40079,
+      "name": "SPFL SPORTS REPLAY 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.8,
+      "audio_rms": 475.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40080,
+      "name": "SPFL SPORTS REPLAY 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.2,
+      "audio_rms": 371.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40101,
+      "name": "LK SinTinEekankd \\\\ | FL REP LAY | N TO",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40102,
+      "name": "NFL REPLAY HIGHLIGHTS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.9,
+      "audio_rms": 3061.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40103,
+      "name": "NFL REPLAY 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.8,
+      "audio_rms": 594.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40104,
+      "name": "NFL REPLAY 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.3,
+      "audio_rms": 1043.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40105,
+      "name": "NFL REPLAY 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.3,
+      "audio_rms": 363.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40106,
+      "name": "NFL REPLAY 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.0,
+      "audio_rms": 1261.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40107,
+      "name": "NFL REPLAY 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.6,
+      "audio_rms": 512.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40108,
+      "name": "NFL REPLAY 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.2,
+      "audio_rms": 1651.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40109,
+      "name": "NFL REPLAY 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.2,
+      "audio_rms": 1290.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40110,
+      "name": "NFL REPLAY 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.9,
+      "audio_rms": 652.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40111,
+      "name": "NFL REPLAY 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.7,
+      "audio_rms": 1517.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40112,
+      "name": "NFL REPLAY 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.4,
+      "audio_rms": 775.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40113,
+      "name": "NFL REPLAY 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.0,
+      "audio_rms": 591.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40114,
+      "name": "NFL REPLAY 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.6,
+      "audio_rms": 1311.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40115,
+      "name": "NFL REPLAY 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.4,
+      "audio_rms": 377.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40116,
+      "name": "NFL REPLAY 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.5,
+      "audio_rms": 1257.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40117,
+      "name": "PREMIER LEAGUE REPL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40118,
+      "name": "PREMIERLEAGUE REPLAY H",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.8,
+      "audio_rms": 1643.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40119,
+      "name": "PREMIERLEAGUE REPLAY1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.3,
+      "audio_rms": 2020.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40120,
+      "name": "PREMIERLEAGUE REPLAY2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.7,
+      "audio_rms": 2244.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40121,
+      "name": "PREMIERLEAGUE REPLAY3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 137.8,
+      "audio_rms": 1155.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40122,
+      "name": "PREMIERLEAGUE REPLAY4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.1,
+      "audio_rms": 1441.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40123,
+      "name": "PREMIERLEAGUE REPLAY5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.9,
+      "audio_rms": 1615.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40124,
+      "name": "PREMIERLEAGUE REPLAY6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.2,
+      "audio_rms": 731.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40125,
+      "name": "PREMIERLEAGUE REPLAY7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 221.3,
+      "audio_rms": 1625.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40126,
+      "name": "PREMIERLEAGUE REPLAY8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 127.3,
+      "audio_rms": 1229.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40127,
+      "name": "PREMIERLEAGUE REPLAY9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.1,
+      "audio_rms": 2266.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40128,
+      "name": "(5) PREMIERLEAGUE REPLAY10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.4,
+      "audio_rms": 692.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40151,
+      "name": "",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.1,
+      "audio_rms": 12863.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40152,
+      "name": "NHL REPLAY HIGHLIGHTS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.7,
+      "audio_rms": 497.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40153,
+      "name": "NHL REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 3041.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40154,
+      "name": "NHL REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 188.9,
+      "audio_rms": 1091.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40155,
+      "name": "NHL REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 152.6,
+      "audio_rms": 2234.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40156,
+      "name": "NHL REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 154.0,
+      "audio_rms": 3092.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40157,
+      "name": "NHL REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.3,
+      "audio_rms": 603.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40158,
+      "name": "NHL REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 179.6,
+      "audio_rms": 983.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40159,
+      "name": "NHL REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.3,
+      "audio_rms": 3168.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40160,
+      "name": "NHL REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.9,
+      "audio_rms": 2024.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40161,
+      "name": "NHL REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 218.4,
+      "audio_rms": 1111.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40162,
+      "name": "NHL REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 204.5,
+      "audio_rms": 993.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40163,
+      "name": "NHL REPLAY 11 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40164,
+      "name": "NHL REPLAY 12 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40165,
+      "name": "NHL REPLAY 13 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 201.1,
+      "audio_rms": 1737.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40166,
+      "name": "NHL REPLAY 14 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 169.1,
+      "audio_rms": 2801.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40167,
+      "name": "NHL REPLAY 15 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 173.7,
+      "audio_rms": 236.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40168,
+      "name": "",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.2,
+      "audio_rms": 11170.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40169,
+      "name": "NBA REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.9,
+      "audio_rms": 1143.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40170,
+      "name": "NBA REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.3,
+      "audio_rms": 1828.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40171,
+      "name": "NBA REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.6,
+      "audio_rms": 1388.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40172,
+      "name": "NBA REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.8,
+      "audio_rms": 1462.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40173,
+      "name": "NBA REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.8,
+      "audio_rms": 1494.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40174,
+      "name": "NBA REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.6,
+      "audio_rms": 1237.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40175,
+      "name": "NBA REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 148.4,
+      "audio_rms": 1243.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40176,
+      "name": "NBA REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.0,
+      "audio_rms": 1332.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40177,
+      "name": "NBA REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 179.6,
+      "audio_rms": 1159.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40178,
+      "name": "NBA REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.6,
+      "audio_rms": 1707.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40179,
+      "name": "NBA REPLAY 11 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40180,
+      "name": "NBA REPLAY 12 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.7,
+      "audio_rms": 732.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40181,
+      "name": "NBA REPLAY 13 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.2,
+      "audio_rms": 696.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40182,
+      "name": "NBA REPLAY 14 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.0,
+      "audio_rms": 1412.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40183,
+      "name": "NBA REPLAY 15 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.7,
+      "audio_rms": 1645.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40184,
+      "name": "NBA REPLAY 16 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40185,
+      "name": "NBA REPLAY 17 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40186,
+      "name": "SS SPORTS REPLAY INEO. 4,",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.3,
+      "audio_rms": 4538.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40187,
+      "name": "SPORTS REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.8,
+      "audio_rms": 1947.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40188,
+      "name": "SPORTS REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.3,
+      "audio_rms": 1765.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40189,
+      "name": "SPORTS REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.4,
+      "audio_rms": 1338.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40190,
+      "name": "SPORTS REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 114.6,
+      "audio_rms": 1669.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40191,
+      "name": "SPORTS REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.6,
+      "audio_rms": 2344.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40192,
+      "name": "SPORTS REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.2,
+      "audio_rms": 2254.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40193,
+      "name": "SPORTS REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.1,
+      "audio_rms": 797.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40194,
+      "name": "SPORTS REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 145.2,
+      "audio_rms": 2879.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40195,
+      "name": "SPORTS REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.4,
+      "audio_rms": 2335.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40196,
+      "name": "SPORTS REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.1,
+      "audio_rms": 1128.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40197,
+      "name": "SPORTS REPLAY 11 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.1,
+      "audio_rms": 1778.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40198,
+      "name": "SPORTS REPLAY 12 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.4,
+      "audio_rms": 771.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40199,
+      "name": "E1GHT REPLAY INFO **",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40200,
+      "name": "24/7 | UFC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.4,
+      "audio_rms": 1237.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40201,
+      "name": "24/7 | WRESTLEMANIA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.0,
+      "audio_rms": 1850.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40231,
+      "name": "",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.9,
+      "audio_rms": 2090.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40232,
+      "name": "EFL CH HIGHLIGHTS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.3,
+      "audio_rms": 546.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40233,
+      "name": "EFL CH REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.6,
+      "audio_rms": 1582.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40234,
+      "name": "EFL CH REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.3,
+      "audio_rms": 3556.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40235,
+      "name": "EFL CH REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.5,
+      "audio_rms": 1833.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40236,
+      "name": "EFL CH REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.1,
+      "audio_rms": 3064.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40237,
+      "name": "EFL CH REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.1,
+      "audio_rms": 872.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40238,
+      "name": "EFL CH REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.1,
+      "audio_rms": 1123.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40239,
+      "name": "EFL CH REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.8,
+      "audio_rms": 195.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40240,
+      "name": "EFL CH REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.8,
+      "audio_rms": 3177.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40241,
+      "name": "EFL CH REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.0,
+      "audio_rms": 919.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40242,
+      "name": "EFL CH REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 150.5,
+      "audio_rms": 3219.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40243,
+      "name": "(MM EFL CH REPLAY 11 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 152.7,
+      "audio_rms": 1885.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40244,
+      "name": "EFL CH REPLAY 12 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 131.6,
+      "audio_rms": 1450.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40264,
+      "name": "XXXIX =E e A 1 REP WW AR",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40265,
+      "name": "EFL L1 REPLAY INFO HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.4,
+      "audio_rms": 982.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40266,
+      "name": "EFL L1 REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.4,
+      "audio_rms": 774.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40267,
+      "name": "EFL L1 REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40268,
+      "name": "EFL L1 REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.1,
+      "audio_rms": 1757.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40269,
+      "name": "EFLL1 REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.6,
+      "audio_rms": 2319.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40270,
+      "name": "EFL L1 REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.0,
+      "audio_rms": 1833.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40271,
+      "name": "EFLL1 REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.9,
+      "audio_rms": 1438.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40272,
+      "name": "EFLL1 REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.3,
+      "audio_rms": 1535.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40273,
+      "name": "EFLL1 REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.0,
+      "audio_rms": 1846.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40274,
+      "name": "EFL L1 REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 128.2,
+      "audio_rms": 1798.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40275,
+      "name": "EFLL1 REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.9,
+      "audio_rms": 1516.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40276,
+      "name": "EFLL1 REPLAY 11 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 149.4,
+      "audio_rms": 1465.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40277,
+      "name": "EFLL1 REPLAY 12 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.6,
+      "audio_rms": 3006.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40298,
+      "name": "A = a L2 REPLAYS********",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40299,
+      "name": "EFL L2 REPLAY INFO HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.6,
+      "audio_rms": 726.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40300,
+      "name": "EFL L2 REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.4,
+      "audio_rms": 272.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40301,
+      "name": "EFL L2 REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.1,
+      "audio_rms": 2226.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40302,
+      "name": "EFL L2 REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.0,
+      "audio_rms": 153.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40303,
+      "name": "EFL L2 REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.2,
+      "audio_rms": 2337.1,
+      "audio_ok": true
+    },
+    {
+      "number": 4030,
+      "name": "EFL L2 REPLAY 5 HD",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.9,
+      "audio_rms": 363.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40305,
+      "name": "EFL L2 REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.3,
+      "audio_rms": 1966.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40306,
+      "name": "EFL L2 REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.7,
+      "audio_rms": 1928.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40307,
+      "name": "EFL L2 REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.9,
+      "audio_rms": 1682.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40308,
+      "name": "EFL L2 REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.5,
+      "audio_rms": 3290.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40309,
+      "name": "EFL L2 REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.7,
+      "audio_rms": 1242.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40310,
+      "name": "EFL L2 REPLAY 11 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 148.2,
+      "audio_rms": 2767.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40311,
+      "name": "EFL L2 REPLAY 12 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 142.1,
+      "audio_rms": 837.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40331,
+      "name": "C HAMPIONS LEAGUE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40332,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 1839.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40333,
+      "name": "CHAMPION LEAGUE HIGHL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.3,
+      "audio_rms": 1416.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40334,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.0,
+      "audio_rms": 1762.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40335,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 114.0,
+      "audio_rms": 298.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40336,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.6,
+      "audio_rms": 1121.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40337,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.0,
+      "audio_rms": 1134.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40338,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.8,
+      "audio_rms": 1151.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40339,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.0,
+      "audio_rms": 406.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40340,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.0,
+      "audio_rms": 431.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40341,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.2,
+      "audio_rms": 1573.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40342,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.4,
+      "audio_rms": 743.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40343,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.5,
+      "audio_rms": 2874.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40344,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.4,
+      "audio_rms": 929.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40345,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.7,
+      "audio_rms": 2719.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40346,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.2,
+      "audio_rms": 2262.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40347,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.7,
+      "audio_rms": 412.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40348,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.3,
+      "audio_rms": 1844.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40349,
+      "name": "CHAMPIONS LEAGUE REPL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40372,
+      "name": "EUROPA LEAGUE HIGHLIGHT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.3,
+      "audio_rms": 858.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40373,
+      "name": "EUROPA LEAGUE REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.9,
+      "audio_rms": 398.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40375,
+      "name": "EUROPA LEAGUE REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.2,
+      "audio_rms": 1436.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40376,
+      "name": "EUROPA LEAGUE REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.0,
+      "audio_rms": 1377.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40377,
+      "name": "EUROPA LEAGUE REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.2,
+      "audio_rms": 2052.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40378,
+      "name": "EUROPA LEAGUE REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 124.3,
+      "audio_rms": 666.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40379,
+      "name": "EUROPA LEAGUE REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 171.9,
+      "audio_rms": 612.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40380,
+      "name": "EUROPA LEAGUE REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.4,
+      "audio_rms": 1415.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40381,
+      "name": "EUROPA LEAGUE REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.9,
+      "audio_rms": 1437.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40382,
+      "name": "EUROPA LEAGUE REPLAY 9 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40383,
+      "name": "EUROPA LEAGUE REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.5,
+      "audio_rms": 460.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40384,
+      "name": "EUROPA LEAGUE REPLAY 11 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.2,
+      "audio_rms": 1078.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40404,
+      "name": "NATIONAL LEAGUE RE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40405,
+      "name": "NATIONAL LEAGUE REPLAY 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.8,
+      "audio_rms": 482.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40406,
+      "name": "NATIONAL LEAGUE HIGHLIGH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.8,
+      "audio_rms": 113.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40407,
+      "name": "NATIONAL LEAGUE REPLAY 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.0,
+      "audio_rms": 507.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40408,
+      "name": "NATIONAL LEAGUE REPLAY 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.0,
+      "audio_rms": 1693.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40409,
+      "name": "NATIONAL LEAGUE REPLAY 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.4,
+      "audio_rms": 3337.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40410,
+      "name": "NATIONAL LEAGUE REPLAY 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.4,
+      "audio_rms": 1495.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40411,
+      "name": "NATIONAL LEAGUE REPLAY 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.3,
+      "audio_rms": 284.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40412,
+      "name": "NATIONAL LEAGUE REPLAY 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.3,
+      "audio_rms": 360.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40413,
+      "name": "NATIONAL LEAGUE REPLAY 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.0,
+      "audio_rms": 1948.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40414,
+      "name": "NATIONAL LEAGUE REPLAY 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.9,
+      "audio_rms": 936.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40415,
+      "name": "NATIONAL LEAGUE REPLAY 9",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40416,
+      "name": "NATIONAL LEAGUE REPLAY 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.5,
+      "audio_rms": 152.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40417,
+      "name": "NATIONAL LEAGUE REPLAY 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.4,
+      "audio_rms": 831.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40418,
+      "name": "NATIONAL LEAGUE REPLAY 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.8,
+      "audio_rms": 1028.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40425,
+      "name": "",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.3,
+      "audio_rms": 7735.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40426,
+      "name": "SERIEA REPLAY HIGHLIGHT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.7,
+      "audio_rms": 1253.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40427,
+      "name": "SERIEA REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.3,
+      "audio_rms": 1782.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40428,
+      "name": "SERIEA REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 148.0,
+      "audio_rms": 2326.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40429,
+      "name": "SERIEA REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.7,
+      "audio_rms": 1661.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40430,
+      "name": "SERIEA REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.1,
+      "audio_rms": 1520.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40431,
+      "name": "SERIEA REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.2,
+      "audio_rms": 1992.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40432,
+      "name": "SERIEA REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.9,
+      "audio_rms": 2606.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40433,
+      "name": "SERIEA REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.9,
+      "audio_rms": 1012.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40434,
+      "name": "SERIEA REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.1,
+      "audio_rms": 786.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40435,
+      "name": "SERIEA REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.6,
+      "audio_rms": 1819.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40436,
+      "name": "SERIEA REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.3,
+      "audio_rms": 1641.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40437,
+      "name": "",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.0,
+      "audio_rms": 1204.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40438,
+      "name": "LALIGA REPLAY HIGHLIGHT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.5,
+      "audio_rms": 2777.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40439,
+      "name": "LALIGA REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.2,
+      "audio_rms": 834.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40440,
+      "name": "LALIGA REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.1,
+      "audio_rms": 2216.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40441,
+      "name": "LALIGA REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 145.8,
+      "audio_rms": 1505.0,
+      "audio_ok": true
+    },
+    {
+      "number": 40442,
+      "name": "LALIGA REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 145.2,
+      "audio_rms": 1810.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40443,
+      "name": "LALIGA REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.6,
+      "audio_rms": 1730.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40,
+      "name": "LALIGA REPLAY 6 HD",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 149.4,
+      "audio_rms": 1490.3,
+      "audio_ok": true
+    },
+    {
+      "number": 45,
+      "name": "LALIGA REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.4,
+      "audio_rms": 704.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40446,
+      "name": "LALIGA REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.8,
+      "audio_rms": 1402.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40447,
+      "name": "LALIGA REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 139.3,
+      "audio_rms": 1800.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40448,
+      "name": "LALIGA REPLAY 10 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.6,
+      "audio_rms": 1885.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40449,
+      "name": "LALIGA REPLAY ENGLISH 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 126.5,
+      "audio_rms": 1327.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40450,
+      "name": "LALIGA REPLAY ENGLISH 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.8,
+      "audio_rms": 1875.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40451,
+      "name": "BUNDESLIGA REPLAY 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.6,
+      "audio_rms": 1104.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40452,
+      "name": "BUNDESLIGA REPLAY HIGHLI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 155.6,
+      "audio_rms": 1973.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40453,
+      "name": "BUNDESLIGA REPLAY 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.9,
+      "audio_rms": 409.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40454,
+      "name": "BUNDESLIGA REPLAY 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.8,
+      "audio_rms": 1638.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40455,
+      "name": "BUNDESLIGA REPLAY 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.2,
+      "audio_rms": 942.1,
+      "audio_ok": true
+    },
+    {
+      "number": 40456,
+      "name": "BUNDESLIGA REPLAY 4 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.9,
+      "audio_rms": 673.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40457,
+      "name": "BUNDESLIGA REPLAY 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.5,
+      "audio_rms": 1665.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40458,
+      "name": "BUNDESLIGA REPLAY 6 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.8,
+      "audio_rms": 655.9,
+      "audio_ok": true
+    },
+    {
+      "number": 40459,
+      "name": "BUNDESLIGA REPLAY 7 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.4,
+      "audio_rms": 1846.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40460,
+      "name": "BUNDESLIGA REPLAY 8 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.5,
+      "audio_rms": 1251.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40461,
+      "name": "BUNDESLIGA REPLAY 9 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.6,
+      "audio_rms": 1365.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40462,
+      "name": "BUNDESLIGA REPLAY ENGLIS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40463,
+      "name": "BUNDESLIGA REPLAY ENGLIS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.5,
+      "audio_rms": 1815.4,
+      "audio_ok": true
+    }
+  ]
+}

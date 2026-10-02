@@ -1,0 +1,1803 @@
+{
+  "category": "ENGLISH | MUSIC",
+  "captured": "2026-10-01T18:11:15-0400",
+  "mode": "full",
+  "reported_total": 86,
+  "channels": [
+    {
+      "number": 36998,
+      "name": "24x7 TRUE 4K STINGRAY AMB",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 162.9,
+      "audio_rms": 891.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36999,
+      "name": "24x7 TRUE 4K STINGRAY FEST",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.0,
+      "audio_rms": 2014.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37000,
+      "name": "24x7 TRUE 4K STINGRAY NOW",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.2,
+      "audio_rms": 1947.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37004,
+      "name": "24x7 STINGRAY CLASSIC MAS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.6,
+      "audio_rms": 1143.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37005,
+      "name": "24x7 STINGRAY CLASSIC ROCK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.0,
+      "audio_rms": 1023.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37008,
+      "name": "24x7 STINGRAY EASY LISTENI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.2,
+      "audio_rms": 1057.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37013,
+      "name": "24x7 STINGRAY HIT LIST (E)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.6,
+      "audio_rms": 2438.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37014,
+      "name": "24x7 STINGRAY HOT COUNTR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.0,
+      "audio_rms": 846.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37019,
+      "name": "24x7 STINGRAY NATURE (E)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.4,
+      "audio_rms": 616.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37020,
+      "name": "24x7 STINGRAY NOSTALGIE (E)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.2,
+      "audio_rms": 1760.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37021,
+      "name": "24x7 STINGRAY POP ADULT (E)",
+      "epg": [],
+      "video_ok": false,
+      "luma": 16.9,
+      "audio_rms": 2193.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37025,
+      "name": "24x7 STINGRAY REMEMBER T",
+      "epg": [],
+      "video_ok": true,
+      "luma": 180.0,
+      "audio_rms": 1243.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37026,
+      "name": "24x7 STINGRAY ROCK (E)",
+      "epg": [],
+      "video_ok": false,
+      "luma": 16.9,
+      "audio_rms": 2753.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37037,
+      "name": "24x7 MTV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 168.8,
+      "audio_rms": 1548.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37040,
+      "name": "24x7 MTV Club",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37042,
+      "name": "24x7 MTV Hits",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.7,
+      "audio_rms": 141.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37046,
+      "name": "24x7 Stingray Classic Rock HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 495.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37049,
+      "name": "24x7 Stingray Hot Country HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 138.0,
+      "audio_rms": 1102.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37051,
+      "name": "24x7 Stingray Remember The",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.3,
+      "audio_rms": 1083.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37052,
+      "name": "24x7 Stingray Soul Storm STO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.8,
+      "audio_rms": 802.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37054,
+      "name": "24x7 Stingray Classica HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.4,
+      "audio_rms": 906.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37055,
+      "name": "24x7 Stingray Jazz HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.6,
+      "audio_rms": 2418.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37058,
+      "name": "24x7 Music Choice Y2K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.4,
+      "audio_rms": 881.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37059,
+      "name": "24x7 Music Choice Tropicales",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.1,
+      "audio_rms": 1393.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37062,
+      "name": "24x7 Music Choice Throwbac",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37063,
+      "name": "24x7 Music Choice Teen Beats",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.3,
+      "audio_rms": 1578.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37064,
+      "name": "24x7 Music Choice Stage & Sc",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.3,
+      "audio_rms": 1102.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37066,
+      "name": "24x7 Music Choice Sounds of",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.8,
+      "audio_rms": 992.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37067,
+      "name": "24x7 Music Choice Solid Gold",
+      "epg": [],
+      "video_ok": true,
+      "luma": 146.8,
+      "audio_rms": 1017.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37068,
+      "name": "24x7 Music Choice Soft Rock",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.7,
+      "audio_rms": 1735.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37073,
+      "name": "24x7 Music Choice Rock",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.4,
+      "audio_rms": 1231.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37075,
+      "name": "24x7 Music Choice Rap",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.0,
+      "audio_rms": 1515.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37076,
+      "name": "24x7 Music Choice R&B Sou",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.5,
+      "audio_rms": 728.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37080,
+      "name": "24x7 Music Choice Pop & Cou",
+      "epg": [],
+      "video_ok": true,
+      "luma": 183.9,
+      "audio_rms": 1155.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37082,
+      "name": "24x7 Music Choice Musica Ur",
+      "epg": [],
+      "video_ok": true,
+      "luma": 181.6,
+      "audio_rms": 1064.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37083,
+      "name": "24x7 Music Choice Mexicana",
+      "epg": [],
+      "video_ok": true,
+      "luma": 167.4,
+      "audio_rms": 1102.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37085,
+      "name": "24x7 Music Choice Max",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37088,
+      "name": "24x7 Music Choice Kidz Only!",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.0,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37091,
+      "name": "24x7 MUSIC CHOICE HIT LIST",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.3,
+      "audio_rms": 1901.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37094,
+      "name": "24x7 MUSIC CHOICE GOSPEL",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.2,
+      "audio_rms": 1487.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37098,
+      "name": "24x7 MUSIC CHOICE CONTEM",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.6,
+      "audio_rms": 1037.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37103,
+      "name": "24x7 MUSIC CHOICE ALTERN",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 136.8,
+      "audio_rms": 1850.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37104,
+      "name": "24x7 MUSIC CHOICE ADULT A",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.3,
+      "audio_rms": 1509.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37105,
+      "name": "24x7 MUSIC CHOICE 90's",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 141.7,
+      "audio_rms": 1543.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37106,
+      "name": "24x7 MUSIC CHOICE 80's",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.5,
+      "audio_rms": 1334.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37107,
+      "name": "24x7 STINGRAY GREATEST HITS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 30.8,
+      "audio_rms": 1059.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37108,
+      "name": "24x7 STINGRAY HOLIDAY SCA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.3,
+      "audio_rms": 1148.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37110,
+      "name": "24x7 IMPACT GOSPEL",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.4,
+      "audio_rms": 1022.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37111,
+      "name": "24x7 STINGRAY SMOOTH JAZZ",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.0,
+      "audio_rms": 990.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37112,
+      "name": "24x7 STINGRAY NATURESCAPE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.2,
+      "audio_rms": 1942.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37113,
+      "name": "24x7 50 CENT",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.2,
+      "audio_rms": 7771.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37114,
+      "name": "24x7 ASAP ROCKY",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.9,
+      "audio_rms": 8676.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37115,
+      "name": "24x7 DEVLIN",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 95.0,
+      "audio_rms": 10232.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37116,
+      "name": "24x7 DOT ROTTEN",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.7,
+      "audio_rms": 4075.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37117,
+      "name": "24x7 ARTIST DRAKE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 159.8,
+      "audio_rms": 6254.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37118,
+      "name": "24x7 GHETIS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.1,
+      "audio_rms": 9428.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3711,
+      "name": "24x7 GIGGS",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.2,
+      "audio_rms": 11017.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37120,
+      "name": "24x7 GRIMINAL",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.5,
+      "audio_rms": 6876.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37121,
+      "name": "24x7 JME",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 23.6,
+      "audio_rms": 9256.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37122,
+      "name": "24x7 LETHAL BIZZLE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.4,
+      "audio_rms": 12945.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37123,
+      "name": "24x7 SKEPTA",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.2,
+      "audio_rms": 5056.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37124,
+      "name": "24x7 SNOOP DOGG",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 156.7,
+      "audio_rms": 11080.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37125,
+      "name": "24x7 STORMZY",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.9,
+      "audio_rms": 4503.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37126,
+      "name": "24x7 TORY LANEZ",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.8,
+      "audio_rms": 3639.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37127,
+      "name": "24x7 TRAVIS SCOTT",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.2,
+      "audio_rms": 8925.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37128,
+      "name": "24x7 WILEY",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.8,
+      "audio_rms": 3273.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37129,
+      "name": "24x7 WRETCH 32",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37130,
+      "name": "24x7 AJ TRACEY",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37131,
+      "name": "24x7 BIG SHAQ",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37132,
+      "name": "24x7 RAMZ",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37133,
+      "name": "24x7 BRUNO MARS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37134,
+      "name": "24x7 ED SHEERAN",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37135,
+      "name": "24x7 JUSTIN BIEBER",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37136,
+      "name": "24x7 HARRY STYLES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37137,
+      "name": "24x7 POST MALONE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37138,
+      "name": "24x7 THE WEEKND",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37139,
+      "name": "24x7 SHAWN MENDES",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37140,
+      "name": "24x7 USHER",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37141,
+      "name": "24x7 MICHAEL JACKSON",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37142,
+      "name": "24x7 EMINEM",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37143,
+      "name": "A",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37144,
+      "name": "24x7 CHRIS BROWN",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37145,
+      "name": "24x7 JUSTIN TIMBERLAKE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37146,
+      "name": "24x7 PITBULL",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37147,
+      "name": "24x7 LIL WAYNE",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

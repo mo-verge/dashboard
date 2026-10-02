@@ -1,0 +1,242 @@
+{
+  "category": "SPORTS | TENNIS",
+  "captured": "2026-10-01T00:20:27-0400",
+  "mode": "full",
+  "reported_total": 18,
+  "channels": [
+    {
+      "number": 40131,
+      "name": "TENNIS CHANNEL 4K",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "Courtside - Live"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Courtside - Live"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Race to the ATP Finals"
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Courtside"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Courtside - Live"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.5,
+      "audio_rms": 1179.4,
+      "audio_ok": true
+    },
+    {
+      "number": 40132,
+      "name": "TENNIS PLUS 4K",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.1,
+      "audio_rms": 1064.3,
+      "audio_ok": true
+    },
+    {
+      "number": 40133,
+      "name": "TENNIS TV",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.7,
+      "audio_rms": 1487.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40134,
+      "name": "TENNIS PLUS 01",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.6,
+      "audio_rms": 2490.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40135,
+      "name": "TENNIS PLUS 02",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.0,
+      "audio_rms": 215.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40136,
+      "name": "TENNIS PLUS 03",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40137,
+      "name": "TENNIS PLUS 04",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.5,
+      "audio_rms": 149.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40138,
+      "name": "TENNIS PLUS 05",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.8,
+      "audio_rms": 49.7,
+      "audio_ok": true
+    },
+    {
+      "number": 40139,
+      "name": "TENNIS PLUS 06",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40140,
+      "name": "TENNIS PLUS 07",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.6,
+      "audio_rms": 62.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40141,
+      "name": "TENNIS PLUS 08",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.3,
+      "audio_rms": 160.8,
+      "audio_ok": true
+    },
+    {
+      "number": 40142,
+      "name": "TENNIS PLUS 09",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.7,
+      "audio_rms": 220.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40143,
+      "name": "TENNIS PLUS 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.8,
+      "audio_rms": 145.2,
+      "audio_ok": true
+    },
+    {
+      "number": 40144,
+      "name": "TENNIS PLUS 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.2,
+      "audio_rms": 433.6,
+      "audio_ok": true
+    },
+    {
+      "number": 40145,
+      "name": "TENNIS PLUS 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40146,
+      "name": "TENNIS PLUS 13",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 40147,
+      "name": "TENNIS PLUS 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.1,
+      "audio_rms": 278.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40148,
+      "name": "TENNIS PLUS 15",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

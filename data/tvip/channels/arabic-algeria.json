@@ -1,0 +1,125 @@
+{
+  "category": "ARABIC | ALGERIA",
+  "captured": "2026-10-01T20:47:10-0400",
+  "mode": "sports-only",
+  "reported_total": 29,
+  "channels": [
+    {
+      "number": 20873,
+      "name": "OO"
+    },
+    {
+      "number": 41678,
+      "name": "ECHOUROUK TV"
+    },
+    {
+      "number": 41736,
+      "name": "EL DJAZAIR N1"
+    },
+    {
+      "number": 41800,
+      "name": "ALGERIE TAMAZIGH"
+    },
+    {
+      "number": 41863,
+      "name": "TV CORAN ALGERIE"
+    },
+    {
+      "number": 41928,
+      "name": "BERBERE IV"
+    },
+    {
+      "number": 41990,
+      "name": "BAHIA TV ORAN"
+    },
+    {
+      "number": 42054,
+      "name": "DZAIR JANNAH"
+    },
+    {
+      "number": 42117,
+      "name": "AL24 NEWS"
+    },
+    {
+      "number": 42180,
+      "name": "ENNAHAR TV"
+    },
+    {
+      "number": 42243,
+      "name": "AL FAIN 12"
+    },
+    {
+      "number": 42370,
+      "name": "EL BILAD"
+    },
+    {
+      "number": 42371,
+      "name": "ALMAGHARIBIA TV"
+    },
+    {
+      "number": 42402,
+      "name": "AL ANIS TV"
+    },
+    {
+      "number": 42371,
+      "name": "ALMAGHARIBIA TV",
+      "number_uncertain": true
+    },
+    {
+      "number": 42436,
+      "name": "ALGERIE TV8 EDHAKIRA"
+    },
+    {
+      "number": 42467,
+      "name": "ALGERIE EN TV 1"
+    },
+    {
+      "number": 42498,
+      "name": "SAMIRA TV"
+    },
+    {
+      "number": 42499,
+      "name": "ALGERIE ELMAARIFA TV7"
+    },
+    {
+      "number": 42530,
+      "name": "AL SAHRAA"
+    },
+    {
+      "number": 42561,
+      "name": "EL HEDDAF IV"
+    },
+    {
+      "number": 42562,
+      "name": "EL DJAZAIRIA1"
+    },
+    {
+      "number": 42592,
+      "name": "ALGERIE CANAL TV 2"
+    },
+    {
+      "number": 42623,
+      "name": "ECHOUROUK NEWS"
+    },
+    {
+      "number": 42624,
+      "name": "CANAL ATLAS ALGERIA"
+    },
+    {
+      "number": 42655,
+      "name": "EL HAYAT ALGERIA"
+    },
+    {
+      "number": 42657,
+      "name": "AR SALAM TV"
+    },
+    {
+      "number": 42667,
+      "name": "AR A3 HD"
+    },
+    {
+      "number": 56262,
+      "name": "AL ARABY HD"
+    }
+  ]
+}

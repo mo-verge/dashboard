@@ -1,0 +1,1614 @@
+{
+  "category": "SPANISH | COLOMBIA",
+  "captured": "2026-09-30T18:45:53-0400",
+  "mode": "full",
+  "reported_total": 57,
+  "channels": [
+    {
+      "number": 37627,
+      "name": "CO | TV AGRO HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 142.5,
+      "audio_rms": 3147.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37628,
+      "name": "CO | CNC MEDELLIN",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.1,
+      "audio_rms": 2455.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37629,
+      "name": "CO | LA KALLE HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.9,
+      "audio_rms": 1513.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37630,
+      "name": "CO | CANTINAZO HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.3,
+      "audio_rms": 1889.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37631,
+      "name": "CO | CLARO SPORTS LATINOA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.5,
+      "audio_rms": 1637.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37632,
+      "name": "CO | CLARO SPORTS LATINOA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.2,
+      "audio_rms": 1802.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37633,
+      "name": "CO | DIRECTV SPORTS 1",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.7,
+      "audio_rms": 2366.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37634,
+      "name": "CO | DIRECTV SPORTS 2",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.3,
+      "audio_rms": 902.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37635,
+      "name": "CO | DIRECTV SPORTS PLUS",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.5,
+      "audio_rms": 2111.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37636,
+      "name": "CO | WIN SPORTS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Saque largo"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Ind. Medellin vs. Millonarios FC"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ind. Medellin vs. Millonarios FC"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Win Noticias"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "El chiringuito de Jugones"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.1,
+      "audio_rms": 3274.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37637,
+      "name": "CO | WIN SPORTS+ (MOVIL)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 139.8,
+      "audio_rms": 2013.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37638,
+      "name": "CO | WIN SPORTS HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Saque largo"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Ind. Medellín vs. Millonarios FC"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ind. Medellin vs. Millonarios FC"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Win Noticias"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "El chiringuito de Jugones"
+        }
+      ],
+      "video_ok": true,
+      "luma": 149.3,
+      "audio_rms": 2733.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37639,
+      "name": "CO | WIN SPORTS HD+",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Saque largo"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Ind. Medellin vs. Millonarios FC"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ind. Medellin vs. Millonarios FC"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Win Noticias"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "El chiringuito de Jugones"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.4,
+      "audio_rms": 3668.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37640,
+      "name": "CO | WIN SPORTS PLUS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 114.3,
+      "audio_rms": 2952.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37641,
+      "name": "CO | WIN SPORTS PLUS HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.9,
+      "audio_rms": 1939.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37642,
+      "name": "CO | PASIONES HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Escorpión"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Rosa Diamante"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sin tu mirada"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tres hermanas"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Garota do momento"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.1,
+      "audio_rms": 1751.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37643,
+      "name": "CO | CABLE NOTICIAS HD+",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "La otra cara de la moneda"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Cable noticias - Edición central"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Hoy en el mundo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "La otra cara de la moneda"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Cable noticias - Edición central"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.7,
+      "audio_rms": 2863.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37,
+      "name": "CO | CANAL 1 (MOVIL)",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 154.6,
+      "audio_rms": 1848.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37645,
+      "name": "CO | CANAL 1 HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.4,
+      "audio_rms": 1809.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37646,
+      "name": "CO | CANAL 1 SD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 150.0,
+      "audio_rms": 707.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37647,
+      "name": "CO | CANAL CAPITAL HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Rodando caminos"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Ahora 6:30 P.M."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Espias salvajes"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Espias salvajes"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Ahora 6:30 P.M."
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.9,
+      "audio_rms": 849.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37648,
+      "name": "CO | CANAL INSTITUCIONAL",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Colombia documental"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Colombia documental"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Camino emprendedor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Colombia 360"
+        },
+        {
+          "time": "8:01 PM",
+          "title": "¿Cómo te afecta?"
+        }
+      ],
+      "video_ok": true,
+      "luma": 141.9,
+      "audio_rms": 3256.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37649,
+      "name": "CO | CANAL TRO",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Extrovertidos"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Hoy soy"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Historias que despiertan"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Tapia adentro"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Oro noticias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.1,
+      "audio_rms": 3273.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37650,
+      "name": "CO | CANAL TRO (MOVIL)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.8,
+      "audio_rms": 2616.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37651,
+      "name": "CO | CARACOL (MOVIL)",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Alas rotas"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "Destinos cruzados"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticias 19:00 Caracol"
+        },
+        {
+          "time": "9:30PM",
+          "title": "Yo me llamo"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "María la caprichosa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.0,
+      "audio_rms": 2194.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37652,
+      "name": "CO | CARACOL HD",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Alas rotas"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "Destinos cruzados"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticias 19:00 Caracol"
+        },
+        {
+          "time": "9:30PM",
+          "title": "Yo me llamo"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "María la caprichosa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.7,
+      "audio_rms": 2211.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37653,
+      "name": "CO | CARACOL HD+",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Alas rotas"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "Destinos cruzados"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticias 19:00 Caracol"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Yo me llamo"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Maria la caprichosa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.9,
+      "audio_rms": 3779.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37654,
+      "name": "CO | CARACOL INT HD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Travesia"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Deportes 360"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "El diario de Diana"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticias 19:00 Caracol"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Alias JJ."
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.8,
+      "audio_rms": 1272.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37655,
+      "name": "CO | CARACOL SD",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Alas rotas"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "Destinos cruzados"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Noticias 19:00 Caracol"
+        },
+        {
+          "time": "9:30PM",
+          "title": "Yo me llamo"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "María la caprichosa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.6,
+      "audio_rms": 3292.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37656,
+      "name": "CO | CITY TV",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Primer impacto"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Fugitivas"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Citynoticias de las 8"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Los Simpson"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Citynoticias de las 8"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.7,
+      "audio_rms": 3099.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37657,
+      "name": "CO | CITY TV (MOVIL)",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Primer impacto"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Fugitivas"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Citynoticias de las 8"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Los Simpson"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Citynoticias de las 8"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.6,
+      "audio_rms": 3689.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37658,
+      "name": "CO | EL TIEMPO",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Citynoticias del mediodia"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Echadas pa'lante"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Mucho animal"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sala de redacción"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Rollos de Fili"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.2,
+      "audio_rms": 3715.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37659,
+      "name": "CO | NTN24 HD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "La Noche"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "CST"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Informativo NTN"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Planeta Gente"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Club Prensa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.0,
+      "audio_rms": 2280.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37660,
+      "name": "CO | NTN24 SD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "La Noche"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "CST"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Informativo NTN"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Planeta Gente"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Club Prensa"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.2,
+      "audio_rms": 1857.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37661,
+      "name": "CO | RCN (MOVIL)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "RCN Noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Pa’ seguirte queriendo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "MasterChef"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Enfermeras"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.9,
+      "audio_rms": 1410.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37662,
+      "name": "CO | RCN HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "RCN Noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Pa’ seguirte queriendo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "MasterChef"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Enfermeras"
+        }
+      ],
+      "video_ok": true,
+      "luma": 102.4,
+      "audio_rms": 1119.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37663,
+      "name": "CO | RCN HD+ (D)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "RCN Noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Pa’ seguirte queriendo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "MasterChef"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Enfermeras"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.0,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37664,
+      "name": "CO | RCN Internacional HD+",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 51.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37665,
+      "name": "CO | RCN Novelas (MOVIL)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Asi es la vida"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Las santisimas"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El Joé"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Francisco, el matematico"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Chepe fortuna"
+        }
+      ],
+      "video_ok": true,
+      "luma": 110.5,
+      "audio_rms": 1767.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37666,
+      "name": "CO | RCN Novelas SD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Así es la vida"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Las santísimas"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El Joé"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Francisco, el matemático"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Chepe fortuna"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.5,
+      "audio_rms": 3028.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37667,
+      "name": "CO | RCN Nuestra Tele Int. HD+",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Garzón"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "RCN Noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Garzon"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Charla técnica"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "RCN Noticias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.3,
+      "audio_rms": 3610.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37668,
+      "name": "CO | RCN Nuestra Tele Int. SD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Garzón"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "RCN Noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Garzon"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Charla técnica"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "RCN Noticias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.2,
+      "audio_rms": 1164.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37669,
+      "name": "CO | RCN SD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "RCN Noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Pa’ seguirte queriendo"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "MasterChef"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Enfermeras"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 2221.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37670,
+      "name": "CO | SeA+al Colombia UHD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Coronel en su laberinto"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "La posada"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Especial - Alerta por el fenómeno del niño"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tesoros olvidados"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Liga Profesional de Baloncesto"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.3,
+      "audio_rms": 1356.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37671,
+      "name": "CO | TeleAntioquia",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Te hacemos la tarde"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Parques naturales"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "JFK, el valor de hacerlo juntos"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Teleantioquia noticias"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Teleantioquia deportes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 155.5,
+      "audio_rms": 4610.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37672,
+      "name": "CO | TeleAntioquia (MOVIL)",
+      "epg": [
+        {
+          "time": "5:30 PM",
+          "title": "Te hacemos la tarde"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Parques naturales"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "JFK, el valor de hacerlo juntos"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Teleantioquia noticias"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Teleantioquia deportes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 155.5,
+      "audio_rms": 2180.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37673,
+      "name": "CO | Telecafe (MOVIL)",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Latidos del agua"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Conexion vital"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Telecafé noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Linea de fuego"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "El camino del paciente"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.4,
+      "audio_rms": 1430.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37674,
+      "name": "CO | Telecafe SD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Latidos del agua"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Conexion vital"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Telecafé noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Linea de fuego"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "El camino del paciente"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.0,
+      "audio_rms": 1729.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37675,
+      "name": "CO | Telecaribe (MOVIL)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Dale Play Music"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Noticias Telecaribe regional - Las noticias"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Intervención partidos políticos"
+        },
+        {
+          "time": "8:02 PM",
+          "title": "Futbol, solo fútbol"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Noticias Telecaribe regional - CV noticias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 2862.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37676,
+      "name": "CO | Telecaribe HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Dale Play Music"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Noticias Telecaribe regional - Las noticias"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Intervención partidos políticos"
+        },
+        {
+          "time": "8:02 PM",
+          "title": "Futbol, solo fútbol"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Noticias Telecaribe regional - CV noticias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 30.7,
+      "audio_rms": 1251.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37677,
+      "name": "CO | Teleisla (MOVIL)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.2,
+      "audio_rms": 555.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37678,
+      "name": "CO | Telemedellin",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Laboratorio de podcast"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Himno Nacional"
+        },
+        {
+          "time": "7:03 PM",
+          "title": "Cambio de frente"
+        },
+        {
+          "time": "7:54 PM",
+          "title": "Lo + de bello"
+        },
+        {
+          "time": "7:59 PM",
+          "title": "Noticias Telemedellín"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.4,
+      "audio_rms": 2225.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37679,
+      "name": "CO | Telepacifico (MOVIL)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Venga le digo"
+        },
+        {
+          "time": "6:55 PM",
+          "title": "Himno Nacional"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "En la nube"
+        },
+        {
+          "time": "7:57 PM",
+          "title": "Sorteo chontico millonario"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Partido político"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.6,
+      "audio_rms": 3094.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37680,
+      "name": "CO | Telepacifico HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Venga le digo"
+        },
+        {
+          "time": "6:55 PM",
+          "title": "Himno Nacional"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "En la nube"
+        },
+        {
+          "time": "7:57 PM",
+          "title": "Sorteo chontico millonario"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Partido político"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.1,
+      "audio_rms": 2194.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37681,
+      "name": "CO | CALI TV",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Nuestro aplausso"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Himnos"
+        },
+        {
+          "time": "7:02 PM",
+          "title": "Rocksariazo"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Atrapados en la red"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Escénica"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.9,
+      "audio_rms": 7436.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37682,
+      "name": "CO | EPSN HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.2,
+      "audio_rms": 2418.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37683,
+      "name": "CO | EPSN 3",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.3,
+      "audio_rms": 2403.4,
+      "audio_ok": true
+    }
+  ]
+}

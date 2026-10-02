@@ -1,0 +1,188 @@
+{
+  "category": "SPORTS | OHL",
+  "captured": "2026-10-01T00:18:07-0400",
+  "mode": "full",
+  "reported_total": 20,
+  "channels": [
+    {
+      "number": 21179,
+      "name": "OHL TV 01",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21180,
+      "name": "OHL TV 02",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21181,
+      "name": "OHL TV 03",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21182,
+      "name": "OHL TV 04",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.1,
+      "audio_rms": 1.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21183,
+      "name": "OHL TV 05",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21184,
+      "name": "OHL TV 06",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21185,
+      "name": "OHL TV 07",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.8,
+      "audio_rms": 2020.8,
+      "audio_ok": true
+    },
+    {
+      "number": 21186,
+      "name": "OHL TV 08",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21187,
+      "name": "OHL TV 09",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21188,
+      "name": "OHL TV 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21189,
+      "name": "OHL TV 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21190,
+      "name": "OHL TV 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21191,
+      "name": "OHL TV 13",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21192,
+      "name": "OHL TV 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.9,
+      "audio_rms": 1516.2,
+      "audio_ok": true
+    },
+    {
+      "number": 21193,
+      "name": "OHL TV 15",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21194,
+      "name": "OHL TV 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.1,
+      "audio_rms": 2046.5,
+      "audio_ok": true
+    },
+    {
+      "number": 21195,
+      "name": "OHL TV 17",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21196,
+      "name": "OHL TV 18",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21197,
+      "name": "OHL TV 19",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21198,
+      "name": "OHL TV 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.3,
+      "audio_rms": 1816.0,
+      "audio_ok": true
+    }
+  ]
+}

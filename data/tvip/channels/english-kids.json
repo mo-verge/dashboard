@@ -1,0 +1,1490 @@
+{
+  "category": "ENGLISH | KIDS",
+  "captured": "2026-10-01T03:04:39-0400",
+  "mode": "full",
+  "reported_total": 81,
+  "channels": [
+    {
+      "number": 30,
+      "name": "BABY RHYMES 1",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 195.5,
+      "audio_rms": 7643.2,
+      "audio_ok": true
+    },
+    {
+      "number": 31,
+      "name": "BABY TV HD",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Moon and Stars"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Baby TV's Night Time Melodies"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Sweet Dreams"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Good Night Hugs"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Dreamy Nights"
+        }
+      ],
+      "video_ok": true,
+      "luma": 169.4,
+      "audio_rms": 2411.0,
+      "audio_ok": true
+    },
+    {
+      "number": 32,
+      "name": "KIDS RHYMES 1",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 157.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 33,
+      "name": "KIDS RHYMES 2",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.7,
+      "audio_rms": 2282.3,
+      "audio_ok": true
+    },
+    {
+      "number": 34,
+      "name": "LOOLOO KIDS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 146.1,
+      "audio_rms": 1230.8,
+      "audio_ok": true
+    },
+    {
+      "number": 35,
+      "name": "PINKFONG NURSERY RHYMES",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 168.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36,
+      "name": "BOOBA TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.5,
+      "audio_rms": 7986.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37,
+      "name": "CAILIOU",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 135.1,
+      "audio_rms": 1077.9,
+      "audio_ok": true
+    },
+    {
+      "number": 38,
+      "name": "CHU CHU TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 140.4,
+      "audio_rms": 7720.2,
+      "audio_ok": true
+    },
+    {
+      "number": 39,
+      "name": "CARTOON NETWORK 4K",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Grossology"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Total Dramarama"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Total Dramarama"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hotel Transylvania: The Series"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Mermicorno: Starfall"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.5,
+      "audio_rms": 2309.5,
+      "audio_ok": true
+    },
+    {
+      "number": 40,
+      "name": "CARTOON NETWORK USA",
+      "epg": [
+        {
+          "time": "2:32 AM",
+          "title": "American Dad!"
+        },
+        {
+          "time": "3:01 AM",
+          "title": "American Dad!"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Rick and Morty"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Rick and Morty"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Mostly 4 Millennials"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.2,
+      "audio_rms": 278.7,
+      "audio_ok": true
+    },
+    {
+      "number": 441,
+      "name": "CARTOON NETWORK CANADA",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Grossology"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Total Dramarama"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Total Dramarama"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hotel Transylvania: The Series"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Mermicorno: Starfall"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.1,
+      "audio_rms": 341.6,
+      "audio_ok": true
+    },
+    {
+      "number": 42,
+      "name": "DISNEY CHANNEL. 4K",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Big City Greens"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "The Stanley Dynamic"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Stanley Dynamic"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Big City Greens"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Big City Greens"
+        }
+      ],
+      "video_ok": true,
+      "luma": 136.5,
+      "audio_rms": 1336.9,
+      "audio_ok": true
+    },
+    {
+      "number": 43,
+      "name": "DISNEY JUNIOR US 4K",
+      "epg": [
+        {
+          "time": "2:35 AM",
+          "title": "Mickey Mouse Clubhouse"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Mickey Mouse Clubhouse"
+        },
+        {
+          "time": "3:25 AM",
+          "title": "Bluey"
+        },
+        {
+          "time": "3:50 AM",
+          "title": "Bluey"
+        },
+        {
+          "time": "4:15 AM",
+          "title": "Mickey and the Roadster Racers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 150.1,
+      "audio_rms": 1993.2,
+      "audio_ok": true
+    },
+    {
+      "number": 4,
+      "name": "DISNEY JUNIOR CA 4K",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.4,
+      "audio_rms": 1030.1,
+      "audio_ok": true
+    },
+    {
+      "number": 45,
+      "name": "DISNEY INTERNATIONAL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.1,
+      "audio_rms": 385.1,
+      "audio_ok": true
+    },
+    {
+      "number": 46,
+      "name": "DISNEY XD 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.9,
+      "audio_rms": 1282.5,
+      "audio_ok": true
+    },
+    {
+      "number": 47,
+      "name": "BABY FIRST TV 4K",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "BabyFirst After Hours"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Developmental Programs for Baby"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Developmental Programs for Baby"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Developmental Programs for Baby"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Developmental Programs for Baby"
+        }
+      ],
+      "video_ok": true,
+      "luma": 159.9,
+      "audio_rms": 768.5,
+      "audio_ok": true
+    },
+    {
+      "number": 48,
+      "name": "LAUGH & LEARN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.7,
+      "audio_rms": 6754.1,
+      "audio_ok": true
+    },
+    {
+      "number": 49,
+      "name": "COCOMELON",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.2,
+      "audio_rms": 1887.8,
+      "audio_ok": true
+    },
+    {
+      "number": 50,
+      "name": "FAMILY JR. HD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Family Junior On Demand"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Family Junior On Demand"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Family Junior On Demand"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Family Junior On Demand"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Family Junior On Demand"
+        }
+      ],
+      "video_ok": true,
+      "luma": 18.0,
+      "audio_rms": 1646.3,
+      "audio_ok": true
+    },
+    {
+      "number": 51,
+      "name": "FAMILY CHRGD HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 52,
+      "name": "BABY BUS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 121.6,
+      "audio_rms": 9593.0,
+      "audio_ok": true
+    },
+    {
+      "number": 53,
+      "name": "NICK JR",
+      "epg": [
+        {
+          "time": "2:39 AM",
+          "title": "PAW Patrol"
+        },
+        {
+          "time": "3:04 AM",
+          "title": "PAW Patrol"
+        },
+        {
+          "time": "3:28 AM",
+          "title": "Rubble & Crew"
+        },
+        {
+          "time": "3:52 AM",
+          "title": "Rubble €: Crew"
+        },
+        {
+          "time": "4:17 AM",
+          "title": "PAW Patrol"
+        }
+      ],
+      "video_ok": true,
+      "luma": 148.4,
+      "audio_rms": 852.2,
+      "audio_ok": true
+    },
+    {
+      "number": 54,
+      "name": "NICK JR UK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 127.9,
+      "audio_rms": 1773.2,
+      "audio_ok": true
+    },
+    {
+      "number": 55,
+      "name": "NICKTOONS",
+      "epg": [
+        {
+          "time": "2:50 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "3:15 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "3:55 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "4:20 AM",
+          "title": "SpongeBob SquarePants"
+        }
+      ],
+      "video_ok": true,
+      "luma": 129.6,
+      "audio_rms": 1460.5,
+      "audio_ok": true
+    },
+    {
+      "number": 56,
+      "name": "NICKELODEON",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.7,
+      "audio_rms": 1064.7,
+      "audio_ok": true
+    },
+    {
+      "number": 57,
+      "name": "NICKELODEON UK 4K",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "The Patrick Star Show"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Creature Cases"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Deer Squad"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.8,
+      "audio_rms": 1509.2,
+      "audio_ok": true
+    },
+    {
+      "number": 58,
+      "name": "NICKELODEON EAST 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.7,
+      "audio_rms": 1901.4,
+      "audio_ok": true
+    },
+    {
+      "number": 59,
+      "name": "MARVELS ANIMATION",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.8,
+      "audio_rms": 3531.1,
+      "audio_ok": true
+    },
+    {
+      "number": 60,
+      "name": "BBC KIDS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 451,
+      "name": "TELETOON HD EAST",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Bravest Warriors"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "Tiny Toons Looniversity"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Jellystone!"
+        },
+        {
+          "time": "3:45 AM",
+          "title": "La quéte héroique du valeureux prince lvandoe"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Hotel Transylvanie: la série"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.8,
+      "audio_rms": 1647.8,
+      "audio_ok": true
+    },
+    {
+      "number": 62,
+      "name": "TREEHOUSE HD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "2:40 AM",
+          "title": "Max & Ruby"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "The Berenstain Bears"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Thomas €: Friends: All Engines Go"
+        },
+        {
+          "time": "3:55 AM",
+          "title": "Agent Binky: Pets of the Universe"
+        },
+        {
+          "time": "4:20 AM",
+          "title": "Hamsters of Hamsterdale"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.3,
+      "audio_rms": 136.6,
+      "audio_ok": true
+    },
+    {
+      "number": 63,
+      "name": "METV TOONS",
+      "epg": [
+        {
+          "time": "2:30 AM",
+          "title": "Super Friends"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "SilverHawks"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Challenge of the GoBots"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Centurions"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "The Super Mario Bros. Super Show!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.1,
+      "audio_rms": 1189.3,
+      "audio_ok": true
+    },
+    {
+      "number": 64,
+      "name": "PAW PATROL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.0,
+      "audio_rms": 1797.5,
+      "audio_ok": true
+    },
+    {
+      "number": 65,
+      "name": "PAW PATROL RESCUE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.9,
+      "audio_rms": 747.2,
+      "audio_ok": true
+    },
+    {
+      "number": 66,
+      "name": "PAW PATROL SERIES",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.2,
+      "audio_rms": 1997.6,
+      "audio_ok": true
+    },
+    {
+      "number": 67,
+      "name": "PEPPA PIG",
+      "epg": [],
+      "video_ok": true,
+      "luma": 180.7,
+      "audio_rms": 382.1,
+      "audio_ok": true
+    },
+    {
+      "number": 68,
+      "name": "PJ MASKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.0,
+      "audio_rms": 2173.5,
+      "audio_ok": true
+    },
+    {
+      "number": 70,
+      "name": "ODDBODS 01",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 165.1,
+      "audio_rms": 3430.8,
+      "audio_ok": true
+    },
+    {
+      "number": 71,
+      "name": "ODDBODS 02",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.1,
+      "audio_rms": 2716.6,
+      "audio_ok": true
+    },
+    {
+      "number": 73,
+      "name": "YTV HD EAST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.0,
+      "audio_rms": 892.8,
+      "audio_ok": true
+    },
+    {
+      "number": 74,
+      "name": "WARNER BROS KIDS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.9,
+      "audio_rms": 1139.0,
+      "audio_ok": true
+    },
+    {
+      "number": 75,
+      "name": "BABY FIRST 4K",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Developmental Programs for Baby"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Developmental Programs for Baby"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Developmental Programs for Baby"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Developmental Programs for Baby"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Early Bloomers"
+        }
+      ],
+      "video_ok": true,
+      "luma": 196.7,
+      "audio_rms": 46.8,
+      "audio_ok": true
+    },
+    {
+      "number": 76,
+      "name": "BOOMERANG",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Chowder"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Chowder"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Looney Tunes"
+        },
+        {
+          "time": "4:09 AM",
+          "title": "Looney Tunes"
+        },
+        {
+          "time": "4:18 AM",
+          "title": "Looney Tunes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.7,
+      "audio_rms": 1477.1,
+      "audio_ok": true
+    },
+    {
+      "number": 77,
+      "name": "DISNEY CHANNEL HD",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "The Stanley Dynamic"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "The Stanley Dynamic"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Big City Greens"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Big City Greens"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Zoo Diaries"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.3,
+      "audio_rms": 444.8,
+      "audio_ok": true
+    },
+    {
+      "number": 78,
+      "name": "MR BEAN ANIMATED",
+      "epg": [],
+      "video_ok": true,
+      "luma": 204.3,
+      "audio_rms": 4439.4,
+      "audio_ok": true
+    },
+    {
+      "number": 79,
+      "name": "POWER RANGERS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.9,
+      "audio_rms": 691.8,
+      "audio_ok": true
+    },
+    {
+      "number": 80,
+      "name": "UNIVERSAL KIDS 4K",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.5,
+      "audio_rms": 141.9,
+      "audio_ok": true
+    },
+    {
+      "number": 631,
+      "name": "RAINBOW RUBY",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 157.7,
+      "audio_rms": 2153.8,
+      "audio_ok": true
+    },
+    {
+      "number": 82,
+      "name": "BARBIE 4K",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 179.1,
+      "audio_rms": 1115.4,
+      "audio_ok": true
+    },
+    {
+      "number": 84,
+      "name": "PUPPY DOG HD",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 142.7,
+      "audio_rms": 1190.1,
+      "audio_ok": true
+    },
+    {
+      "number": 85,
+      "name": "PUPPY DOGS PALS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.4,
+      "audio_rms": 1724.4,
+      "audio_ok": true
+    },
+    {
+      "number": 86,
+      "name": "MY LITTLE PONY",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.2,
+      "audio_rms": 1158.1,
+      "audio_ok": true
+    },
+    {
+      "number": 87,
+      "name": "LITTLE BABY BUM",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 88,
+      "name": "RYAN WORLD",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 177.3,
+      "audio_rms": 578.1,
+      "audio_ok": true
+    },
+    {
+      "number": 89,
+      "name": "LEGO STAR",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.1,
+      "audio_rms": 2073.8,
+      "audio_ok": true
+    },
+    {
+      "number": 90,
+      "name": "THOMAS AND FRIENDS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.9,
+      "audio_rms": 1559.9,
+      "audio_ok": true
+    },
+    {
+      "number": 511,
+      "name": "SUPER TOONS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 92,
+      "name": "REV AND ROLL",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.4,
+      "audio_rms": 2086.4,
+      "audio_ok": true
+    },
+    {
+      "number": 93,
+      "name": "TEENVEE",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 94,
+      "name": "SCOOBY DOO",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.2,
+      "audio_rms": 2537.8,
+      "audio_ok": true
+    },
+    {
+      "number": 95,
+      "name": "TOM AND JERRY HD",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.8,
+      "audio_rms": 781.6,
+      "audio_ok": true
+    },
+    {
+      "number": 96,
+      "name": "LOLLY KIDS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 97,
+      "name": "KIDS STREET",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Connections in the Pacific: Kaua'i Tahiti"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "History of Aviation"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Franny's Feet"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Franny's Feet"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "SOS Fairy Manu"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.9,
+      "audio_rms": 1543.9,
+      "audio_ok": true
+    },
+    {
+      "number": 98,
+      "name": "NICK MUSIC SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.9,
+      "audio_rms": 1658.4,
+      "audio_ok": true
+    },
+    {
+      "number": 99,
+      "name": "TEENNICK 4K",
+      "epg": [
+        {
+          "time": "2:48 AM",
+          "title": "The Loud House"
+        },
+        {
+          "time": "3:12 AM",
+          "title": "The Loud House"
+        },
+        {
+          "time": "3:36 AM",
+          "title": "The Loud House"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "The Loud House"
+        },
+        {
+          "time": "4:24 AM",
+          "title": "The Loud House"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.9,
+      "audio_rms": 589.3,
+      "audio_ok": true
+    },
+    {
+      "number": 100,
+      "name": "DISNEY JUNIOR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 154.6,
+      "audio_rms": 2087.6,
+      "audio_ok": true
+    },
+    {
+      "number": 1411,
+      "name": "DISNEY JR UK 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 143.0,
+      "audio_rms": 1407.4,
+      "audio_ok": true
+    },
+    {
+      "number": 102,
+      "name": "DISNEY XD",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.5,
+      "audio_rms": 1776.7,
+      "audio_ok": true
+    },
+    {
+      "number": 103,
+      "name": "FAMILY HD EAST",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Channel No Longer Available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Channel No Longer Available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.6,
+      "audio_rms": 2923.3,
+      "audio_ok": true
+    },
+    {
+      "number": 104,
+      "name": "BABY TV ENGLISH IN HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 169.6,
+      "audio_rms": 1722.2,
+      "audio_ok": true
+    },
+    {
+      "number": 105,
+      "name": "CBEEBIES",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 106,
+      "name": "PEPPA PIG",
+      "epg": [],
+      "video_ok": true,
+      "luma": 175.3,
+      "audio_rms": 292.9,
+      "audio_ok": true
+    },
+    {
+      "number": 107,
+      "name": "CARTOONITO UK",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Fireman Sam"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Batwheels"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Baby Lemmings"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Batwheels"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Fireman Sam"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.3,
+      "audio_rms": 1292.2,
+      "audio_ok": true
+    },
+    {
+      "number": 109,
+      "name": "BABYTV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.2,
+      "audio_rms": 3867.3,
+      "audio_ok": true
+    },
+    {
+      "number": 111,
+      "name": "DISNEY CHANNEL UK",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 112,
+      "name": "CARTOON NETWORK EAST",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 113,
+      "name": "HUNGAMA KIDS",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 133.7,
+      "audio_rms": 3303.4,
+      "audio_ok": true
+    },
+    {
+      "number": 1155,
+      "name": "PBS KIDS HD",
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "Lyla in the Loop"
+        },
+        {
+          "time": "3:30 AM",
+          "title": "Arthur"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Nature Cat"
+        },
+        {
+          "time": "4:30 AM",
+          "title": "Hero Elementary"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Cyberchase"
+        }
+      ],
+      "video_ok": true,
+      "luma": 152.2,
+      "audio_rms": 1777.2,
+      "audio_ok": true
+    },
+    {
+      "number": 1145,
+      "name": "RONGEEN TV",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.0,
+      "audio_rms": 2343.8,
+      "audio_ok": true
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "category": "ARABIC | STARZ PLAY AD SPO",
+  "captured": "2026-10-01T01:22:32-0400",
+  "mode": "full",
+  "reported_total": 13,
+  "channels": [
+    {
+      "number": 41803,
+      "name": "STARZ PLAY / AD SPORT 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.6,
+      "audio_rms": 2418.5,
+      "audio_ok": true
+    },
+    {
+      "number": 41810,
+      "name": "STARZ PLAY / AD SPORT 2 UHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.1,
+      "audio_rms": 934.6,
+      "audio_ok": true
+    },
+    {
+      "number": 41818,
+      "name": "STARZ PLAY / AD SPORT 1 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 41825,
+      "name": "STARZ PLAY / AD SPORT 1 UHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.2,
+      "audio_rms": 3683.2,
+      "audio_ok": true
+    },
+    {
+      "number": 41834,
+      "name": "STARZ PLAY / AD SPORT 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 128.6,
+      "audio_rms": 1461.8,
+      "audio_ok": true
+    },
+    {
+      "number": 41841,
+      "name": "STARZ PLAY / AD SPORT ASIA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.9,
+      "audio_rms": 104.2,
+      "audio_ok": true
+    },
+    {
+      "number": 41856,
+      "name": "STARZ PLAY / AD SPORT ASIA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.3,
+      "audio_rms": 319.0,
+      "audio_ok": true
+    },
+    {
+      "number": 41904,
+      "name": "STARZ PLAY / PREMER SPORT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.1,
+      "audio_rms": 1826.7,
+      "audio_ok": true
+    },
+    {
+      "number": 41912,
+      "name": "STARZ PLAY / PREMER SPORT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.8,
+      "audio_rms": 1668.7,
+      "audio_ok": true
+    },
+    {
+      "number": 41919,
+      "name": "STARZ PLAY / AD SPORTS 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.9,
+      "audio_rms": 1177.2,
+      "audio_ok": true
+    },
+    {
+      "number": 41946,
+      "name": "STARZ PLAY / AD SPORTS 3 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.5,
+      "audio_rms": 1198.7,
+      "audio_ok": true
+    },
+    {
+      "number": 41953,
+      "name": "STARZ PLAY / AD SPORTS 2 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.7,
+      "audio_rms": 152.1,
+      "audio_ok": true
+    },
+    {
+      "number": 41962,
+      "name": "STARZ PLAY / AD SPORTS 1 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 189.7,
+      "audio_rms": 2279.7,
+      "audio_ok": true
+    }
+  ]
+}

@@ -1,0 +1,4606 @@
+{
+  "category": "SPANISH | SPAIN",
+  "captured": "2026-10-01T17:29:57-0400",
+  "mode": "full",
+  "reported_total": 181,
+  "channels": [
+    {
+      "number": 5702,
+      "name": "ES: DAZN LALIGA 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.4,
+      "audio_rms": 1400.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5704,
+      "name": "ES: 24 HORAS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Noticias 24H"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Noticias 24H"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Noticias 24H"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Noticias 24H"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Noticias 24H"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.3,
+      "audio_rms": 2614.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5705,
+      "name": "ES: A3 SERIES 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Crimen en el paraíso"
+        },
+        {
+          "time": "5:10 PM",
+          "title": "Crimen en el paraíso"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Crimen más allá del paraíso"
+        },
+        {
+          "time": "7:15 PM",
+          "title": "Crimen más allá del paraíso"
+        },
+        {
+          "time": "8:10 PM",
+          "title": "Sportium Game Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.4,
+      "audio_rms": 1460.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5709,
+      "name": "ES: ALQUILER 4 HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 28.1,
+      "audio_rms": 5481.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5713,
+      "name": "ES MDOCUMENTALES FHD",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Concierto homenaje Antonio Flores: Arriba los"
+        },
+        {
+          "time": "5:51 PM",
+          "title": "Flores para Antonio"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "Al encuentro de"
+        },
+        {
+          "time": "7:59 PM",
+          "title": "Pharrell Williams: Piece by Piece"
+        },
+        {
+          "time": "9:35 PM",
+          "title": "Saturday Night Live"
+        }
+      ],
+      "video_ok": true,
+      "luma": 119.3,
+      "audio_rms": 1478.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5714,
+      "name": "ES: AMC 4K",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "El regalo"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "El asesino de las postales"
+        },
+        {
+          "time": "7:41 PM",
+          "title": "Red Riding: 1974"
+        },
+        {
+          "time": "9:21 PM",
+          "title": "Eclipse"
+        },
+        {
+          "time": "10:09 PM",
+          "title": "Eclipse"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.3,
+      "audio_rms": 1670.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5715,
+      "name": "ES AMC",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "El regalo"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "El asesino de las postales"
+        },
+        {
+          "time": "7:41 PM",
+          "title": "Red Riding: 1974"
+        },
+        {
+          "time": "9:21 PM",
+          "title": "Eclipse"
+        },
+        {
+          "time": "10:09 PM",
+          "title": "Eclipse"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.1,
+      "audio_rms": 306.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5716,
+      "name": "ES: AXN 4K",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "The Equalizer: El protector"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "The Equalizer 2"
+        },
+        {
+          "time": "8:52 PM",
+          "title": "NCIS: Nueva Orleans"
+        },
+        {
+          "time": "9:37 PM",
+          "title": "NCIS: Nueva Orleans"
+        },
+        {
+          "time": "10:22 PM",
+          "title": "NCIS: Nueva Orleans"
+        }
+      ],
+      "video_ok": true,
+      "luma": 18.9,
+      "audio_rms": 3171.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5717,
+      "name": "ES XTRM FHD",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Vigilantes"
+        },
+        {
+          "time": "5:55 PM",
+          "title": "El mercenario: absolución"
+        },
+        {
+          "time": "7:26 PM",
+          "title": "Muerte súbita"
+        },
+        {
+          "time": "8:46 PM",
+          "title": "Vigilantes"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "Vigilantes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5718,
+      "name": "ES: AXN WHITE 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Spiderman"
+        },
+        {
+          "time": "5:59 PM",
+          "title": "Speed: Maxima potencia"
+        },
+        {
+          "time": "7:53 PM",
+          "title": "Figuras ocultas"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "El buen maestro"
+        },
+        {
+          "time": "11:32 PM",
+          "title": "Instinto peligroso"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.8,
+      "audio_rms": 48.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5719,
+      "name": "ES: ANTENNA 3 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Las hijas de la criada"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Las hijas de la criada"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Allí abajo"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Sportium Game Show"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Pazy: Que te recuerden como has vivido"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.1,
+      "audio_rms": 2430.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5720,
+      "name": "ES: DAZN FORMULA 1",
+      "epg": [
+        {
+          "time": "4:05 PM",
+          "title": "Mundial F1 - GP de Austria"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "Código F1"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Mundial F1 - GP de Gran Bretaña"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Mundial de Fórmula 1"
+        },
+        {
+          "time": "9:55 PM",
+          "title": "Código F1"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.3,
+      "audio_rms": 1479.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5721,
+      "name": "ES: BARCA TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 137.4,
+      "audio_rms": 3291.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5722,
+      "name": "ES: BE MAD",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Shoot 'Em Up"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "Waterworld"
+        },
+        {
+          "time": "8:40 PM",
+          "title": "Love Shopping TV"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Apex"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "Elefante blanco"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.9,
+      "audio_rms": 1587.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5723,
+      "name": "ES: BE MAD 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Shoot 'Em Up"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "Waterworld"
+        },
+        {
+          "time": "8:40 PM",
+          "title": "Love Shopping TV"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Apex"
+        },
+        {
+          "time": "10:45 PM",
+          "title": "Elefante blanco"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.6,
+      "audio_rms": 2931.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5724,
+      "name": "ES: BLAZE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.4,
+      "audio_rms": 1199.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5725,
+      "name": "ES: BOING",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "El asombroso mundo de Gumball"
+        },
+        {
+          "time": "5:15 PM",
+          "title": "Dragon Ball Super"
+        },
+        {
+          "time": "5:40 PM",
+          "title": "Las macabras aventuras de Billy y Mandy"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Las Supernenas"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Chowder"
+        }
+      ],
+      "video_ok": true,
+      "luma": 103.5,
+      "audio_rms": 68.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5726,
+      "name": "ES: CLAN TVE",
+      "epg": [
+        {
+          "time": "4:37 PM",
+          "title": "Sin gluten"
+        },
+        {
+          "time": "5:38 PM",
+          "title": "Cuéntame cómo pasó"
+        },
+        {
+          "time": "6:55 PM",
+          "title": "Cuéntame cómo pasó"
+        },
+        {
+          "time": "8:05 PM",
+          "title": "Derecho a soñar"
+        },
+        {
+          "time": "8:56 PM",
+          "title": "Derecho a soñar"
+        }
+      ],
+      "video_ok": true,
+      "luma": 70.3,
+      "audio_rms": 265.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5727,
+      "name": "ES: CLASSICA",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "Stingray Classica"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Stingray Classica"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Stingray Classica"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Stingray Classica"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Stingray Classica"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.0,
+      "audio_rms": 1629.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5728,
+      "name": "ES: CALLE 13",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Se ha cocinado un crimen 1"
+        },
+        {
+          "time": "5:35 PM",
+          "title": "Focus"
+        },
+        {
+          "time": "7:21 PM",
+          "title": "Ley y Orden: Unidad de victimas especiales"
+        },
+        {
+          "time": "8:13 PM",
+          "title": "Ley y Orden: Unidad de victimas especiales"
+        },
+        {
+          "time": "8:57 PM",
+          "title": "Los Misterios de Hailey Dean"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.4,
+      "audio_rms": 542.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5729,
+      "name": "ES: CALLE 13 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Se ha cocinado un crimen 1"
+        },
+        {
+          "time": "5:35 PM",
+          "title": "Focus"
+        },
+        {
+          "time": "7:21 PM",
+          "title": "Ley y Orden: Unidad de victimas especiales"
+        },
+        {
+          "time": "8:13 PM",
+          "title": "Ley y Orden: Unidad de victimas especiales"
+        },
+        {
+          "time": "8:57 PM",
+          "title": "Los Misterios de Hailey Dean"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.1,
+      "audio_rms": 1707.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5730,
+      "name": "ES: CANAL COCINA",
+      "epg": [
+        {
+          "time": "5:01 PM",
+          "title": "La Raya: entre Espana y Portugal"
+        },
+        {
+          "time": "5:31 PM",
+          "title": "Jamie Oliver: recetas para Air Fryer"
+        },
+        {
+          "time": "6:27 PM",
+          "title": "Me voy a comer el mundo"
+        },
+        {
+          "time": "7:27 PM",
+          "title": "El camino de Santiago by Julius"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5731,
+      "name": "ES SOMOS FHD",
+      "epg": [
+        {
+          "time": "3:28 PM",
+          "title": "La vaquilla"
+        },
+        {
+          "time": "5:28 PM",
+          "title": "Una vez al año ser hippy no hace daño"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Los culpables"
+        },
+        {
+          "time": "8:18 PM",
+          "title": "El puente de la paz"
+        },
+        {
+          "time": "9:53 PM",
+          "title": "La IV Carabela"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.6,
+      "audio_rms": 80.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5732,
+      "name": "ES: CANAL PANDA",
+      "epg": [
+        {
+          "time": "5:06 PM",
+          "title": "Se ha escrito un crimen"
+        },
+        {
+          "time": "5:59 PM",
+          "title": "Expediente X"
+        },
+        {
+          "time": "6:46 PM",
+          "title": "Expediente X"
+        },
+        {
+          "time": "7:31 PM",
+          "title": "Se ha escrito un crimen"
+        },
+        {
+          "time": "8:16 PM",
+          "title": "Se ha escrito un crimen"
+        }
+      ],
+      "video_ok": true,
+      "luma": 21.9,
+      "audio_rms": 897.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5733,
+      "name": "ES ENFAMILIA FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.8,
+      "audio_rms": 881.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5734,
+      "name": "ES: CARACOL 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.4,
+      "audio_rms": 2188.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5735,
+      "name": "ES: CAZA & PESCA 4K",
+      "epg": [
+        {
+          "time": "5:05 PM",
+          "title": "Monteando en la Serra d'Ossa"
+        },
+        {
+          "time": "5:35 PM",
+          "title": "Cara a cara con el Rif"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "A fondo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Unica oportunidad"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Rifles: de la batalla a la caza"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.8,
+      "audio_rms": 1944.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5736,
+      "name": "ES: CAZA Y PESCA",
+      "epg": [
+        {
+          "time": "5:05 PM",
+          "title": "Monteando en la Serra d'Ossa"
+        },
+        {
+          "time": "5:35 PM",
+          "title": "Cara a cara con el Rif"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "A fondo"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Unica oportunidad"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Rifles: de la batalla a la caza"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.3,
+      "audio_rms": 1912.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5737,
+      "name": "ES: MDREAMWORKS FHD",
+      "epg": [
+        {
+          "time": "5:05 PM",
+          "title": "Fast & Furious: Espías a todo gas"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "El Bebé Jefazo: Vuelta al curro"
+        },
+        {
+          "time": "5:55 PM",
+          "title": "El Bebé Jefazo: Vuelta al curro"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "El Bebé Jefazo: Vuelta al curro"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "El Bebé Jefazo: Vuelta al curro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.3,
+      "audio_rms": 1488.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5738,
+      "name": "ES: CLAN TV",
+      "epg": [
+        {
+          "time": "4:37 PM",
+          "title": "Sin gluten"
+        },
+        {
+          "time": "5:38 PM",
+          "title": "Cuéntame cómo pasó"
+        },
+        {
+          "time": "6:55 PM",
+          "title": "Cuéntame cómo pasó"
+        },
+        {
+          "time": "8:05 PM",
+          "title": "Derecho a soñar"
+        },
+        {
+          "time": "8:56 PM",
+          "title": "Derecho a soñar"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.9,
+      "audio_rms": 756.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5739,
+      "name": "ES: COMEDY CENTRAL",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "La estafa"
+        },
+        {
+          "time": "5:43 PM",
+          "title": "Fantasmas"
+        },
+        {
+          "time": "6:10 PM",
+          "title": "Fantasmas"
+        },
+        {
+          "time": "6:36 PM",
+          "title": "Malcolm"
+        },
+        {
+          "time": "7:02 PM",
+          "title": "Jue veCIN"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5740,
+      "name": "ES: COMEDY CENTRAL 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "La estafa"
+        },
+        {
+          "time": "5:43 PM",
+          "title": "Fantasmas"
+        },
+        {
+          "time": "6:10 PM",
+          "title": "Fantasmas"
+        },
+        {
+          "time": "6:36 PM",
+          "title": "Malcolm"
+        },
+        {
+          "time": "7:02 PM",
+          "title": "La que se avecina"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5741,
+      "name": "ES: COSMO",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Space Cowboys"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Republic of Doyle"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Republic of Doyle"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Republic of Doyle"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "McDonald & Dodds"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.5,
+      "audio_rms": 2244.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5742,
+      "name": "ES: COSMO 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Space Cowboys"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Republic of Doyle"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Republic of Doyle"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Republic of Doyle"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "McDonald & Dodds"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.3,
+      "audio_rms": 914.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5743,
+      "name": "ES: CRIME& INVESTIGATION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 28.0,
+      "audio_rms": 2194.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5744,
+      "name": "ES: CUATRO",
+      "epg": [
+        {
+          "time": "3:10 PM",
+          "title": "Horizonte"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Callejeros"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "EIDesmarque Quarterback"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "Proyecto Sistiaga"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Puro Cuatro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.5,
+      "audio_rms": 1843.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5745,
+      "name": "ES: CUATRO 4K",
+      "epg": [
+        {
+          "time": "3:10 PM",
+          "title": "Horizonte"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Callejeros"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "EIDesmarque Quarterback"
+        },
+        {
+          "time": "8:55 PM",
+          "title": "Proyecto Sistiaga"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Puro Cuatro"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.2,
+      "audio_rms": 2029.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5746,
+      "name": "ES: DW E ESPANOL",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.5,
+      "audio_rms": 417.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5747,
+      "name": "ES: LA OTRA FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 132.7,
+      "audio_rms": 2339.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5748,
+      "name": "ES: DAZN HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5751,
+      "name": "ES: DECASA",
+      "epg": [
+        {
+          "time": "4:40 PM",
+          "title": "Limpia y ordena"
+        },
+        {
+          "time": "5:35 PM",
+          "title": "Vivir más y mejor"
+        },
+        {
+          "time": "6:26 PM",
+          "title": "De ruina a palacio"
+        },
+        {
+          "time": "6:54 PM",
+          "title": "Tus plantas decoran"
+        },
+        {
+          "time": "7:19 PM",
+          "title": "Minipisos asombrosos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.6,
+      "audio_rms": 2047.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5752,
+      "name": "ES: DISCOVERY CHANNEL",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Locura sobre ruedas"
+        },
+        {
+          "time": "5:49 PM",
+          "title": "Equipo de restauradores"
+        },
+        {
+          "time": "6:16 PM",
+          "title": "Equipo de restauradores"
+        },
+        {
+          "time": "6:39 PM",
+          "title": "Equipo de restauradores"
+        },
+        {
+          "time": "7:02 PM",
+          "title": "Equipo de restauradores"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.4,
+      "audio_rms": 1519.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5753,
+      "name": "ES: DISNEY CHANNEL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.7,
+      "audio_rms": 1805.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5754,
+      "name": "ES: DISNEY CHANNEL 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.7,
+      "audio_rms": 298.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5755,
+      "name": "ES: DISNEY JUNIOR",
+      "epg": [
+        {
+          "time": "5:10 PM",
+          "title": "Los Green en la Gran Ciudad"
+        },
+        {
+          "time": "5:35 PM",
+          "title": "Kiff"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Phineas y Ferb"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Phineas y Ferb"
+        },
+        {
+          "time": "6:40 PM",
+          "title": "Phineas y Ferb"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.4,
+      "audio_rms": 612.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5756,
+      "name": "ES: NICK TOONS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 168.8,
+      "audio_rms": 1281.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5757,
+      "name": "ES: DIVINITY",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "9-1-1"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "9-1-1"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.0,
+      "audio_rms": 1520.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5758,
+      "name": "ES: DKISS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Las hermanas de 300 kilos"
+        },
+        {
+          "time": "5:57 PM",
+          "title": "Mi vida con 300 kilos: Qué pasó después"
+        },
+        {
+          "time": "7:42 PM",
+          "title": "Mi vida con 300 kilos: Qué pasó después"
+        },
+        {
+          "time": "9:23 PM",
+          "title": "Desastres estéticos"
+        },
+        {
+          "time": "10:10 PM",
+          "title": "Desastres estéticos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.8,
+      "audio_rms": 1290.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5759,
+      "name": "ES: DMAX",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "Segunda Guerra Mundial: Secretos desde el cielo"
+        },
+        {
+          "time": "5:27 PM",
+          "title": "Segunda Guerra Mundial: Secretos desde el cielo"
+        },
+        {
+          "time": "6:24 PM",
+          "title": "Nazi Megaestructuras: la guerra de Estados Unidos"
+        },
+        {
+          "time": "7:21 PM",
+          "title": "Nazi Megaestructuras: la guerra de Estados Unidos"
+        },
+        {
+          "time": "8:11 PM",
+          "title": "Historia: expedientes sin resolver"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.9,
+      "audio_rms": 1640.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5760,
+      "name": "ES: ETB 1 HD",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "Gaupasa"
+        },
+        {
+          "time": "5:20 PM",
+          "title": "Jai Alai League"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Artefaktua"
+        },
+        {
+          "time": "7:05 PM",
+          "title": "Joseba Arguinano Sukalerrian"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "Biba zuek!"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.8,
+      "audio_rms": 5844.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5761,
+      "name": "ES: ENERGY",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "CSI: Vegas"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "El Chiringuito"
+        },
+        {
+          "time": "8:40 PM",
+          "title": "C.S.1.: Las Vegas"
+        },
+        {
+          "time": "9:25 PM",
+          "title": "C.S.!.: Las Vegas"
+        },
+        {
+          "time": "10:10 PM",
+          "title": "C.S.!.: Las Vegas"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.2,
+      "audio_rms": 1252.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5762,
+      "name": "ES: ALCARRIA TV SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 126.3,
+      "audio_rms": 2119.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5763,
+      "name": "ES: ARAGON TV SD",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Camara sellada"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "Bécquer y las brujas"
+        },
+        {
+          "time": "8:05 PM",
+          "title": "Pequeños, pero no invisibles"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El campo es nuestro"
+        },
+        {
+          "time": "9:40 PM",
+          "title": "Aquí y ahora"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.2,
+      "audio_rms": 1136.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5764,
+      "name": "ES: CANAL SUR ANDALUCA FHD",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "El Legado de..."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "A toda costa"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "Toros para todos"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Ruedos con historia"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Los Repobladores"
+        }
+      ],
+      "video_ok": true,
+      "luma": 32.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5765,
+      "name": "ES: FDF",
+      "epg": [
+        {
+          "time": "4:55 PM",
+          "title": "Cine"
+        },
+        {
+          "time": "6:56 PM",
+          "title": "La que se avecina"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "La que se avecina"
+        },
+        {
+          "time": "9:13 PM",
+          "title": "La que se avecina"
+        },
+        {
+          "time": "10:50 PM",
+          "title": "La que se avecina"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.3,
+      "audio_rms": 1507.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5766,
+      "name": "ES: FOX",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "High Potential"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "CIA"
+        },
+        {
+          "time": "7:05 PM",
+          "title": "CIA"
+        },
+        {
+          "time": "8:10 PM",
+          "title": "High Potential"
+        },
+        {
+          "time": "9:05 PM",
+          "title": "El cuerpo del delito"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.7,
+      "audio_rms": 1697.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5767,
+      "name": "ES: FOX 4K",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "High Potential"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "CIA"
+        },
+        {
+          "time": "7:05 PM",
+          "title": "CIA"
+        },
+        {
+          "time": "8:10 PM",
+          "title": "High Potential"
+        },
+        {
+          "time": "9:05 PM",
+          "title": "El cuerpo del delito"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.2,
+      "audio_rms": 1017.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5768,
+      "name": "ES: FOX LIFE",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.9,
+      "audio_rms": 2276.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5769,
+      "name": "ES: FOX LIFE 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.5,
+      "audio_rms": 1921.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5770,
+      "name": "ES: HISTORIA",
+      "epg": [
+        {
+          "time": "4:52 PM",
+          "title": "Grandes misterios de la historia"
+        },
+        {
+          "time": "5:41 PM",
+          "title": "Grandes misterios de la historia"
+        },
+        {
+          "time": "6:31 PM",
+          "title": "Grandes misterios de la historia"
+        },
+        {
+          "time": "7:19 PM",
+          "title": "La maldición de Oak Island"
+        },
+        {
+          "time": "7:59 PM",
+          "title": "La maldición de Oak Island"
+        }
+      ],
+      "video_ok": true,
+      "luma": 46.2,
+      "audio_rms": 5015.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5771,
+      "name": "ES: HOLLYWOOD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.4,
+      "audio_rms": 2925.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5772,
+      "name": "ES: HOLLYWOOD 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.2,
+      "audio_rms": 997.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5773,
+      "name": "ES: IBERALIA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.0,
+      "audio_rms": 2253.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5775,
+      "name": "ES: LALIGATVBARZ2 [LIVEEV",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.2,
+      "audio_rms": 1091.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5776,
+      "name": "ES: LALIGATVBAR3 [LIVEEVEE",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.8,
+      "audio_rms": 2692.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5777,
+      "name": "ES: LALIGATVBAR4 [LIVEEVEE",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5778,
+      "name": "ES: LALIGATV BAR HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.7,
+      "audio_rms": 907.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5779,
+      "name": "ES: LA 1",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "El perro andaluz"
+        },
+        {
+          "time": "6:40 PM",
+          "title": "El perro andaluz"
+        },
+        {
+          "time": "8:35 PM",
+          "title": "Noticias 24H"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Telediario Matinal"
+        },
+        {
+          "time": "1:50 AM",
+          "title": "La hora de La 1: La hora de la actualidad"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.9,
+      "audio_rms": 1720.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5780,
+      "name": "ES: LA 1 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "El perro andaluz"
+        },
+        {
+          "time": "6:40 PM",
+          "title": "El perro andaluz"
+        },
+        {
+          "time": "8:35 PM",
+          "title": "Noticias 24H"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Telediario Matinal"
+        },
+        {
+          "time": "1:50 AM",
+          "title": "La hora de La 1: La hora de la actualidad"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.0,
+      "audio_rms": 2952.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5781,
+      "name": "ES: LA 2",
+      "epg": [
+        {
+          "time": "4:35 PM",
+          "title": "Programa por determinar"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Cine"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Festivales de verano"
+        },
+        {
+          "time": "10:55 PM",
+          "title": "Rescate de animales bebé"
+        },
+        {
+          "time": "11:20 PM",
+          "title": "La 2 express"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.2,
+      "audio_rms": 782.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5782,
+      "name": "ES: LA SEXTA",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Pesadilla en la cocina"
+        },
+        {
+          "time": "6:45 PM",
+          "title": "Pesadilla en la cocina"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Pokerstars casino"
+        },
+        {
+          "time": "9:10 PM",
+          "title": "Mega Casino Live Experience"
+        },
+        {
+          "time": "9:25 PM",
+          "title": "Sportium Game Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.6,
+      "audio_rms": 2343.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5783,
+      "name": "ES: CANAL MALAGA HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 140.0,
+      "audio_rms": 9109.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5784,
+      "name": "ES: LALIGA TV",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.8,
+      "audio_rms": 1572.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5785,
+      "name": "ES: LALIGA TV 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.8,
+      "audio_rms": 236.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5786,
+      "name": "ES: M. ACCION",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Puñales por la espalda"
+        },
+        {
+          "time": "6:10 PM",
+          "title": "El inmortal"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Sisu: camino a la venganza"
+        },
+        {
+          "time": "7:42 PM",
+          "title": "Septiembre 5"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Weal"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5787,
+      "name": "ES: M. ACCION 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Punales por la espalda"
+        },
+        {
+          "time": "6:10 PM",
+          "title": "El inmortal"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Sisu: camino a la venganza"
+        },
+        {
+          "time": "7:42 PM",
+          "title": "Septiembre 5"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Weapons"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.4,
+      "audio_rms": 1280.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5788,
+      "name": "ES: CANAL EXTREMADURA TV",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "Programa por determinar"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Extremadura viva"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "El campo es vida"
+        },
+        {
+          "time": "7:10 PM",
+          "title": "Atrápame si puedes Celebrity"
+        },
+        {
+          "time": "8:10 PM",
+          "title": "Extremadura Noticias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 32.8,
+      "audio_rms": 1038.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5789,
+      "name": "ES: IBERALIA ORIGINAL FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.3,
+      "audio_rms": 155.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5790,
+      "name": "ES: IBERALIA CAZA FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.1,
+      "audio_rms": 3304.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5791,
+      "name": "ES: M. CINE N",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Pasos de baile"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Así se hizo ‘Cronos’: los testimonios reales"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "El otro lado de la cama"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Los 2 lados de la cama"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "El penalti más largo del mundo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 25.3,
+      "audio_rms": 1201.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5792,
+      "name": "ES: M. COMEDIA",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Anaconda"
+        },
+        {
+          "time": "5:42 PM",
+          "title": "Hermanos por pelotas"
+        },
+        {
+          "time": "7:19 PM",
+          "title": "Scott Pilgrim contra el mundo"
+        },
+        {
+          "time": "9:10 PM",
+          "title": "Miyazaki: el rey del anime"
+        },
+        {
+          "time": "10:32 PM",
+          "title": "Local Hero"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5793,
+      "name": "ES: M. COMEDIA 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Anaconda"
+        },
+        {
+          "time": "5:42 PM",
+          "title": "Hermanos por pelotas"
+        },
+        {
+          "time": "7:19 PM",
+          "title": "Scott Pilgrim contra el mundo"
+        },
+        {
+          "time": "9:10 PM",
+          "title": "Miyazaki: el rey del anime"
+        },
+        {
+          "time": "10:32 PM",
+          "title": "Local Hero"
+        }
+      ],
+      "video_ok": true,
+      "luma": 22.9,
+      "audio_rms": 1792.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5794,
+      "name": "ES: M. DEPORTES1 HD",
+      "epg": [
+        {
+          "time": "3:00 PM",
+          "title": "M+ Deportes 2"
+        },
+        {
+          "time": "10:05 PM",
+          "title": "Torneo de Tokio"
+        },
+        {
+          "time": "12:05 AM",
+          "title": "Torneo de Tokio"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Torneo de Tokio"
+        },
+        {
+          "time": "5:05 AM",
+          "title": "Torneo de Tokio"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.8,
+      "audio_rms": 614.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5795,
+      "name": "ES: M. DEPORTES2",
+      "epg": [
+        {
+          "time": "11:05 AM",
+          "title": "M+ Deportes 3"
+        },
+        {
+          "time": "7:05 PM",
+          "title": "M+ Deportes 3"
+        },
+        {
+          "time": "3:05 AM",
+          "title": "Torneo de Pekin"
+        },
+        {
+          "time": "5:35 AM",
+          "title": "M+ Deportes 3"
+        },
+        {
+          "time": "8:35 AM",
+          "title": "Torneo de Pekin"
+        }
+      ],
+      "video_ok": false,
+      "luma": 11.8,
+      "audio_rms": 1730.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5796,
+      "name": "ES: M. DEPORTES3 [LIVEEVEENT",
+      "epg": [
+        {
+          "time": "3:00 PM",
+          "title": "M+ Deportes 4"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "M+ Deportes 4"
+        },
+        {
+          "time": "1:05 AM",
+          "title": "Torneo de Pekin"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "M+ Deportes 4"
+        },
+        {
+          "time": "7:05 AM",
+          "title": "Torneo de Pekin"
+        }
+      ],
+      "video_ok": false,
+      "luma": 11.8,
+      "audio_rms": 935.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5797,
+      "name": "ES: M. DEPORTES4 (LIVEEVEENT)",
+      "epg": [
+        {
+          "time": "3:00 PM",
+          "title": "M+ Deportes 5"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "M+ Deportes 5"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "M+ Deportes 5"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "M+ Deportes 5"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Premier Padel. Rotterdam"
+        }
+      ],
+      "video_ok": false,
+      "luma": 10.5,
+      "audio_rms": 1374.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5798,
+      "name": "ES: M. DEPORTESS (LIVEEVEENT)",
+      "epg": [
+        {
+          "time": "10:00 AM",
+          "title": "M+ Deportes 6"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Deportes 6"
+        },
+        {
+          "time": "1:05 AM",
+          "title": "M+ Deportes 6"
+        },
+        {
+          "time": "1:05 PM",
+          "title": "M+ Deportes 6"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Deportes 6"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.7,
+      "audio_rms": 639.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5799,
+      "name": "ES: M. DEPORTES6 (LIVEEVEENT)",
+      "epg": [],
+      "video_ok": false,
+      "luma": 12.2,
+      "audio_rms": 1870.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5800,
+      "name": "ES: M. DEPORTES7 (LIVEEVEENT)",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5801,
+      "name": "ES: M. DISNEY+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.9,
+      "audio_rms": 437.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5802,
+      "name": "ES: M. DEPORTES",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "Torneo de Pekin"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Euroliga de baloncesto"
+        },
+        {
+          "time": "8:10 PM",
+          "title": "Euroliga de baloncesto"
+        },
+        {
+          "time": "10:05 PM",
+          "title": "EuroCup"
+        },
+        {
+          "time": "11:55 PM",
+          "title": "EuroCup"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.3,
+      "audio_rms": 1658.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5803,
+      "name": "ES: M. DEPORTES 4K",
+      "epg": [
+        {
+          "time": "4:10 PM",
+          "title": "Torneo de Pekin"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "Euroliga de baloncesto"
+        },
+        {
+          "time": "8:10 PM",
+          "title": "Euroliga de baloncesto"
+        },
+        {
+          "time": "10:05 PM",
+          "title": "EuroCup"
+        },
+        {
+          "time": "11:55 PM",
+          "title": "EuroCup"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.9,
+      "audio_rms": 277.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5804,
+      "name": "ES: M. DISNEY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5805,
+      "name": "ES: M. DRAMA",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Cuento de invierno"
+        },
+        {
+          "time": "5:59 PM",
+          "title": "La reina Margot"
+        },
+        {
+          "time": "8:37 PM",
+          "title": "Águilas de El Cairo"
+        },
+        {
+          "time": "10:41 PM",
+          "title": "Maria Callas"
+        },
+        {
+          "time": "12:40 AM",
+          "title": "El cielo de los animales"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.5,
+      "audio_rms": 1045.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5806,
+      "name": "ES: M. DRAMA 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Cuento de invierno"
+        },
+        {
+          "time": "5:59 PM",
+          "title": "La reina Margot"
+        },
+        {
+          "time": "8:37 PM",
+          "title": "Águilas de El Cairo"
+        },
+        {
+          "time": "10:41 PM",
+          "title": "Maria Callas"
+        },
+        {
+          "time": "12:40 AM",
+          "title": "El cielo de los animales"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.9,
+      "audio_rms": 1809.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5807,
+      "name": "ES: M. ESTRENOS",
+      "epg": [
+        {
+          "time": "5:18 PM",
+          "title": "Pizza movies"
+        },
+        {
+          "time": "6:48 PM",
+          "title": "Este amor si que duele"
+        },
+        {
+          "time": "8:09 PM",
+          "title": "Materialistas"
+        },
+        {
+          "time": "10:03 PM",
+          "title": "El hombre mas afortunado de América"
+        },
+        {
+          "time": "11:32 PM",
+          "title": "El terror no tiene forma"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5808,
+      "name": "ES: M. ESTRENOS 4K",
+      "epg": [
+        {
+          "time": "5:18 PM",
+          "title": "Pizza movies"
+        },
+        {
+          "time": "6:48 PM",
+          "title": "Este amor sí que duele"
+        },
+        {
+          "time": "8:09 PM",
+          "title": "Materialistas"
+        },
+        {
+          "time": "10:03 PM",
+          "title": "El hombre más afortunado de América"
+        },
+        {
+          "time": "11:32 PM",
+          "title": "El terror no tiene forma"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.4,
+      "audio_rms": 2777.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5809,
+      "name": "ES: M. FORMULA 1 4K",
+      "epg": [
+        {
+          "time": "4:05 PM",
+          "title": "Mundial F1 - GP de Austria"
+        },
+        {
+          "time": "6:05 PM",
+          "title": "Código F1"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Mundial F1 - GP de Gran Bretaña"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Mundial de Fórmula 1"
+        },
+        {
+          "time": "9:55 PM",
+          "title": "Código F1"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.1,
+      "audio_rms": 472.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5810,
+      "name": "ES: M. GOLF HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5811,
+      "name": "ES: M. LCAMPEONES",
+      "epg": [
+        {
+          "time": "3:40 PM",
+          "title": "UEFA Champions League"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "El tercer tiempo"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "UEFA Champions League"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Universo Valdano"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Magazine Liga Argentina. Torneo Clausura"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5812,
+      "name": "ES: M. L-CAMPEONES 1",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.1,
+      "audio_rms": 1937.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5813,
+      "name": "ES: IBERALIA PESCA FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.6,
+      "audio_rms": 4588.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5814,
+      "name": "ES: M. LCAMPEONES 2",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 3"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 3"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 3"
+        }
+      ],
+      "video_ok": false,
+      "luma": 9.9,
+      "audio_rms": 673.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5815,
+      "name": "ES: EIB 2 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.3,
+      "audio_rms": 1594.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5817,
+      "name": "ES: M. LCAMPEONES 4",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 4"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 4"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 4"
+        }
+      ],
+      "video_ok": false,
+      "luma": 10.6,
+      "audio_rms": 158.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5818,
+      "name": "ES: M. LALIGA 6 [LIVEEVEENT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.2,
+      "audio_rms": 1599.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5819,
+      "name": "ES: M. LALIGA 7 [LIVEEVEENT",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.1,
+      "audio_rms": 1696.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5821,
+      "name": "ES: M. LALIGA 9 [LIVEEVEENT",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.2,
+      "audio_rms": 2060.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5822,
+      "name": "ES: M. LALIGA 10 [LIVEEVEENT",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.6,
+      "audio_rms": 2120.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5823,
+      "name": "ES: M.LCAMPEON1 [LIVEEVEE",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.7,
+      "audio_rms": 1672.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5824,
+      "name": "ES: M.LCAMPEONZ2 [LIVEEVEE",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 3"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 3"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 3"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.5,
+      "audio_rms": 2100.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5825,
+      "name": "ES: M.LCAMPEONS [LIVEEVEE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.7,
+      "audio_rms": 1838.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5826,
+      "name": "ES: M.LCAMPEON 4 [LIVEEVEE",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 4"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 4"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ Liga de Campeones 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ Liga de Campeones 4"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5827,
+      "name": "ES: M.LCAMPEON 5 [LIVEEVEE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.3,
+      "audio_rms": 2041.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5828,
+      "name": "ES: M.LCAMPEON 6 [LIVEEVEE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.7,
+      "audio_rms": 3065.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5829,
+      "name": "ES: M.LCAMPEON 7 [LIVEEVEE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 10.6,
+      "audio_rms": 1821.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5830,
+      "name": "ES: M.LCAMPEON 8 [LIVEEVEE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5831,
+      "name": "ES: M. LALIGA",
+      "epg": [
+        {
+          "time": "3:45 PM",
+          "title": "LALIGA HYPERMOTION"
+        },
+        {
+          "time": "5:40 PM",
+          "title": "El fútbol según Raúl"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "LALIGA EA SPORTS"
+        },
+        {
+          "time": "8:50 PM",
+          "title": "Universo Valdano"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "LALIGA EA SPORTS"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.0,
+      "audio_rms": 2162.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5832,
+      "name": "ES: M. LALIGA 1",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 2"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 2"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "9:50 AM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "4:50 PM",
+          "title": "M+ Liga de Campeones 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 124.7,
+      "audio_rms": 1061.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5833,
+      "name": "ES: M. LALIGA 1 4K",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 2"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 2"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "9:50 AM",
+          "title": "M+ Liga de Campeones 2"
+        },
+        {
+          "time": "4:50 PM",
+          "title": "M+ Liga de Campeones 2"
+        }
+      ],
+      "video_ok": true,
+      "luma": 151.3,
+      "audio_rms": 1454.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5834,
+      "name": "ES: M. LALIGA 2",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 3"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 3"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 3"
+        }
+      ],
+      "video_ok": false,
+      "luma": 9.3,
+      "audio_rms": 1638.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5835,
+      "name": "ES: M. LALIGA 2 4K",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 3"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 3"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 3"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 3"
+        }
+      ],
+      "video_ok": false,
+      "luma": 9.2,
+      "audio_rms": 78.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5836,
+      "name": "ES: M. LALIGA 3",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 4"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 4"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 4"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5837,
+      "name": "ES: M. LALIGA 3 4K",
+      "epg": [
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 4"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 4"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "M+ LALIGA 4"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "M+ LALIGA 4"
+        }
+      ],
+      "video_ok": false,
+      "luma": 9.1,
+      "audio_rms": 2583.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5838,
+      "name": "ES: M. LALIGA 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 10.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5839,
+      "name": "ES: M. LALIGA 4K",
+      "epg": [
+        {
+          "time": "3:45 PM",
+          "title": "LALIGA HYPERMOTION"
+        },
+        {
+          "time": "5:40 PM",
+          "title": "El fútbol según Raúl"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "LALIGA EA SPORTS"
+        },
+        {
+          "time": "8:50 PM",
+          "title": "Universo Valdano"
+        },
+        {
+          "time": "9:50 PM",
+          "title": "LALIGA EA SPORTS"
+        }
+      ],
+      "video_ok": false,
+      "luma": 8.5,
+      "audio_rms": 2469.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5840,
+      "name": "ES: M. LALIGA 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5841,
+      "name": "ES: M. LIGA DE CAMPEONES 4K",
+      "epg": [
+        {
+          "time": "3:40 PM",
+          "title": "UEFA Champions League"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "El tercer tiempo"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "UEFA Champions League"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Universo Valdano"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Magazine Liga Argentina. Torneo Clausura"
+        }
+      ],
+      "video_ok": false,
+      "luma": 9.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5842,
+      "name": "ES: M. SERIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.8,
+      "audio_rms": 771.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5843,
+      "name": "ES: M. SERIES 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.9,
+      "audio_rms": 1036.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5844,
+      "name": "ES: M. SERIESMANIA",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 2.9,
+      "audio_rms": 1637.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5846,
+      "name": "ES: M. VAMOS",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Universo Valdano"
+        },
+        {
+          "time": "5:50 PM",
+          "title": "Informe Plus+. Raúl Torras. Man of Man"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Informe Plus+. Nil Riudavets. De las heridas, la fuerza"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Top Bakalá"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "Rugby Test Matches Internationals"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.5,
+      "audio_rms": 1365.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5847,
+      "name": "ES: M. VAMOS 4K",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Universo Valdano"
+        },
+        {
+          "time": "5:50 PM",
+          "title": "Informe Plus+. Raúl Torras. Man of Man"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Informe Plus+. Nil Riudavets. De las heridas, la fuerza"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Top Bakalá"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "Rugby Test Matches Internationals"
+        }
+      ],
+      "video_ok": true,
+      "luma": 62.8,
+      "audio_rms": 1192.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5848,
+      "name": "ES: MEZZO LIVE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.1,
+      "audio_rms": 142.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5849,
+      "name": "ES: MTV ESPANA",
+      "epg": [
+        {
+          "time": "4:43 PM",
+          "title": "Pillados: Infieles"
+        },
+        {
+          "time": "5:29 PM",
+          "title": "Verguenza ajena"
+        },
+        {
+          "time": "5:51 PM",
+          "title": "Verguenza ajena"
+        },
+        {
+          "time": "6:13 PM",
+          "title": "Verguenza ajena"
+        },
+        {
+          "time": "6:35 PM",
+          "title": "MTV Unplugged"
+        }
+      ],
+      "video_ok": true,
+      "luma": 45.8,
+      "audio_rms": 1841.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5850,
+      "name": "ES: MULTIDEPORTE",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 20.0,
+      "audio_rms": 351.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5851,
+      "name": "ES: MEGA HD",
+      "epg": [
+        {
+          "time": "4:52 PM",
+          "title": "Forjado a fuego"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "Desafio en la arena"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Sportium Game Show"
+        },
+        {
+          "time": "9:25 PM",
+          "title": "La Noche de Casino Pause & Play"
+        },
+        {
+          "time": "10:05 PM",
+          "title": "Venta Prime"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.1,
+      "audio_rms": 2074.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5853,
+      "name": "ES: MULTIDEP.2",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5854,
+      "name": "ES: MULTIDEP.3",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5855,
+      "name": "ES AMC CRIME SD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.5,
+      "audio_rms": 787.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5856,
+      "name": "ES: MULTIFUT 2",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5857,
+      "name": "ES: NOVA",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Esposa joven"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Pazy: Que te recuerden como has vivido"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Juwelo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Ley y orden: unidad de víctimas especiales"
+        },
+        {
+          "time": "9:37 PM",
+          "title": "Ley y orden: unidad de víctimas especiales"
+        }
+      ],
+      "video_ok": true,
+      "luma": 45.6,
+      "audio_rms": 2457.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5858,
+      "name": "ES: NAT GEO WILD",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Lo mejor de El increíble Dr. Pol"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "El club de la lucha animal"
+        },
+        {
+          "time": "6:40 PM",
+          "title": "Australia extraordinaria"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "El club de la lucha animal"
+        },
+        {
+          "time": "8:15 PM",
+          "title": "Raros y salvajes"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.1,
+      "audio_rms": 1358.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5859,
+      "name": "ES TEN SD",
+      "epg": [
+        {
+          "time": "5:02 PM",
+          "title": "Hermanos asesinos"
+        },
+        {
+          "time": "5:59 PM",
+          "title": "Hermanos asesinos"
+        },
+        {
+          "time": "6:59 PM",
+          "title": "Hermanos asesinos"
+        },
+        {
+          "time": "7:54 PM",
+          "title": "Conocía a mi asesino"
+        },
+        {
+          "time": "8:20 PM",
+          "title": "Campeonato Europeo de Póquer"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.8,
+      "audio_rms": 1801.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5860,
+      "name": "ES: NAT GEOGRAPHIC",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "National Geographic"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "National Geographic"
+        },
+        {
+          "time": "12:03 AM",
+          "title": "Amsterdam Central 24/7"
+        },
+        {
+          "time": "12:47 AM",
+          "title": "Amsterdam Central 24/7"
+        },
+        {
+          "time": "1:31 AM",
+          "title": "Megafactorias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.6,
+      "audio_rms": 1212.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5861,
+      "name": "ES: NATL GEOGRAPHIC 4K",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "National Geographic"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "National Geographic"
+        },
+        {
+          "time": "12:03 AM",
+          "title": "Amsterdam Central 24/7"
+        },
+        {
+          "time": "12:47 AM",
+          "title": "Amsterdam Central 24/7"
+        },
+        {
+          "time": "1:31 AM",
+          "title": "Megafactorias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 40.9,
+      "audio_rms": 2152.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5862,
+      "name": "ES: NEOX",
+      "epg": [
+        {
+          "time": "4:05 PM",
+          "title": "Cine"
+        },
+        {
+          "time": "6:20 PM",
+          "title": "Cine"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Cine"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Campeonato Europeo de Póquer"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Sportium Game Show"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.3,
+      "audio_rms": 2051.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5863,
+      "name": "ES: NICK JR",
+      "epg": [
+        {
+          "time": "4:59 PM",
+          "title": "Barbapapa - ¡Una gran familia!"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Barbapapa - ¡Una gran familia!"
+        },
+        {
+          "time": "5:59 PM",
+          "title": "Barbapapa - ¡Una gran familia!"
+        },
+        {
+          "time": "6:21 PM",
+          "title": "Equipo Rubble"
+        },
+        {
+          "time": "6:44 PM",
+          "title": "Equipo Rubble"
+        }
+      ],
+      "video_ok": true,
+      "luma": 125.9,
+      "audio_rms": 1317.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5864,
+      "name": "ES: NICKELODEN HD",
+      "epg": [
+        {
+          "time": "5:15 PM",
+          "title": "Una casa de locos"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "Una casa de locos"
+        },
+        {
+          "time": "6:14 PM",
+          "title": "Henry Danger"
+        },
+        {
+          "time": "6:44 PM",
+          "title": "Equipo Danger"
+        },
+        {
+          "time": "7:13 PM",
+          "title": "Los Thunderman: Infiltrados"
+        }
+      ],
+      "video_ok": true,
+      "luma": 141.4,
+      "audio_rms": 1693.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5865,
+      "name": "ES: ODISEA",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Rascacielos: riesgos de altura"
+        },
+        {
+          "time": "6:03 PM",
+          "title": "Por qué se derrumban los puentes"
+        },
+        {
+          "time": "7:07 PM",
+          "title": "Grandes inventos"
+        },
+        {
+          "time": "7:58 PM",
+          "title": "Grandes inventos"
+        },
+        {
+          "time": "8:49 PM",
+          "title": "Grandes inventos"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.8,
+      "audio_rms": 1890.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5866,
+      "name": "ES: PARAMOUNT CHANNEL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5867,
+      "name": "ES: REAL MADRID TV",
+      "epg": [
+        {
+          "time": "2:00 PM",
+          "title": "Real Madrid TV"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Real Madrid TV"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Real Madrid TV"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Real Madrid TV"
+        },
+        {
+          "time": "6:00 AM",
+          "title": "Real Madrid TV"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5868,
+      "name": "ES M.CLASICOS",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 79.1,
+      "audio_rms": 4152.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5869,
+      "name": "ES: SYFY 4K",
+      "epg": [
+        {
+          "time": "4:42 PM",
+          "title": "The Ark"
+        },
+        {
+          "time": "5:36 PM",
+          "title": "El increíble Hulk"
+        },
+        {
+          "time": "7:27 PM",
+          "title": "Embrujadas"
+        },
+        {
+          "time": "8:18 PM",
+          "title": "Embrujadas"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Embrujadas"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5870,
+      "name": "ES: TCM",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Desayuno con diamantes"
+        },
+        {
+          "time": "5:51 PM",
+          "title": "Big Night"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "Evasión o victoria"
+        },
+        {
+          "time": "9:37 PM",
+          "title": "Selección TCM"
+        },
+        {
+          "time": "9:43 PM",
+          "title": "Africa en Cinecicleta"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5871,
+      "name": "ES: TCM 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Desayuno con diamantes"
+        },
+        {
+          "time": "5:51 PM",
+          "title": "Big Night"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "Evasion o victoria"
+        },
+        {
+          "time": "9:37 PM",
+          "title": "Selección TCM"
+        },
+        {
+          "time": "9:43 PM",
+          "title": "Africa en Cinecicleta"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.4,
+      "audio_rms": 1158.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5872,
+      "name": "ESN",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "FBI"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "FBI"
+        },
+        {
+          "time": "6:40 PM",
+          "title": "FBI"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "FBI"
+        },
+        {
+          "time": "8:25 PM",
+          "title": "Mortal Kombat"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5873,
+      "name": "ES: INT 4K",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "FBI"
+        },
+        {
+          "time": "5:45 PM",
+          "title": "FBI"
+        },
+        {
+          "time": "6:40 PM",
+          "title": "FBI"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "FBI"
+        },
+        {
+          "time": "8:25 PM",
+          "title": "Mortal Kombat"
+        }
+      ],
+      "video_ok": true,
+      "luma": 159.2,
+      "audio_rms": 2731.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5874,
+      "name": "ES M.INDIE FHD",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Modigliani, tres días en Montparnasse"
+        },
+        {
+          "time": "5:51 PM",
+          "title": "Per bruixa i metzinera"
+        },
+        {
+          "time": "6:16 PM",
+          "title": "Anora"
+        },
+        {
+          "time": "8:36 PM",
+          "title": "Los carniceros verdes"
+        },
+        {
+          "time": "10:13 PM",
+          "title": "Buena chica"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.5,
+      "audio_rms": 1747.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5875,
+      "name": "ES: [V3 HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5876,
+      "name": "ES: TVE INTERNACIONAL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5877,
+      "name": "ES: TV GALICIA",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Somos animais"
+        },
+        {
+          "time": "5:39 PM",
+          "title": "Collidos nas patacas"
+        },
+        {
+          "time": "6:46 PM",
+          "title": "Onde vai a xente"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "A vida do mercado"
+        },
+        {
+          "time": "8:35 PM",
+          "title": "Pazo de familia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 229.9,
+      "audio_rms": 591.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5878,
+      "name": "ES: TV GALICIA,",
+      "epg": [
+        {
+          "time": "4:45 PM",
+          "title": "Somos animais"
+        },
+        {
+          "time": "5:39 PM",
+          "title": "Collidos nas patacas"
+        },
+        {
+          "time": "6:46 PM",
+          "title": "Onde vai a xente"
+        },
+        {
+          "time": "7:35 PM",
+          "title": "A vida do mercado"
+        },
+        {
+          "time": "8:35 PM",
+          "title": "Pazo de familia"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.5,
+      "audio_rms": 1775.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5879,
+      "name": "ES: TELECINCO 4K",
+      "epg": [
+        {
+          "time": "3:45 PM",
+          "title": "Supervivientes All Stars"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Gran Madrid Show"
+        },
+        {
+          "time": "8:25 PM",
+          "title": "El rey del mando"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Love Shopping TV"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Love Shopping TV"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.3,
+      "audio_rms": 1961.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5880,
+      "name": "ES: TELEDEPORTE",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Teledeporte"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Teledeporte"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Teledeporte"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Teledeporte"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Teledeporte"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.8,
+      "audio_rms": 1700.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5881,
+      "name": "ES: TELEDEPORTE 4K",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Teledeporte"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Teledeporte"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Teledeporte"
+        },
+        {
+          "time": "4:00 AM",
+          "title": "Teledeporte"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Teledeporte"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5882,
+      "name": "ES: TELE MADRID 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.7,
+      "audio_rms": 4738.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5883,
+      "name": "ES: TELECINCO",
+      "epg": [
+        {
+          "time": "3:45 PM",
+          "title": "Supervivientes All Stars"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Gran Madrid Show"
+        },
+        {
+          "time": "8:25 PM",
+          "title": "El rey del mando"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Love Shopping TV"
+        },
+        {
+          "time": "9:15 PM",
+          "title": "Love Shopping TV"
+        }
+      ],
+      "video_ok": true,
+      "luma": 133.8,
+      "audio_rms": 2373.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5884,
+      "name": "ES: TOROS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 150.3,
+      "audio_rms": 2373.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5885,
+      "name": "ES: VAMOS HD",
+      "epg": [
+        {
+          "time": "4:50 PM",
+          "title": "Universo Valdano"
+        },
+        {
+          "time": "5:50 PM",
+          "title": "Informe Plus+. Raúl Torras. Man of Man"
+        },
+        {
+          "time": "6:50 PM",
+          "title": "Informe Plus+. Nil Riudavets. De las heridas, la fuerza"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Top Bakalá"
+        },
+        {
+          "time": "7:55 PM",
+          "title": "Rugby Test Matches Internationals"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.5,
+      "audio_rms": 1637.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5886,
+      "name": "ES: VIAJAR HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.1,
+      "audio_rms": 158.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5888,
+      "name": "ES BABY TV",
+      "epg": [
+        {
+          "time": "4:04 PM",
+          "title": "Cierra tus ojos"
+        },
+        {
+          "time": "8:04 PM",
+          "title": "Cierra tus ojos"
+        },
+        {
+          "time": "11:58 PM",
+          "title": "La Pequeña Pandilla"
+        },
+        {
+          "time": "12:02 AM",
+          "title": "La Pequeña Pandilla"
+        },
+        {
+          "time": "12:07 AM",
+          "title": "La Pequeña Pandilla"
+        }
+      ],
+      "video_ok": true,
+      "luma": 145.3,
+      "audio_rms": 941.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5889,
+      "name": "ES: BEIN SPORTS HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 144.5,
+      "audio_rms": 1190.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5890,
+      "name": "BEIN SPORTS LA LIGA",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5891,
+      "name": "BEIN LA LIGA",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5892,
+      "name": "BEIN SPORTS EN ESPAA‘OL",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.9,
+      "audio_rms": 1510.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5893,
+      "name": "BEIN SPORTS EN ESPANOL",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 134.2,
+      "audio_rms": 1403.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5894,
+      "name": "ES: BOM CINE HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 41.8,
+      "audio_rms": 1240.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5895,
+      "name": "ES: A3 SERIES INTERNACIONAL",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.1,
+      "audio_rms": 1441.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5896,
+      "name": "ES: MTV 00S SD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 13.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

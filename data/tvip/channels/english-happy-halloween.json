@@ -1,0 +1,134 @@
+{
+  "category": "ENGLISH | HAPPY HALLOWEEN",
+  "captured": "2026-10-01T01:24:28-0400",
+  "mode": "full",
+  "reported_total": 14,
+  "channels": [
+    {
+      "number": 78001,
+      "name": "AART | HAPPY HALLOWEEN 01",
+      "epg": [],
+      "video_ok": true,
+      "luma": 25.0,
+      "audio_rms": 211.6,
+      "audio_ok": true
+    },
+    {
+      "number": 78002,
+      "name": "AART | HAPPY HALLOWEEN 02",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.1,
+      "audio_rms": 697.0,
+      "audio_ok": true
+    },
+    {
+      "number": 78003,
+      "name": "AART | HAPPY HALLOWEEN 03",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.6,
+      "audio_rms": 1080.4,
+      "audio_ok": true
+    },
+    {
+      "number": 78004,
+      "name": "AART | HAPPY HALLOWEEN 04",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.9,
+      "audio_rms": 383.2,
+      "audio_ok": true
+    },
+    {
+      "number": 78005,
+      "name": "AART | HAPPY HALLOWEEN 05",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.8,
+      "audio_rms": 885.2,
+      "audio_ok": true
+    },
+    {
+      "number": 78006,
+      "name": "AART | HAPPY HALLOWEEN 06",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.2,
+      "audio_rms": 1518.2,
+      "audio_ok": true
+    },
+    {
+      "number": 78007,
+      "name": "AART | HAPPY HALLOWEEN 07",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.4,
+      "audio_rms": 4078.3,
+      "audio_ok": true
+    },
+    {
+      "number": 78008,
+      "name": "AART | HAPPY HALLOWEEN 08",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.6,
+      "audio_rms": 1423.7,
+      "audio_ok": true
+    },
+    {
+      "number": 78009,
+      "name": "AART | HAPPY HALLOWEEN 09",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.6,
+      "audio_rms": 290.7,
+      "audio_ok": true
+    },
+    {
+      "number": 78010,
+      "name": "AART | HAPPY HALLOWEEN 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 10.0,
+      "audio_rms": 36.6,
+      "audio_ok": true
+    },
+    {
+      "number": 78011,
+      "name": "AART | HAPPY HALLOWEEN 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.1,
+      "audio_rms": 1151.0,
+      "audio_ok": true
+    },
+    {
+      "number": 78012,
+      "name": "AART | HAPPY HALLOWEEN 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.0,
+      "audio_rms": 1260.0,
+      "audio_ok": true
+    },
+    {
+      "number": 78013,
+      "name": "AART | HAPPY HALLOWEEN 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.9,
+      "audio_rms": 73.2,
+      "audio_ok": true
+    },
+    {
+      "number": 78014,
+      "name": "AART | HAPPY HALLOWEEN 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.6,
+      "audio_rms": 58.4,
+      "audio_ok": true
+    }
+  ]
+}

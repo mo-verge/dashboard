@@ -46,3 +46,34 @@ the picture is held back 50 s so each caption lands on its line.
 
 The Pi controls the box as a fake Bluetooth remote — see [docs/tvip-remote.md](docs/tvip-remote.md).
 Boot setup (dashboard server, kiosk, fake remote, Bluetooth identity): `deploy/install.sh`.
+
+## Streaming to the TV (Chromecast with Google TV)
+
+One ffmpeg (`stream/capture-hub.sh`) owns the capture adapter and feeds the local preview, the
+raw frames for `capture/box.py`, and an H.264 + AAC encode published to MediaMTX
+(`stream/mediamtx.yml`): RTSP on `:8554` (low latency, used by the TV app) and HLS on `:8888`
+(for casting). Setup, test order and rollback: [stream/README.md](stream/README.md).
+
+```
+CAST_MODE=1080p X264_THREADS=0 ~/stream/capture-hub.sh     # on the Pi (720p while an inventory runs)
+~/stream/venv/bin/python ~/stream/cast.py cast|stop          # cast HLS to "Living Room"
+```
+
+**Monet TV** (`tvapp/`) is a sideloaded Android TV app: one tile, opens straight into the RTSP
+stream (~1 s lag, HLS fallback), forwards the Chromecast remote's D-pad / OK / Back to the TVIP box
+via `capture/key_relay.py` (LAN :8180, token in `~/.config/dashboard/relay-token`), long-press OK =
+channel picker from the inventory shortlists, long-press Back = exit.
+
+```
+cd tvapp && ./gradlew assembleRelease                         # needs JDK 17 + Android SDK 35; monet.properties holds the relay token
+adb -s 192.168.50.79:<port> install -r app/build/outputs/apk/release/app-release.apk   # wireless debugging (run adb on the Pi)
+python3 tvapp/art/make_art.py <dir with Geist TTFs>           # regenerate launcher art
+```
+
+## Channel inventory
+
+`capture/inventory.py` walks every TVIP category with the fake remote and OCR (tesseract for names,
+`capture/digits.py` templates for channel numbers), tuning Spanish/English/sports channels to read
+the now/next EPG panel and check video/audio. `capture/enrich.py` merges it with the iptv-org
+database. Results in `data/tvip/`: `channels.json` (all), `soccer.json`, `spanish.json`,
+`english.json`, plus raw per-category captures in `data/tvip/channels/`.

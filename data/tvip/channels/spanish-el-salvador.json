@@ -1,0 +1,458 @@
+{
+  "category": "SPANISH | EL SALVADOR",
+  "captured": "2026-09-30T19:22:17-0400",
+  "mode": "full",
+  "reported_total": 15,
+  "channels": [
+    {
+      "number": 37581,
+      "name": "SV | TVO Canal 23",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 17.4,
+      "audio_rms": 6951.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37582,
+      "name": "SV | Orbita TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.9,
+      "audio_rms": 1370.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37583,
+      "name": "SV | TCS Canal 4 HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 27.5,
+      "audio_rms": 659.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37585,
+      "name": "SV | Tele el Salvador HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.0,
+      "audio_rms": 1384.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37586,
+      "name": "SV | Wow TV HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.4,
+      "audio_rms": 1721.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37587,
+      "name": "SV | TCS PLUS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.0,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37588,
+      "name": "SV | Megavision TRV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 168.6,
+      "audio_rms": 9924.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37589,
+      "name": "SV | Megavision Canal 21",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 138.1,
+      "audio_rms": 7089.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37590,
+      "name": "SV | Megavision Canal 19",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "La tarde sin estrés"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Fanaticos"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Pulso ciudadano"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Fin de transmisión"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Telenoticias Megavisión - Edición AM"
+        }
+      ],
+      "video_ok": true,
+      "luma": 168.3,
+      "audio_rms": 9629.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37591,
+      "name": "SV | Canal 12",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Pop 12"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Cuando los ángeles caen"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "La promesa"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Noticiero Hechos de la noche"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Pizarrón deportivo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 162.1,
+      "audio_rms": 1222.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37592,
+      "name": "SV | Canal 6",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Caso cerrado"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Guardian de mi vida"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "El noticiero - Estelar"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Asteroid City"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.4,
+      "audio_rms": 351.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37593,
+      "name": "SV | Canal 4 HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Aguila vs. Inter Santa Tecla"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Argentina vs. Bolivia"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "La polémica"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Sorteo de Loto"
+        },
+        {
+          "time": "11:02 PM",
+          "title": "Noticias 4 vision"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.8,
+      "audio_rms": 1401.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37594,
+      "name": "SV | Canal 2",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Play"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Llevatelo+"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sorteo de Loto"
+        },
+        {
+          "time": "8:02 PM",
+          "title": "Llevatelo+"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Conexion digital"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.0,
+      "audio_rms": 1329.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37595,
+      "name": "SV | Tigo Sports",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 166.6,
+      "audio_rms": 3809.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37596,
+      "name": "SV | Tigo Sports FHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 156.1,
+      "audio_rms": 4181.4,
+      "audio_ok": true
+    }
+  ]
+}

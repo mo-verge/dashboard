@@ -1,0 +1,1295 @@
+{
+  "category": "ESPN+ | NCAA",
+  "captured": "2026-10-01T01:20:21-0400",
+  "mode": "full",
+  "reported_total": 143,
+  "channels": [
+    {
+      "number": 22999,
+      "name": "KEKKEEE N CAAB*******",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23000,
+      "name": "NCAAB 01",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23001,
+      "name": "NCAAB 02",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23002,
+      "name": "NCAAB 03",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23003,
+      "name": "NCAAB 04",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23004,
+      "name": "NCAAB 05",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23005,
+      "name": "NCAAB 06",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23006,
+      "name": "NCAAB 07",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23007,
+      "name": "NCAAB 08",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23008,
+      "name": "NCAAB 09",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23009,
+      "name": "NCAAB 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23010,
+      "name": "NCAAB 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23011,
+      "name": "NCAAB 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23012,
+      "name": "NCAAB 13",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23013,
+      "name": "NCAAB 14",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23014,
+      "name": "NCAAB 15",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23015,
+      "name": "NCAAB 16",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23016,
+      "name": "NCAAB 17",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23017,
+      "name": "NCAAB 18",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23018,
+      "name": "NCAAB 19",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23019,
+      "name": "NCAAB 20",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23020,
+      "name": "KEKEKEE N CAAF KEKKEKE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23021,
+      "name": "NCAAF 21",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.3,
+      "audio_rms": 802.7,
+      "audio_ok": true
+    },
+    {
+      "number": 23022,
+      "name": "NCAAF 22",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23023,
+      "name": "NCAAF 23",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23024,
+      "name": "NCAAF 24",
+      "epg": [],
+      "video_ok": true,
+      "luma": 145.3,
+      "audio_rms": 1177.6,
+      "audio_ok": true
+    },
+    {
+      "number": 23025,
+      "name": "NCAAF 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.3,
+      "audio_rms": 1505.0,
+      "audio_ok": true
+    },
+    {
+      "number": 23026,
+      "name": "NCAAF 26",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23027,
+      "name": "NCAAF 27",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.8,
+      "audio_rms": 2064.7,
+      "audio_ok": true
+    },
+    {
+      "number": 23028,
+      "name": "NCAAF 28",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23029,
+      "name": "NCAAF 29",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23030,
+      "name": "NCAAF 30",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23031,
+      "name": "NCAAF 31",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.8,
+      "audio_rms": 2068.1,
+      "audio_ok": true
+    },
+    {
+      "number": 23032,
+      "name": "NCAAF 32",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.5,
+      "audio_rms": 880.1,
+      "audio_ok": true
+    },
+    {
+      "number": 23033,
+      "name": "NCAAF 33",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23034,
+      "name": "NCAAF 34",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.6,
+      "audio_rms": 1376.3,
+      "audio_ok": true
+    },
+    {
+      "number": 23035,
+      "name": "NCAAF 35",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23036,
+      "name": "NCAAF 36",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.1,
+      "audio_rms": 2403.3,
+      "audio_ok": true
+    },
+    {
+      "number": 23037,
+      "name": "NCAAF 37",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23038,
+      "name": "NCAAF 38",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.1,
+      "audio_rms": 1203.4,
+      "audio_ok": true
+    },
+    {
+      "number": 23039,
+      "name": "NCAAF 39",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23040,
+      "name": "NCAAF 40",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23041,
+      "name": "ESPN-+ 0",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 1818.1,
+      "audio_ok": true
+    },
+    {
+      "number": 23042,
+      "name": "ESPN+ 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23043,
+      "name": "ESPN+ 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.5,
+      "audio_rms": 2444.3,
+      "audio_ok": true
+    },
+    {
+      "number": 23044,
+      "name": "ESPN+ 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23045,
+      "name": "ESPN+ 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.8,
+      "audio_rms": 877.2,
+      "audio_ok": true
+    },
+    {
+      "number": 23046,
+      "name": "ESPN+ 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23047,
+      "name": "ESPN+ 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23048,
+      "name": "ESPN+ 7",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23049,
+      "name": "ESPN+ 8",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23050,
+      "name": "ESPN+ 9",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23051,
+      "name": "ESPN+ 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23052,
+      "name": "ESPN+ 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23053,
+      "name": "ESPN+ 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23054,
+      "name": "ESPN+ 13",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23055,
+      "name": "ESPN+ 14",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23056,
+      "name": "ESPN+ 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.2,
+      "audio_rms": 1528.7,
+      "audio_ok": true
+    },
+    {
+      "number": 23057,
+      "name": "ESPN+ 16",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23058,
+      "name": "ESPN+ 17",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23059,
+      "name": "ESPN+ 18",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.8,
+      "audio_rms": 866.2,
+      "audio_ok": true
+    },
+    {
+      "number": 23060,
+      "name": "ESPN+ 19",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23061,
+      "name": "ESPN+ 20",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23062,
+      "name": "ESPN+ 21",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23063,
+      "name": "ESPN+ 22",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23064,
+      "name": "ESPN+ 23",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23065,
+      "name": "ESPN+ 24",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23066,
+      "name": "ESPN+ 25",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23067,
+      "name": "ESPN+ 26",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23068,
+      "name": "ESPN+ 27",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23069,
+      "name": "ESPN+ 28",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23070,
+      "name": "ESPN+ 29",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23071,
+      "name": "ESPN+ 30",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23072,
+      "name": "ESPN-+ 31",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23073,
+      "name": "ESPN+ 32",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23074,
+      "name": "ESPN+ 33",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23075,
+      "name": "ESPN+ 34",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23076,
+      "name": "ESPN+ 35",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23077,
+      "name": "ESPN+ 36",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23078,
+      "name": "ESPN+ 37",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23079,
+      "name": "ESPN+ 38",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23080,
+      "name": "ESPN+ 39",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23081,
+      "name": "ESPN+ 40",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23082,
+      "name": "ESPN+ 41",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23083,
+      "name": "ESPN+ 42",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23084,
+      "name": "ESPN+ 43",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23085,
+      "name": "ESPN+ 44",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23086,
+      "name": "ESPN+ 45",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23087,
+      "name": "ESPN+ 46",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23088,
+      "name": "ESPN+ 47",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23089,
+      "name": "ESPN+ 48",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.7,
+      "audio_rms": 784.7,
+      "audio_ok": true
+    },
+    {
+      "number": 23090,
+      "name": "ESPN+ 49",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23091,
+      "name": "ESPN+ 50",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23092,
+      "name": "ESPN+ 51",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23093,
+      "name": "ESPN+ 52",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23094,
+      "name": "ESPN+ 53",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23095,
+      "name": "ESPN+ 54",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23096,
+      "name": "ESPN+ 55",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23097,
+      "name": "ESPN+ 56",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23098,
+      "name": "ESPN+ 57",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23099,
+      "name": "ESPN+ 58",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.2,
+      "audio_rms": 749.8,
+      "audio_ok": true
+    },
+    {
+      "number": 23100,
+      "name": "ESPN+ 59",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23101,
+      "name": "ESPN+ 60",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23102,
+      "name": "ESPN+ 61",
+      "epg": [],
+      "video_ok": true,
+      "luma": 169.8,
+      "audio_rms": 804.2,
+      "audio_ok": true
+    },
+    {
+      "number": 23103,
+      "name": "ESPN+ 62",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23104,
+      "name": "ESPN+ 63",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23105,
+      "name": "ESPN+ 64",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23106,
+      "name": "ESPN+ 65",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23107,
+      "name": "ESPN+ 66",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.9,
+      "audio_rms": 1440.6,
+      "audio_ok": true
+    },
+    {
+      "number": 23108,
+      "name": "ESPN+ 67",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23109,
+      "name": "ESPN+ 68",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23110,
+      "name": "ESPN+ 69",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23111,
+      "name": "ESPN+ 70",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23112,
+      "name": "ESPN-+ 71",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23113,
+      "name": "ESPN+ 72",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.7,
+      "audio_rms": 1671.3,
+      "audio_ok": true
+    },
+    {
+      "number": 23114,
+      "name": "ESPN+ 73",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23115,
+      "name": "ESPN+ 74",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23116,
+      "name": "ESPN+ 75",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.2,
+      "audio_rms": 805.8,
+      "audio_ok": true
+    },
+    {
+      "number": 23117,
+      "name": "ESPN+ 76",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23118,
+      "name": "ESPN+ 77",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23119,
+      "name": "ESPN+ 78",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23120,
+      "name": "ESPN+ 79",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23121,
+      "name": "ESPN+ 80",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23122,
+      "name": "ESPN+ 81",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23123,
+      "name": "ESPN+ 82",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23124,
+      "name": "ESPN+ 83",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23125,
+      "name": "ESPN+ 84",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23126,
+      "name": "ESPN+ 85",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23127,
+      "name": "ESPN+ 86",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.1,
+      "audio_rms": 1274.5,
+      "audio_ok": true
+    },
+    {
+      "number": 23128,
+      "name": "ESPN+ 87",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23129,
+      "name": "ESPN+ 88",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23130,
+      "name": "ESPN+ 89",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23131,
+      "name": "ESPN+ 90",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23132,
+      "name": "ESPN+ 91",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23133,
+      "name": "ESPN+ 92",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23134,
+      "name": "ESPN+ 93",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23135,
+      "name": "ESPN+ 94",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23136,
+      "name": "ESPN+ 95",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23137,
+      "name": "ESPN+ 96",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23138,
+      "name": "ESPN+ 97",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23139,
+      "name": "ESPN+ 98",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23140,
+      "name": "ESPN+ 99",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 23141,
+      "name": "ESPN+ 100",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

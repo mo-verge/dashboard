@@ -1,0 +1,269 @@
+{
+  "category": "SPANISH | 24X7",
+  "captured": "2026-09-30T19:39:50-0400",
+  "mode": "full",
+  "reported_total": 29,
+  "channels": [
+    {
+      "number": 50001,
+      "name": "SPANISH MOVIE 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.8,
+      "audio_rms": 78.7,
+      "audio_ok": true
+    },
+    {
+      "number": 50002,
+      "name": "SPANISH MOVIE 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.0,
+      "audio_rms": 1486.7,
+      "audio_ok": true
+    },
+    {
+      "number": 50003,
+      "name": "SPANISH MOVIE 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 108.9,
+      "audio_rms": 41.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50004,
+      "name": "SPANISH MOVIE 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.2,
+      "audio_rms": 2233.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50005,
+      "name": "SPANISH MOVIE 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.8,
+      "audio_rms": 684.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50006,
+      "name": "SPANISH MOVIE 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 31.3,
+      "audio_rms": 505.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50007,
+      "name": "SPANISH MOVIE 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.4,
+      "audio_rms": 570.8,
+      "audio_ok": true
+    },
+    {
+      "number": 50008,
+      "name": "SPANISH MOVIE 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.1,
+      "audio_rms": 2468.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50009,
+      "name": "SPANISH MOVIE 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.0,
+      "audio_rms": 27.9,
+      "audio_ok": false
+    },
+    {
+      "number": 50010,
+      "name": "SPANISH MOVIE 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 114.5,
+      "audio_rms": 352.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50011,
+      "name": "SPANISH MOVIE 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.6,
+      "audio_rms": 2247.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50012,
+      "name": "SPANISH MOVIE 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.3,
+      "audio_rms": 160.2,
+      "audio_ok": true
+    },
+    {
+      "number": 50013,
+      "name": "SPANISH MOVIE 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 801.4,
+      "audio_ok": true
+    },
+    {
+      "number": 50014,
+      "name": "SPANISH MOVIE 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.7,
+      "audio_rms": 2448.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50015,
+      "name": "SPANISH MOVIE 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.1,
+      "audio_rms": 1480.7,
+      "audio_ok": true
+    },
+    {
+      "number": 50016,
+      "name": "SPANISH MOVIE 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.7,
+      "audio_rms": 870.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50017,
+      "name": "SPANISH MOVIE 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.1,
+      "audio_rms": 1244.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50018,
+      "name": "SPANISH MOVIE 18",
+      "epg": [],
+      "video_ok": true,
+      "luma": 149.1,
+      "audio_rms": 954.8,
+      "audio_ok": true
+    },
+    {
+      "number": 50019,
+      "name": "SPANISH MOVIE 19",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.1,
+      "audio_rms": 2231.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50020,
+      "name": "SPANISH MOVIE 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.2,
+      "audio_rms": 2254.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50021,
+      "name": "SPANISH MOVIE 21",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.4,
+      "audio_rms": 2232.3,
+      "audio_ok": true
+    },
+    {
+      "number": 50022,
+      "name": "SPANISH MOVIE 22",
+      "epg": [],
+      "video_ok": true,
+      "luma": 31.9,
+      "audio_rms": 317.3,
+      "audio_ok": true
+    },
+    {
+      "number": 50023,
+      "name": "SPANISH MOVIE 23",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.7,
+      "audio_rms": 143.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50024,
+      "name": "SPANISH MOVIE 24",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.8,
+      "audio_rms": 6627.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50025,
+      "name": "SPANISH MOVIE 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.5,
+      "audio_rms": 2284.2,
+      "audio_ok": true
+    },
+    {
+      "number": 50026,
+      "name": "SPANISH MOVIE 26",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.3,
+      "audio_rms": 1041.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50027,
+      "name": "SPANISH MOVIE 27",
+      "epg": [],
+      "video_ok": true,
+      "luma": 28.2,
+      "audio_rms": 2550.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50028,
+      "name": "SPANISH MOVIE 28",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.4,
+      "audio_rms": 2471.4,
+      "audio_ok": true
+    },
+    {
+      "number": 50029,
+      "name": "SPANISH MOVIE 29",
+      "epg": [],
+      "video_ok": true,
+      "luma": 31.9,
+      "audio_rms": 530.9,
+      "audio_ok": true
+    }
+  ]
+}

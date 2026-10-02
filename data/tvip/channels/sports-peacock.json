@@ -1,0 +1,279 @@
+{
+  "category": "SPORTS | PEACOCK",
+  "captured": "2026-10-01T00:03:06-0400",
+  "mode": "full",
+  "reported_total": 30,
+  "channels": [
+    {
+      "number": 17155,
+      "name": "Peacock | Event 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.9,
+      "audio_rms": 1061.3,
+      "audio_ok": true
+    },
+    {
+      "number": 17156,
+      "name": "Peacock | Event 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.3,
+      "audio_rms": 314.7,
+      "audio_ok": true
+    },
+    {
+      "number": 17157,
+      "name": "Peacock | Event 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 12.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17158,
+      "name": "Peacock | Event 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.9,
+      "audio_rms": 1641.3,
+      "audio_ok": true
+    },
+    {
+      "number": 17159,
+      "name": "Peacock | Event 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17160,
+      "name": "Peacock | Event 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17161,
+      "name": "Peacock | Event 7",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17162,
+      "name": "Peacock | Event 8",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17163,
+      "name": "Peacock | Event 9",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17164,
+      "name": "Peacock | Event 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17165,
+      "name": "Peacock | Event 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17166,
+      "name": "Peacock | Event 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 691,
+      "name": "Peacock | Event 13",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17166,
+      "name": "Peacock | Event 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17169,
+      "name": "Peacock | Event 15",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17170,
+      "name": "Peacock | Event 16",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17171,
+      "name": "Peacock | Event 17",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17172,
+      "name": "Peacock | Event 18",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17173,
+      "name": "Peacock | Event 19",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17174,
+      "name": "Peacock | Event 20",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17175,
+      "name": "Peacock | Event 21",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17176,
+      "name": "Peacock | Event 22",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17177,
+      "name": "Peacock | Event 23",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17178,
+      "name": "Peacock | Event 24",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.8,
+      "audio_rms": 2074.1,
+      "audio_ok": true
+    },
+    {
+      "number": 17179,
+      "name": "Peacock | Event 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 2031.9,
+      "audio_ok": true
+    },
+    {
+      "number": 17180,
+      "name": "Peacock | Event 26",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17181,
+      "name": "Peacock | Event 27",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17182,
+      "name": "Peacock | Event 28",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17183,
+      "name": "Peacock | Event 29",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17184,
+      "name": "Peacock | Event 30",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

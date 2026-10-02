@@ -1,0 +1,297 @@
+{
+  "category": "SPORTS | EPL",
+  "captured": "2026-09-30T20:37:23-0400",
+  "mode": "full",
+  "reported_total": 32,
+  "channels": [
+    {
+      "number": 17050,
+      "name": "EPL | WOLVERHAMPTON WA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17051,
+      "name": "EPL | WEST HAM",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17052,
+      "name": "EPL| TOTTENHAM",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17053,
+      "name": "EPL | NOTTINGHAM FOREST",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17054,
+      "name": "EPL | NEWCASTLE UTD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.8,
+      "audio_rms": 452.5,
+      "audio_ok": true
+    },
+    {
+      "number": 17055,
+      "name": "EPL | MANCHESTER UTD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17056,
+      "name": "EPL | MANCHESTER CITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.0,
+      "audio_rms": 1787.0,
+      "audio_ok": true
+    },
+    {
+      "number": 17057,
+      "name": "EPL | LIVERPOOL",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17058,
+      "name": "EPL | FULHAM",
+      "epg": [],
+      "video_ok": true,
+      "luma": 124.6,
+      "audio_rms": 1267.7,
+      "audio_ok": true
+    },
+    {
+      "number": 17059,
+      "name": "EPL | EVERTON",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17060,
+      "name": "EPL | CRYSTAL PALACE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17061,
+      "name": "EPL | CHELSEA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.5,
+      "audio_rms": 1888.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3691,
+      "name": "2. EPL | BRIGHTON",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17050,
+      "name": "EPL | WOLVERHAMPTON WANDER",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17064,
+      "name": "EPL | AFC BOURNEMOUTH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.8,
+      "audio_rms": 1200.8,
+      "audio_ok": true
+    },
+    {
+      "number": 17065,
+      "name": "EPL | ASTON VILLA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17066,
+      "name": "EPL | ARSENAL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.1,
+      "audio_rms": 213.5,
+      "audio_ok": true
+    },
+    {
+      "number": 17067,
+      "name": "EPL | COVENTRY CITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.3,
+      "audio_rms": 686.0,
+      "audio_ok": true
+    },
+    {
+      "number": 17068,
+      "name": "EPL | HULL CITY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17070,
+      "name": "LU!",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17071,
+      "name": "LUZ",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17072,
+      "name": "LOS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.8,
+      "audio_rms": 581.7,
+      "audio_ok": true
+    },
+    {
+      "number": 17073,
+      "name": "L04",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17074,
+      "name": "LO>",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17075,
+      "name": "LI»",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17076,
+      "name": "A",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17077,
+      "name": "0",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17078,
+      "name": "L os",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17079,
+      "name": "L 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17080,
+      "name": "L | IPSWICH",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17081,
+      "name": "L LEICESTER CITY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 17082,
+      "name": "L | SOUTHAMPTON",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

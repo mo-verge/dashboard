@@ -1,0 +1,53 @@
+{
+  "category": "ARABIC | ALKASS",
+  "captured": "2026-09-30T21:01:24-0400",
+  "mode": "full",
+  "reported_total": 5,
+  "channels": [
+    {
+      "number": 42055,
+      "name": "AR| AL KASS 5 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.7,
+      "audio_rms": 6567.2,
+      "audio_ok": true
+    },
+    {
+      "number": 42086,
+      "name": "AR| AL KASS 4HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.0,
+      "audio_rms": 1804.3,
+      "audio_ok": true
+    },
+    {
+      "number": 42149,
+      "name": "AR| AL KASS 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.5,
+      "audio_rms": 4710.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42244,
+      "name": "AR| AL KASS 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.6,
+      "audio_rms": 5221.2,
+      "audio_ok": true
+    },
+    {
+      "number": 42308,
+      "name": "AR| AL KASS 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.0,
+      "audio_rms": 3402.7,
+      "audio_ok": true
+    }
+  ]
+}

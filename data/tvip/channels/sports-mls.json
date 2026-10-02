@@ -1,0 +1,770 @@
+{
+  "category": "SPORTS | MLS",
+  "captured": "2026-09-30T20:50:10-0400",
+  "mode": "full",
+  "reported_total": 45,
+  "channels": [
+    {
+      "number": 12481,
+      "name": "MLS || LEAGUE ATLAS FC",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 12482,
+      "name": "MLS || LEAGUE AMERICA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 12483,
+      "name": "MLS || LEAGUE CHIVAS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 118.6,
+      "audio_rms": 5523.6,
+      "audio_ok": true
+    },
+    {
+      "number": 12484,
+      "name": "MLS || LEAGUE TIGRES",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.1,
+      "audio_rms": 4973.9,
+      "audio_ok": true
+    },
+    {
+      "number": 12485,
+      "name": "MLS || LEAGUE MONTERREY",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.7,
+      "audio_rms": 5661.4,
+      "audio_ok": true
+    },
+    {
+      "number": 12486,
+      "name": "MLS || LEAGUE SANTOS LAGU",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 12487,
+      "name": "MLS || LEAGUE PUEBLA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 12488,
+      "name": "MLS || LEAGUE CRUZ AZUL",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.7,
+      "audio_rms": 5034.9,
+      "audio_ok": true
+    },
+    {
+      "number": 12489,
+      "name": "MLS || LEAGUE TOLUCA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 67.2,
+      "audio_rms": 4892.4,
+      "audio_ok": true
+    },
+    {
+      "number": 12490,
+      "name": "MLS || LEAGUE QUERETARO",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.8,
+      "audio_rms": 1774.1,
+      "audio_ok": true
+    },
+    {
+      "number": 12491,
+      "name": "MLS || LEAGUE CLUB LEON",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 12492,
+      "name": "MLS || LEAGUE JUAREZ",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.9,
+      "audio_rms": 4899.8,
+      "audio_ok": true
+    },
+    {
+      "number": 12493,
+      "name": "MLS || LEAGUE NECAXA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 12494,
+      "name": "MLS || LEAGUE TUUANA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 12495,
+      "name": "MLS || LEAGUE PUMAS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.4,
+      "audio_rms": 4724.8,
+      "audio_ok": true
+    },
+    {
+      "number": 12496,
+      "name": "MLS || LEAGUE MAZATLAN",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 12501,
+      "name": "MLS || ATLANTA UNITED FC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.5,
+      "audio_rms": 4254.5,
+      "audio_ok": true
+    },
+    {
+      "number": 12502,
+      "name": "MLS || AUSTIN EC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.7,
+      "audio_rms": 4831.9,
+      "audio_ok": true
+    },
+    {
+      "number": 12503,
+      "name": "MLS || CHARLOTTE FC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 1143.7,
+      "audio_ok": true
+    },
+    {
+      "number": 12504,
+      "name": "MLS || CHICAGO FIRE FC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.2,
+      "audio_rms": 3029.3,
+      "audio_ok": true
+    },
+    {
+      "number": 12505,
+      "name": "MLS || FC CINCINNAT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.0,
+      "audio_rms": 3140.7,
+      "audio_ok": true
+    },
+    {
+      "number": 12506,
+      "name": "MLS || COLORADO RAPIDS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.7,
+      "audio_rms": 4852.1,
+      "audio_ok": true
+    },
+    {
+      "number": 12507,
+      "name": "MLS || COLUMBUS CREW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.9,
+      "audio_rms": 1148.5,
+      "audio_ok": true
+    },
+    {
+      "number": 12508,
+      "name": "MLS || D.C. UNITED",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.7,
+      "audio_rms": 4449.5,
+      "audio_ok": true
+    },
+    {
+      "number": 12509,
+      "name": "MLS || FC DALLAS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.8,
+      "audio_rms": 5510.5,
+      "audio_ok": true
+    },
+    {
+      "number": 12510,
+      "name": "MLS || HOUSTON DYNAMO FC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.9,
+      "audio_rms": 5139.9,
+      "audio_ok": true
+    },
+    {
+      "number": 12511,
+      "name": "MLS || SPORTING KANSAS CITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.0,
+      "audio_rms": 3748.0,
+      "audio_ok": true
+    },
+    {
+      "number": 12512,
+      "name": "MLS || LA GALAXY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 192.1,
+      "audio_rms": 4649.8,
+      "audio_ok": true
+    },
+    {
+      "number": 12513,
+      "name": "MLS || LOS ANGELES FC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.0,
+      "audio_rms": 5139.0,
+      "audio_ok": true
+    },
+    {
+      "number": 12514,
+      "name": "MLS || INTER MIAMI CF",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.1,
+      "audio_rms": 480.0,
+      "audio_ok": true
+    },
+    {
+      "number": 12515,
+      "name": "MLS || MINNESOTA UNITED FC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.1,
+      "audio_rms": 4977.8,
+      "audio_ok": true
+    },
+    {
+      "number": 12516,
+      "name": "MLS || CE MONTREAL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 28.4,
+      "audio_rms": 2915.6,
+      "audio_ok": true
+    },
+    {
+      "number": 12517,
+      "name": "MLS || NASHVILLE SC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 135.6,
+      "audio_rms": 3150.5,
+      "audio_ok": true
+    },
+    {
+      "number": 12518,
+      "name": "MLS || NEW ENGLAND REVOL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.6,
+      "audio_rms": 5081.9,
+      "audio_ok": true
+    },
+    {
+      "number": 12519,
+      "name": "MLS || NEW YORK RED BULLS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.6,
+      "audio_rms": 4413.5,
+      "audio_ok": true
+    },
+    {
+      "number": 12520,
+      "name": "MLS || NEW YORK CITY FC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.6,
+      "audio_rms": 5557.6,
+      "audio_ok": true
+    },
+    {
+      "number": 12521,
+      "name": "MLS || ORLANDO CITY SC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.6,
+      "audio_rms": 4807.7,
+      "audio_ok": true
+    },
+    {
+      "number": 12522,
+      "name": "MLS || PORTLAND TIMBERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.1,
+      "audio_rms": 3666.8,
+      "audio_ok": true
+    },
+    {
+      "number": 12523,
+      "name": "MLS || PHILADELPHIA UNION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.6,
+      "audio_rms": 3989.1,
+      "audio_ok": true
+    },
+    {
+      "number": 12524,
+      "name": "MLS || REAL SALT LAKE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.5,
+      "audio_rms": 4104.4,
+      "audio_ok": true
+    },
+    {
+      "number": 12525,
+      "name": "MLS || SAN JOSE EARTHQUAKES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.5,
+      "audio_rms": 855.2,
+      "audio_ok": true
+    },
+    {
+      "number": 12526,
+      "name": "MLS || SEATTLE SOUNDERS",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.1,
+      "audio_rms": 5610.1,
+      "audio_ok": true
+    },
+    {
+      "number": 12527,
+      "name": "MLS || ST LOUIS CITY",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 26.5,
+      "audio_rms": 2128.2,
+      "audio_ok": true
+    },
+    {
+      "number": 12528,
+      "name": "MLS || TORONTO FC",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.4,
+      "audio_rms": 526.1,
+      "audio_ok": true
+    },
+    {
+      "number": 12529,
+      "name": "MLS || VANCUOVER WHITECA",
+      "epg": [
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.6,
+      "audio_rms": 5030.4,
+      "audio_ok": true
+    }
+  ]
+}

@@ -8,7 +8,9 @@ from the HDMI capture adapter.
     python3 capture/box.py press ok --shot /tmp/x.jpg --wait 1.5
 
 The tap copies the adapter's own MJPEG frames (no decoding) into a RAM file,
-so a screenshot is just a file copy.
+so a screenshot is just a file copy. When the capture hub (~/stream/capture-hub.sh)
+is running, it owns the device and writes that same file, so shots read its frames
+and no tap is started.
 """
 import argparse
 import json
@@ -22,6 +24,7 @@ import urllib.request
 REMOTE = "http://127.0.0.1:8179"
 LATEST = "/dev/shm/box.jpg"
 PIDFILE = "/dev/shm/box-tap.pid"
+HUB_PIDFILE = "/dev/shm/capture-hub.pid"   # ~/stream/capture-hub.sh; mtime = its last (re)start
 
 
 def press(key, times=1, gap=0.35):
@@ -41,8 +44,35 @@ def tap_running():
         return False
 
 
+def hub_running():
+    """The capture hub owns /dev/video0 and keeps LATEST up to date."""
+    try:
+        os.kill(int(open(HUB_PIDFILE).read()), 0)
+        return True
+    except (OSError, ValueError):
+        return False
+
+
+def hub_wait_frame(not_before, timeout=20.0):
+    """Wait until the hub has written a frame captured at or after `not_before`
+    and at least 1 s after its last (re)start (the adapter's first frames are
+    corrupt). False if the hub goes away meanwhile; raises if it stalls."""
+    deadline = time.time() + timeout
+    while time.time() < deadline:
+        try:
+            started = os.stat(HUB_PIDFILE).st_mtime
+            if os.stat(LATEST).st_mtime >= max(not_before, started + 1.0):
+                return True
+        except FileNotFoundError:
+            pass
+        if not hub_running():
+            return False
+        time.sleep(0.05)
+    raise RuntimeError(f"capture hub is running but wrote no new frame to {LATEST} in {timeout:.0f}s")
+
+
 def tap_start(size="1920x1080"):
-    if tap_running():
+    if tap_running() or hub_running():   # the hub already writes LATEST
         return
     proc = subprocess.Popen(
         ["ffmpeg", "-hide_banner", "-loglevel", "error", "-f", "v4l2", "-input_format", "mjpeg",
@@ -61,17 +91,45 @@ def tap_start(size="1920x1080"):
 def tap_stop():
     if tap_running():
         os.kill(int(open(PIDFILE).read()), 15)
-    for p in (PIDFILE, LATEST):
+    for p in (PIDFILE,) if hub_running() else (PIDFILE, LATEST):   # LATEST is the hub's
         try:
             os.unlink(p)
         except FileNotFoundError:
             pass
 
 
+def screen_running():
+    return subprocess.run(["pgrep", "-x", "ffplay"], capture_output=True).returncode == 0
+
+
+PREVIEW_WANTED = "/dev/shm/preview-wanted"   # set by scripts/capture-preview.sh while it runs
+
+
 def shot(dest, settle=0.0):
+    """Latest box frame as 1920x1080. While the capture hub owns the device, copy
+    its newest raw frame. While the full-screen preview (ffplay) owns it, grab the
+    Pi's display instead and scale it back down, so the preview stays visible and
+    coordinates stay the same. Only when nothing owns the device, start the tap."""
+    time.sleep(settle)
+    if hub_running() and hub_wait_frame(not_before=time.time()):
+        shutil.copyfile(LATEST, dest)
+        return dest
+    if os.path.exists(PREVIEW_WANTED):
+        # preview should be up (its wrapper restarts ffplay if it crashes):
+        # wait for it rather than grabbing the device and blocking the restart
+        for _ in range(40):
+            if screen_running():
+                break
+            time.sleep(0.5)
+    if screen_running():
+        from PIL import Image
+        env = dict(os.environ, XDG_RUNTIME_DIR=f"/run/user/{os.getuid()}", WAYLAND_DISPLAY="wayland-0")
+        # the preview fills the 2560x1440 screen; grim scales straight to 1920x1080
+        subprocess.run(["grim", "-s", "0.75", "-t", "ppm", "/dev/shm/screen.ppm"], env=env, check=True)
+        Image.open("/dev/shm/screen.ppm").save(dest, quality=95)
+        return dest
     if not tap_running():
         tap_start()
-    time.sleep(settle)
     shutil.copyfile(LATEST, dest)
     return dest
 

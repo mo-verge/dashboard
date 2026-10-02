@@ -1,0 +1,995 @@
+{
+  "category": "SPANISH | PARAGUAY",
+  "captured": "2026-09-30T19:37:19-0400",
+  "mode": "full",
+  "reported_total": 33,
+  "channels": [
+    {
+      "number": 37501,
+      "name": "PY | TIGO SPORTS HD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Cerro Porteño vs. Rubio Nu 8vos de Final"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Triplete"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Test Drive"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Mundo Biker"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Tigo Sports"
+        }
+      ],
+      "video_ok": true,
+      "luma": 149.9,
+      "audio_rms": 688.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37502,
+      "name": "PY | TIGO SPORTS UHD",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Cerro Porteno vs. Rubio Nu 8vos de Final"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Triplete"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Test Drive"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Mundo Biker"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Tigo Sports"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.7,
+      "audio_rms": 668.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37503,
+      "name": "PY | CON (MOVIL)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.1,
+      "audio_rms": 2665.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37504,
+      "name": "PY | CON SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.8,
+      "audio_rms": 3368.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37505,
+      "name": "PY | CON HD (H265)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.1,
+      "audio_rms": 3033.0,
+      "audio_ok": true
+    },
+    {
+      "number": 37507,
+      "name": "PY | FARRA PLAY",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.0,
+      "audio_rms": 7641.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37508,
+      "name": "PY | GEN TV HD (H265)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.7,
+      "audio_rms": 1407.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37509,
+      "name": "PY | LA TELE (MOVIL)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 64.8,
+      "audio_rms": 4194.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37510,
+      "name": "PY | LA TELE HD (H265)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.7,
+      "audio_rms": 600.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37511,
+      "name": "PY | NOTICIAS PY SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 101.3,
+      "audio_rms": 1956.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37512,
+      "name": "PY | NOTICIAS PARAGUAY HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 39.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37513,
+      "name": "PY | PARAGUAY TV (MOVIL)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 4691,
+      "name": "1. PY | PARAGUAY TV SD",
+      "number_uncertain": true,
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "! nformat"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37515,
+      "name": "PY | PARAGUAY TV HD (H265)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37516,
+      "name": "PY | PARAVISION (MOVIL)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Legado de amor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Paravisión noticias"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Cierre de transmisión"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Blue Dragon"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Los caballeros del Zodiaco"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.0,
+      "audio_rms": 2136.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37517,
+      "name": "PY | PARAVISION HD (H265)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Legado de amor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Paravisión noticias"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Cierre de transmisión"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Blue Dragon"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Los caballeros del Zodíaco"
+        }
+      ],
+      "video_ok": true,
+      "luma": 77.6,
+      "audio_rms": 267.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37518,
+      "name": "PY |RCCHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.1,
+      "audio_rms": 3711.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37519,
+      "name": "PY |RPC HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.7,
+      "audio_rms": 2103.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37520,
+      "name": "PY | RPC HD (H265)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 30.3,
+      "audio_rms": 2157.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37521,
+      "name": "PY | SNT (MOVIL)",
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "24 horas"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Tres hermanas"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Nazaré"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Walking Dead"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Fear the Walking Dead"
+        }
+      ],
+      "video_ok": true,
+      "luma": 111.9,
+      "audio_rms": 2559.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37522,
+      "name": "PY | SNT SD",
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "24 horas"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Tres hermanas"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Nazaré"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Walking Dead"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Fear the Walking Dead"
+        }
+      ],
+      "video_ok": true,
+      "luma": 156.2,
+      "audio_rms": 3547.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37523,
+      "name": "PY | SNT HD (H265)",
+      "epg": [
+        {
+          "time": "5:45 PM",
+          "title": "24 horas"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Tres hermanas"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Nazaré"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "The Walking Dead"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Fear the Walking Dead"
+        }
+      ],
+      "video_ok": true,
+      "luma": 165.0,
+      "audio_rms": 3324.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37524,
+      "name": "PY | SUR TV HD (H265)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 114.8,
+      "audio_rms": 6975.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37525,
+      "name": "PY | TELEFUTURO (MOVIL)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Telediario"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Vale todo"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Baila conmigo Paraguay"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Bajo presion"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Fin de transmisión"
+        }
+      ],
+      "video_ok": true,
+      "luma": 100.8,
+      "audio_rms": 2125.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37526,
+      "name": "PY | TELEFUTURO SD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Telediario"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Vale todo"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Baila conmigo Paraguay"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Bajo presion"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Fin de transmisión"
+        }
+      ],
+      "video_ok": true,
+      "luma": 99.1,
+      "audio_rms": 2230.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37527,
+      "name": "PY | TELEFUTURO HD (H265)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Telediario"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Vale todo"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Baila conmigo Paraguay"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Bajo presión"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Fin de transmisión"
+        }
+      ],
+      "video_ok": true,
+      "luma": 142.6,
+      "audio_rms": 1075.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37528,
+      "name": "PY | UNICANAL HD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "LT noticias"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "15 mas"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El péndulo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El repasador"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Radio siete"
+        }
+      ],
+      "video_ok": true,
+      "luma": 146.7,
+      "audio_rms": 1924.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37529,
+      "name": "PY | UNICANAL HD (H265)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "LT noticias"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "15 mas"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El péndulo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El repasador"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Radio siete"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.1,
+      "audio_rms": 6766.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37530,
+      "name": "PY | UNICANAL SD",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "LT noticias"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "15 más"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El péndulo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "El repasador"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Radio siete"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.9,
+      "audio_rms": 6894.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37531,
+      "name": "PY | ESNETV SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 117.1,
+      "audio_rms": 103.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37532,
+      "name": "PY | PARAVISION SD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Legado de amor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Paravisión noticias"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Cierre de transmisión"
+        },
+        {
+          "time": "5:00 AM",
+          "title": "Blue Dragon"
+        },
+        {
+          "time": "5:30 AM",
+          "title": "Los caballeros del Zodíaco"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.3,
+      "audio_rms": 1292.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37535,
+      "name": "PY | SUR TV (MOVIL)",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.8,
+      "audio_rms": 53.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37536,
+      "name": "PY | ABC TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 43.1,
+      "audio_rms": 1999.4,
+      "audio_ok": true
+    }
+  ]
+}

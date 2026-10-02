@@ -1,0 +1,35 @@
+{
+  "category": "ARABIC | BEIN SPORTS PREMI",
+  "captured": "2026-09-30T21:05:13-0400",
+  "mode": "full",
+  "reported_total": 3,
+  "channels": [
+    {
+      "number": 42547,
+      "name": "BEIN 3 PREMIUM HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 9033.4,
+      "audio_ok": true
+    },
+    {
+      "number": 42550,
+      "name": "BEIN 2 PREMIUM HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 8630.2,
+      "audio_ok": true
+    },
+    {
+      "number": 42554,
+      "name": "BEIN 1 PREMIUM HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

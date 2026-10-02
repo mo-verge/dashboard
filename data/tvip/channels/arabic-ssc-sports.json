@@ -1,0 +1,170 @@
+{
+  "category": "ARABIC | SSC SPORTS",
+  "captured": "2026-09-30T21:04:30-0400",
+  "mode": "full",
+  "reported_total": 18,
+  "channels": [
+    {
+      "number": 42155,
+      "name": "SSC 5 SD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42156,
+      "name": "SSC 5 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42159,
+      "name": "SSC 4 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42160,
+      "name": "SSC 3 EXTRA SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.5,
+      "audio_rms": 502.4,
+      "audio_ok": true
+    },
+    {
+      "number": 42162,
+      "name": "SSC 3 EXTRA HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.3,
+      "audio_rms": 877.5,
+      "audio_ok": true
+    },
+    {
+      "number": 42163,
+      "name": "SSC 3 EXTRA 4K",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.3,
+      "audio_rms": 888.3,
+      "audio_ok": true
+    },
+    {
+      "number": 42167,
+      "name": "SSC 3 SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.0,
+      "audio_rms": 873.3,
+      "audio_ok": true
+    },
+    {
+      "number": 42168,
+      "name": "SSC 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.1,
+      "audio_rms": 793.7,
+      "audio_ok": true
+    },
+    {
+      "number": 42170,
+      "name": "SSC 2 EXTRA SD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42171,
+      "name": "SSC 2 EXTRA HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42175,
+      "name": "SSC 2 SD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.6,
+      "audio_rms": 828.7,
+      "audio_ok": true
+    },
+    {
+      "number": 42177,
+      "name": "SSC 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.7,
+      "audio_rms": 1196.2,
+      "audio_ok": true
+    },
+    {
+      "number": 42178,
+      "name": "SSC 1 EXTRA SD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42185,
+      "name": "SSC 1 EXTRA HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42188,
+      "name": "SSCL SD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42189,
+      "name": "SSC 1 HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42192,
+      "name": "SSC NEWS HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42193,
+      "name": "SSC NEWS 4K",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

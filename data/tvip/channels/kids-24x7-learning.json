@@ -1,0 +1,134 @@
+{
+  "category": "KIDS | 24X7 LEARNING",
+  "captured": "2026-09-30T22:44:45-0400",
+  "mode": "full",
+  "reported_total": 14,
+  "channels": [
+    {
+      "number": 62500,
+      "name": "SMART | KIDS LEARNING 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.6,
+      "audio_rms": 4140.4,
+      "audio_ok": true
+    },
+    {
+      "number": 62501,
+      "name": "SMART | KIDS LEARNING 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 210.8,
+      "audio_rms": 2151.1,
+      "audio_ok": true
+    },
+    {
+      "number": 62502,
+      "name": "SMART | KIDS LEARNING 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.9,
+      "audio_rms": 160.6,
+      "audio_ok": true
+    },
+    {
+      "number": 62503,
+      "name": "SMART | KIDS LEARNING 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 184.3,
+      "audio_rms": 3591.2,
+      "audio_ok": true
+    },
+    {
+      "number": 62504,
+      "name": "SMART | KIDS LEARNING 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 126.4,
+      "audio_rms": 4506.6,
+      "audio_ok": true
+    },
+    {
+      "number": 62505,
+      "name": "SMART | KIDS LEARNING 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 139.4,
+      "audio_rms": 3201.3,
+      "audio_ok": true
+    },
+    {
+      "number": 62506,
+      "name": "SMART | KIDS LEARNING 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.1,
+      "audio_rms": 4733.1,
+      "audio_ok": true
+    },
+    {
+      "number": 62507,
+      "name": "SMART | KIDS LEARNING 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.4,
+      "audio_rms": 2586.2,
+      "audio_ok": true
+    },
+    {
+      "number": 62508,
+      "name": "SMART | KIDS LEARNING 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.0,
+      "audio_rms": 5045.2,
+      "audio_ok": true
+    },
+    {
+      "number": 62509,
+      "name": "SMART | KIDS LEARNING 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 162.2,
+      "audio_rms": 4765.0,
+      "audio_ok": true
+    },
+    {
+      "number": 62510,
+      "name": "SMART | KIDS LEARNING 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 132.7,
+      "audio_rms": 5071.5,
+      "audio_ok": true
+    },
+    {
+      "number": 62511,
+      "name": "SMART | KIDS LEARNING 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.8,
+      "audio_rms": 2199.4,
+      "audio_ok": true
+    },
+    {
+      "number": 62512,
+      "name": "SMART | KIDS LEARNING 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 153.4,
+      "audio_rms": 3698.7,
+      "audio_ok": true
+    },
+    {
+      "number": 62513,
+      "name": "SMART | KIDS LEARNING 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 167.9,
+      "audio_rms": 1461.9,
+      "audio_ok": true
+    }
+  ]
+}

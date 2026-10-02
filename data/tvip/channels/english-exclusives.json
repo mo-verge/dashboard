@@ -1,0 +1,1304 @@
+{
+  "category": "ENGLISH | EXCLUSIVES",
+  "captured": "2026-10-01T02:29:24-0400",
+  "mode": "full",
+  "reported_total": 72,
+  "channels": [
+    {
+      "number": 50199,
+      "name": "XMAS CHRISTMAS PLUS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.8,
+      "audio_rms": 30.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50200,
+      "name": "NON STOP 90S MOVIES",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.1,
+      "audio_rms": 201.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50201,
+      "name": "OPERATION REPO",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.3,
+      "audio_rms": 1414.3,
+      "audio_ok": true
+    },
+    {
+      "number": 50202,
+      "name": "US 365 BLK",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.8,
+      "audio_rms": 338.7,
+      "audio_ok": true
+    },
+    {
+      "number": 50203,
+      "name": "REAL CRIME",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 152.3,
+      "audio_rms": 1602.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50204,
+      "name": "US 50 CENT ACTION",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 19.7,
+      "audio_rms": 328.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50205,
+      "name": "US AMERICAS TEST KITCHEN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 96.5,
+      "audio_rms": 1573.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50206,
+      "name": "AP LN 1\\",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 126.9,
+      "audio_rms": 2310.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50207,
+      "name": "REAL WILD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.4,
+      "audio_rms": 1981.2,
+      "audio_ok": true
+    },
+    {
+      "number": 50208,
+      "name": "SHG LIVING",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 35.1,
+      "audio_rms": 1988.4,
+      "audio_ok": true
+    },
+    {
+      "number": 50209,
+      "name": "SURFER",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.4,
+      "audio_rms": 751.8,
+      "audio_ok": true
+    },
+    {
+      "number": 50210,
+      "name": "SCREAM FACTORY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.6,
+      "audio_rms": 2030.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50211,
+      "name": "BIKE MAG",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.4,
+      "audio_rms": 1985.3,
+      "audio_ok": true
+    },
+    {
+      "number": 50212,
+      "name": "US AMERICAS HEROES CHAN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 1404.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50213,
+      "name": "DOG WHISPERER",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.4,
+      "audio_rms": 714.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50214,
+      "name": "123 GO",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50215,
+      "name": "US AUTHENTIC HISTORY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.4,
+      "audio_rms": 2532.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50216,
+      "name": "5 MINUTE CRAFTS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50217,
+      "name": "HUNGRY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 145.1,
+      "audio_rms": 1415.7,
+      "audio_ok": true
+    },
+    {
+      "number": 50218,
+      "name": "9 STORY PRESENT GARFIELD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50219,
+      "name": "ENTREPRENEUR IV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50221,
+      "name": "ANGER MANAGEMENT",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.8,
+      "audio_rms": 1106.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50222,
+      "name": "DON'T TELL THE BRIDE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 122.9,
+      "audio_rms": 1113.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50223,
+      "name": "MEATEATER",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.2,
+      "audio_rms": 2161.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50224,
+      "name": "LOVE QUEST: POWERED BY B",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50225,
+      "name": "JUST FOR LAUGHS TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 165.6,
+      "audio_rms": 1378.2,
+      "audio_ok": true
+    },
+    {
+      "number": 50226,
+      "name": "ANTIQUES ROAD TRIP",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.3,
+      "audio_rms": 729.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50227,
+      "name": "GREAT BRITISH MENU",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.1,
+      "audio_rms": 1593.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50228,
+      "name": "WONDER",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 181.8,
+      "audio_rms": 1859.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50229,
+      "name": "CELEBRITY NAME GAME",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.2,
+      "audio_rms": 2294.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50230,
+      "name": "ARE WE THERE YET",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 70.2,
+      "audio_rms": 2063.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50231,
+      "name": "AUTO AUCTION PARADISE BY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 28.4,
+      "audio_rms": 1537.4,
+      "audio_ok": true
+    },
+    {
+      "number": 50232,
+      "name": "BEYOND PARANORMAL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 60.8,
+      "audio_rms": 1052.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50233,
+      "name": "BRIGHT SIDE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50234,
+      "name": "CAUGHT IN PROVIDENCE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 147.9,
+      "audio_rms": 2694.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50235,
+      "name": "CRIME AND PUNISHMENT",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50236,
+      "name": "CRIME FILES",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50237,
+      "name": "DEAL OR NO DEAL POWERED",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.5,
+      "audio_rms": 1382.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50238,
+      "name": "EBONY TV BY LIONSGATE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 28.9,
+      "audio_rms": 1745.7,
+      "audio_ok": true
+    },
+    {
+      "number": 50239,
+      "name": "FEAR FACTOR POWERED BY B",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 53.2,
+      "audio_rms": 2145.4,
+      "audio_ok": true
+    },
+    {
+      "number": 50240,
+      "name": "GHOST HUNTERS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 42.4,
+      "audio_rms": 1544.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50241,
+      "name": "MYSTERY ALLEY",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 50242,
+      "name": "MIDSOMER MURDERS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 55.5,
+      "audio_rms": 999.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50243,
+      "name": "MOVIESPHERE BY LIONSGATE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.4,
+      "audio_rms": 1049.4,
+      "audio_ok": true
+    },
+    {
+      "number": 50244,
+      "name": "MYTHICAL 24/7",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.3,
+      "audio_rms": 1859.8,
+      "audio_ok": true
+    },
+    {
+      "number": 50245,
+      "name": "THE BIGGEST LOSER POWERE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.4,
+      "audio_rms": 1841.3,
+      "audio_ok": true
+    },
+    {
+      "number": 50246,
+      "name": "WANTED DEAD OR ALIVE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 19.2,
+      "audio_rms": 413.3,
+      "audio_ok": true
+    },
+    {
+      "number": 50247,
+      "name": "WORLD'S MOST EVIL KILLERS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.6,
+      "audio_rms": 1308.2,
+      "audio_ok": true
+    },
+    {
+      "number": 50248,
+      "name": "WORLD'S WILDEST POLICE VI",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.7,
+      "audio_rms": 1277.7,
+      "audio_ok": true
+    },
+    {
+      "number": 50249,
+      "name": "THE FBI FILES",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 146.7,
+      "audio_rms": 1208.2,
+      "audio_ok": true
+    },
+    {
+      "number": 50250,
+      "name": "HORROR MACHINE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 113.3,
+      "audio_rms": 1645.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50251,
+      "name": "HERSPHERE BY LIONSGATE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.2,
+      "audio_rms": 595.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50252,
+      "name": "WOMEN BEHIND BARS",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 81.2,
+      "audio_rms": 1502.6,
+      "audio_ok": true
+    },
+    {
+      "number": 50253,
+      "name": "FILMRISE ANIME",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 180.8,
+      "audio_rms": 860.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50254,
+      "name": "FILMRISE MYSTERIES",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 26.6,
+      "audio_rms": 1468.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50256,
+      "name": "OUTERSPHERE BY LIONSGATE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 36.3,
+      "audio_rms": 297.8,
+      "audio_ok": true
+    },
+    {
+      "number": 50257,
+      "name": "FILMRISE WESTERN",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 153.6,
+      "audio_rms": 1667.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50258,
+      "name": "FILMRISE TRUE CRIME",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.6,
+      "audio_rms": 1228.2,
+      "audio_ok": true
+    },
+    {
+      "number": 50259,
+      "name": "GHOSTS ARE REAL",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 18.0,
+      "audio_rms": 1940.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50260,
+      "name": "MRISE SCI-F",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.2,
+      "audio_rms": 966.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50262,
+      "name": "HORROR BY ALTER",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.1,
+      "audio_rms": 3130.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50263,
+      "name": "ALIEN NATION BY DUST",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.9,
+      "audio_rms": 1729.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50265,
+      "name": "COLD CASE FILES",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 89.1,
+      "audio_rms": 1457.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50269,
+      "name": "MOVIESPHERE GOLD",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 44.9,
+      "audio_rms": 50.3,
+      "audio_ok": true
+    },
+    {
+      "number": 50270,
+      "name": "UNXPLAINED ZONE",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.6,
+      "audio_rms": 2288.1,
+      "audio_ok": true
+    },
+    {
+      "number": 50271,
+      "name": "BACHELOR NATION",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 151.2,
+      "audio_rms": 1770.0,
+      "audio_ok": true
+    },
+    {
+      "number": 50272,
+      "name": "THE OSBOURNES",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 90.3,
+      "audio_rms": 1715.8,
+      "audio_ok": true
+    },
+    {
+      "number": 50273,
+      "name": "FILMRISE BLACK TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 123.4,
+      "audio_rms": 1213.9,
+      "audio_ok": true
+    },
+    {
+      "number": 50274,
+      "name": "FILMRISE CLASSIC TV",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.8,
+      "audio_rms": 2344.3,
+      "audio_ok": true
+    },
+    {
+      "number": 50277,
+      "name": "PAM GRIER'S SOUL FLIX",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 47.5,
+      "audio_rms": 1695.5,
+      "audio_ok": true
+    },
+    {
+      "number": 50278,
+      "name": "FILMRISE ACTION",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 83.6,
+      "audio_rms": 1173.4,
+      "audio_ok": true
+    },
+    {
+      "number": 50280,
+      "name": "MILLION DOLLAR LISTING VA",
+      "epg": [
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 142.1,
+      "audio_rms": 2948.4,
+      "audio_ok": true
+    }
+  ]
+}

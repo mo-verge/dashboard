@@ -1,0 +1,505 @@
+{
+  "category": "SPORTS | WNBA",
+  "captured": "2026-10-01T00:26:51-0400",
+  "mode": "full",
+  "reported_total": 25,
+  "channels": [
+    {
+      "number": 10025,
+      "name": "WNBA | GOLDEN STATE VALK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 135.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10026,
+      "name": "WNBA | PORTLAND FIRE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 141.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10027,
+      "name": "WNBA | TORONTO TEMPO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.7,
+      "audio_rms": 2145.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10028,
+      "name": "WNBA | CHICAGO SKY",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.8,
+      "audio_rms": 7462.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10029,
+      "name": "WNBA | INDIANA FEVER",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 109.6,
+      "audio_rms": 1350.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10030,
+      "name": "WNBA | WASHINGTON MYSTICS",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.5,
+      "audio_rms": 1908.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10031,
+      "name": "WNBA | SEATLE STORM",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 108.1,
+      "audio_rms": 1616.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10032,
+      "name": "WNBA | PHOENIX MERCURY",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.0,
+      "audio_rms": 2328.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10033,
+      "name": "WNBA | NEW YORK LIBERTY",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 142.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10034,
+      "name": "WNBA | MINNESOTA LYNX",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 139.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10035,
+      "name": "WNBA | LAS VEGAS ACES",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.5,
+      "audio_rms": 965.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10036,
+      "name": "WNBA | LOS ANGELES SPARKS",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 137.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10037,
+      "name": "WNBA | DALAS WINGS",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10038,
+      "name": "WNBA | CONNECTICUT SUN",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 65.0,
+      "audio_rms": 1984.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10039,
+      "name": "WNBA | ATLANTA DREAM",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 68.2,
+      "audio_rms": 1902.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10549,
+      "name": "WNBA 01",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10550,
+      "name": "NBA 02",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10551,
+      "name": "WNBA 03",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10552,
+      "name": "WNBA 04",
+      "epg": [
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 135.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10553,
+      "name": "WNBA 05",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10554,
+      "name": "WNBA 06",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10555,
+      "name": "WNBA 07",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10556,
+      "name": "WNBA 08",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10557,
+      "name": "WNBA 09",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10558,
+      "name": "WNBA 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

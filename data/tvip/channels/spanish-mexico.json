@@ -1,0 +1,1943 @@
+{
+  "category": "SPANISH | MEXICO",
+  "captured": "2026-09-30T19:07:08-0400",
+  "mode": "full",
+  "reported_total": 103,
+  "channels": [
+    {
+      "number": 3690,
+      "name": "X | La Casa De Los famosos",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.1,
+      "audio_rms": 192.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3698,
+      "name": "VIDEOROLA 4K",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 32.6,
+      "audio_rms": 2068.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3741,
+      "name": "MX | Adrenalina Sport Network",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3742,
+      "name": "MX | Adrenalina Sport Networ",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3743,
+      "name": "MX | Afizzionados",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.5,
+      "audio_rms": 808.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3744,
+      "name": "MX | AyM Sports HD+",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "Liga Mexicana de Beisbol"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Independiente del Valle vs. Liga de Quito"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Baloncesto Mexicano LNBP"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Tras las cuerdas"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Cruz Azul vs. Leones FC"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3745,
+      "name": "MX | Espn 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.3,
+      "audio_rms": 1545.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3746,
+      "name": "MX | Espn 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.8,
+      "audio_rms": 1920.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3747,
+      "name": "MX | Espn 1 HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.9,
+      "audio_rms": 1358.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3748,
+      "name": "MX | Espn 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.6,
+      "audio_rms": 966.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3749,
+      "name": "MX | Espn 2 HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.6,
+      "audio_rms": 1245.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3750,
+      "name": "MX | Espn 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.8,
+      "audio_rms": 906.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3751,
+      "name": "MX | Espn 3 HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.0,
+      "audio_rms": 1349.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3752,
+      "name": "40Y20 ©",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.7,
+      "audio_rms": 1014.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3753,
+      "name": "CINE DE ORO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.0,
+      "audio_rms": 929.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3754,
+      "name": "MX | Fox Sports 1 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.1,
+      "audio_rms": 1199.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3755,
+      "name": "MX | Fox Sports 1 HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.5,
+      "audio_rms": 1899.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3756,
+      "name": "MX | Fox Sports 2 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.7,
+      "audio_rms": 580.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3757,
+      "name": "MX | Fox Sports 2 HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.6,
+      "audio_rms": 1113.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3758,
+      "name": "MX | Fox Sports 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.5,
+      "audio_rms": 3192.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3759,
+      "name": "MX | Fox Sports 3 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.0,
+      "audio_rms": 1367.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3760,
+      "name": "MX | Golf Channel Latinoamer",
+      "epg": [
+        {
+          "time": "4:30 PM",
+          "title": "Final Day"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "The Smylie Show"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Vanity Index Podcast"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Golf Central"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Round 1"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.1,
+      "audio_rms": 1871.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3761,
+      "name": "MX | TUDN HD (MEX)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Línea de cuatro"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Atlas vs. Pumas UNAM"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Hazaña: El deporte vive"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Monterrey vs. Tigres UANL"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Cruz Azul vs. Toluca"
+        }
+      ],
+      "video_ok": true,
+      "luma": 112.0,
+      "audio_rms": 1237.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3762,
+      "name": "MX | TUDN HD(USA)",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Tricolor al dia"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "UEFA Europa League en 60"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Contacto Deportivo"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "CONCACAF Nations League en 60"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Contacto Deportivo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.6,
+      "audio_rms": 1262.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3763,
+      "name": "MX | TUDN X1",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.6,
+      "audio_rms": 1436.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3764,
+      "name": "MX | TUDN X10",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.2,
+      "audio_rms": 2721.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3765,
+      "name": "MX | TUDN X11",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.5,
+      "audio_rms": 2074.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3766,
+      "name": "MX | TUDN X2",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.1,
+      "audio_rms": 3326.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3767,
+      "name": "MX | TUDN X3",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.0,
+      "audio_rms": 1787.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3768,
+      "name": "MX | TUDN X4",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 84.0,
+      "audio_rms": 2998.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3769,
+      "name": "MX | TUDN X5",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 120.7,
+      "audio_rms": 863.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3770,
+      "name": "MX | TUDN X6",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 80.9,
+      "audio_rms": 6081.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3771,
+      "name": "MX | TUDN X7",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 133.8,
+      "audio_rms": 1735.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3772,
+      "name": "MX | TUDN X8",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.6,
+      "audio_rms": 3072.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3773,
+      "name": "MX | TUDN X9",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 58.2,
+      "audio_rms": 5191.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3774,
+      "name": "MX | TVC Deportes SD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "Copa Mundial de Béisbol Sub-15 WBSC 2026"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Futbol: Previa"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Roma vs. Barcelona"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Olympique de Lyon vs. Chelsea"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Fútbol: Post"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.3,
+      "audio_rms": 1066.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3775,
+      "name": "AL RITMO DEL JARIPEO",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.3,
+      "audio_rms": 1083.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3776,
+      "name": "MX | ADN 40 (MOVIL)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 144.4,
+      "audio_rms": 1632.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3777,
+      "name": "MX | ADN 40 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 138.7,
+      "audio_rms": 2297.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3778,
+      "name": "MX | ADN 40 HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 138.3,
+      "audio_rms": 1666.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3779,
+      "name": "MX | Az Cinema",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.4,
+      "audio_rms": 1042.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3780,
+      "name": "MX | Az Cinema HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.5,
+      "audio_rms": 1371.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3781,
+      "name": "MX | Az Clic (MOVIL)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.9,
+      "audio_rms": 167.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3782,
+      "name": "MX | Az Clic HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.7,
+      "audio_rms": 1473.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3783,
+      "name": "MX | Az Corazon",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.4,
+      "audio_rms": 1872.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3784,
+      "name": "MX | Az Corazon HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.8,
+      "audio_rms": 792.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3785,
+      "name": "MX | Az Mundo",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Acércate a Rocío"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Ventaneando"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Rutas de la vida"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Mujeres rompiendo el silencio"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Lo que la gente cuenta"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.4,
+      "audio_rms": 1397.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3786,
+      "name": "MX | Az Mundo HD+",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Acércate a Rocío"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Ventaneando"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Rutas de la vida"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Mujeres rompiendo el silencio"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Lo que la gente cuenta"
+        }
+      ],
+      "video_ok": true,
+      "luma": 128.6,
+      "audio_rms": 1529.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3787,
+      "name": "MX | Azteca 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 141.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3788,
+      "name": "MX | Azteca 7 HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 141.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3789,
+      "name": "MX | Azteca Uno",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Venga la alegría"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Venga la alegría"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Ventaneando"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hechos meridiano"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Al Extremo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 170.8,
+      "audio_rms": 1192.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3790,
+      "name": "MX | Azteca Uno HD+",
+      "epg": [
+        {
+          "time": "6:00 PM",
+          "title": "Venga la alegria"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Venga la alegría"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Ventaneando"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hechos meridiano"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Al Extremo"
+        }
+      ],
+      "video_ok": true,
+      "luma": 93.5,
+      "audio_rms": 1699.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3791,
+      "name": "MX | Bit Me",
+      "epg": [
+        {
+          "time": "6:10 PM",
+          "title": "Mazinger Z"
+        },
+        {
+          "time": "7:05 PM",
+          "title": "Caballeros del Zodiaco Omega"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El chapulin colorado animado"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "El chavo animado"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Megalobox"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.3,
+      "audio_rms": 1301.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3792,
+      "name": "MX | Bit Me FHD",
+      "epg": [
+        {
+          "time": "6:10 PM",
+          "title": "Mazinger Z"
+        },
+        {
+          "time": "7:05 PM",
+          "title": "Caballeros del Zodiaco Omega"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "El chapulin colorado animado"
+        },
+        {
+          "time": "8:45 PM",
+          "title": "El chavo animado"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Megalobox"
+        }
+      ],
+      "video_ok": true,
+      "luma": 161.5,
+      "audio_rms": 1476.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3793,
+      "name": "MX | Canal 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 139.6,
+      "audio_rms": 852.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3794,
+      "name": "MX | Canal 5 HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 168.7,
+      "audio_rms": 1198.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3795,
+      "name": "MX | Canal 8 HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 78.2,
+      "audio_rms": 3507.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3796,
+      "name": "MX | Distrito Comedia",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.6,
+      "audio_rms": 1444.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3797,
+      "name": "MX | Distrito Comedia HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.8,
+      "audio_rms": 705.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3798,
+      "name": "MX | Foro TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.4,
+      "audio_rms": 1298.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3799,
+      "name": "MX | Foro TV HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 168.0,
+      "audio_rms": 1372.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3801,
+      "name": "MX | Garage TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.2,
+      "audio_rms": 1748.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3802,
+      "name": "MX | Garage TV HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.9,
+      "audio_rms": 2601.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3803,
+      "name": "Mx | Glitz",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.4,
+      "audio_rms": 222.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3804,
+      "name": "MX | Hola TV HD+",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 165.0,
+      "audio_rms": 4289.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3805,
+      "name": "MX | Imagen TV",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Legado de amor"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Jesús"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Destino roto"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Por un amor"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Imagen noticias"
+        }
+      ],
+      "video_ok": true,
+      "luma": 143.9,
+      "audio_rms": 1536.9,
+      "audio_ok": true
+    },
+    {
+      "number": 3806,
+      "name": "MX | Mas Chic HD+",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3807,
+      "name": "MX | Mexiquense",
+      "epg": [],
+      "video_ok": true,
+      "luma": 140.4,
+      "audio_rms": 1371.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3808,
+      "name": "MX | Milenio TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.3,
+      "audio_rms": 1378.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3809,
+      "name": "MX | Milenio TV HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.7,
+      "audio_rms": 2170.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3810,
+      "name": "MX | Multimedios HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.0,
+      "audio_rms": 860.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3811,
+      "name": "MX | Multimedios Plus HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.0,
+      "audio_rms": 1314.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3812,
+      "name": "MX | Teleformula",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No son Horas Chumel Torres"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Marco Antonio Regil Formula"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Todo para la Mujer con Maxine"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "López Dóriga en Fórmula"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Hoy es Risco"
+        }
+      ],
+      "video_ok": true,
+      "luma": 91.7,
+      "audio_rms": 708.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3813,
+      "name": "MX | Televisa Puebla",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3814,
+      "name": "MX | Televisa Puebla (MOVIL)",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3815,
+      "name": "MX | Televisa Puebla HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 141.1,
+      "audio_rms": 1972.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3816,
+      "name": "MX | TL Novelas",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.4,
+      "audio_rms": 1413.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3817,
+      "name": "MX | TL Novelas FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.8,
+      "audio_rms": 1133.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3818,
+      "name": "MX | TV Mas",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.2,
+      "audio_rms": 1421.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3819,
+      "name": "MX | Unicable",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.4,
+      "audio_rms": 1125.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3820,
+      "name": "MX | Unicable HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.5,
+      "audio_rms": 1275.8,
+      "audio_ok": true
+    },
+    {
+      "number": 3821,
+      "name": "MX | Wobi TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.9,
+      "audio_rms": 1549.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3822,
+      "name": "MX | Wobi TV HD+",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.8,
+      "audio_rms": 1869.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3823,
+      "name": "MX | LAS ESTRELLAS",
+      "epg": [
+        {
+          "time": "6:30 PM",
+          "title": "Rubí"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "El renacer de Luna"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "La rosa de Guadalupe"
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Sabor a ti, entre historias y secretos"
+        },
+        {
+          "time": "11:30 PM",
+          "title": "Guardián de mi vida"
+        }
+      ],
+      "video_ok": true,
+      "luma": 74.7,
+      "audio_rms": 821.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3824,
+      "name": "EL NUEVE HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.6,
+      "audio_rms": 702.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3825,
+      "name": "FOROTV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "Las noticias"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Las noticias"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Las noticias"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "En 1 hora"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Hora 21"
+        }
+      ],
+      "video_ok": true,
+      "luma": 115.6,
+      "audio_rms": 680.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3826,
+      "name": "MX | CLARO SPORTS HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 88.8,
+      "audio_rms": 2163.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3827,
+      "name": "MX | FOX SPORTS PREMIUM",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 116.7,
+      "audio_rms": 1409.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3828,
+      "name": "MX | SKY SPORTS HD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3829,
+      "name": "MEA TV",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 87.8,
+      "audio_rms": 918.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3830,
+      "name": "AMOR REAL",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 37.5,
+      "audio_rms": 1403.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3951,
+      "name": "ESTRELLA NEWS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.2,
+      "audio_rms": 1329.5,
+      "audio_ok": true
+    },
+    {
+      "number": 3952,
+      "name": "NOSOTROS LOS GUAPOS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 76.7,
+      "audio_rms": 1588.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3961,
+      "name": "LA ROSE DE GUADULAPE",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 72.6,
+      "audio_rms": 1122.6,
+      "audio_ok": true
+    },
+    {
+      "number": 3969,
+      "name": "VIX PREMIUM DEPORTES 2",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 32.8,
+      "audio_rms": 1578.0,
+      "audio_ok": true
+    },
+    {
+      "number": 3970,
+      "name": "VIX PREMIUM DEPORTES 6",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.3,
+      "audio_rms": 1909.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3971,
+      "name": "VIX PREMIUM DEPORTES 8",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 61.4,
+      "audio_rms": 1989.4,
+      "audio_ok": true
+    },
+    {
+      "number": 3972,
+      "name": "VIX PREMIUM DEPORTES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.8,
+      "audio_rms": 1614.7,
+      "audio_ok": true
+    },
+    {
+      "number": 3974,
+      "name": "VIX PREMIUM DEPORTES 15",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 63.6,
+      "audio_rms": 981.1,
+      "audio_ok": true
+    },
+    {
+      "number": 3975,
+      "name": "VIX PREMIUM DEPORTES 18",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 167.7,
+      "audio_rms": 1024.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3976,
+      "name": "VIX PREMIUM DEPORTES 20",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 22.7,
+      "audio_rms": 1256.3,
+      "audio_ok": true
+    },
+    {
+      "number": 3977,
+      "name": "VIX PREMIUM DEPORTES 21",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.6,
+      "audio_rms": 1810.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3978,
+      "name": "X PREMIUM DEPORTES 23",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 29.1,
+      "audio_rms": 740.6,
+      "audio_ok": true
+    }
+  ]
+}

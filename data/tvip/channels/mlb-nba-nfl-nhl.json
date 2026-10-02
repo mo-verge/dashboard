@@ -1,0 +1,2646 @@
+{
+  "category": "MLB | NBA | NFL | NHL",
+  "captured": "2026-09-30T23:08:58-0400",
+  "mode": "full",
+  "reported_total": 176,
+  "channels": [
+    {
+      "number": 10040,
+      "name": "KEKKEEE MLB INFO KEKKKEE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10041,
+      "name": "MLB ARIZONA DIAMONDBACKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.5,
+      "audio_rms": 2019.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10042,
+      "name": "MLB ATLANTA BRAVES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.6,
+      "audio_rms": 1955.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10043,
+      "name": "MLB BALTIMORE ORIOLES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.5,
+      "audio_rms": 1640.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10044,
+      "name": "MLB BOSTON RED SOX",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.0,
+      "audio_rms": 1679.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10045,
+      "name": "MLB CHICAGO CUBS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.0,
+      "audio_rms": 1908.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10046,
+      "name": "MLB CHICAGO WHITE SOX",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.8,
+      "audio_rms": 2019.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10047,
+      "name": "MLB CINCINNATI REDS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 311.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10048,
+      "name": "MLB CLEVELAND INDIANS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 1203.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10049,
+      "name": "MLB COLORADO ROCKIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 1091.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10050,
+      "name": "MLB DETROIT TIGERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 1254.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10051,
+      "name": "MLB HOUSTON ASTROS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.5,
+      "audio_rms": 1039.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10052,
+      "name": "MLB KANSAS CITY ROYALS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 1091.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10053,
+      "name": "MLB LOS ANGELES ANGELS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.7,
+      "audio_rms": 887.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10054,
+      "name": "MLB LOS ANGELES DODGERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.2,
+      "audio_rms": 972.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10055,
+      "name": "MLB MIAMI MARLINS",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 2663.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10056,
+      "name": "MLB MILWAUKEE BREWERS",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 2473.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10057,
+      "name": "MLB MINNESOTA TWINS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.2,
+      "audio_rms": 2485.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10058,
+      "name": "MLB NEW YORK METS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.8,
+      "audio_rms": 2104.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10059,
+      "name": "MLB NEW YORK YANKEES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.8,
+      "audio_rms": 785.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10060,
+      "name": "MLB OAKLAND ATHLETICS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.4,
+      "audio_rms": 2288.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10061,
+      "name": "MLB PHILIADELPHIA PHILLIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.9,
+      "audio_rms": 740.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10062,
+      "name": "MLB PITTSBURGH PIRATES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 807.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10063,
+      "name": "MLB SAN DIEGO PADRES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 809.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10064,
+      "name": "MLB SAN FRANCISCO GIANTS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.1,
+      "audio_rms": 2078.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10065,
+      "name": "MLB SEATTLE MARINERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.0,
+      "audio_rms": 2249.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10066,
+      "name": "MLB ST LOUIS CARDINALS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.6,
+      "audio_rms": 2128.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10067,
+      "name": "MLB TAMPA BAY RAYS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 1802.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10068,
+      "name": "MLB TEXAS RANGERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.8,
+      "audio_rms": 2092.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10069,
+      "name": "MLB TORONTO BLUE JAYS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.0,
+      "audio_rms": 1944.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10070,
+      "name": "MLB WASHINGTON NATIONALS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 2100.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10100,
+      "name": "NBA 1080P ATLANTA HAWKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.0,
+      "audio_rms": 2174.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10101,
+      "name": "NBA 1080P BOSTON CELTICS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 1854.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10102,
+      "name": "NBA 1080P BROOKLYN NETS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.3,
+      "audio_rms": 2089.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10103,
+      "name": "NBA 1080P CHARLOTTE HOR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.7,
+      "audio_rms": 2020.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10104,
+      "name": "NBA 1080P CHICAGO BULLS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 2179.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10105,
+      "name": "NBA 1080P CLEVELAND CAVA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 666.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10106,
+      "name": "NBA 1080P DALLAS MAVERICKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.1,
+      "audio_rms": 766.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10107,
+      "name": "NBA 1080P DENVER NUGGETS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.2,
+      "audio_rms": 807.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10108,
+      "name": "NBA 1080P DETROIT PISTONS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 2219.2,
+      "audio_ok": true
+    },
+    {
+      "number": 10109,
+      "name": "NBA 1080P GOLDEN STATE W",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.9,
+      "audio_rms": 2259.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10110,
+      "name": "NBA 1080P HOUSTON ROCKETS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 1868.7,
+      "audio_ok": true
+    },
+    {
+      "number": 161111,
+      "name": "NBA 1080P INDIANA PACERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 2162.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10112,
+      "name": "NBA 1080P LOS ANGELES CLI",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.9,
+      "audio_rms": 1927.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10113,
+      "name": "NBA 1080P LOS ANGELES LAK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.5,
+      "audio_rms": 1233.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10114,
+      "name": "NBA 1080P MEMPHIS GRIZZLIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.9,
+      "audio_rms": 2091.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10115,
+      "name": "NBA 1080P MIAMI HEAT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 964.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10116,
+      "name": "NBA 1080P MILWAUKEE BUCKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 784.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10117,
+      "name": "NBA 1080P MINNESOTA TIMB",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 963.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10118,
+      "name": "NBA 1080P NEW ORLEANS PE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.2,
+      "audio_rms": 1022.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10119,
+      "name": "NBA 1080P NEW YORK KNICKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 2489.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10120,
+      "name": "NBA 1080P OKLAHOMA CITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 2278.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10121,
+      "name": "NBA 1080P ORLANDO MAGIC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.3,
+      "audio_rms": 2240.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10122,
+      "name": "NBA 1080P PHILADELPHIA 76",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.7,
+      "audio_rms": 1453.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10123,
+      "name": "NBA 1080P PHOENIX SUNS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.5,
+      "audio_rms": 2090.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10124,
+      "name": "NBA 1080P PORTLAND TRAIL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 686.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10125,
+      "name": "NBA 1080P SACRAMENTO KI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 683.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10126,
+      "name": "NBA 1080P SAN ANTONIO SP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.2,
+      "audio_rms": 787.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10127,
+      "name": "NBA 1080P TORONTO RAPTORS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 937.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10128,
+      "name": "NBA 1080P UTAH JAZZ",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 631.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10129,
+      "name": "NBA 1080P WASHINGTON WI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 801.6,
+      "audio_ok": true
+    },
+    {
+      "number": 10174,
+      "name": "KEKKEEE NBA INFO XXX KK",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10175,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.1,
+      "audio_rms": 1190.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10176,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.9,
+      "audio_rms": 1585.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10177,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.7,
+      "audio_rms": 1229.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10178,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.7,
+      "audio_rms": 1347.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10179,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.7,
+      "audio_rms": 1047.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10180,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.9,
+      "audio_rms": 1139.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10181,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.8,
+      "audio_rms": 1381.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10182,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.8,
+      "audio_rms": 1170.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10183,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.9,
+      "audio_rms": 1392.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10184,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.9,
+      "audio_rms": 1649.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10185,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.0,
+      "audio_rms": 1595.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10186,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10187,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 10188,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.8,
+      "audio_rms": 1275.7,
+      "audio_ok": true
+    },
+    {
+      "number": 10189,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.6,
+      "audio_rms": 1477.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10190,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.7,
+      "audio_rms": 1436.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10191,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.2,
+      "audio_rms": 1485.4,
+      "audio_ok": true
+    },
+    {
+      "number": 10192,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 66.5,
+      "audio_rms": 978.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10193,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.1,
+      "audio_rms": 1282.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10194,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.9,
+      "audio_rms": 1610.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10195,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 106.4,
+      "audio_rms": 1383.1,
+      "audio_ok": true
+    },
+    {
+      "number": 10196,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.4,
+      "audio_rms": 1444.5,
+      "audio_ok": true
+    },
+    {
+      "number": 10197,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.9,
+      "audio_rms": 1374.9,
+      "audio_ok": true
+    },
+    {
+      "number": 10198,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.9,
+      "audio_rms": 1444.0,
+      "audio_ok": true
+    },
+    {
+      "number": 10199,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 107.9,
+      "audio_rms": 1779.8,
+      "audio_ok": true
+    },
+    {
+      "number": 10200,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.9,
+      "audio_rms": 1331.3,
+      "audio_ok": true
+    },
+    {
+      "number": 10201,
+      "name": "ROGER HD SUPER SPORTS CH",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 105.0,
+      "audio_rms": 1252.1,
+      "audio_ok": true
+    },
+    {
+      "number": 21069,
+      "name": "KEKKEEE NFL INFO XXX KK XX",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21070,
+      "name": "NFL MONDAY NIGHT",
+      "epg": [
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21071,
+      "name": "NFL BUFFALO BILLS HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21072,
+      "name": "NFL CBS SAN FRANCISCO 49ERS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21073,
+      "name": "NFL CBS CHICAGO BEARS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.9,
+      "audio_rms": 2347.4,
+      "audio_ok": true
+    },
+    {
+      "number": 21074,
+      "name": "NFL CBS CINCINNATI BENGALS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21075,
+      "name": "NFL CBS GIANTS NEW YORK",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21076,
+      "name": "NFL CBS DENVER BRONCOS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21077,
+      "name": "NFL CBS CLEVLAND BROWNS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21078,
+      "name": "NFL CBS TAMPA BAY BUCCA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21079,
+      "name": "NFL CBS ARIZONA CARDINALS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21080,
+      "name": "NFL CBS LOS ANGELES CHAR",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21081,
+      "name": "NFL CBS KANSAS CITY CHIEFS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21082,
+      "name": "NFL CBS NEW YORK JETS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21083,
+      "name": "NFL CBS INDIANAPOLIS COLTS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21084,
+      "name": "NFL CBS INDIANAPOLIS COLTS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21085,
+      "name": "NFL CBS MIAMI DOLPHINS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21086,
+      "name": "NFL CBS PHILADELPHIA EAGLES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.0,
+      "audio_rms": 1859.6,
+      "audio_ok": true
+    },
+    {
+      "number": 21087,
+      "name": "NFL CBS CAROLINA PANTHERS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21088,
+      "name": "NFL CBS JACKSONVILLE JAGU",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21089,
+      "name": "NFL CBS DETROIT LIONS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21090,
+      "name": "NFL CBS PANTHERS (WBTV) C",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21091,
+      "name": "NFL CBS MINNESOTA VIKINGS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21092,
+      "name": "NFL CBS LAS VEGAS RAIDERS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21093,
+      "name": "NFL CBS BALTIMORE RAVENS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21094,
+      "name": "NFL CBS PITTSBURGH STEELERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.2,
+      "audio_rms": 3687.0,
+      "audio_ok": true
+    },
+    {
+      "number": 21095,
+      "name": "NFL CBS HOUSTAN TEXANS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21096,
+      "name": "NFL CBS TENNESSEE TITANS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21097,
+      "name": "NFL FOX SAN FRANCISCO 49ERS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21098,
+      "name": "NFL FOX CHICAGO BEARS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.2,
+      "audio_rms": 2507.3,
+      "audio_ok": true
+    },
+    {
+      "number": 2109,
+      "name": "NFL FOX CINCINNATI BENGALS",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21100,
+      "name": "NFL FOX TAMPA BAY BUCCA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21101,
+      "name": "NFL FOX ARIZONA CARDINALS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21102,
+      "name": "NFL FOX DALLAS COWBOYS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21103,
+      "name": "NFL FOX CLEVELAND BROWNS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21104,
+      "name": "NFL FOX PHILADELPHIA EAGLES",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 1,
+      "name": "NFL FOX ATLANTA FALCONS",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21106,
+      "name": "NFL FOX NEW YORK GIANTS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21107,
+      "name": "NFL FOX DETROIT LIONS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21108,
+      "name": "NFL FOX GREEN BAY PACKERS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21109,
+      "name": "NFL FOX CAROLINE PANTHERS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21110,
+      "name": "NFL FOX LOS ANGELES RAMS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21111,
+      "name": "NFL FOX RAMS (KTXL) SACRA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.8,
+      "audio_rms": 1280.9,
+      "audio_ok": true
+    },
+    {
+      "number": 21112,
+      "name": "NFL FOX LOS ANGELES CHAR",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21113,
+      "name": "NFL FOX BALTIMORE RAVENS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.4,
+      "audio_rms": 1106.2,
+      "audio_ok": true
+    },
+    {
+      "number": 21114,
+      "name": "NFL FOX WASHINGTON COM",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21115,
+      "name": "NFL FOX NEW ORLEANS SAINTS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21116,
+      "name": "NFL FOX SEATTLE SEAHAWKS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21117,
+      "name": "NFL FOX HOUSTON TEXANS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21118,
+      "name": "NFL FOX MINNEAPOLIS VIKINGS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21119,
+      "name": "NFL REDZONE PPV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 31.7,
+      "audio_rms": 747.2,
+      "audio_ok": true
+    },
+    {
+      "number": 21120,
+      "name": "NFL NEW ENGLAND PATRIOTS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21121,
+      "name": "KEKEKEE NHL INFO AAA AAA",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21122,
+      "name": "NHL SEATTLE KRAKEN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21123,
+      "name": "NHL WINNIPEG JETS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21124,
+      "name": "NHL WASHINGTON CAPITALS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.9,
+      "audio_rms": 4638.4,
+      "audio_ok": true
+    },
+    {
+      "number": 21125,
+      "name": "NHL VEGAS GOLDEN KNIGHTS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21126,
+      "name": "NHL VANCOUVER CANUCKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.0,
+      "audio_rms": 5804.9,
+      "audio_ok": true
+    },
+    {
+      "number": 21127,
+      "name": "NHL TORONTO MAPLE LEAFS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.5,
+      "audio_rms": 844.1,
+      "audio_ok": true
+    },
+    {
+      "number": 21128,
+      "name": "NHL TEMPA BAY LIGHTENING",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21129,
+      "name": "NHL ST LOUIS BLUES",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21130,
+      "name": "NHL SAN JOSE SHARKS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21131,
+      "name": "NHL PITTSBURGH PENGUINS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.7,
+      "audio_rms": 2666.2,
+      "audio_ok": true
+    },
+    {
+      "number": 21132,
+      "name": "NHL PHILADELPHIA FLYERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 3025.8,
+      "audio_ok": true
+    },
+    {
+      "number": 502,
+      "name": "3. NHL OTTAWA: SENATORS",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21134,
+      "name": "NHL NEWYORK RANGERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.5,
+      "audio_rms": 2294.8,
+      "audio_ok": true
+    },
+    {
+      "number": 21135,
+      "name": "NHL NEWYORK ISLANDERS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21200,
+      "name": "NHL PHILADELPHIA PENGUINS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21201,
+      "name": "NHL NEW JERSEY DEVILS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "! formatio!"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21202,
+      "name": "NHL NASHVILLE PREDATORS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21203,
+      "name": "NHL MONTREAL CANADIANS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21204,
+      "name": "NHL LOS ANGELES KINGS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 56.8,
+      "audio_rms": 4053.6,
+      "audio_ok": true
+    },
+    {
+      "number": 21205,
+      "name": "NHL FLORIDA PANTHERS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 1806.9,
+      "audio_ok": true
+    },
+    {
+      "number": 21206,
+      "name": "NHL EDMONTON OILERS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 48.8,
+      "audio_rms": 4754.8,
+      "audio_ok": true
+    },
+    {
+      "number": 21207,
+      "name": "NHL DETROIT RED WINGS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.6,
+      "audio_rms": 1049.3,
+      "audio_ok": true
+    },
+    {
+      "number": 21208,
+      "name": "NHL DALLAS STARS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.9,
+      "audio_rms": 1015.7,
+      "audio_ok": true
+    },
+    {
+      "number": 21209,
+      "name": "NHL COLORADO AVALANCHE",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 49.0,
+      "audio_rms": 2310.2,
+      "audio_ok": true
+    },
+    {
+      "number": 21210,
+      "name": "NHL COLUMBUS BLUE JACKETS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21211,
+      "name": "NHL CALGARY FLAMES",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21212,
+      "name": "NHL CAROLINA HURRICANES",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 2503.6,
+      "audio_ok": true
+    },
+    {
+      "number": 21213,
+      "name": "NHL CHICAGO BLACK HWAKS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21214,
+      "name": "NHL BOSTON BRUINS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 57.2,
+      "audio_rms": 2279.6,
+      "audio_ok": true
+    },
+    {
+      "number": 21215,
+      "name": "NHL ANAHEIM DUCKS",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 69.3,
+      "audio_rms": 730.1,
+      "audio_ok": true
+    },
+    {
+      "number": 21216,
+      "name": "NHL ARIZONA COYOTES",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 21217,
+      "name": "NHL BUFFALO SABRES",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 75.7,
+      "audio_rms": 1111.8,
+      "audio_ok": true
+    },
+    {
+      "number": 21218,
+      "name": "NHL MINNESOTA WILD",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 92.2,
+      "audio_rms": 876.9,
+      "audio_ok": true
+    },
+    {
+      "number": 21219,
+      "name": "NHL UTAH MAMMOTH",
+      "epg": [
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "2:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "3:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.7,
+      "audio_rms": 985.7,
+      "audio_ok": true
+    }
+  ]
+}

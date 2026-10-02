@@ -9,9 +9,9 @@ cd "$(dirname "$0")"
 # not to. Side effect: no classic Bluetooth (speakers/headsets) on this Pi.
 sudo sed -i -E 's/^#?ControllerMode *=.*/ControllerMode = le/' /etc/bluetooth/main.conf
 
-sudo install -m 644 bt-identity.service bt-remote.service dashboard.service /etc/systemd/system/
+sudo install -m 644 bt-identity.service bt-remote.service dashboard.service key-relay.service /etc/systemd/system/
 sudo systemctl daemon-reload
-sudo systemctl enable bt-identity.service bt-remote.service dashboard.service
+sudo systemctl enable bt-identity.service bt-remote.service dashboard.service key-relay.service
 
 # Kiosk at desktop login. A user autostart replaces the system one in labwc,
 # so keep the stock Raspberry Pi OS entries and add ours.

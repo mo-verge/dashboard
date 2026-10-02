@@ -1,0 +1,476 @@
+{
+  "category": "SPANISH | VENEZUELA",
+  "captured": "2026-10-01T17:39:33-0400",
+  "mode": "full",
+  "reported_total": 31,
+  "channels": [
+    {
+      "number": 37201,
+      "name": "VE | VENEZOLANA DE TELEVIS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.7,
+      "audio_rms": 1373.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37205,
+      "name": "VE | CGNTV",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37206,
+      "name": "VE | GLOBOVISION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.1,
+      "audio_rms": 49.6,
+      "audio_ok": true
+    },
+    {
+      "number": 37207,
+      "name": "VE AY a",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 59.7,
+      "audio_rms": 2621.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37208,
+      "name": "VE|LA TELE TUYA TLT",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 130.4,
+      "audio_rms": 1249.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37209,
+      "name": "VE | MERIDIANO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.3,
+      "audio_rms": 1409.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37210,
+      "name": "VE | PROMAR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.0,
+      "audio_rms": 4121.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37212,
+      "name": "VE | TELESUR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.3,
+      "audio_rms": 1920.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37213,
+      "name": "VE | TELESUR (MOVIL)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.1,
+      "audio_rms": 1317.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37214,
+      "name": "VE | TELEVEN",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "The Good Doctor"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Se ha dicho"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Tele deportes"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Gente como uno"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Doménica Montero"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.0,
+      "audio_rms": 487.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37215,
+      "name": "VE | TELEVEN (MOVIL)",
+      "epg": [
+        {
+          "time": "4:00 PM",
+          "title": "The Good Doctor"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Se ha dicho"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Tele deportes"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Gente como uno"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Doménica Montero"
+        }
+      ],
+      "video_ok": true,
+      "luma": 104.4,
+      "audio_rms": 1177.9,
+      "audio_ok": true
+    },
+    {
+      "number": 37217,
+      "name": "VE | TV FAMILIA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 180.8,
+      "audio_rms": 3890.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37218,
+      "name": "VE | TV FAMILIA (MOVIL)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 181.0,
+      "audio_rms": 4890.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37219,
+      "name": "VE | TVES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.0,
+      "audio_rms": 541.5,
+      "audio_ok": true
+    },
+    {
+      "number": 37220,
+      "name": "VE | VALE TV",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.9,
+      "audio_rms": 1556.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37221,
+      "name": "VE | VENEVISION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.8,
+      "audio_rms": 843.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37222,
+      "name": "VE | VENEVISION (MOVIL)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.5,
+      "audio_rms": 940.2,
+      "audio_ok": true
+    },
+    {
+      "number": 37223,
+      "name": "VE | VENEVISION PLUS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 1287.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37224,
+      "name": "VE | VENEVISION PLUS (MOVIL)",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.5,
+      "audio_rms": 1816.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37225,
+      "name": "VE | VENEZOLANA DE TELEVIS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 146.2,
+      "audio_rms": 2517.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37226,
+      "name": "VE| VIVE HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.5,
+      "audio_rms": 138.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37227,
+      "name": "NIC| CANAL 4",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 86.8,
+      "audio_rms": 520.8,
+      "audio_ok": true
+    },
+    {
+      "number": 37228,
+      "name": "ANAL LA ROK 22",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 34.2,
+      "audio_rms": 1492.7,
+      "audio_ok": true
+    },
+    {
+      "number": 37229,
+      "name": "NIC | CANAL 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.6,
+      "audio_rms": 580.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37230,
+      "name": "NIC | CANAL 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.2,
+      "audio_rms": 1403.4,
+      "audio_ok": true
+    },
+    {
+      "number": 37233,
+      "name": "NIC | CANAL 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 37234,
+      "name": "NIC | CANAL 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.5,
+      "audio_rms": 3245.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37235,
+      "name": "NIC | CANAL 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 180.3,
+      "audio_rms": 2208.3,
+      "audio_ok": true
+    },
+    {
+      "number": 37236,
+      "name": "NIC | CANAL 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.2,
+      "audio_rms": 11178.1,
+      "audio_ok": true
+    },
+    {
+      "number": 37237,
+      "name": "NIC | CANAL 6",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 97.0,
+      "audio_rms": 1829.1,
+      "audio_ok": true
+    },
+    {
+      "number": 38300,
+      "name": "UY | CANAL 4 PAYSANDHU HD",
+      "epg": [
+        {
+          "time": "5:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 127.2,
+      "audio_rms": 7015.5,
+      "audio_ok": true
+    }
+  ]
+}

@@ -26,12 +26,19 @@ export WAYLAND_DISPLAY="${WAYLAND_DISPLAY:-wayland-0}"
 
 pw-loopback --name capture-preview-audio -C "$SOURCE" --latency 20 --delay "$DELAY" &
 LOOP=$!
-trap 'kill $LOOP 2>/dev/null || true' EXIT
+# box.py waits for the preview (instead of grabbing /dev/video0) while this exists
+touch /dev/shm/preview-wanted
+trap 'rm -f /dev/shm/preview-wanted; kill $LOOP 2>/dev/null || true' EXIT
 
 # nobuffer/low_delay + framedrop keep the picture as close to live as ffplay allows.
 # labwc refuses SDL fullscreen (and then -x/-y are ignored), so open a
 # borderless window the size of the screen instead.
+# ffplay has segfaulted after many hours; restart it unless it exited cleanly
+# (q / Esc in the window = exit status 0).
+while true; do
 SDL_VIDEODRIVER=wayland ffplay -hide_banner -loglevel error \
   -window_title "HDMI capture · $MODE · audio delay ${DELAY}s" -noborder -x "${SCREEN_W:-2560}" -y "${SCREEN_H:-1440}" \
   -fflags nobuffer -flags low_delay -framedrop -sync ext \
-  -f v4l2 -input_format mjpeg -video_size "$SIZE" -framerate "$FPS" "$DEV"
+  -f v4l2 -input_format mjpeg -video_size "$SIZE" -framerate "$FPS" "$DEV" && break
+  sleep 1
+done

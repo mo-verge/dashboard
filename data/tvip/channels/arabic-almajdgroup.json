@@ -1,0 +1,36 @@
+{
+  "category": "ARABIC | ALMAJDGROUP",
+  "captured": "2026-10-01T20:46:04-0400",
+  "mode": "sports-only",
+  "reported_total": 7,
+  "channels": [
+    {
+      "number": 41657,
+      "name": "AL MAJD HADEETH"
+    },
+    {
+      "number": 41661,
+      "name": "AL MAJD BASMA"
+    },
+    {
+      "number": 41662,
+      "name": "AL MAJD MASSA"
+    },
+    {
+      "number": 41663,
+      "name": "AL MAJD TAGHRED"
+    },
+    {
+      "number": 41664,
+      "name": "AL MAJD DOCUMENTARY"
+    },
+    {
+      "number": 41665,
+      "name": "AL MAJD RAWDA"
+    },
+    {
+      "number": 41666,
+      "name": "AL MAJD KIDS"
+    }
+  ]
+}

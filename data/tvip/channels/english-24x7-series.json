@@ -1,0 +1,3245 @@
+{
+  "category": "ENGLISH | 24X7 SERIES",
+  "captured": "2026-10-01T19:41:57-0400",
+  "mode": "full",
+  "reported_total": 355,
+  "channels": [
+    {
+      "number": 5281,
+      "name": "24/7 | *****REALITY SHOW IN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 26.7,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5282,
+      "name": "24/7 | REALITY SHOW 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 152.6,
+      "audio_rms": 515.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5283,
+      "name": "24/7 | REALITY SHOW 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 181.5,
+      "audio_rms": 1377.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5284,
+      "name": "24/7 | REALITY SHOW 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.3,
+      "audio_rms": 682.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5285,
+      "name": "24/7 | REALITY SHOW 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.9,
+      "audio_rms": 1364.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5286,
+      "name": "24/7 | REALITY SHOW 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.5,
+      "audio_rms": 1523.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5287,
+      "name": "24/7 | REALITY SHOW 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 136.3,
+      "audio_rms": 1669.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5288,
+      "name": "24/7 | REALITY SHOW 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.6,
+      "audio_rms": 441.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5289,
+      "name": "24/7 | REALITY SHOW 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.1,
+      "audio_rms": 3066.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5290,
+      "name": "24/7 | REALITY SHOW 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.0,
+      "audio_rms": 2974.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5291,
+      "name": "24/7 | REALITY SHOW 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5292,
+      "name": "24/7 | REALITY SHOW 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5293,
+      "name": "24/7 | REALITY SHOW 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5294,
+      "name": "24/7 | REALITY SHOW 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5295,
+      "name": "24/7 | REALITY SHOW 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 26.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5296,
+      "name": "24/7 | REALITY SHOW 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.0,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5297,
+      "name": "24/7 | REALITY SHOW 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.3,
+      "audio_rms": 3036.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5299,
+      "name": "24/7 | REALITY SHOW 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.0,
+      "audio_rms": 667.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5300,
+      "name": "SMART | 24/7 GENRE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5301,
+      "name": "24/7 | COLUMBO FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.4,
+      "audio_rms": 1195.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5302,
+      "name": "24/7 | THE GOLDEN GIRLS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.7,
+      "audio_rms": 4718.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5303,
+      "name": "24/7 | EVERYBODY LOVES RAY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.8,
+      "audio_rms": 304.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5304,
+      "name": "24/7 | THE BIG BANG THEORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.5,
+      "audio_rms": 1213.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5305,
+      "name": "24/7 | THE JEFFERSONS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.5,
+      "audio_rms": 957.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5306,
+      "name": "24/7 | TWO AND A HALF MEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.3,
+      "audio_rms": 1785.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5307,
+      "name": "24/7 | THE SIMPSONS FHD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 10.1,
+      "audio_rms": 1449.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5308,
+      "name": "24/7 | THE COSBY SHOW FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.7,
+      "audio_rms": 3179.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5309,
+      "name": "24/7 | GOOD TIMES FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.4,
+      "audio_rms": 2108.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5310,
+      "name": "24/7 | 2 BROKE GIRLS FHD",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 82.6,
+      "audio_rms": 4255.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5311,
+      "name": "24/7 | 30 ROCK FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.8,
+      "audio_rms": 1140.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5312,
+      "name": "24/7 | 3RD ROCK FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.9,
+      "audio_rms": 1099.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5313,
+      "name": "24/7 | 60 DAYS IN FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.5,
+      "audio_rms": 3858.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5314,
+      "name": "24/7 | 90210 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.5,
+      "audio_rms": 1063.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5315,
+      "name": "24/7 | ACCORDING TO JIM FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.9,
+      "audio_rms": 1061.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5316,
+      "name": "24/7 | ADIFFERENT WORLD FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.7,
+      "audio_rms": 2334.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5317,
+      "name": "24/7 | ADVENTURE TIME FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.4,
+      "audio_rms": 1034.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5318,
+      "name": "24/7 | ALFRED HITCHCOCK FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.9,
+      "audio_rms": 1066.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5319,
+      "name": "24/7 | ALICE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.8,
+      "audio_rms": 1371.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5320,
+      "name": "24/7 | ARRESTED DEVELOP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 161.6,
+      "audio_rms": 790.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5321,
+      "name": "24/7 | BALLERS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.9,
+      "audio_rms": 3181.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5322,
+      "name": "24/7 | BEING MARY JANE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.0,
+      "audio_rms": 598.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5324,
+      "name": "24/7 | BLACK JESUS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.4,
+      "audio_rms": 411.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5325,
+      "name": "24/7 | BLUE BLOODS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.8,
+      "audio_rms": 686.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5326,
+      "name": "24/7 | CALL THE MIDWIFE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.8,
+      "audio_rms": 63.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5327,
+      "name": "24/7 | CHAPPELLE'S SHOW FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.3,
+      "audio_rms": 3185.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5328,
+      "name": "24/7 | CHICAGO FIRE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.0,
+      "audio_rms": 1149.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5329,
+      "name": "24/7 | CHICAGO P.D. FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.3,
+      "audio_rms": 400.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5330,
+      "name": "24/7 | COBRA KAI FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.4,
+      "audio_rms": 672.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5331,
+      "name": "24/7 | CONSTANTINE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.5,
+      "audio_rms": 1425.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5332,
+      "name": "24/7 | CSI: CRIME SCENE INVE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.5,
+      "audio_rms": 1571.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5333,
+      "name": "24/7 | COUGAR TOWN FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 137.6,
+      "audio_rms": 79.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5334,
+      "name": "24/7 | CSI: NY FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.1,
+      "audio_rms": 913.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5335,
+      "name": "24/7 | DEADWOOD FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.3,
+      "audio_rms": 1208.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5336,
+      "name": "24/7 | DOCTOR WHO FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.0,
+      "audio_rms": 136.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5337,
+      "name": "24/7 | EVERYBODY HATES CH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.1,
+      "audio_rms": 1674.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5338,
+      "name": "24/7 | FARGO FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.0,
+      "audio_rms": 44.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5339,
+      "name": "24/7 | GOMER PYLE U.S.M.C FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.5,
+      "audio_rms": 554.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5340,
+      "name": "24/7 | GUNSMOKE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.9,
+      "audio_rms": 161.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5341,
+      "name": "24/7 || LOVE LUCY FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 126.7,
+      "audio_rms": 1308.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5342,
+      "name": "24/7 | IN THE HEAT OF THE NI",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.7,
+      "audio_rms": 377.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5343,
+      "name": "24/7 | KEY AND PEELE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.8,
+      "audio_rms": 1717.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5344,
+      "name": "24/7 | MAGNUM FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.9,
+      "audio_rms": 325.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5345,
+      "name": "24/7 | MARTIN FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.2,
+      "audio_rms": 1995.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5346,
+      "name": "24/7 | NCIS: LOS ANGELES FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.9,
+      "audio_rms": 373.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5347,
+      "name": "24/7 | NCIS: NEW ORLEANS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.0,
+      "audio_rms": 1532.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5348,
+      "name": "24/7 | NCIS: FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.3,
+      "audio_rms": 2289.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5349,
+      "name": "24/7 | SANFORD AND SON FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.4,
+      "audio_rms": 2479.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5350,
+      "name": "24/7 | SEINFELD FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.2,
+      "audio_rms": 3376.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5351,
+      "name": "24/7 | SOUTH PARK FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 155.5,
+      "audio_rms": 2054.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5352,
+      "name": "24/7 | THE ANDY GRIFFITH SH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.1,
+      "audio_rms": 924.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5353,
+      "name": "24/7 | MOM FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.8,
+      "audio_rms": 946.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5354,
+      "name": "24/7 | THE FIRST 48HRS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.9,
+      "audio_rms": 2270.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5355,
+      "name": "24/7 | THE LOVE BOAT FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.1,
+      "audio_rms": 15.2,
+      "audio_ok": false
+    },
+    {
+      "number": 5356,
+      "name": "24/7 | THE MUNSTERS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.5,
+      "audio_rms": 2058.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5357,
+      "name": "24/7 | THE SIX MILLIO DOLLA",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.8,
+      "audio_rms": 1422.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5358,
+      "name": "24/7 | THE STEVE HARVEY FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.2,
+      "audio_rms": 2814.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5360,
+      "name": "24/7 | UNFORGOTTEN FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.3,
+      "audio_rms": 1164.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5361,
+      "name": "24/7 | CHIPS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.4,
+      "audio_rms": 2215.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5362,
+      "name": "24/7 | BURN NOTICE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.0,
+      "audio_rms": 1818.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5363,
+      "name": "24/7 | CAPTAIN PLANET AND",
+      "epg": [],
+      "video_ok": true,
+      "luma": 136.7,
+      "audio_rms": 816.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5364,
+      "name": "24/7 | DEADLIEST CATCH FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.9,
+      "audio_rms": 1028.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5365,
+      "name": "24/7 | DEATH IN PARADISE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.7,
+      "audio_rms": 904.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5366,
+      "name": "24/7 | DUCK DYNASTY FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.4,
+      "audio_rms": 1876.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5367,
+      "name": "24/7 | ENTOURAGE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.2,
+      "audio_rms": 1438.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5368,
+      "name": "24/7 | ERFHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.8,
+      "audio_rms": 252.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5369,
+      "name": "24/7 | FRASIER FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.8,
+      "audio_rms": 1655.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5370,
+      "name": "24/7 | GET SMART FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 144.7,
+      "audio_rms": 1564.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5371,
+      "name": "24/7 || DREAM OF JEANNIE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.8,
+      "audio_rms": 531.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5372,
+      "name": "24/7 | LITTLE HOUSE YEARS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 1164.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5373,
+      "name": "24/7 | MIAMI VICE FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.1,
+      "audio_rms": 873.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5374,
+      "name": "24/7 | THAT GIRL FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.1,
+      "audio_rms": 2501.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5375,
+      "name": "24/7 | THE FRESH PRINCE OF",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.4,
+      "audio_rms": 2109.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5376,
+      "name": "24/7 | THE MARY TYLER MOO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.0,
+      "audio_rms": 4153.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5377,
+      "name": "24/7 | DINOSAURS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.6,
+      "audio_rms": 926.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5378,
+      "name": "24/7 | FANTASY ISLAND FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.4,
+      "audio_rms": 413.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5379,
+      "name": "24/7 | F-TROOP FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.1,
+      "audio_rms": 935.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5380,
+      "name": "24/7 | FAMILY MATTERS FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.7,
+      "audio_rms": 3486.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5570,
+      "name": "24/7 | *******NETFLIX ENGLIS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5571,
+      "name": "7 | NETFLIX ENGLISH SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.3,
+      "audio_rms": 898.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5572,
+      "name": "7 | NETFLIX ENGLISH SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.7,
+      "audio_rms": 852.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5574,
+      "name": "7 | NETFLIX ENGLISH SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.7,
+      "audio_rms": 827.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5575,
+      "name": "7 | NETFLIX ENGLISH SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 1009.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5576,
+      "name": "7 | NETFLIX ENGLISH SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.4,
+      "audio_rms": 858.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5577,
+      "name": "7 | NETFLIX ENGLISH SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.9,
+      "audio_rms": 478.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5579,
+      "name": "7 | NETFLIX ENGLISH SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.2,
+      "audio_rms": 810.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5580,
+      "name": "7 | NETFLIX ENGLISH SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 135.3,
+      "audio_rms": 1578.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5581,
+      "name": "7 | NETFLIX ENGLISH SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.2,
+      "audio_rms": 146.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5582,
+      "name": "7 | NETFLIX ENGLISH SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.8,
+      "audio_rms": 21.7,
+      "audio_ok": false
+    },
+    {
+      "number": 5583,
+      "name": "24/7 | ******* AMAZON ENGLI",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5584,
+      "name": "7 | AMAZON ENGLISH SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.8,
+      "audio_rms": 2445.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5586,
+      "name": "7 | AMAZON ENGLISH SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.9,
+      "audio_rms": 3165.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5587,
+      "name": "7 | AMAZON ENGLISH SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.1,
+      "audio_rms": 2702.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5588,
+      "name": "7 | AMAZON ENGLISH SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.7,
+      "audio_rms": 1609.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5589,
+      "name": "7 | AMAZON ENGLISH SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 119.6,
+      "audio_rms": 1693.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5590,
+      "name": "7 | AMAZON ENGLISH SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 123.5,
+      "audio_rms": 1593.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5591,
+      "name": "7 | AMAZON ENGLISH SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.5,
+      "audio_rms": 1748.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5592,
+      "name": "7 | AMAZON ENGLISH SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.7,
+      "audio_rms": 1583.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5593,
+      "name": "7 | AMAZON ENGLISH SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.5,
+      "audio_rms": 89.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5594,
+      "name": "7 | AMAZON ENGLISH SERIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.0,
+      "audio_rms": 641.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5595,
+      "name": "24/7 | *******HULU ENGLISH",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5596,
+      "name": "7 | HULU ENGLISH SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 118.4,
+      "audio_rms": 1307.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5597,
+      "name": "7 | HULU ENGLISH SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.7,
+      "audio_rms": 1372.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5598,
+      "name": "7 | HULU ENGLISH SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.0,
+      "audio_rms": 1712.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5599,
+      "name": "7 | HULU ENGLISH SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.6,
+      "audio_rms": 61.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5600,
+      "name": "7 | HULU ENGLISH SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.7,
+      "audio_rms": 677.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5601,
+      "name": "7 | HULU ENGLISH SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 64.4,
+      "audio_rms": 200.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5602,
+      "name": "7 | HULU ENGLISH SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.7,
+      "audio_rms": 388.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5603,
+      "name": "7 | HULU ENGLISH SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 162.5,
+      "audio_rms": 300.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5604,
+      "name": "7 | HULU ENGLISH SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 127.8,
+      "audio_rms": 2157.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5605,
+      "name": "7 | HULU ENGLISH SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.7,
+      "audio_rms": 463.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5606,
+      "name": "24/7 | *******HBO ENGLISH SE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5607,
+      "name": "7 | HBO ENGLISH SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.3,
+      "audio_rms": 43.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5608,
+      "name": "7 | HBO ENGLISH SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.0,
+      "audio_rms": 1504.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5609,
+      "name": "7 | HBO ENGLISH SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 143.5,
+      "audio_rms": 2210.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5610,
+      "name": "7 | HBO ENGLISH SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.8,
+      "audio_rms": 2517.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5611,
+      "name": "7 | HBO ENGLISH SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.4,
+      "audio_rms": 2590.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5612,
+      "name": "7 | HBO ENGLISH SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 28.7,
+      "audio_rms": 2901.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5613,
+      "name": "7 | HBO ENGLISH SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.7,
+      "audio_rms": 427.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5615,
+      "name": "7 | HBO ENGLISH SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.8,
+      "audio_rms": 1096.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5616,
+      "name": "7 | HBO ENGLISH SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.3,
+      "audio_rms": 1321.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5617,
+      "name": "7 | HBO ENGLISH SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.6,
+      "audio_rms": 121.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5618,
+      "name": "24/7 | ******* APPLE TV ENGLI",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5619,
+      "name": "7 | APPLE TV ENGLISH SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.8,
+      "audio_rms": 1134.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5620,
+      "name": "7 | APPLE TV ENGLISH SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.3,
+      "audio_rms": 1190.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5621,
+      "name": "7 | APPLE TV ENGLISH SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.3,
+      "audio_rms": 2455.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5622,
+      "name": "7 | APPLE TV ENGLISH SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.0,
+      "audio_rms": 1550.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5623,
+      "name": "7 | APPLE TV ENGLISH SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.5,
+      "audio_rms": 1638.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5624,
+      "name": "7 | APPLE TV ENGLISH SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 112.4,
+      "audio_rms": 2368.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5625,
+      "name": "7 | APPLE TV ENGLISH SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.0,
+      "audio_rms": 14.9,
+      "audio_ok": false
+    },
+    {
+      "number": 5626,
+      "name": "7 | APPLE TV ENGLISH SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.0,
+      "audio_rms": 33.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5628,
+      "name": "7 | APPLE TV ENGLISH SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.8,
+      "audio_rms": 1146.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5629,
+      "name": "7 | APPLE TV ENGLISH SERIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 84.0,
+      "audio_rms": 791.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5630,
+      "name": "24/7 | *******|TV ENGLISH SER",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5631,
+      "name": "24/7 | ITV TV SERIES 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5632,
+      "name": "24/7 | ITV TV SERIES 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5633,
+      "name": "24/7 | ITV TV SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.0,
+      "audio_rms": 286.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5634,
+      "name": "24/7 | ITV TV SERIES 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5635,
+      "name": "24/7 | ITV TV SERIES 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5636,
+      "name": "24/7 | ITV TV SERIES 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5637,
+      "name": "24/7 | ITV TV SERIES 7",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5638,
+      "name": "24/7 | ITV TV SERIES 8",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5639,
+      "name": "24/7 | ITV TV SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 134.9,
+      "audio_rms": 1994.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5640,
+      "name": "24/7 | ITV TV SERIES 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5642,
+      "name": "24/7 | ITV TV SERIES 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.9,
+      "audio_rms": 1194.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5643,
+      "name": "24/7 | ITV TV SERIES 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5644,
+      "name": "24/7 | ITV TV SERIES 13",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5645,
+      "name": "24/7 | ITV TV SERIES 14",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5646,
+      "name": "24/7 | ITV TV SERIES 15",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5647,
+      "name": "24/7 | ITV TV SERIES 16",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5648,
+      "name": "24/7 | ITV TV SERIES 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.9,
+      "audio_rms": 942.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5650,
+      "name": "24/7 | ITV TV SERIES 18",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5651,
+      "name": "24/7 | ITV TV SERIES 19",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.4,
+      "audio_rms": 1007.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5652,
+      "name": "24/7 | ITV TV SERIES 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.8,
+      "audio_rms": 1785.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5654,
+      "name": "24/7 | *******DISNEY+ SERIES",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5655,
+      "name": "24/7 | DISNEY SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.8,
+      "audio_rms": 2936.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5656,
+      "name": "7 | DISNEY SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.3,
+      "audio_rms": 2331.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5657,
+      "name": "7 | DISNEY SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 85.0,
+      "audio_rms": 3990.7,
+      "audio_ok": true
+    },
+    {
+      "number": 5658,
+      "name": "7 | DISNEY SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.2,
+      "audio_rms": 44.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5659,
+      "name": "7 | DISNEY SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 116.8,
+      "audio_rms": 564.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5660,
+      "name": "7 | DISNEY SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.5,
+      "audio_rms": 560.6,
+      "audio_ok": true
+    },
+    {
+      "number": 5661,
+      "name": "7 | DISNEY SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 26.9,
+      "audio_rms": 1111.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5662,
+      "name": "24/7 | DISNEY SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.2,
+      "audio_rms": 182.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5663,
+      "name": "24/7 | DISNEY SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.9,
+      "audio_rms": 1320.9,
+      "audio_ok": true
+    },
+    {
+      "number": 5664,
+      "name": "7 | DISNEY SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.3,
+      "audio_rms": 1200.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5666,
+      "name": "24/7 | DISNEY SERIES 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5668,
+      "name": "24/7 | *******ENGLISH CLASSI",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5669,
+      "name": "24/7 | CLASSIC SERIES 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5670,
+      "name": "24/7 | CLASSIC SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.9,
+      "audio_rms": 377.5,
+      "audio_ok": true
+    },
+    {
+      "number": 5671,
+      "name": "24/7 | CLASSIC SERIES 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5672,
+      "name": "24/7 | CLASSIC SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.6,
+      "audio_rms": 162.0,
+      "audio_ok": true
+    },
+    {
+      "number": 5673,
+      "name": "24/7 | CLASSIC SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.3,
+      "audio_rms": 2576.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5674,
+      "name": "24/7 | CLASSIC SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.0,
+      "audio_rms": 5090.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5675,
+      "name": "24/7 | CLASSIC SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.9,
+      "audio_rms": 1860.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5676,
+      "name": "24/7 | CLASSIC SERIES 8",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5677,
+      "name": "24/7 | CLASSIC SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 75.8,
+      "audio_rms": 3046.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5678,
+      "name": "24/7 | CLASSIC SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.8,
+      "audio_rms": 284.3,
+      "audio_ok": true
+    },
+    {
+      "number": 5679,
+      "name": "ENGLISH POPULAR SERI",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5681,
+      "name": "24/7 | THE KOMINSKY METHO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.7,
+      "audio_rms": 546.4,
+      "audio_ok": true
+    },
+    {
+      "number": 5682,
+      "name": "24/7 | END OF THE FUCKING",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5686,
+      "name": "24/7 | SHERLOCK HOLMES HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.0,
+      "audio_rms": 114.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5688,
+      "name": "24/7 | TALES FROM THE LOOP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.6,
+      "audio_rms": 272.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5689,
+      "name": "24/7 | THE GRAND TOUR HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.1,
+      "audio_rms": 1161.8,
+      "audio_ok": true
+    },
+    {
+      "number": 5693,
+      "name": "24/7 | THE SOPRANOS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.2,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5695,
+      "name": "24/7 | THE WIRE HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5696,
+      "name": "24/7 | THE X FILES HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.5,
+      "audio_rms": 476.2,
+      "audio_ok": true
+    },
+    {
+      "number": 5697,
+      "name": "24/7 | THE CROWN HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5698,
+      "name": "24/7 | TRUE DETECTIVE HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5699,
+      "name": "24/7 | TWIN PEAKS HD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.2,
+      "audio_rms": 710.1,
+      "audio_ok": true
+    },
+    {
+      "number": 5700,
+      "name": "24/7 | WENTWORTH HD",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 5701,
+      "name": "24/7 | THE UMBRELLA ACADE",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6810,
+      "name": "24/7 | THE JEFFERSONS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.2,
+      "audio_rms": 2100.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6811,
+      "name": "24/7 | SPONGE BOB",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.2,
+      "audio_rms": 787.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6812,
+      "name": "24/7 | FRIENDS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.7,
+      "audio_rms": 701.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6813,
+      "name": "24/7 | WILL AND GRACE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.2,
+      "audio_rms": 270.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6814,
+      "name": "24/7 | SHARK TANK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.7,
+      "audio_rms": 3160.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6816,
+      "name": "24/7 | IN LIVING COLOR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 163.0,
+      "audio_rms": 1256.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6817,
+      "name": "24/7 | HOW | MEET YOUR MO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.0,
+      "audio_rms": 75.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6818,
+      "name": "24/7 | THE ANDY GRIFITH SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 87.3,
+      "audio_rms": 3259.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6819,
+      "name": "24/7 | BUFFY THE VAMPIRE SL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.1,
+      "audio_rms": 1879.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6820,
+      "name": "24/7 | DIFFERENT STROKES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 110.8,
+      "audio_rms": 1303.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6821,
+      "name": "24/7 | HOGANS HEROS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 58.5,
+      "audio_rms": 2457.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6822,
+      "name": "24/7 | MYTHBUSTERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 59.4,
+      "audio_rms": 2913.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6823,
+      "name": "24/7 | COLUMBO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.5,
+      "audio_rms": 2668.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6824,
+      "name": "24/7 | LAW AND ORDER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.8,
+      "audio_rms": 915.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6825,
+      "name": "24/7 | CHEERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.6,
+      "audio_rms": 2194.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6826,
+      "name": "24/7 | KNIGHT RIDER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.8,
+      "audio_rms": 3529.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6827,
+      "name": "24/7 | THE BEVERLY HILLBILLIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.4,
+      "audio_rms": 1960.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6828,
+      "name": "24/7 | NIGHT COURT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 130.0,
+      "audio_rms": 1685.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6829,
+      "name": "24/7 | SEINFELD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.3,
+      "audio_rms": 1163.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6830,
+      "name": "24/7 | HOME IMPROVEMENT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.4,
+      "audio_rms": 2054.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6831,
+      "name": "24/7 | BEWITCHED",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.3,
+      "audio_rms": 266.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6833,
+      "name": "24/7 | THE GOLDEN GIRLS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.8,
+      "audio_rms": 1574.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6834,
+      "name": "24/7 | FAMILY MATTERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.5,
+      "audio_rms": 1918.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6836,
+      "name": "24/7 | SIX MILLION DOLLAR M",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.2,
+      "audio_rms": 768.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6837,
+      "name": "24/7 | FRASIER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.6,
+      "audio_rms": 1458.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6838,
+      "name": "24/7 | FRESH PRINCE OF BEL-AIR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.7,
+      "audio_rms": 5369.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6840,
+      "name": "24/7 | MARRIED WITH CHILDREN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.8,
+      "audio_rms": 354.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6841,
+      "name": "24/7 | MIAMI VICE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.2,
+      "audio_rms": 442.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6842,
+      "name": "24/7 | THE SOPRANOS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.2,
+      "audio_rms": 79.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6843,
+      "name": "24/7 | EVERYBODY LOVES RAY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.2,
+      "audio_rms": 405.6,
+      "audio_ok": true
+    },
+    {
+      "number": 6844,
+      "name": "24/7 | KING OF QUEENS",
+      "epg": [
+        {
+          "time": "7:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 38.3,
+      "audio_rms": 1246.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6845,
+      "name": "24/7 | THE BIG BANG THEORY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.7,
+      "audio_rms": 1815.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6846,
+      "name": "24/7 | THE GOLDBERGS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.4,
+      "audio_rms": 492.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6847,
+      "name": "24/7 | THREES COMPANY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.9,
+      "audio_rms": 2877.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6848,
+      "name": "24/7 | MR BEAN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 90.8,
+      "audio_rms": 625.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6849,
+      "name": "24/7 | MAD ABOUT YOU",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.2,
+      "audio_rms": 1617.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6850,
+      "name": "24/7 | JUST FOR LAUGHS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.1,
+      "audio_rms": 2148.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6851,
+      "name": "24/7 | FEAR FACTOR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 104.3,
+      "audio_rms": 1742.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6852,
+      "name": "24/7 | ENTOURAGE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.2,
+      "audio_rms": 686.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6853,
+      "name": "24/7 | DUKES OF HAZARD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 89.8,
+      "audio_rms": 388.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6854,
+      "name": "24/7 | MAN VS FOOD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.9,
+      "audio_rms": 2403.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6855,
+      "name": "24/7 | PRISON BREAK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 213.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6856,
+      "name": "24/7 | WHO'S THE BOSS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.9,
+      "audio_rms": 2209.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6857,
+      "name": "24/7 | TWO AND A HALF MEN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.8,
+      "audio_rms": 308.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6858,
+      "name": "24/7 | THE WALKING DEAD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 133.8,
+      "audio_rms": 604.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6859,
+      "name": "24/7 | GROWING PAINS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 103.3,
+      "audio_rms": 1137.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6860,
+      "name": "24/7 | GILMORE GIRLS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.3,
+      "audio_rms": 3373.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6861,
+      "name": "24/7 | THE ADAMS FAMILY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.7,
+      "audio_rms": 523.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6863,
+      "name": "24/7 | SANFORD AND SON",
+      "epg": [],
+      "video_ok": true,
+      "luma": 111.0,
+      "audio_rms": 1871.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6864,
+      "name": "24/7 | MASTERCHEF",
+      "epg": [],
+      "video_ok": true,
+      "luma": 71.2,
+      "audio_rms": 2794.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6865,
+      "name": "24/7 | THE COSBY SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 93.8,
+      "audio_rms": 1965.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6866,
+      "name": "24/7 | THE CONNERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.0,
+      "audio_rms": 215.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6867,
+      "name": "24/7 | THE BOB NEWHART SH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.2,
+      "audio_rms": 3800.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6868,
+      "name": "24/7 | SCAM CITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.9,
+      "audio_rms": 1614.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6869,
+      "name": "24/7 | QUANTUM LEAP",
+      "epg": [],
+      "video_ok": true,
+      "luma": 42.8,
+      "audio_rms": 2942.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6871,
+      "name": "24/7 | MIKE AND MOLLY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.4,
+      "audio_rms": 2065.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6872,
+      "name": "24/7 | MAMA'S FAMILY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.8,
+      "audio_rms": 1942.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6873,
+      "name": "24/7 | LAST MAN STANDING",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.1,
+      "audio_rms": 159.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6874,
+      "name": "24/7 | MODERN FAMILY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.4,
+      "audio_rms": 2834.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6875,
+      "name": "24/7 | LOST IN SPACE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6876,
+      "name": "24/7 | LIVING SINGLE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.0,
+      "audio_rms": 401.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6878,
+      "name": "24/7 | FAMILY TIES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.2,
+      "audio_rms": 893.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6879,
+      "name": "24/7 | FANTASY ISLAND",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.5,
+      "audio_rms": 83.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6880,
+      "name": "24/7 | THE OFFICE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.2,
+      "audio_rms": 2028.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6881,
+      "name": "24/7 | THE NANNY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 107.2,
+      "audio_rms": 1348.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6886,
+      "name": "24/7 | TOM AND JERRY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 125.7,
+      "audio_rms": 1789.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6887,
+      "name": "24/7 | SCRUBS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.3,
+      "audio_rms": 1214.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6905,
+      "name": "24/7 | TAX",
+      "epg": [],
+      "video_ok": true,
+      "luma": 26.1,
+      "audio_rms": 317.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6908,
+      "name": "24/7 | STAR TREK DISCOVERY",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6910,
+      "name": "24/7 | STAR TREK DEEP SPACE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.4,
+      "audio_rms": 222.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6911,
+      "name": "24/7 | CRIMINAL MINDS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.4,
+      "audio_rms": 214.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6956,
+      "name": "24/7 | AMERICAN CHOPPER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 96.1,
+      "audio_rms": 1065.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6957,
+      "name": "7 | AMERICAN DAD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 129.7,
+      "audio_rms": 665.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6958,
+      "name": "24/7 | ANCIENT ALIENS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.2,
+      "audio_rms": 2621.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6959,
+      "name": "7 | STORAGE HUNTERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 63.8,
+      "audio_rms": 2256.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6960,
+      "name": "24/7 | BARNEY MILLER",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.4,
+      "audio_rms": 627.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6962,
+      "name": "24/7 | BILLY THE EXTERMINAT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.0,
+      "audio_rms": 2777.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6964,
+      "name": "24/7 | BLUE BLOODS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.7,
+      "audio_rms": 80.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6965,
+      "name": "24/7 | BORDER SECURITY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 140.7,
+      "audio_rms": 720.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6966,
+      "name": "24/7 | BRADY BUNCH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.2,
+      "audio_rms": 730.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6967,
+      "name": "24/7 | BREAKING BAD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.5,
+      "audio_rms": 15.0,
+      "audio_ok": false
+    },
+    {
+      "number": 6969,
+      "name": "24/7 | THE LOVE BOAT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.7,
+      "audio_rms": 70.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6970,
+      "name": "24/7 | THE CAROL BURNETT S",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.8,
+      "audio_rms": 394.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6971,
+      "name": "24/7 | CHAPPELLE'S SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 25.2,
+      "audio_rms": 3607.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6972,
+      "name": "24/7 | SAVED BY THE BELL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.7,
+      "audio_rms": 1486.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6973,
+      "name": "24/7 | ROSEANNE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.2,
+      "audio_rms": 1805.4,
+      "audio_ok": true
+    },
+    {
+      "number": 6975,
+      "name": "24/7 | DICK VAN DYKE SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.9,
+      "audio_rms": 1610.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6977,
+      "name": "24/7 | MOM",
+      "epg": [],
+      "video_ok": true,
+      "luma": 86.8,
+      "audio_rms": 1347.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6978,
+      "name": "24/7 | ELLEN'S GAME OF GAMES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.5,
+      "audio_rms": 3506.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6979,
+      "name": "24/7 | FAMILY GUY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 173.6,
+      "audio_rms": 551.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6981,
+      "name": "24/7 | MARY TYLER MOORE S",
+      "epg": [],
+      "video_ok": true,
+      "luma": 44.2,
+      "audio_rms": 226.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6982,
+      "name": "24/7 | FARGO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.0,
+      "audio_rms": 989.0,
+      "audio_ok": true
+    },
+    {
+      "number": 6983,
+      "name": "24/7 | GAME OF THRONES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.4,
+      "audio_rms": 3310.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6984,
+      "name": "24/7 | GANGLAND",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.2,
+      "audio_rms": 1233.8,
+      "audio_ok": true
+    },
+    {
+      "number": 6985,
+      "name": "24/7 | GOOD TIMES",
+      "epg": [],
+      "video_ok": true,
+      "luma": 122.2,
+      "audio_rms": 1397.9,
+      "audio_ok": true
+    },
+    {
+      "number": 6986,
+      "name": "24/7 | TIMBER KINGS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 102.3,
+      "audio_rms": 1356.2,
+      "audio_ok": true
+    },
+    {
+      "number": 6987,
+      "name": "24/7 | SHERLOCK",
+      "epg": [],
+      "video_ok": true,
+      "luma": 46.2,
+      "audio_rms": 802.5,
+      "audio_ok": true
+    },
+    {
+      "number": 6988,
+      "name": "24/7 | INK MASTERS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.8,
+      "audio_rms": 4164.7,
+      "audio_ok": true
+    },
+    {
+      "number": 6993,
+      "name": "24/7 | PARKS AND RECREATION",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.7,
+      "audio_rms": 1380.1,
+      "audio_ok": true
+    },
+    {
+      "number": 6994,
+      "name": "24/7 | KEEPING UP WITH THE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 120.3,
+      "audio_rms": 3035.3,
+      "audio_ok": true
+    },
+    {
+      "number": 6995,
+      "name": "24/7 | KING OF THE HILL",
+      "epg": [],
+      "video_ok": true,
+      "luma": 115.5,
+      "audio_rms": 10.9,
+      "audio_ok": false
+    },
+    {
+      "number": 6997,
+      "name": "24/7 | Kevin Can Wait",
+      "epg": [],
+      "video_ok": true,
+      "luma": 69.8,
+      "audio_rms": 537.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7000,
+      "name": "24/7 | LAS VEGAS",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 7001,
+      "name": "24/7 | MAN WITH A PLAN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.6,
+      "audio_rms": 1905.0,
+      "audio_ok": true
+    },
+    {
+      "number": 7003,
+      "name": "24/7 | MOST EXPENSIVEST",
+      "epg": [],
+      "video_ok": true,
+      "luma": 124.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 7004,
+      "name": "24/7 | MOST HAUNTED",
+      "epg": [],
+      "video_ok": true,
+      "luma": 97.9,
+      "audio_rms": 1752.2,
+      "audio_ok": true
+    },
+    {
+      "number": 7005,
+      "name": "24/7 | THE WONDER YEARS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.8,
+      "audio_rms": 275.1,
+      "audio_ok": true
+    },
+    {
+      "number": 7006,
+      "name": "24/7 | TOP GEAR",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.7,
+      "audio_rms": 418.1,
+      "audio_ok": true
+    },
+    {
+      "number": 7007,
+      "name": "24/7 | PAWN STARS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.0,
+      "audio_rms": 2498.1,
+      "audio_ok": true
+    },
+    {
+      "number": 7008,
+      "name": "24/7 | PJ MASKS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 99.1,
+      "audio_rms": 757.3,
+      "audio_ok": true
+    },
+    {
+      "number": 7009,
+      "name": "24/7 | RICK AND MORTY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 166.4,
+      "audio_rms": 1252.6,
+      "audio_ok": true
+    },
+    {
+      "number": 7010,
+      "name": "24/7 | TRAILER PARK BOYS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.4,
+      "audio_rms": 1409.6,
+      "audio_ok": true
+    },
+    {
+      "number": 7012,
+      "name": "24/7 | THE ALFRED HITCHCOC",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.2,
+      "audio_rms": 1271.5,
+      "audio_ok": true
+    },
+    {
+      "number": 7013,
+      "name": "24/7 | THE GARFIELD SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 127.7,
+      "audio_rms": 425.2,
+      "audio_ok": true
+    },
+    {
+      "number": 7015,
+      "name": "24/7 | TRANSFORMERS CART",
+      "epg": [],
+      "video_ok": true,
+      "luma": 117.4,
+      "audio_rms": 1326.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7019,
+      "name": "24/7 | WELCOME BACK KOTTER",
+      "epg": [],
+      "video_ok": false,
+      "luma": 13.7,
+      "audio_rms": 1111.0,
+      "audio_ok": true
+    },
+    {
+      "number": 7022,
+      "name": "24/7 | SABRINA THE TEENAGE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.5,
+      "audio_rms": 1026.1,
+      "audio_ok": true
+    },
+    {
+      "number": 7026,
+      "name": "24/7 | OUTER LIMITS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.3,
+      "audio_rms": 1617.0,
+      "audio_ok": true
+    },
+    {
+      "number": 7027,
+      "name": "24/7 | RED GREEN SHOW",
+      "epg": [],
+      "video_ok": true,
+      "luma": 51.3,
+      "audio_rms": 1239.6,
+      "audio_ok": true
+    },
+    {
+      "number": 7033,
+      "name": "24/7 |X MEN CARTOONS",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.4,
+      "audio_rms": 2009.9,
+      "audio_ok": true
+    },
+    {
+      "number": 7034,
+      "name": "24/7 | ARE YOU AFRAID OF D",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 1693.0,
+      "audio_ok": true
+    },
+    {
+      "number": 7035,
+      "name": "24/7 | | LOVE LUCY",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.9,
+      "audio_rms": 2866.3,
+      "audio_ok": true
+    },
+    {
+      "number": 7036,
+      "name": "24/7 | CHARMED",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.1,
+      "audio_rms": 216.2,
+      "audio_ok": true
+    },
+    {
+      "number": 7037,
+      "name": "24/7 | ANDY GRIFFITH",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.7,
+      "audio_rms": 760.1,
+      "audio_ok": true
+    },
+    {
+      "number": 7038,
+      "name": "24/7 | MARY TYLER MOORE",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.8,
+      "audio_rms": 480.1,
+      "audio_ok": true
+    },
+    {
+      "number": 7039,
+      "name": "24/7 | TALES FROM THE CRYPT",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.5,
+      "audio_rms": 320.6,
+      "audio_ok": true
+    },
+    {
+      "number": 7041,
+      "name": "7 | 1TVX SERIES 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 7042,
+      "name": "7 | TVX SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.1,
+      "audio_rms": 2751.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7043,
+      "name": "7 | TVX SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.6,
+      "audio_rms": 1197.2,
+      "audio_ok": true
+    },
+    {
+      "number": 7044,
+      "name": "7 | ITVX SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 21.9,
+      "audio_rms": 1044.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7045,
+      "name": "7 | TVX SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 443.8,
+      "audio_ok": true
+    },
+    {
+      "number": 7046,
+      "name": "7 | ITVX SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 47.4,
+      "audio_rms": 1288.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7047,
+      "name": "7 | ITVX SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 50.0,
+      "audio_rms": 220.6,
+      "audio_ok": true
+    },
+    {
+      "number": 7048,
+      "name": "7 | ITVX SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 101.1,
+      "audio_rms": 736.2,
+      "audio_ok": true
+    },
+    {
+      "number": 7049,
+      "name": "7 | TVX SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.3,
+      "audio_rms": 1479.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7050,
+      "name": "7 | TVX SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.0,
+      "audio_rms": 54.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7051,
+      "name": "24/7 | BBCIPLAYER SERIES INFO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 141.5,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 7052,
+      "name": "7 | BBCIPLAYER SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.6,
+      "audio_rms": 921.6,
+      "audio_ok": true
+    },
+    {
+      "number": 7053,
+      "name": "7 | BBCIPLAYER SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.7,
+      "audio_rms": 6171.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7054,
+      "name": "7 | BBCIPLAYER SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.1,
+      "audio_rms": 775.6,
+      "audio_ok": true
+    },
+    {
+      "number": 7055,
+      "name": "7 | BBCIPLAYER SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 91.8,
+      "audio_rms": 294.3,
+      "audio_ok": true
+    },
+    {
+      "number": 7056,
+      "name": "7 | BBCIPLAYER SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.4,
+      "audio_rms": 1614.7,
+      "audio_ok": true
+    },
+    {
+      "number": 7057,
+      "name": "7 | BBCIPLAYER SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.3,
+      "audio_rms": 844.5,
+      "audio_ok": true
+    },
+    {
+      "number": 7058,
+      "name": "7 | BBCIPLAYER SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.7,
+      "audio_rms": 2430.4,
+      "audio_ok": true
+    },
+    {
+      "number": 7059,
+      "name": "7 | BBCIPLAYER SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.5,
+      "audio_rms": 650.1,
+      "audio_ok": true
+    }
+  ]
+}

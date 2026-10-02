@@ -1,0 +1,1732 @@
+{
+  "category": "ENGLISH | 24X7 OTT +",
+  "captured": "2026-10-01T19:07:01-0400",
+  "mode": "full",
+  "reported_total": 191,
+  "channels": [
+    {
+      "number": 35837,
+      "name": "SKY STORE INFO*******",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.5,
+      "audio_rms": 739.2,
+      "audio_ok": true
+    },
+    {
+      "number": 35838,
+      "name": "SKY STORE PREMIERE 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 76.1,
+      "audio_rms": 198.0,
+      "audio_ok": true
+    },
+    {
+      "number": 35839,
+      "name": "Y STORE PREMIERE 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.7,
+      "audio_rms": 1025.8,
+      "audio_ok": true
+    },
+    {
+      "number": 35840,
+      "name": "SKY STORE PREMIERE 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.6,
+      "audio_rms": 1167.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35841,
+      "name": "SKY STORE PREMIERE 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.1,
+      "audio_rms": 1026.1,
+      "audio_ok": true
+    },
+    {
+      "number": 35842,
+      "name": "SKY STORE PREMIERE 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.0,
+      "audio_rms": 130.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35843,
+      "name": "SKY STORE PREMIERE 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.9,
+      "audio_rms": 160.3,
+      "audio_ok": true
+    },
+    {
+      "number": 35844,
+      "name": "SKY STORE PREMIERE 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.1,
+      "audio_rms": 366.9,
+      "audio_ok": true
+    },
+    {
+      "number": 35845,
+      "name": "SKY STORE PREMIERE 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.3,
+      "audio_rms": 788.1,
+      "audio_ok": true
+    },
+    {
+      "number": 35846,
+      "name": "SKY STORE PREMIERE 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.7,
+      "audio_rms": 1724.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35847,
+      "name": "SKY STORE PREMIERE 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.4,
+      "audio_rms": 318.2,
+      "audio_ok": true
+    },
+    {
+      "number": 35848,
+      "name": "SKY STORE PREMIERE 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.3,
+      "audio_rms": 422.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35849,
+      "name": "SKY STORE PREMIERE 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.2,
+      "audio_rms": 272.8,
+      "audio_ok": true
+    },
+    {
+      "number": 35850,
+      "name": "SKY STORE PREMIERE 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.9,
+      "audio_rms": 133.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35851,
+      "name": "SKY STORE PREMIERE 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.0,
+      "audio_rms": 291.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35852,
+      "name": "SKY STORE PREMIERE 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.6,
+      "audio_rms": 414.3,
+      "audio_ok": true
+    },
+    {
+      "number": 35853,
+      "name": "SKY STORE PREMIERE 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.4,
+      "audio_rms": 3379.2,
+      "audio_ok": true
+    },
+    {
+      "number": 35854,
+      "name": "SKY STORE PREMIERE 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.7,
+      "audio_rms": 228.4,
+      "audio_ok": true
+    },
+    {
+      "number": 35855,
+      "name": "SKY STORE PREMIERE 18",
+      "epg": [],
+      "video_ok": true,
+      "luma": 41.5,
+      "audio_rms": 1429.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35856,
+      "name": "SKY STORE PREMIERE 19",
+      "epg": [],
+      "video_ok": false,
+      "luma": 10.8,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 35857,
+      "name": "SKY STORE PREMIERE 20",
+      "epg": [],
+      "video_ok": true,
+      "luma": 35.8,
+      "audio_rms": 107.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35858,
+      "name": "SKY STORE PREMIERE 21",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.7,
+      "audio_rms": 63.4,
+      "audio_ok": true
+    },
+    {
+      "number": 35859,
+      "name": "SKY STORE PREMIERE 22",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.7,
+      "audio_rms": 161.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35860,
+      "name": "SKY STORE PREMIERE 23",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.4,
+      "audio_rms": 280.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35861,
+      "name": "SKY STORE PREMIERE 24",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.0,
+      "audio_rms": 777.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35862,
+      "name": "SKY STORE PREMIERE 25",
+      "epg": [],
+      "video_ok": true,
+      "luma": 62.7,
+      "audio_rms": 276.0,
+      "audio_ok": true
+    },
+    {
+      "number": 35863,
+      "name": "SKY STORE PREMIERE 26",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.5,
+      "audio_rms": 153.3,
+      "audio_ok": true
+    },
+    {
+      "number": 35864,
+      "name": "SKY STORE PREMIERE 27",
+      "epg": [],
+      "video_ok": true,
+      "luma": 78.1,
+      "audio_rms": 395.4,
+      "audio_ok": true
+    },
+    {
+      "number": 35865,
+      "name": "SKY STORE PREMIERE 28",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.6,
+      "audio_rms": 3443.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35866,
+      "name": "SKY STORE PREMIERE 29",
+      "epg": [],
+      "video_ok": true,
+      "luma": 19.9,
+      "audio_rms": 83.1,
+      "audio_ok": true
+    },
+    {
+      "number": 35867,
+      "name": "SKY STORE PREMIERE 30",
+      "epg": [],
+      "video_ok": true,
+      "luma": 23.0,
+      "audio_rms": 108.3,
+      "audio_ok": true
+    },
+    {
+      "number": 35869,
+      "name": "DRIMEVIDEO SERIE INFO?",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.4,
+      "audio_rms": 1177.1,
+      "audio_ok": true
+    },
+    {
+      "number": 35870,
+      "name": "PRIMEVIDEO SERIE 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 57.4,
+      "audio_rms": 90.9,
+      "audio_ok": true
+    },
+    {
+      "number": 35871,
+      "name": "PRIMEVIDEO SERIE 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.9,
+      "audio_rms": 211.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35872,
+      "name": "PRIMEVIDEO SERIE 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.4,
+      "audio_rms": 1078.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35873,
+      "name": "PRIMEVIDEO SERIE 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 92.9,
+      "audio_rms": 580.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35874,
+      "name": "PRIMEVIDEO SERIE 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.2,
+      "audio_rms": 459.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35875,
+      "name": "PRIMEVIDEO SERIE 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.7,
+      "audio_rms": 131.9,
+      "audio_ok": true
+    },
+    {
+      "number": 35876,
+      "name": "PRIMEVIDEO SERIE 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.5,
+      "audio_rms": 252.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35877,
+      "name": "PRIMEVIDEO SERIE 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.9,
+      "audio_rms": 187.9,
+      "audio_ok": true
+    },
+    {
+      "number": 35878,
+      "name": "PRIMEVIDEO SERIE 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.0,
+      "audio_rms": 753.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35879,
+      "name": "PRIMEVIDEO SERIE 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 74.3,
+      "audio_rms": 33.1,
+      "audio_ok": true
+    },
+    {
+      "number": 35881,
+      "name": "REX APPLE TV+ SERIES INF",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.9,
+      "audio_rms": 3055.9,
+      "audio_ok": true
+    },
+    {
+      "number": 35882,
+      "name": "APPLE TV+ SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 45.5,
+      "audio_rms": 69.8,
+      "audio_ok": true
+    },
+    {
+      "number": 35883,
+      "name": "APPLE TV+ SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.3,
+      "audio_rms": 621.2,
+      "audio_ok": true
+    },
+    {
+      "number": 35884,
+      "name": "APPLE TV+ SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.0,
+      "audio_rms": 88.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35885,
+      "name": "APPLE TV+ SERIES 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 16.7,
+      "audio_rms": 111.4,
+      "audio_ok": true
+    },
+    {
+      "number": 35886,
+      "name": "APPLE TV+ SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 68.3,
+      "audio_rms": 138.3,
+      "audio_ok": true
+    },
+    {
+      "number": 35887,
+      "name": "APPLE TV+ SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.2,
+      "audio_rms": 29.9,
+      "audio_ok": false
+    },
+    {
+      "number": 35888,
+      "name": "APPLE TV+ SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.9,
+      "audio_rms": 793.0,
+      "audio_ok": true
+    },
+    {
+      "number": 35889,
+      "name": "APPLE TV+ SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 105.3,
+      "audio_rms": 162.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35890,
+      "name": "APPLE TV+ SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.1,
+      "audio_rms": 121.9,
+      "audio_ok": true
+    },
+    {
+      "number": 35891,
+      "name": "APPLE TV+ SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.7,
+      "audio_rms": 581.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35893,
+      "name": "FED ISNEY+ SERIES INFO*",
+      "epg": [],
+      "video_ok": true,
+      "luma": 40.0,
+      "audio_rms": 3609.2,
+      "audio_ok": true
+    },
+    {
+      "number": 35894,
+      "name": "DISNEY+ SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.6,
+      "audio_rms": 846.9,
+      "audio_ok": true
+    },
+    {
+      "number": 35895,
+      "name": "DISNEY+ SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.0,
+      "audio_rms": 58.0,
+      "audio_ok": true
+    },
+    {
+      "number": 35896,
+      "name": "DISNEY+ SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.4,
+      "audio_rms": 747.2,
+      "audio_ok": true
+    },
+    {
+      "number": 35897,
+      "name": "DISNEY+ SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 100.4,
+      "audio_rms": 505.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35898,
+      "name": "DISNEY+ SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.3,
+      "audio_rms": 547.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35899,
+      "name": "DISNEY+ SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.3,
+      "audio_rms": 1473.4,
+      "audio_ok": true
+    },
+    {
+      "number": 35900,
+      "name": "DISNEY+ SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.7,
+      "audio_rms": 246.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35901,
+      "name": "DISNEY+ SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 52.1,
+      "audio_rms": 461.8,
+      "audio_ok": true
+    },
+    {
+      "number": 35902,
+      "name": "DISNEY+ SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.5,
+      "audio_rms": 83.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35903,
+      "name": "DISNEY+ SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.4,
+      "audio_rms": 1667.8,
+      "audio_ok": true
+    },
+    {
+      "number": 35905,
+      "name": "AA SERIES ANO aes",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.0,
+      "audio_rms": 3872.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35906,
+      "name": "NETFLIX SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 25.2,
+      "audio_rms": 325.2,
+      "audio_ok": true
+    },
+    {
+      "number": 35907,
+      "name": "NETFLIX SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.4,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 35908,
+      "name": "NETFLIX SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.0,
+      "audio_rms": 383.4,
+      "audio_ok": true
+    },
+    {
+      "number": 35909,
+      "name": "NETFLIX SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.8,
+      "audio_rms": 565.3,
+      "audio_ok": true
+    },
+    {
+      "number": 35910,
+      "name": "NETFLIX SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 109.6,
+      "audio_rms": 279.1,
+      "audio_ok": true
+    },
+    {
+      "number": 35911,
+      "name": "NETFLIX SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.6,
+      "audio_rms": 167.8,
+      "audio_ok": true
+    },
+    {
+      "number": 35912,
+      "name": "NETFLIX SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.2,
+      "audio_rms": 163.3,
+      "audio_ok": true
+    },
+    {
+      "number": 35913,
+      "name": "NETFLIX SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.6,
+      "audio_rms": 490.4,
+      "audio_ok": true
+    },
+    {
+      "number": 35914,
+      "name": "NETFLIX SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.7,
+      "audio_rms": 85.0,
+      "audio_ok": true
+    },
+    {
+      "number": 35915,
+      "name": "NETFLIX SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.8,
+      "audio_rms": 762.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35917,
+      "name": "ETFLIX PREMIERE INF",
+      "epg": [],
+      "video_ok": true,
+      "luma": 36.6,
+      "audio_rms": 3254.1,
+      "audio_ok": true
+    },
+    {
+      "number": 35918,
+      "name": "NETFLIX PREMIERE 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 121.0,
+      "audio_rms": 1161.3,
+      "audio_ok": true
+    },
+    {
+      "number": 35919,
+      "name": "NETFLIX PREMIERE 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 14.5,
+      "audio_rms": 573.8,
+      "audio_ok": true
+    },
+    {
+      "number": 35920,
+      "name": "NETFLIX PREMIERE 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 137.9,
+      "audio_rms": 266.4,
+      "audio_ok": true
+    },
+    {
+      "number": 35921,
+      "name": "NETFLIX PREMIERE 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.7,
+      "audio_rms": 17.2,
+      "audio_ok": false
+    },
+    {
+      "number": 35922,
+      "name": "NETFLIX PREMIERE 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.1,
+      "audio_rms": 843.7,
+      "audio_ok": true
+    },
+    {
+      "number": 35923,
+      "name": "NETFLIX PREMIERE 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.1,
+      "audio_rms": 25.1,
+      "audio_ok": false
+    },
+    {
+      "number": 35924,
+      "name": "NETFLIX PREMIERE 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.7,
+      "audio_rms": 49.5,
+      "audio_ok": true
+    },
+    {
+      "number": 35925,
+      "name": "NETFLIX PREMIERE 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.2,
+      "audio_rms": 605.0,
+      "audio_ok": true
+    },
+    {
+      "number": 35926,
+      "name": "NETFLIX PREMIERE 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.1,
+      "audio_rms": 164.6,
+      "audio_ok": true
+    },
+    {
+      "number": 35927,
+      "name": "NETFLIX PREMIERE 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 33.0,
+      "audio_rms": 828.0,
+      "audio_ok": true
+    },
+    {
+      "number": 35928,
+      "name": "NETFLIX PREMIERE 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 11.1,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 35929,
+      "name": "NETFLIX PREMIERE 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.4,
+      "audio_rms": 109.2,
+      "audio_ok": true
+    },
+    {
+      "number": 35930,
+      "name": "NETFLIX PREMIERE 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 38.1,
+      "audio_rms": 184.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36039,
+      "name": "HULU ORIGINALS INFO",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.6,
+      "audio_rms": 4831.3,
+      "audio_ok": true
+    },
+    {
+      "number": 36040,
+      "name": "HULU ORIGINALS 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.3,
+      "audio_rms": 89.7,
+      "audio_ok": true
+    },
+    {
+      "number": 36041,
+      "name": "HULU ORIGINALS 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.1,
+      "audio_rms": 39.1,
+      "audio_ok": true
+    },
+    {
+      "number": 36042,
+      "name": "HULU ORIGINALS 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.7,
+      "audio_rms": 348.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36043,
+      "name": "HULU ORIGINALS 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 160.2,
+      "audio_rms": 1049.7,
+      "audio_ok": true
+    },
+    {
+      "number": 36,
+      "name": "HULU ORIGINALS 5",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 67.1,
+      "audio_rms": 785.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36045,
+      "name": "HULU ORIGINALS 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.7,
+      "audio_rms": 316.9,
+      "audio_ok": true
+    },
+    {
+      "number": 36046,
+      "name": "HULU ORIGINALS 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.0,
+      "audio_rms": 274.7,
+      "audio_ok": true
+    },
+    {
+      "number": 36047,
+      "name": "HULU ORIGINALS 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 82.2,
+      "audio_rms": 44.3,
+      "audio_ok": true
+    },
+    {
+      "number": 36048,
+      "name": "HULU ORIGINALS 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 83.4,
+      "audio_rms": 560.9,
+      "audio_ok": true
+    },
+    {
+      "number": 36049,
+      "name": "HULU ORIGINALS 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.1,
+      "audio_rms": 412.1,
+      "audio_ok": true
+    },
+    {
+      "number": 36050,
+      "name": "HULU ORIGINALS 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.5,
+      "audio_rms": 357.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36051,
+      "name": "HULU ORIGINALS 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.1,
+      "audio_rms": 1202.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36052,
+      "name": "HULU ORIGINALS 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 88.9,
+      "audio_rms": 656.7,
+      "audio_ok": true
+    },
+    {
+      "number": 36053,
+      "name": "HULU ORIGINALS 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 79.2,
+      "audio_rms": 185.2,
+      "audio_ok": true
+    },
+    {
+      "number": 36054,
+      "name": "HULU ORIGINALS 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 77.5,
+      "audio_rms": 130.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36055,
+      "name": "HULU ORIGINALS 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 37.9,
+      "audio_rms": 83.3,
+      "audio_ok": true
+    },
+    {
+      "number": 36056,
+      "name": "HULU ORIGINALS 17",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.5,
+      "audio_rms": 1366.2,
+      "audio_ok": true
+    },
+    {
+      "number": 3605,
+      "name": "HULU ORIGINALS 18",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": true,
+      "luma": 18.3,
+      "audio_rms": 288.3,
+      "audio_ok": true
+    },
+    {
+      "number": 36058,
+      "name": "HULU ORIGINALS 19",
+      "epg": [],
+      "video_ok": true,
+      "luma": 72.0,
+      "audio_rms": 557.2,
+      "audio_ok": true
+    },
+    {
+      "number": 36060,
+      "name": "HBO MAX ORIGINAL I",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36061,
+      "name": "HBO MAX ORIGINAL 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36062,
+      "name": "HBO MAX ORIGINAL 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36063,
+      "name": "HBO MAX ORIGINAL 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36064,
+      "name": "HBO MAX ORIGINAL 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36065,
+      "name": "HBO MAX ORIGINAL 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36066,
+      "name": "HBO MAX ORIGINAL 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36067,
+      "name": "HBO MAX ORIGINAL 7",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36068,
+      "name": "HBO MAX ORIGINAL 8",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36069,
+      "name": "HBO MAX ORIGINAL 9",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36070,
+      "name": "HBO MAX ORIGINAL 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36071,
+      "name": "HBO MAX ORIGINAL 11",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36072,
+      "name": "HBO MAX ORIGINAL 12",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36073,
+      "name": "HBO MAX ORIGINAL 13",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36074,
+      "name": "HBO MAX ORIGINAL 14",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36075,
+      "name": "HBO MAX ORIGINAL 15",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36076,
+      "name": "HBO MAX ORIGINAL 16",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36077,
+      "name": "HBO MAX ORIGINAL 17",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36080,
+      "name": "DISCOVERY+ ORIGINAL 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36081,
+      "name": "DISCOVERY+ ORIGINAL 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36082,
+      "name": "DISCOVERY+ ORIGINAL 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36083,
+      "name": "DISCOVERY+ ORIGINAL 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36084,
+      "name": "DISCOVERY+ ORIGINAL 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36086,
+      "name": "DISCOVERY+ ORIGINAL 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36087,
+      "name": "DISCOVERY+ ORIGINAL 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36088,
+      "name": "DISCOVERY+ ORIGINAL 7",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3608,
+      "name": "DISCOVERY+ ORIGINAL 8",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36090,
+      "name": "DISCOVERY+ ORIGINAL 9",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36091,
+      "name": "DISCOVERY+ ORIGINAL 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36100,
+      "name": "NATGEO+ ORIGINAL IN",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36101,
+      "name": "NATGEO+ ORIGINAL 1",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36102,
+      "name": "NATGEO+ ORIGINAL 2",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36103,
+      "name": "NATGEO+ ORIGINAL 3",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36104,
+      "name": "NATGEO+ ORIGINAL 4",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36105,
+      "name": "NATGEO+ ORIGINAL 5",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36106,
+      "name": "NATGEO+ ORIGINAL 6",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3610,
+      "name": "NATGEO+ ORIGINAL 7",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36108,
+      "name": "NATGEO+ ORIGINAL 8",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 3610,
+      "name": "NATGEO+ ORIGINAL 9",
+      "number_uncertain": true,
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36110,
+      "name": "NATGEO+ ORIGINAL 10",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36121,
+      "name": "PEACOCK ORIGINAL INF",
+      "epg": [],
+      "video_ok": true,
+      "luma": 65.9,
+      "audio_rms": 4807.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36122,
+      "name": "PEACOCK ORIGINAL 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.6,
+      "audio_rms": 652.7,
+      "audio_ok": true
+    },
+    {
+      "number": 36123,
+      "name": "PEACOCK ORIGINAL 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 106.0,
+      "audio_rms": 110.0,
+      "audio_ok": true
+    },
+    {
+      "number": 36124,
+      "name": "PEACOCK ORIGINAL 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.7,
+      "audio_rms": 602.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36125,
+      "name": "PEACOCK ORIGINAL 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 94.4,
+      "audio_rms": 487.0,
+      "audio_ok": true
+    },
+    {
+      "number": 36126,
+      "name": "PEACOCK ORIGINAL 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 113.2,
+      "audio_rms": 731.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36127,
+      "name": "PEACOCK ORIGINAL 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 66.3,
+      "audio_rms": 1318.4,
+      "audio_ok": true
+    },
+    {
+      "number": 36128,
+      "name": "PEACOCK ORIGINAL 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.7,
+      "audio_rms": 1630.7,
+      "audio_ok": true
+    },
+    {
+      "number": 36129,
+      "name": "PEACOCK ORIGINAL 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.5,
+      "audio_rms": 1177.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36130,
+      "name": "PEACOCK ORIGINAL 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 43.4,
+      "audio_rms": 529.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36131,
+      "name": "PEACOCK ORIGINAL 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 49.4,
+      "audio_rms": 1944.5,
+      "audio_ok": true
+    },
+    {
+      "number": 36132,
+      "name": "PEACOCK ORIGINAL 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 26.4,
+      "audio_rms": 716.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36133,
+      "name": "PEACOCK ORIGINAL 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 25.6,
+      "audio_rms": 896.7,
+      "audio_ok": true
+    },
+    {
+      "number": 36150,
+      "name": "PARAMOUNT + ORIGIN",
+      "epg": [],
+      "video_ok": true,
+      "luma": 32.9,
+      "audio_rms": 6232.1,
+      "audio_ok": true
+    },
+    {
+      "number": 36151,
+      "name": "PARAMOUNT+ ORIGINAL 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.6,
+      "audio_rms": 360.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36152,
+      "name": "PARAMOUNT+ ORIGINAL 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 39.9,
+      "audio_rms": 278.0,
+      "audio_ok": true
+    },
+    {
+      "number": 36153,
+      "name": "PARAMOUNT+ ORIGINAL 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 19.2,
+      "audio_rms": 392.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36154,
+      "name": "PARAMOUNT+ ORIGINAL 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 27.5,
+      "audio_rms": 345.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36155,
+      "name": "PARAMOUNT+ ORIGINAL 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 20.1,
+      "audio_rms": 320.3,
+      "audio_ok": true
+    },
+    {
+      "number": 36156,
+      "name": "PARAMOUNT+ ORIGINAL 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.5,
+      "audio_rms": 176.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36157,
+      "name": "PARAMOUNT+ ORIGINAL 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.2,
+      "audio_rms": 1069.0,
+      "audio_ok": true
+    },
+    {
+      "number": 36158,
+      "name": "PARAMOUNT+ ORIGINAL 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 34.3,
+      "audio_rms": 4352.1,
+      "audio_ok": true
+    },
+    {
+      "number": 36159,
+      "name": "PARAMOUNT+ ORIGINAL 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.6,
+      "audio_rms": 453.2,
+      "audio_ok": true
+    },
+    {
+      "number": 36160,
+      "name": "PARAMOUNT+ ORIGINAL 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 80.2,
+      "audio_rms": 643.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36161,
+      "name": "SKYMIX SERIES INFO **",
+      "epg": [],
+      "video_ok": true,
+      "luma": 53.3,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 36162,
+      "name": "SKYMIX SERIES 1",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.5,
+      "audio_rms": 251.5,
+      "audio_ok": true
+    },
+    {
+      "number": 36163,
+      "name": "SKYMIX SERIES 2",
+      "epg": [],
+      "video_ok": true,
+      "luma": 56.6,
+      "audio_rms": 229.0,
+      "audio_ok": true
+    },
+    {
+      "number": 36164,
+      "name": "SKYMIX SERIES 3",
+      "epg": [],
+      "video_ok": true,
+      "luma": 29.4,
+      "audio_rms": 521.7,
+      "audio_ok": true
+    },
+    {
+      "number": 36165,
+      "name": "SKYMIX SERIES 4",
+      "epg": [],
+      "video_ok": true,
+      "luma": 30.1,
+      "audio_rms": 798.0,
+      "audio_ok": true
+    },
+    {
+      "number": 36166,
+      "name": "SKYMIX SERIES 5",
+      "epg": [],
+      "video_ok": true,
+      "luma": 73.5,
+      "audio_rms": 164.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36167,
+      "name": "SKYMIX SERIES 6",
+      "epg": [],
+      "video_ok": true,
+      "luma": 70.5,
+      "audio_rms": 287.8,
+      "audio_ok": true
+    },
+    {
+      "number": 36168,
+      "name": "SKYMIX SERIES 7",
+      "epg": [],
+      "video_ok": true,
+      "luma": 22.6,
+      "audio_rms": 519.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36169,
+      "name": "SKYMIX SERIES 8",
+      "epg": [],
+      "video_ok": true,
+      "luma": 24.5,
+      "audio_rms": 179.9,
+      "audio_ok": true
+    },
+    {
+      "number": 36170,
+      "name": "SKYMIX SERIES 9",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.8,
+      "audio_rms": 121.1,
+      "audio_ok": true
+    },
+    {
+      "number": 36171,
+      "name": "SKYMIX SERIES 10",
+      "epg": [],
+      "video_ok": true,
+      "luma": 54.9,
+      "audio_rms": 807.5,
+      "audio_ok": true
+    },
+    {
+      "number": 36230,
+      "name": "YMIX SERIES 11",
+      "epg": [],
+      "video_ok": true,
+      "luma": 60.5,
+      "audio_rms": 990.4,
+      "audio_ok": true
+    },
+    {
+      "number": 36231,
+      "name": "Y MIX SERIES 12",
+      "epg": [],
+      "video_ok": true,
+      "luma": 55.6,
+      "audio_rms": 48.0,
+      "audio_ok": true
+    },
+    {
+      "number": 36232,
+      "name": "Y MIX SERIES 13",
+      "epg": [],
+      "video_ok": true,
+      "luma": 81.7,
+      "audio_rms": 1313.5,
+      "audio_ok": true
+    },
+    {
+      "number": 36233,
+      "name": "YMIX SERIES 14",
+      "epg": [],
+      "video_ok": true,
+      "luma": 48.6,
+      "audio_rms": 75.3,
+      "audio_ok": true
+    },
+    {
+      "number": 36235,
+      "name": "Y MIX SERIES 15",
+      "epg": [],
+      "video_ok": true,
+      "luma": 98.7,
+      "audio_rms": 396.5,
+      "audio_ok": true
+    },
+    {
+      "number": 36236,
+      "name": "YMIX SERIES 16",
+      "epg": [],
+      "video_ok": true,
+      "luma": 132.4,
+      "audio_rms": 483.6,
+      "audio_ok": true
+    },
+    {
+      "number": 36237,
+      "name": "YY MIX SERIES 17",
+      "epg": [],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}

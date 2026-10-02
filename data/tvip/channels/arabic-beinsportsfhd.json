@@ -1,0 +1,155 @@
+{
+  "category": "ARABIC | BEINSPORTSFHD",
+  "captured": "2026-09-30T21:06:44-0400",
+  "mode": "full",
+  "reported_total": 7,
+  "channels": [
+    {
+      "number": 41674,
+      "name": "BEIN SPORTS 1 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 95.9,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    },
+    {
+      "number": 42572,
+      "name": "BEIN SPORTS 3 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 9898.6,
+      "audio_ok": true
+    },
+    {
+      "number": 42575,
+      "name": "BEIN SPORTS 2 FHD",
+      "epg": [],
+      "video_ok": true,
+      "luma": 61.5,
+      "audio_rms": 9023.2,
+      "audio_ok": true
+    },
+    {
+      "number": 42751,
+      "name": "AR BEIN SPORTS MAX 1",
+      "epg": [
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 71.9,
+      "audio_rms": 3563.6,
+      "audio_ok": true
+    },
+    {
+      "number": 42753,
+      "name": "AR BEIN SPORTS MAX 3",
+      "epg": [
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 94.5,
+      "audio_rms": 1473.1,
+      "audio_ok": true
+    },
+    {
+      "number": 42754,
+      "name": "AR BEIN SPORTS MAX 4",
+      "epg": [
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": true,
+      "luma": 98.1,
+      "audio_rms": 7856.4,
+      "audio_ok": true
+    },
+    {
+      "number": 42755,
+      "name": "AR BEIN SPORTS MAX 6",
+      "epg": [
+        {
+          "time": "9:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "10:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "No information available"
+        },
+        {
+          "time": "12:00 AM",
+          "title": "No information available"
+        },
+        {
+          "time": "1:00 AM",
+          "title": "No information available"
+        }
+      ],
+      "video_ok": false,
+      "luma": 60.6,
+      "audio_rms": 0.0,
+      "audio_ok": false
+    }
+  ]
+}
