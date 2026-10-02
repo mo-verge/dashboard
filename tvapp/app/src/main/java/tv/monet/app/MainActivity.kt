@@ -71,7 +71,9 @@ class MainActivity : Activity() {
     data class Sub(val start: Long, val end: Long, val text: String, val gloss: Map<String, String>)
 
     companion object {
-        const val DELAY_MS = 10_000L          // subtitles + glosses are ready ~6 s after speech
+        // Worst case for a line at the start of a chunk: 10 s chunk + up to ~6 s
+        // Whisper + ~1 s Gemini = ~17 s. 10 s was too tight; 18 s keeps every line on time.
+        const val DELAY_MS = 18_000L
         const val IDLE_MS = DELAY_MS          // so the replay starts where the keys stopped
     }
 

@@ -68,7 +68,7 @@ channel picker from the inventory shortlists, long-press Back = exit.
 chunks (`-ac 512`: ~3 s per 10 s of audio) and `capture/live_captions.py`, which reads the box's audio
 from PipeWire and writes wall-clock-timestamped Spanish/English subtitles to `/dev/shm/captions.json`
 (served by the relay at `/captions`). Monet TV plays **live** (RTSP, ~1 s) while remote keys are being
-pressed, and after 10 s idle switches to **subtitle mode**: HLS played 10 s behind live, each subtitle
+pressed, and after 18 s idle switches to **subtitle mode**: HLS played 18 s behind live, each subtitle
 matched to the frame via `EXT-X-PROGRAM-DATE-TIME`. Any key goes straight back to live. The subtitle
 language follows the channel picked in the app (`POST /caption-lang/<es|en|auto|off>`).
 
