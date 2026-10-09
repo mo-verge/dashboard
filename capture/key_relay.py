@@ -42,6 +42,7 @@ STREAM_IDLE_OFF = 300       # s without anyone watching the TV stream -> stop en
 PAGE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "remote.html")
 
 KEYS = {"up", "down", "left", "right", "ok", "enter", "back", "guide", "menu", "home", "play_pause",
+        "red", "green", "yellow", "blue",
         "ch_up", "ch_down", "vol_up", "vol_down", "mute", "next", "prev", "ff", "rew", "stop",
         *map(str, range(10))}
 _lock = threading.Lock()     # one key sequence at a time

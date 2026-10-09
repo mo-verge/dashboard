@@ -7,6 +7,9 @@ Local HTTP (127.0.0.1:8176), used by capture/remote_keys.py:
 
     POST /press?kind=k|c&code=<HID usage>&hold=<ms>   200, or 503 when the board isn't connected
     GET  /status                                       board status + link state
+    POST /config?cmd=ident%20remote|ident%20keyboard|restart|set%20vid%200x0110|set%20prod%20...
+         USB identity: "remote" = the TVIP remote's VID/PID (F1-F4 = colour buttons),
+         "keyboard" = generic (letters work). The board restarts and reconnects (~5 s).
 
 The board is found by its service UUID (address cached in ~/.config/dashboard/usb-keys-addr)
 and only accepts presses carrying the relay token (~/.config/dashboard/relay-token).
@@ -15,6 +18,7 @@ Runs in ~/keys/venv (bleak).
 import asyncio
 import json
 import os
+import re
 import time
 from urllib.parse import parse_qs, urlparse
 
@@ -23,6 +27,7 @@ from bleak import BleakClient, BleakScanner
 SVC = "6d6f6e65-7400-4b65-7973-000000000001"
 PRESS = "6d6f6e65-7400-4b65-7973-000000000002"
 STATUS = "6d6f6e65-7400-4b65-7973-000000000003"
+CONFIG = "6d6f6e65-7400-4b65-7973-000000000004"
 PORT = int(os.environ.get("USB_KEYS_PORT", "8176"))
 CONF = os.path.expanduser("~/.config/dashboard")
 ADDR_FILE = os.path.join(CONF, "usb-keys-addr")
@@ -81,6 +86,13 @@ async def press(kind, code, hold):
         await client.write_gatt_char(PRESS, payload, response=True)
 
 
+async def config(cmd):
+    if not client or not client.is_connected:
+        raise ConnectionError("board not connected")
+    async with write_lock:
+        await client.write_gatt_char(CONFIG, TOKEN.encode() + b"\t" + cmd.encode(), response=True)
+
+
 async def handle(reader, writer):
     try:
         head = (await asyncio.wait_for(reader.readuntil(b"\r\n\r\n"), 5)).decode(errors="replace")
@@ -99,6 +111,18 @@ async def handle(reader, writer):
                 code, body = 400, {"error": "kind=k|c&code=<usage>[&hold=ms]"}
             except Exception as e:
                 code, body = 503, {"error": str(e)}
+        elif method == "POST" and url.path == "/config":
+            cmd = q.get("cmd", "")
+            ok = cmd in ("ident remote", "ident keyboard", "restart") or (
+                re.fullmatch(r"set (vid|pid|ver) 0x[0-9a-fA-F]{1,4}|set (mfr|prod) [ -~]{0,40}", cmd))
+            if not ok:
+                code, body = 400, {"error": "cmd=ident remote|ident keyboard|restart|set vid|pid|ver 0x..|set mfr|prod <text>"}
+            else:
+                try:
+                    await config(cmd)
+                    code, body = 200, {"sent": cmd}
+                except Exception as e:
+                    code, body = 503, {"error": str(e)}
         elif method == "GET" and url.path == "/status":
             body = {"connected": bool(client and client.is_connected),
                     "since_s": int(time.time() - connected_at) if client else None}

@@ -11,7 +11,7 @@ import time
 
 import serial
 
-port = sys.argv[1] if len(sys.argv) > 1 else glob.glob("/dev/serial/by-id/*ESP32S3*")[0]
+port = sys.argv[1] if len(sys.argv) > 1 else (glob.glob("/dev/serial/by-id/*TVIP*") + glob.glob("/dev/serial/by-id/*ESP32S3*"))[0]
 token = open(os.path.expanduser("~/.config/dashboard/relay-token")).read().strip()
 with serial.Serial(port, 115200, timeout=2) as s:
     time.sleep(0.5)

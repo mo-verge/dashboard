@@ -4,14 +4,14 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-# LE-only like the real remote. bluetoothd re-enables BR/EDR whenever the
-# adapter re-registers (e.g. after bt-identity changes its address) unless told
-# not to. Side effect: no classic Bluetooth (speakers/headsets) on this Pi.
-sudo sed -i -E 's/^#?ControllerMode *=.*/ControllerMode = le/' /etc/bluetooth/main.conf
-
-sudo install -m 644 bt-identity.service bt-remote.service dashboard.service key-relay.service /etc/systemd/system/
+# Box keys go through the USB keyboard (firmware/usb_keys), reached over BLE by usb-keys.
+# The fake Bluetooth remote (bt-remote, bt-identity) is retired: masked so nothing can
+# start it, even as a dependency. Its code and units stay in the repo for reference.
+sudo install -m 644 dashboard.service key-relay.service usb-keys.service /etc/systemd/system/
+sudo rm -f /etc/systemd/system/bt-remote.service /etc/systemd/system/bt-identity.service
 sudo systemctl daemon-reload
-sudo systemctl enable bt-identity.service bt-remote.service dashboard.service key-relay.service
+sudo systemctl mask bt-remote.service bt-identity.service
+sudo systemctl enable dashboard.service key-relay.service usb-keys.service
 
 # Kiosk at desktop login. A user autostart replaces the system one in labwc,
 # so keep the stock Raspberry Pi OS entries and add ours.

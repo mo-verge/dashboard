@@ -1,6 +1,6 @@
 [Unit]
 Description=BLE link to the USB-keys board (ESP32-S3 keyboard in the TVIP box)
-After=bluetooth.service bt-identity.service
+After=bluetooth.service
 Wants=bluetooth.service
 
 [Service]
