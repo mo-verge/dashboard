@@ -12,7 +12,8 @@ set -euo pipefail
 
 MODE="${1:-1080p}"
 DELAY="${2:-0}"
-DEV="${CAPTURE_DEVICE:-/dev/video0}"
+# By-id name: /dev/videoN numbering changes when another camera (a webcam) is plugged in.
+DEV="${CAPTURE_DEVICE:-/dev/v4l/by-id/usb-MACROSILICON_2109-video-index0}"
 SOURCE="${CAPTURE_AUDIO:-alsa_input.usb-MACROSILICON_2109-02.analog-stereo}"
 
 case "$MODE" in

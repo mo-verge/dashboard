@@ -256,19 +256,23 @@ def audio():
     t0, n = None, 0
     while block := proc.stdout.read(3200):          # 0.1 s
         a = array.array("h", block)
-        if t0 is None:
-            t0 = time.time() - len(a) / RATE - CAPTURE_LATENCY
+        now = time.time() - CAPTURE_LATENCY        # wall clock of this block's last sample
+        # Re-anchor on a clock step: the Pi has no RTC, so at boot the clock jumps when
+        # NTP syncs (seen: 8 min) and sample-count times would stay that far off.
+        if t0 is None or abs(now - (t0 + (n + len(a)) / RATE)) > 2:
+            if t0 is not None:
+                log(f"clock step {now - (t0 + (n + len(a)) / RATE):+.1f}s: re-anchoring audio time")
+            t0 = now - (n + len(a)) / RATE
         yield t0 + n / RATE, a
         n += len(a)
     proc.wait()
 
 
 def chunks():
-    buf, start, win = array.array("h"), None, int(0.4 * RATE)
+    buf, win = array.array("h"), int(0.4 * RATE)
     for t, a in audio():
-        if start is None:
-            start = t
         buf.extend(a)
+        start = t + len(a) / RATE - len(buf) / RATE   # follows audio()'s re-anchoring
         dur = len(buf) / RATE
         if dur < CHUNK_MIN:
             continue
@@ -279,7 +283,6 @@ def chunks():
                 lo = max(win, len(buf) - 3 * RATE)
                 cut = min(range(lo, len(buf) - win + 1, win // 2), key=lambda i: rms(buf[i:i + win])) + win // 2
             yield start, buf[:cut]
-            start += cut / RATE
             buf = buf[cut:]
 
 

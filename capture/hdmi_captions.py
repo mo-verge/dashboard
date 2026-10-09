@@ -30,7 +30,7 @@ import uuid
 import wave
 
 ENV = os.environ.get
-DEVICE = ENV("CAPTURE_DEVICE", "/dev/video0")
+DEVICE = ENV("CAPTURE_DEVICE", "/dev/v4l/by-id/usb-MACROSILICON_2109-video-index0")   # by-id: stable when a webcam is plugged in
 AUDIO_SOURCE = ENV("CAPTURE_AUDIO", "alsa_input.usb-MACROSILICON_2109-02.analog-stereo")
 SIZE, FPS = ENV("CAPTURE_SIZE", "1920x1080"), ENV("CAPTURE_FPS", "30")
 DELAY = float(ENV("CAPTION_DELAY", "50"))       # seconds the picture is held back

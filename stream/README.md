@@ -31,6 +31,7 @@ Hub knobs (environment variables):
 | `CAST_BITRATE` | per mode | e.g. `4M` |
 | `PREVIEW` | `mpv` | `none` = headless (frames + cast only) |
 | `AUDIO_DELAY` | `0` | preview only, seconds (mpv `--audio-delay`) |
+| `PREVIEW_DELAY` | `0` | seconds; >0 plays the preview that far behind live with the Whisper subtitles + glosses drawn by `mpv-captions.lua` (copy it to `~/stream/`; run `captions.sh`). 18 matches the TV app's CC mode |
 
 The capture itself is always 1920x1080@30, because box.py and inventory.py coordinates assume 1080p frames.
 

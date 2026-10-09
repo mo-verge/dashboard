@@ -7,8 +7,10 @@
 logLevel: info
 logDestinations: [stdout]          # journald via the systemd unit
 
-# Nothing else is needed: no API, metrics or recordings.
-api: false
+# API on localhost only: capture/key_relay.py asks it who is watching path "tv" and turns
+# the stream off (tvctl "cast") after a few minutes without viewers. No metrics/recordings.
+api: true
+apiAddress: 127.0.0.1:9997
 metrics: false
 pprof: false
 playback: false
@@ -28,6 +30,7 @@ authInternalUsers:
         path:
       - action: read
         path:
+      - action: api
   - user: any
     pass:
     ips: []
