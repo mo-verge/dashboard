@@ -13,10 +13,6 @@ import android.os.Handler
 import android.os.Looper
 import android.provider.Settings
 import android.util.Log
-import android.text.SpannableStringBuilder
-import android.text.TextUtils
-import android.text.style.ForegroundColorSpan
-import android.text.style.StyleSpan
 import android.view.Gravity
 import android.view.KeyEvent
 import android.view.View
@@ -99,6 +95,7 @@ class MainActivity : Activity() {
     private var lastKeyAt = 0L
     private var visible = false
     private var captionsOn = false            // Pi has a language set and is keeping up
+    private var captionsOkAt = 0L             // last poll where that was true
     private var subs: List<Sub> = emptyList()
     private val poller = Executors.newSingleThreadExecutor()
     private val tlWindow = Timeline.Window()
@@ -107,12 +104,13 @@ class MainActivity : Activity() {
     data class Sub(val start: Long, val end: Long, val text: String, val gloss: Map<String, String>)
 
     companion object {
-        // Worst case for a line at the start of a chunk: 10 s chunk + up to ~6 s
-        // Whisper + ~1 s Gemini = ~17 s. 10 s was too tight; 18 s keeps every line on time.
-        const val DELAY_MS = 18_000L
+        // Worst case for a line at the start of a chunk: 7 s chunk + ~2-3 s Gemini (transcript
+        // and glosses in one call) = ~10 s. (Whisper on the Pi needed 18-22 s.)
+        const val DELAY_MS = 12_000L
         const val TAG = "MonetTV"
         const val IDLE_MS = DELAY_MS          // so the replay starts where the keys stopped
         const val SETTLE_MS = 4_000L          // no keys this long: NAV -> HD stream
+        const val CC_GRACE_MS = 60_000L       // subtitles missing this long before CC gives up
     }
 
     private val ui = Handler(Looper.getMainLooper())
@@ -399,7 +397,12 @@ class MainActivity : Activity() {
                 Log.i(TAG, "idle: live -> CC")
                 play()
             }
-            if (mode == Mode.SUBTITLE && !captionsOn) { mode = Mode.LIVE; play() }
+            // Leave CC only after subtitles have been missing a while: a slow chunk used to
+            // flip CC -> live -> CC every few seconds (choppy picture, subtitles come and go).
+            if (mode == Mode.SUBTITLE && System.currentTimeMillis() - captionsOkAt > CC_GRACE_MS) {
+                Log.i(TAG, "subtitles gone: CC -> live")
+                mode = Mode.LIVE; play()
+            }
             showSubtitle()
             modeChip.text = when (mode) { Mode.NAV -> "● LIVE"; Mode.LIVE -> "● LIVE  HD"; else -> "CC  −${DELAY_MS / 1000}s" }
             modeChip.background = pill(if (mode == Mode.SUBTITLE) 0x992E7DE6.toInt() else 0x99E0245A.toInt(), 30f)
@@ -430,6 +433,7 @@ class MainActivity : Activity() {
                     val at = lk?.optLong("at") ?: 0L
                     ui.post {
                         subs = list; captionsOn = on
+                        if (on) captionsOkAt = System.currentTimeMillis()
                         // the box is shared: say so when another TV changed something
                         if (at > lastKeySeen) {
                             if (lastKeySeen > 0 && by.isNotEmpty() && by != deviceName) flash("Changed from $by")
@@ -462,46 +466,46 @@ class MainActivity : Activity() {
     }
 
     /**
-     * Up to four lines: each Spanish line has its own English line directly above it,
-     * holding the glosses for that line's key words in order. Key words are highlighted
-     * in the Spanish line.
+     * Up to four rows on an opaque light-gray box: each Spanish line is a row of word columns,
+     * and a glossed word has its English centred directly above it (a column is as wide as
+     * the wider of the two). Glossed words are highlighted. Every column keeps its English
+     * slot, even when empty, so the box doesn't change height.
      */
     private fun renderSubtitle(s: Sub) {
         caption.removeAllViews()
         val strip = Regex("^[¿¡\"«(]+|[.,;:!?\"»)…]+$")
         val face = Typeface.create("sans-serif-medium", Typeface.NORMAL)
         for (line in s.text.split("\n").filter { it.isNotBlank() }) {
-            val spanish = SpannableStringBuilder()
-            val english = mutableListOf<String>()
-            for (word in line.split(" ").filter { it.isNotBlank() }) {
-                if (spanish.isNotEmpty()) spanish.append(" ")
-                val gloss = s.gloss[word.replace(strip, "").lowercase()]
-                val at = spanish.length
-                spanish.append(word)
-                if (gloss != null) {
-                    english += gloss
-                    spanish.setSpan(ForegroundColorSpan(0xFFB3261E.toInt()), at, spanish.length, 0)
-                    spanish.setSpan(StyleSpan(Typeface.BOLD), at, spanish.length, 0)
-                }
+            val row = LinearLayout(this).apply {
+                orientation = LinearLayout.HORIZONTAL
+                gravity = Gravity.BOTTOM or Gravity.CENTER_HORIZONTAL   // short lines centred too
             }
-            caption.addView(TextView(this).apply {
-                text = english.joinToString("  ·  ")
-                textSize = 20f
-                setTextColor(0xFF0B5C55.toInt())
-                typeface = face
-                gravity = Gravity.CENTER
-                maxLines = 1
-                ellipsize = TextUtils.TruncateAt.END
-                visibility = if (english.isEmpty()) View.INVISIBLE else View.VISIBLE   // keeps four rows steady
-            })
-            caption.addView(TextView(this).apply {
-                text = spanish
-                textSize = 30f
-                setTextColor(0xFF111111.toInt())
-                typeface = face
-                gravity = Gravity.CENTER
-                maxLines = 1
-            })
+            for (word in line.split(" ").filter { it.isNotBlank() }) {
+                val gloss = s.gloss[word.replace(strip, "").lowercase()]
+                val col = LinearLayout(this).apply {
+                    orientation = LinearLayout.VERTICAL
+                    gravity = Gravity.CENTER_HORIZONTAL
+                    setPadding(8, 0, 8, 0)
+                }
+                col.addView(TextView(this).apply {
+                    text = gloss ?: " "
+                    textSize = 17f
+                    setTextColor(0xFF0B6B5F.toInt())
+                    typeface = face
+                    gravity = Gravity.CENTER
+                    maxLines = 1
+                })
+                col.addView(TextView(this).apply {
+                    text = word
+                    textSize = 28f
+                    setTextColor(if (gloss != null) 0xFF0D47A1.toInt() else 0xFF111111.toInt())
+                    typeface = if (gloss != null) Typeface.create(face, Typeface.BOLD) else face
+                    gravity = Gravity.CENTER
+                    maxLines = 1
+                })
+                row.addView(col)
+            }
+            caption.addView(row)
         }
     }
 

@@ -243,9 +243,20 @@ RENDER.preview = (card, el) => {
   const stop = () => { img.removeAttribute("src"); playing = false; };
   img.addEventListener("load", () => { empty.hidden = true; img.hidden = false; });
   img.addEventListener("error", () => { playing = false; empty.hidden = false; img.hidden = true; });
+  // On the Pi's own screen the card pauses while a TV watches the stream: the encoder and
+  // Whisper need that CPU (the kiosk's MJPEG decoding cost ~0.8 core). Same rule as the Pi preview.
+  let onTv = false;
+  if (PLATFORM === "pi") feed("/api/tv", 5_000, (t) => {
+    onTv = !!t.cast;
+    empty.textContent = onTv ? "PLAYING ON TV" : "NO SIGNAL";
+  });
   // The stream ends when the hub stops; check every few seconds and restart it.
   const watch = async () => {
-    if (paused || document.hidden) { if (playing) stop(); return; }
+    if (paused || document.hidden || onTv) {
+      if (playing) stop();
+      if (onTv) { empty.hidden = false; img.hidden = true; }
+      return;
+    }
     const ok = await fetch("/api/frame.jpg?w=160", { cache: "no-store" }).then((r) => r.ok).catch(() => false);
     if (!ok) { stop(); empty.hidden = false; img.hidden = true; }
     else if (!playing) start();

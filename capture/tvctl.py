@@ -31,14 +31,18 @@ CONF = os.path.expanduser("~/.config/dashboard")
 STATE = os.path.join(CONF, "tv.json")
 HUB_ENV = os.path.join(CONF, "hub.env")         # EnvironmentFile of monet-hub.service
 HUB, CAPTIONS = "monet-hub.service", "captions.service"
-SUB_DELAY = 18          # s; Whisper lines are ready ~17 s after the speech (same as the TV app)
+SUB_DELAY = 12          # s; Gemini lines are ready <= ~10 s after the speech (same as the TV app)
 # Stream quality, measured on the Pi 5 (share of one core, 30 fps held):
 #   720p ultrafast 3M 87% (blocky) | 720p veryfast 5M 117% | 1080p superfast 6M 177%
 #   1080p veryfast 6M can't hold 30 fps.
 CAST_SHARP = {"CAST_MODE": "1080p", "X264_PRESET": "superfast", "CAST_BITRATE": "6M", "X264_THREADS": "4"}
 # Navigation on the TV uses the capture frames (motion JPEG, no encoder delay), so the H.264
-# stream is only watched once settled: always the sharpest setting. Measured together with
-# Whisper: 30 fps held, subtitles still ~5 s behind real time.
+# stream is only watched once settled: always 1080p. With subtitles, Whisper needs CPU:
+# superfast (1.6 cores) left it ~1x real time and the subtitles fell 22-29 s behind (past
+# the TV's CC delay); ultrafast at a higher bitrate (1.4 cores) holds ~29 fps and keeps the
+# subtitles 4-15 s behind.
+# (Whisper is out of the path since subtitles moved to Gemini: back to the sharp setting.)
+CAST_SUBS = {"CAST_MODE": "1080p", "X264_PRESET": "ultrafast", "CAST_BITRATE": "8M", "X264_THREADS": "3"}  # unused
 DEFAULTS = {"subtitles": True, "preview": True, "cast": False}
 SWITCHES = tuple(DEFAULTS)
 

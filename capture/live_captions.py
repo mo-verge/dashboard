@@ -1,23 +1,28 @@
 #!/usr/bin/env python3
-"""Continuous Whisper subtitles for the box's audio, timestamped in wall-clock
-time so the Monet TV app can line them up with the delayed HLS stream (whose
-segments carry EXT-X-PROGRAM-DATE-TIME).
+"""Continuous subtitles for the box's audio, timestamped in wall-clock time so the
+Monet TV app can line them up with the delayed HLS stream (whose segments carry
+EXT-X-PROGRAM-DATE-TIME).
 
-    audio (PipeWire, shared with the capture hub) -> chunks of 4-10 s cut at pauses
-      -> whisper-server (small q8, VAD, short audio_ctx) -> /dev/shm/captions.json
+    audio (PipeWire, shared with the capture hub) -> chunks of 3-7 s cut at pauses
+      -> Gemini (audio in: transcript + key-word glosses in one call) -> /dev/shm/captions.json
+
+Transcription moved from Whisper to Gemini (2026-10-08): whisper.cpp on the Pi took 1.1-1.6
+cores next to the 1080p encoder and fell 20-29 s behind; Gemini answers a short chunk in
+~1-2 s and the Pi does no speech work. The Whisper code below (transcribe(), the
+whisper-server in stream/captions.sh) is kept but not in the functional path.
+Gemini is only called while someone watches (see viewer_active()).
 
 /dev/shm/captions.json: {"lang": "es", "ready_until": <epoch ms of last processed
 audio>, "captions": [{"start": ms, "end": ms, "text": "..."}]} — last 15 minutes.
 Language comes from /dev/shm/caption-lang (es | en | auto | off), set by the app
 through capture/key_relay.py; "off" stops transcribing.
 
-Key-word glosses: each new subtitle line is sent (text only) to Gemini, which
-picks up to 6 words a beginner wouldn't know and gives their English meaning in
-that sentence. Entries get "gloss": [{"w": "orgulloso", "en": "proud"}, ...];
-lines are published first and glossed a moment later. Needs the API key in
-~/.config/dashboard/gemini-key; without it, subtitles are plain.
+Key-word glosses come back in the same Gemini call: up to 6 words a beginner wouldn't
+know, with their English meaning in that sentence. Entries get
+"gloss": [{"w": "orgulloso", "en": "proud"}, ...]. Needs the API key in
+~/.config/dashboard/gemini-key; without it there are no subtitles.
 
-Run via stream/captions.sh (starts the whisper server too).
+Run via stream/captions.sh.
 """
 import array
 import io
@@ -40,7 +45,7 @@ SOURCE = os.environ.get("CAPTURE_AUDIO", "alsa_input.usb-MACROSILICON_2109-02.an
 WHISPER_URL = os.environ.get("WHISPER_URL", "http://127.0.0.1:8178/inference")
 OUT = "/dev/shm/captions.json"
 LANG_FILE = "/dev/shm/caption-lang"
-CHUNK_MIN, CHUNK_MAX = 4.0, 10.0       # matches whisper-server -ac 512 (~10 s window)
+CHUNK_MIN, CHUNK_MAX = 3.0, 7.0        # short chunks: lower delay; cut at pauses
 KEEP_MS = 15 * 60 * 1000
 GEMINI_KEY_FILE = os.path.expanduser("~/.config/dashboard/gemini-key")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")   # ~1 s, good glosses, cheapest
@@ -80,6 +85,8 @@ def wav_bytes(samples):
 
 
 def transcribe(samples, language):
+    """Whisper (whisper-server). NOT IN THE FUNCTIONAL PATH since 2026-10-08: kept for
+    reference / a later fallback. See gemini_transcribe()."""
     b = uuid.uuid4().hex
     parts = [f'--{b}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode()
              for k, v in (("response_format", "verbose_json"), ("language", language), ("temperature", "0"))]
@@ -148,6 +155,56 @@ GLOSS_SCHEMA = {
 }
 
 
+TRANSCRIBE_PROMPT = """This is a short clip of {language} TV audio, part of a live stream.
+1. "text": transcribe the speech exactly as spoken, in {language} (no translation, no
+   speaker names, no descriptions of sounds or music). If nobody speaks, return "".
+   The clip may start or end mid-word: transcribe only words you clearly hear.
+2. "gloss": you help a {level} learner of {language} follow it. Pick at most 6 key words
+   from your transcript that a {level} would probably NOT know and that matter for
+   understanding. Skip very common words (articles, pronouns, prepositions,
+   ser/estar/tener/ir/hacer, top-300 words), names of people, places, teams, companies,
+   brands, channels, numbers, and cognates an English speaker can guess (director, sistema,
+   televisión, presentar, momento). Fewer or none is fine. For each give its English
+   meaning IN THIS SENTENCE in 1-3 words, and copy the word exactly as in the transcript."""
+
+TRANSCRIBE_SCHEMA = {
+    "type": "OBJECT",
+    "properties": {
+        "text": {"type": "STRING"},
+        "gloss": {"type": "ARRAY", "items": {
+            "type": "OBJECT",
+            "properties": {"w": {"type": "STRING"}, "en": {"type": "STRING"}},
+            "required": ["w", "en"]}},
+    },
+    "required": ["text", "gloss"],
+}
+
+
+def gemini_transcribe(samples, language):
+    """{"text": ..., "gloss": [...]} for one audio chunk, from Gemini (audio in)."""
+    import base64
+    key = gemini_key()
+    if not key:
+        raise RuntimeError("no Gemini key")
+    name = {"es": "Spanish", "en": "English"}.get(language, "Spanish or English")
+    body = {
+        "contents": [{"parts": [
+            {"inline_data": {"mime_type": "audio/wav", "data": base64.b64encode(wav_bytes(samples)).decode()}},
+            {"text": TRANSCRIBE_PROMPT.format(language=name, level=GLOSS_LEVEL)},
+        ]}],
+        "generationConfig": {"responseMimeType": "application/json", "responseSchema": TRANSCRIBE_SCHEMA,
+                             "temperature": 0},
+    }
+    req = urllib.request.Request(
+        f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent",
+        data=json.dumps(body).encode(),
+        headers={"Content-Type": "application/json", "x-goog-api-key": key})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        resp = json.load(r)
+    parts = resp["candidates"][0].get("content", {}).get("parts", [])
+    return json.loads(parts[0]["text"]) if parts else {"text": "", "gloss": []}
+
+
 def gemini_key():
     try:
         return open(GEMINI_KEY_FILE).read().strip() or None
@@ -197,6 +254,9 @@ def obvious(word, en, line):
     w, e = _fold(word), _fold(en)
     if any(difflib.SequenceMatcher(None, w, part).ratio() >= 0.8 for part in e.split() or [e]):
         return True
+    # same long stem, different ending: absolutamente/absolutely, perfectamente/perfectly
+    if any(len(os.path.commonprefix([w, part])) >= max(5, 0.6 * min(len(w), len(part))) for part in e.split()):
+        return True
     i = line.find(word)
     return word[:1].isupper() and i > 0 and line[:i].rstrip()[-1:] not in ".!?¡¿-—\"«"
 
@@ -221,7 +281,9 @@ def retry_after(err):
 
 
 def glosser(store, jobs):
-    """Background: gloss each published chunk without holding up the subtitles.
+    """NOT IN THE FUNCTIONAL PATH since 2026-10-08 (Gemini glosses inside the transcription
+    call now). Was: background glossing of Whisper lines.
+    Background: gloss each published chunk without holding up the subtitles.
     Only while someone is watching (the app polls /captions), and backs off
     when Gemini rate-limits instead of retrying every chunk."""
     paused_until = 0.0
@@ -299,13 +361,33 @@ def wrap(text, width=42):
     return ["\n".join(lines[i:i + 2]) for i in range(0, len(lines), 2)]
 
 
+def chunk_items(start, samples, res):
+    """Subtitle cards for one transcribed chunk: wrapped to two lines, the chunk's time span
+    shared out by text length (Gemini gives no word timestamps), glosses attached to the
+    card that contains the word."""
+    text = (res.get("text") or "").strip()
+    if not text or JUNK.search(text) or BRACKETED.match(text):
+        return []
+    cards = wrap(text)
+    total = sum(len(c) for c in cards)
+    t, end, items = start, start + len(samples) / RATE, []
+    gloss = [g for g in res.get("gloss", []) if g.get("w") and g["w"].lower() in text.lower()
+             and not obvious(g["w"], g.get("en", ""), text)][:6]
+    for card in cards:
+        t1 = t + (end - t) * len(card) / max(1, total)
+        items.append({"start": int(t * 1000), "end": int(t1 * 1000) + 400, "text": card,
+                      "gloss": [g for g in gloss if g["w"].lower() in card.lower()]})
+        total -= len(card)
+        t = t1
+    return items
+
+
 def main():
     import queue
+    from concurrent.futures import ThreadPoolExecutor
     store = Store()
     store.add([], int(time.time() * 1000))
-    jobs = queue.Queue()
-    threading.Thread(target=glosser, args=(store, jobs), daemon=True).start()
-    # Read audio on its own thread. If the reader waits for Whisper, the audio
+    # Read audio on its own thread. If the reader waits for the transcriber, the audio
     # backs up in PipeWire and the sample-count timestamps drift behind real time.
     pending = queue.Queue()
 
@@ -314,47 +396,44 @@ def main():
             pending.put(c)
     threading.Thread(target=reader, daemon=True).start()
 
-    while True:
-        start, samples = pending.get()
-        if pending.qsize() > 3:      # Whisper can't keep up: drop old audio, stay near live
-            log(f"behind: dropping {pending.qsize()} queued chunks")
-            while pending.qsize() > 1:
-                pending.get()
-            continue
+    paused_until = [0.0]       # after a 429: wait for Gemini's retryDelay
+
+    def work(start, samples, language):
         end_ms = int((start + len(samples) / RATE) * 1000)
-        language = lang()
-        if language == "off":
-            store.add([], end_ms)
-            continue
         t = time.time()
         try:
-            try:
-                res = transcribe(samples, language)
-            except Exception:   # 500 when VAD finds no speech and language=auto
-                res = transcribe(samples, "es" if language == "auto" else language)
-        except Exception as e:
-            log("transcribe failed:", e)
+            res = gemini_transcribe(samples, language)
+        except urllib.error.HTTPError as e:
+            wait = retry_after(e) if e.code == 429 else 20.0
+            paused_until[0] = time.time() + wait
+            log(f"Gemini HTTP {e.code}: pausing subtitles for {wait:.0f}s")
             store.add([], end_ms)
-            continue
-        items = []
-        for seg in res.get("segments", []):
-            text = seg.get("text", "").strip()
-            if not text or JUNK.search(text) or BRACKETED.match(text):
-                continue
-            s0, s1 = start + float(seg["start"]), start + float(seg["end"])
-            cards = wrap(text)
-            step = (s1 - s0) / len(cards)
-            for k, card in enumerate(cards):
-                items.append({"start": int((s0 + k * step) * 1000),
-                              "end": int((s0 + (k + 1) * step) * 1000) + 400,
-                              "text": card})
+            return
+        except Exception as e:
+            log("transcribe failed:", str(e)[:200])
+            store.add([], end_ms)
+            return
+        items = chunk_items(start, samples, res)
         store.add(items, end_ms)
-        if items:
-            detected = {"spanish": "es", "english": "en"}.get(str(res.get("language", "")).lower(), "es")
-            jobs.put((items, language if language != "auto" else detected))
         lag = time.time() - (start + len(samples) / RATE)
         log(f"{len(samples)/RATE:4.1f}s {language} in {time.time()-t:4.1f}s, ready {lag:4.1f}s after speech: "
-            f"{' / '.join(i['text'].replace(chr(10), ' ') for i in items)[:80]!r}")
+            f"{' / '.join(i['text'].replace(chr(10), ' ') for i in items)[:80]!r} "
+            f"[{', '.join(g['w'] + '=' + g['en'] for i in items for g in i['gloss'])[:60]}]")
+
+    # A few chunks in flight: one slow answer doesn't hold up the next.
+    pool = ThreadPoolExecutor(max_workers=3)
+    while True:
+        start, samples = pending.get()
+        end_ms = int((start + len(samples) / RATE) * 1000)
+        language = lang()
+        # Gemini only while someone watches (TV CC mode, Pi preview with subtitles)
+        if language == "off" or not viewer_active() or time.time() < paused_until[0]:
+            store.add([], end_ms)
+            continue
+        if rms(samples) < 60:      # silence: nothing to transcribe
+            store.add([], end_ms)
+            continue
+        pool.submit(work, start, samples, language)
 
 
 if __name__ == "__main__":
