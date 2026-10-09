@@ -61,17 +61,7 @@ REPORT_MAP = bytes([
     0xC0,
 ])
 
-KEYBOARD = {  # HID keyboard usages
-    "up": 0x52, "down": 0x51, "left": 0x50, "right": 0x4F, "ok": 0x28, "enter": 0x28,
-    "esc": 0x29, "menu": 0x76, "tab": 0x2B, "space": 0x2C,
-    **{str(d): 0x1E + d - 1 for d in range(1, 10)}, "0": 0x27,
-}
-CONSUMER = {  # HID consumer usages
-    "home": 0x0223, "vol_up": 0x00E9, "vol_down": 0x00EA, "mute": 0x00E2,
-    "ch_up": 0x009C, "ch_down": 0x009D, "play_pause": 0x00CD, "stop": 0x00B7,
-    "next": 0x00B5, "prev": 0x00B6, "ff": 0x00B3, "rew": 0x00B4, "guide": 0x008D,
-    "back": 0x0224, "power": 0x0030,  # TVIP launcher ignores Esc; AC Back works
-}
+from remote_keys import CONSUMER, KEYBOARD  # noqa: E402  (one key table for USB + Bluetooth)
 
 
 def log(*a):

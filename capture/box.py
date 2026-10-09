@@ -21,6 +21,11 @@ import sys
 import time
 import urllib.request
 
+import remote_keys
+# By-id name of the MS2109 HDMI capture adapter: /dev/videoN numbering changes when
+# another camera (a webcam) is plugged in.
+DEVICE = os.environ.get("CAPTURE_DEVICE", "/dev/v4l/by-id/usb-MACROSILICON_2109-video-index0")
+
 REMOTE = "http://127.0.0.1:8179"
 LATEST = "/dev/shm/box.jpg"
 PIDFILE = "/dev/shm/box-tap.pid"
@@ -28,10 +33,9 @@ HUB_PIDFILE = "/dev/shm/capture-hub.pid"   # ~/stream/capture-hub.sh; mtime = it
 
 
 def press(key, times=1, gap=0.35):
+    """USB keyboard in the box if it's there, else the Bluetooth remote (remote_keys.py)."""
     for i in range(times):
-        req = urllib.request.Request(f"{REMOTE}/key/{key}", method="POST")
-        with urllib.request.urlopen(req, timeout=5) as r:
-            json.load(r)
+        remote_keys.press(key)
         if i < times - 1:
             time.sleep(gap)
 
@@ -45,7 +49,7 @@ def tap_running():
 
 
 def hub_running():
-    """The capture hub owns /dev/video0 and keeps LATEST up to date."""
+    """The capture hub owns the capture device and keeps LATEST up to date."""
     try:
         os.kill(int(open(HUB_PIDFILE).read()), 0)
         return True
@@ -76,7 +80,7 @@ def tap_start(size="1920x1080"):
         return
     proc = subprocess.Popen(
         ["ffmpeg", "-hide_banner", "-loglevel", "error", "-f", "v4l2", "-input_format", "mjpeg",
-         "-video_size", size, "-framerate", "30", "-i", "/dev/video0",
+         "-video_size", size, "-framerate", "30", "-i", DEVICE,
          "-c:v", "copy", "-f", "image2", "-update", "1", "-atomic_writing", "1", LATEST],
         stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
         start_new_session=True)  # detached: must not hold the caller's (ssh) pipes open

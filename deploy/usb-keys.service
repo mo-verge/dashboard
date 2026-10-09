@@ -1,0 +1,13 @@
+[Unit]
+Description=BLE link to the USB-keys board (ESP32-S3 keyboard in the TVIP box)
+After=bluetooth.service bt-identity.service
+Wants=bluetooth.service
+
+[Service]
+User=verge
+ExecStart=/home/verge/keys/venv/bin/python /home/verge/dashboard/capture/usb_keys_ble.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

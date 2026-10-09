@@ -1,3 +1,4 @@
 web/media/
 __pycache__/
 .DS_Store
+firmware/*/build/
