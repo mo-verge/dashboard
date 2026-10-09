@@ -1,17 +1,21 @@
-/* Sized in rem off the viewport width: 1rem = 16px at 2560 wide, so the
-   whole board scales with the screen. */
+/* Light graphics on purpose (it runs on a Chromecast too): solid surfaces, one static
+   background gradient, transitions on transform / opacity / colour only. No blurs,
+   drop-shadow filters, animated blobs or grain.
+   Sized in rem off the viewport width: 1rem = 16px at 2560 wide, so the board scales
+   with the screen (TV, Pi monitor, laptop). */
 :root {
-  --bg: #06060a;
-  --card: rgba(16, 16, 24, 0.72);
-  --card-edge: rgba(255, 255, 255, 0.07);
-  --card-shine: rgba(255, 255, 255, 0.05);
+  --bg: #0b0d12;
+  --card: #141821;
+  --card-2: #1a1f2b;
+  --edge: rgba(255, 255, 255, 0.06);
   --ink: #f4f3f8;
-  --ink-2: rgba(244, 243, 248, 0.62);
-  --ink-3: rgba(244, 243, 248, 0.38);
+  --ink-2: rgba(244, 243, 248, 0.64);
+  --ink-3: rgba(244, 243, 248, 0.4);
   --violet: #7c5cff;
   --teal: #2ee6d6;
   --pink: #ff5c93;
   --amber: #ffb547;
+  --focus: #f4f3f8;
   --radius: 1.75rem;
   --gap: 1.5rem;
   --pad: 2rem;
@@ -22,61 +26,22 @@
 }
 
 * { box-sizing: border-box; margin: 0; }
+[hidden] { display: none !important; }
 
 html, body {
   height: 100%;
-  background: var(--bg);
+  background: radial-gradient(120% 90% at 0% 0%, #161a2e 0%, var(--bg) 55%) fixed, var(--bg);
   color: var(--ink);
   font-family: var(--sans);
   -webkit-font-smoothing: antialiased;
   overflow: hidden;
-  cursor: none;
 }
-
-/* ---------- ambient background ---------- */
-
-.ambient { position: fixed; inset: 0; overflow: hidden; z-index: 0; }
-
-.orb {
-  position: absolute;
-  width: 90rem;
-  height: 90rem;
-  border-radius: 50%;
-  opacity: 0.32;
-  will-change: transform;
-}
-.orb--a {
-  background: radial-gradient(closest-side, var(--violet), transparent);
-  top: -40rem; left: -25rem;
-  animation: drift-a 70s ease-in-out infinite alternate;
-}
-.orb--b {
-  background: radial-gradient(closest-side, var(--teal), transparent);
-  bottom: -50rem; right: -30rem;
-  opacity: 0.22;
-  animation: drift-b 90s ease-in-out infinite alternate;
-}
-.orb--c {
-  background: radial-gradient(closest-side, var(--pink), transparent);
-  top: 20rem; left: 55rem;
-  width: 60rem; height: 60rem;
-  opacity: 0.14;
-  animation: drift-c 110s ease-in-out infinite alternate;
-}
-@keyframes drift-a { to { transform: translate(30rem, 18rem) scale(1.15); } }
-@keyframes drift-b { to { transform: translate(-35rem, -12rem) scale(0.9); } }
-@keyframes drift-c { to { transform: translate(-40rem, 10rem) scale(1.25); } }
-
-.grain {
-  position: fixed; inset: 0; z-index: 1; pointer-events: none;
-  opacity: 0.06;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-}
+/* TV and Pi kiosk: driven by remote / keys, no pointer */
+.on-tv, .on-pi { cursor: none; }
 
 /* ---------- board + cards ---------- */
 
 .board {
-  position: relative; z-index: 2;
   height: 100vh;
   padding: 3rem;
   display: grid;
@@ -90,21 +55,17 @@ html, body {
   min-width: 0; min-height: 0;
   overflow: hidden;
   border-radius: var(--radius);
-  background:
-    linear-gradient(180deg, var(--card-shine), transparent 40%),
-    var(--card);
-  border: 1px solid var(--card-edge);
+  background: var(--card);
+  border: 1px solid var(--edge);
   padding: var(--pad);
   display: flex;
   flex-direction: column;
-  opacity: 0;
-  transform: translateY(1.25rem);
-  animation: rise 0.9s cubic-bezier(0.2, 0.7, 0.1, 1) forwards;
+  animation: rise 0.45s ease-out both;
 }
-@keyframes rise { to { opacity: 1; transform: none; } }
+@keyframes rise { from { opacity: 0; transform: translateY(0.75rem); } }
 
 .label {
-  display: flex; align-items: center; gap: 0.75rem;
+  display: flex; align-items: center; gap: 0.7rem;
   font-family: var(--mono);
   font-size: 0.8125rem;
   letter-spacing: 0.16em;
@@ -112,10 +73,42 @@ html, body {
   color: var(--ink-3);
   position: relative; z-index: 2;
 }
-.label__dot { width: 0.4rem; height: 0.4rem; border-radius: 50%; background: var(--accent, var(--violet)); box-shadow: 0 0 0.75rem var(--accent, var(--violet)); }
+.label__dot { width: 0.45rem; height: 0.45rem; border-radius: 50%; background: var(--accent, var(--violet)); }
 .label__right { margin-left: auto; }
 
 .fill { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+
+/* Remote / keyboard focus: a crisp ring and a small lift. */
+[data-nav] { outline: none; transition: transform 0.15s ease-out, box-shadow 0.15s ease-out; }
+.is-focus { transform: translateY(-0.25rem); box-shadow: 0 0 0 0.2rem var(--focus); }
+.on-web [data-nav] { cursor: pointer; }
+
+/* ---------- live preview ---------- */
+
+.card--preview { padding: 0; background: #000; }
+.card--preview .label {
+  position: absolute; top: 1.25rem; left: 1.5rem; right: 1.5rem;
+  color: rgba(255, 255, 255, 0.85);
+}
+.preview__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.preview__shade {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.55) 0%, transparent 22%, transparent 70%, rgba(0,0,0,0.6) 100%);
+}
+.preview__foot {
+  position: absolute; left: 1.5rem; right: 1.5rem; bottom: 1.25rem;
+  display: flex; align-items: center; gap: 0.75rem;
+}
+.live-pill {
+  padding: 0.3rem 0.75rem; border-radius: 99rem;
+  font-family: var(--mono); font-size: 0.8125rem; letter-spacing: 0.12em;
+  background: var(--pink); color: #fff;
+}
+.preview__hint { margin-left: auto; font-size: 1.125rem; color: rgba(255, 255, 255, 0.85); }
+.preview__empty {
+  position: absolute; inset: 0; display: grid; place-items: center;
+  font-family: var(--mono); font-size: 1rem; letter-spacing: 0.12em; color: var(--ink-3);
+}
 
 /* ---------- steps ---------- */
 
@@ -125,10 +118,8 @@ html, body {
 .ring__track { fill: none; stroke: rgba(255,255,255,0.07); stroke-width: 11; }
 .ring__arc {
   fill: none; stroke: url(#ring-g); stroke-width: 11; stroke-linecap: round;
-  transition: stroke-dashoffset 1.6s cubic-bezier(0.2, 0.7, 0.1, 1);
-  filter: drop-shadow(0 0 6px rgba(124, 92, 255, 0.45));
+  transition: stroke-dashoffset 1.2s ease-out;
 }
-.is-done .ring__arc { filter: drop-shadow(0 0 10px rgba(46, 230, 214, 0.7)); }
 .ring__icon { fill: url(#ring-g); opacity: 0.95; }
 .ring__num {
   fill: var(--ink); font: 200 50px var(--sans); text-anchor: middle;
@@ -136,7 +127,7 @@ html, body {
 }
 .ring__goal { fill: var(--ink-3); font: 400 14px var(--mono); text-anchor: middle; letter-spacing: 0.08em; }
 
-.card.is-empty .ring { opacity: 0.12; filter: blur(2px); }
+.card.is-empty .ring { opacity: 0.12; }
 .steps__empty {
   position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center;
   align-items: center; gap: 0.5rem; text-align: center;
@@ -173,3 +164,65 @@ html, body {
 .coin__chg { font-family: var(--mono); font-size: 0.8125rem; letter-spacing: 0.02em; }
 .coin__icon { position: absolute; top: 1.1rem; right: 1.25rem; width: 1.75rem; height: 1.75rem; }
 .coin__icon svg { width: 100%; height: 100%; display: block; }
+
+/* ---------- tv switches ---------- */
+
+.card--tv { padding: 1.25rem 1.5rem; }
+.tv { justify-content: space-evenly; gap: 0.25rem; margin-top: 0.5rem; }
+.tv__row {
+  display: flex; align-items: center; gap: 1rem; width: 100%;
+  background: none; border: 0; border-radius: 1rem; padding: 0.45rem 0.6rem; margin: 0 -0.6rem;
+  color: inherit; font: inherit; text-align: left;
+}
+.tv__row.is-focus { transform: none; box-shadow: 0 0 0 0.15rem var(--focus); background: var(--card-2); }
+.tv__txt { flex: 1; min-width: 0; }
+.tv__txt b { display: block; font-size: 1.375rem; font-weight: 400; letter-spacing: -0.02em; }
+.tv__txt small { display: block; font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); }
+.tv__sw {
+  flex: none; width: 3.5rem; height: 2rem; border-radius: 99rem; position: relative;
+  background: rgba(255, 255, 255, 0.12); transition: background 0.2s;
+}
+.tv__sw::after {
+  content: ""; position: absolute; top: 0.25rem; left: 0.25rem; width: 1.5rem; height: 1.5rem;
+  border-radius: 50%; background: var(--ink); transition: transform 0.2s ease-out;
+}
+.tv__row[aria-checked="true"] .tv__sw { background: var(--teal); }
+.tv__row[aria-checked="true"] .tv__sw::after { transform: translateX(1.5rem); }
+.tv__row.is-busy .tv__sw { opacity: 0.5; }
+
+/* ---------- weather (1x1, like the coin tiles) ---------- */
+
+.card--weather { padding: 1.25rem 1.5rem; }
+.card--weather .label { gap: 0.5rem; letter-spacing: 0.1em; white-space: nowrap; }
+.card--weather .label span:nth-child(2) { overflow: hidden; text-overflow: ellipsis; }
+.wx { justify-content: flex-end; gap: 0.3rem; }
+.wx__main { display: flex; align-items: center; justify-content: space-between; }
+.wx__temp { font-size: 2.25rem; font-weight: 250; letter-spacing: -0.04em; line-height: 1; font-variant-numeric: tabular-nums; }
+.wx__icon {
+  flex: none; width: 1.9rem; height: 1.9rem;
+  fill: none; stroke: var(--amber); stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round;
+}
+.card--weather[data-icon="night"] .wx__icon { stroke: #b9b4ff; }
+.card--weather:is([data-icon="cloud"], [data-icon="fog"]) .wx__icon { stroke: var(--ink-2); }
+.card--weather:is([data-icon="rain"], [data-icon="storm"], [data-icon="snow"]) .wx__icon { stroke: var(--teal); }
+.wx__line { display: flex; justify-content: space-between; gap: 0.5rem; font-size: 0.875rem; color: var(--ink-2); }
+.wx__line span:first-child { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wx__line span:last-child { flex: none; color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.wx__meta {
+  display: flex; justify-content: space-between;
+  font-family: var(--mono); font-size: 0.6875rem; letter-spacing: 0.06em; color: var(--ink-3); text-transform: uppercase;
+}
+.wx__meta b { color: var(--ink); font-weight: 400; }
+
+/* 1x1 TV tile (just the Subtitles switch): name + switch side by side, centred */
+.card--tv { padding: 1.25rem 1.5rem; }
+.card--tv .tv { justify-content: center; margin-top: 0; }
+.card--tv .tv__row {
+  justify-content: center; gap: 0.75rem; padding: 0.5rem 0.4rem; margin: 0 -0.75rem;
+  width: auto; flex-wrap: nowrap;
+}
+.card--tv .tv__txt { flex: 0 1 auto; text-align: left; }
+.card--tv .tv__txt b { font-size: 1.125rem; }
+.card--tv .tv__sw { width: 2.75rem; height: 1.6rem; }
+.card--tv .tv__sw::after { top: 0.2rem; left: 0.2rem; width: 1.2rem; height: 1.2rem; }
+.card--tv .tv__row[aria-checked="true"] .tv__sw::after { transform: translateX(1.15rem); }
